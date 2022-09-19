@@ -9,6 +9,7 @@ Looking into the digital rendering of Nguni languages and increasing their digit
   - dictionary like document/resource that will spell out the use/meaning of each word/phrase in different contexts - detailing how it is used/mis-used, proper spelling and misspelling, pronunciation and alternative pronunciations how it has evolved overtime, it origin, etc
   -  text-to-speech (TTS) model (*low priority*)
   - All documented in Nguni languages
+  - Text Analysis (*low priority*)
 
 
 ## Scope
