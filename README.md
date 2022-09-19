@@ -1,5 +1,5 @@
 # NGUNI
-Looking into the digital rendering of Nguni languages and increasing their digital footprint
+Looking into the digitizing of Nguni languages and increasing their digital footprint
 
 ## Goals
 
@@ -15,3 +15,7 @@ Looking into the digital rendering of Nguni languages and increasing their digit
 ## Scope
  - To focus only on South African Nguni languages, exclude Mozambican and Zimbabwean languages
  - isiZulu and isiXhosa as a starting point
+
+ ## Vision
+
+ 
