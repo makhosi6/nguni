@@ -13,8 +13,8 @@ Looking into the digitizing of Nguni languages and increasing their digital foot
 
 
 ## Scope
- - To focus only on South African Nguni languages, exclude Mozambican and Zimbabwean languages
- - isiZulu and isiXhosa as a starting point
+ - To focus only on South African _Nguni languages_, exclude Mozambican and Zimbabwean languages, (hence the name of the project)
+ - isiZulu and isiXhosa as a starting point,
 
  ## Vision
 
