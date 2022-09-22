@@ -19,3 +19,5 @@ Looking into the digitizing of Nguni languages and increasing their digital foot
  ## Vision
 
  
+
+ ### Contributions
