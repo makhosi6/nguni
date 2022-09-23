@@ -7,7 +7,7 @@ Looking into the digitizing of Nguni languages and increasing their digital foot
 - The goal of this project is to come up with a
   - Language model - probability distribution over sequences of words
   - Large/comprehensive dataset
-  - dictionary like document/resource that will spell out the use/meaning of each word/phrase in different contexts - detailing how it is used/mis-used, proper spelling and misspelling, pronunciation and alternative pronunciations how it has evolved overtime, it origin, etc
+  - dictionary like document/resource that will spell out the use/meaning of each word/phrase in different contexts - detailing how it is used/mis-used, proper spelling and misspelling, pronunciation and alternative pronunciations how it has evolved overtime, its origin, etc
   - text-to-speech (TTS) model (_low priority_)
   - All documented in Nguni languages
   - Text Analysis (_low priority_)
