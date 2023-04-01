@@ -37,18 +37,18 @@ The bigger picture is to bring nguni culture and heritage to the modern world, a
 
 ### What it take
 
-Creating a language model for any language, including Zulu, is a complex and involved process that requires specialized knowledge in natural language processing (NLP) and machine learning. However, here are some steps that can help you get started:
+Creating a language model for any language, including Xhosa/Zulu, is a complex and involved process that requires specialized knowledge in natural language processing (NLP) and machine learning. However, here are some steps that can help you get started:
 
-Collect Zulu Language Data: You will need a significant amount of Zulu language data to train your language model. This can include Zulu books, articles, news, and other text sources. You can also use publicly available datasets such as the South African National Corpus.
+ * _Collect Zulu Language Data_: You will need a significant amount of Xhosa/Zulu language data to train your language model. This can include Xhosa/Zulu books, articles, news, and other text sources. You can also use publicly available datasets such as the South African National Corpus.
 
-Preprocess and Clean the Data: Before you can train your language model, you need to clean and preprocess your data. This involves removing any unwanted characters, punctuation, and other non-text elements.
+* _Preprocess and Clean the Data_: Before you can train your language model, you need to clean and preprocess your data. This involves removing any unwanted characters, punctuation, and other non-text elements.
 
-Train a Language Model: Once you have cleaned your data, you can use machine learning algorithms to train your language model. There are several popular NLP frameworks such as PyTorch, TensorFlow, and Keras that you can use for this purpose.
+* _Train a Language Model_: Once you have cleaned your data, you can use machine learning algorithms to train your language model. There are several popular NLP frameworks such as PyTorch, TensorFlow, and Keras that you can use for this purpose.
 
-Fine-tune the Model: To improve the accuracy of your Zulu language model, you may need to fine-tune it. This involves training the model on a smaller, more specific dataset to improve its performance on a particular task.
+* _Fine-tune the Model_: To improve the accuracy of your Xhosa/Zulu language model, you may need to fine-tune it. This involves training the model on a smaller, more specific dataset to improve its performance on a particular task.
 
-Test and Evaluate the Model: Finally, you need to test and evaluate your Zulu language model to ensure that it is producing accurate results. You can use various evaluation metrics such as perplexity, accuracy, and F1 score to measure the performance of your model.
+* _Test and Evaluate the Model_: Finally, you need to test and evaluate your Xhosa/Zulu language model to ensure that it is producing accurate results. You can use various evaluation metrics such as perplexity, accuracy, and F1 score to measure the performance of your model.
 
-Overall, creating a Zulu language model can be a challenging task, but it is an exciting opportunity to contribute to the development of NLP technology for underrepresented languages.
+Overall, creating a Xhosa/Zulu language model can be a challenging task, but it is an exciting opportunity to contribute to the development of NLP technology for underrepresented languages.
 
 ### Contributions
