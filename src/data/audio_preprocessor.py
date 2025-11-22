@@ -110,3 +110,65 @@ def load_audio(audio_path: str, sr: int = 16000, mono: bool = True) -> np.ndarra
     audio, original_sr = librosa.load(audio_path, sr=sr, mono=mono)
     return audio
 
+
+def add_noise(audio: np.ndarray, noise_type: str = 'white', snr_db: float = 20.0) -> np.ndarray:
+    """
+    Add noise to audio signal.
+    
+    Args:
+        audio: Audio signal
+        noise_type: Type of noise ('white', 'babble')
+        snr_db: Signal-to-Noise Ratio in dB
+    
+    Returns:
+        Noisy audio signal
+    """
+    # Calculate signal power
+    signal_power = np.mean(audio ** 2)
+    if signal_power == 0:
+        return audio
+        
+    # Calculate noise power based on SNR
+    # SNR = 10 * log10(P_signal / P_noise)
+    # P_noise = P_signal / (10 ** (SNR / 10))
+    noise_power = signal_power / (10 ** (snr_db / 10))
+    
+    if noise_type == 'white':
+        noise = np.random.normal(0, np.sqrt(noise_power), len(audio))
+    elif noise_type == 'babble':
+        # Simulate babble by generating random frequencies
+        # This is a simple approximation
+        t = np.linspace(0, len(audio)/16000, len(audio))
+        noise = np.zeros_like(audio)
+        for _ in range(10):
+            freq = np.random.uniform(100, 1000)
+            phase = np.random.uniform(0, 2*np.pi)
+            noise += np.sin(2 * np.pi * freq * t + phase)
+        
+        # Normalize to target power
+        current_noise_power = np.mean(noise ** 2)
+        if current_noise_power > 0:
+            noise = noise * np.sqrt(noise_power / current_noise_power)
+    else:
+        raise ValueError(f"Unknown noise type: {noise_type}")
+    
+    return audio + noise
+
+
+def change_speed(audio: np.ndarray, speed_factor: float) -> np.ndarray:
+    """
+    Change audio speed (time stretching).
+    
+    Args:
+        audio: Audio signal
+        speed_factor: Speed factor (e.g., 0.9 for slower, 1.1 for faster)
+    
+    Returns:
+        Time-stretched audio signal
+    """
+    if speed_factor == 1.0:
+        return audio
+        
+    return librosa.effects.time_stretch(audio, rate=speed_factor)
+
+

@@ -139,6 +139,5 @@ Based on dataset size:
 - Multilingual model: Average WER < 12%
 
 ## License
-
-[Your License Here]
+- [MIT](LICENSE)
 

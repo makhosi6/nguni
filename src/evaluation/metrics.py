@@ -283,40 +283,48 @@ class MetricCalculator:
         """
         Compute PER (Phoneme Error Rate) with confidence intervals.
         
+        Uses a rule-based G2P approach for South African languages.
+        
         Args:
             predictions: List of predicted transcriptions
             references: List of reference transcriptions
-            language: Language code for phoneme inventory
+            language: Language code
             phoneme_inventory: Optional phoneme inventory mapping
         
         Returns:
             MetricResult with PER and CI
         """
-        # For now, use character-level as approximation
-        # Full PER would require phoneme alignment
-        # This is a placeholder that can be extended with proper phoneme alignment
+        # Simple rule-based G2P for Bantu languages (approximate)
+        def text_to_phonemes(text: str) -> str:
+            text = text.lower()
+            # Map common digraphs/trigraphs to single tokens
+            replacements = [
+                ('ng', 'N'), ('ny', 'Y'), ('th', 'T'), ('ph', 'P'),
+                ('kh', 'K'), ('bh', 'B'), ('dl', 'L'), ('hl', 'H'),
+                ('sh', 'S'), ('ts', 'Z'), ('tsh', 'C')
+            ]
+            for char, phone in replacements:
+                text = text.replace(char, phone)
+            return text
+
+        # Convert to "phonemes"
+        preds_phon = [text_to_phonemes(self._normalize_text(p)) for p in predictions]
+        refs_phon = [text_to_phonemes(self._normalize_text(r)) for r in references]
         
-        # Normalize texts
-        preds_norm = [self._normalize_text(p) for p in predictions]
-        refs_norm = [self._normalize_text(r) for r in references]
-        
-        # Compute character-level error as approximation
-        per_value = jiwer.cer(refs_norm, preds_norm)
+        # Compute CER on phoneme strings (which is effectively PER)
+        per_value = jiwer.cer(refs_phon, preds_phon)
         
         # Bootstrap resampling
         def compute_per(pred, ref):
             return jiwer.cer(ref, pred)
         
         bootstrap_values = self._bootstrap_resample(
-            preds_norm,
-            refs_norm,
+            preds_phon,
+            refs_phon,
             compute_per
         )
         
         ci_lower, ci_upper = self._compute_ci(bootstrap_values)
-        
-        # TODO: Implement proper phoneme alignment and confusion matrices
-        # For Bantu languages with click consonants
         
         return MetricResult(
             metric_name="per",
@@ -326,8 +334,7 @@ class MetricCalculator:
             confidence_level=self.confidence_level,
             n_samples=len(predictions),
             breakdown={
-                'note': 'PER computed as character-level approximation. '
-                       'Full phoneme alignment not yet implemented.'
+                'note': 'PER computed using rule-based G2P approximation.'
             }
         )
     
@@ -348,13 +355,15 @@ class MetricCalculator:
         Returns:
             MetricResult with NER F1 and CI
         """
-        # If no tagger provided, use simple proper noun detection
+        # If no tagger provided, use improved heuristic for SA names
         if entity_tagger is None:
-            # Simple heuristic: capitalized words
             import re
             def extract_entities(text):
-                # Find capitalized words (simple heuristic)
-                entities = re.findall(r'\b[A-Z][a-z]+\b', text)
+                # 1. Capitalized words (standard)
+                # 2. Words starting with capital after prefix (e.g., eGoli, kwaZulu)
+                # 3. Common SA prefixes: e, kwa, ma, ba + Capital
+                pattern = r'\b(?:[A-Z][a-z]+|e[A-Z][a-z]+|kwa[A-Z][a-z]+|ma[A-Z][a-z]+)\b'
+                entities = re.findall(pattern, text)
                 return set(entities)
         else:
             def extract_entities(text):

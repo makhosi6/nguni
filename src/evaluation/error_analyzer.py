@@ -223,18 +223,35 @@ class ErrorAnalyzer:
         predictions: List[str],
         references: List[str]
     ) -> Dict[str, int]:
-        """Generate phonetic confusion matrix."""
+        """
+        Generate phonetic confusion matrix.
+        
+        Uses rule-based G2P for better phonetic analysis.
+        """
         confusions = defaultdict(int)
         
+        # Simple rule-based G2P (same as in metrics.py)
+        def text_to_phonemes(text: str) -> str:
+            text = text.lower()
+            replacements = [
+                ('ng', 'N'), ('ny', 'Y'), ('th', 'T'), ('ph', 'P'),
+                ('kh', 'K'), ('bh', 'B'), ('dl', 'L'), ('hl', 'H'),
+                ('sh', 'S'), ('ts', 'Z'), ('tsh', 'C')
+            ]
+            for char, phone in replacements:
+                text = text.replace(char, phone)
+            return text
+        
         for pred, ref in zip(predictions, references):
-            # Character-level alignment
-            pred_chars = list(pred.lower())
-            ref_chars = list(ref.lower())
+            # Phonetic alignment
+            pred_phon = text_to_phonemes(pred)
+            ref_phon = text_to_phonemes(ref)
             
-            min_len = min(len(pred_chars), len(ref_chars))
+            # Simple alignment (can be improved with Levenshtein backtrace)
+            min_len = min(len(pred_phon), len(ref_phon))
             for i in range(min_len):
-                if pred_chars[i] != ref_chars[i]:
-                    confusion = f"{ref_chars[i]}->{pred_chars[i]}"
+                if pred_phon[i] != ref_phon[i]:
+                    confusion = f"{ref_phon[i]}->{pred_phon[i]}"
                     confusions[confusion] += 1
         
         return dict(confusions)
@@ -245,27 +262,67 @@ class ErrorAnalyzer:
         references: List[str],
         language: str
     ) -> Dict[str, int]:
-        """Analyze morphological errors for Bantu languages."""
+        """
+        Analyze morphological errors for Bantu languages.
+        
+        Checks for specific prefix/suffix patterns common in Bantu languages.
+        """
         prefix_errors = defaultdict(int)
         suffix_errors = defaultdict(int)
         
-        # Common Bantu prefixes
-        bantu_prefixes = ['ma', 'ba', 'ka', 'mu', 'li', 'si', 'zi', 'u']
+        # Expanded Bantu prefixes and suffixes
+        bantu_prefixes = [
+            'ma', 'ba', 'ka', 'mu', 'li', 'si', 'zi', 'u', 'ku', 'lu', 
+            'ama', 'aba', 'izi', 'imi', 'uku'
+        ]
+        bantu_suffixes = ['ni', 'eni', 'ini', 'ile', 'ela', 'isa', 'ana']
         
         for pred, ref in zip(predictions, references):
-            pred_words = pred.split()
-            ref_words = ref.split()
+            pred_words = pred.lower().split()
+            ref_words = ref.lower().split()
             
-            for ref_word, pred_word in zip(ref_words, pred_words):
+            # Align words (simple)
+            min_len = min(len(pred_words), len(ref_words))
+            for i in range(min_len):
+                p_word = pred_words[i]
+                r_word = ref_words[i]
+                
+                if p_word == r_word:
+                    continue
+                
                 # Check prefix errors
                 for prefix in bantu_prefixes:
-                    if ref_word.startswith(prefix) and not pred_word.startswith(prefix):
-                        prefix_errors[f'missing_{prefix}'] += 1
-                    elif not ref_word.startswith(prefix) and pred_word.startswith(prefix):
-                        prefix_errors[f'extra_{prefix}'] += 1
+                    # Missing prefix
+                    if r_word.startswith(prefix) and not p_word.startswith(prefix):
+                        # Check if the rest matches (stem match)
+                        if r_word[len(prefix):] == p_word:
+                            prefix_errors[f'missing_{prefix}'] += 1
+                    
+                    # Extra prefix
+                    elif not r_word.startswith(prefix) and p_word.startswith(prefix):
+                        if p_word[len(prefix):] == r_word:
+                            prefix_errors[f'extra_{prefix}'] += 1
+                            
+                    # Wrong prefix
+                    elif r_word.startswith(prefix) and p_word.startswith(prefix):
+                        # If stems match but prefixes don't (handled by other logic usually, but good to catch)
+                        pass
+
+                # Check suffix errors
+                for suffix in bantu_suffixes:
+                    # Missing suffix
+                    if r_word.endswith(suffix) and not p_word.endswith(suffix):
+                        if r_word[:-len(suffix)] == p_word:
+                            suffix_errors[f'missing_{suffix}'] += 1
+                    
+                    # Extra suffix
+                    elif not r_word.endswith(suffix) and p_word.endswith(suffix):
+                        if p_word[:-len(suffix)] == r_word:
+                            suffix_errors[f'extra_{suffix}'] += 1
         
         return {
             'prefix_errors': dict(prefix_errors),
             'suffix_errors': dict(suffix_errors)
         }
+
 
