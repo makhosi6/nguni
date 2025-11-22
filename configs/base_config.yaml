@@ -1,0 +1,43 @@
+# Base Configuration for Whisper Fine-tuning
+# This file contains default hyperparameters that can be overridden
+
+model:
+  name: "openai/whisper-large-v3"
+  gradient_checkpointing: true
+
+training:
+  batch_size: 16
+  gradient_accumulation_steps: 2
+  learning_rate: 5e-5
+  max_steps: 5000
+  warmup_steps: 500
+  weight_decay: 0.01
+  max_grad_norm: 1.0
+  eval_steps: 500
+  save_steps: 500
+
+optimization:
+  mixed_precision: true
+  optimizer: "adamw"
+  lr_scheduler: "linear"
+
+data:
+  max_audio_length: 30.0
+  num_workers: 4
+  pin_memory: true
+  cache_dir: "./cache"
+
+evaluation:
+  metric: "wer"
+  early_stopping_patience: 5
+
+logging:
+  log_level: "INFO"
+  log_dir: "./logs"
+  wandb_project: "whisper-sa-finetuning"
+  wandb_enabled: false
+
+reproducibility:
+  seed: 42
+  deterministic: false
+

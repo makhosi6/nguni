@@ -1,0 +1,15 @@
+# Multilingual Training Configuration
+# For training a single model on multiple languages
+
+training:
+  batch_size: 16
+  gradient_accumulation_steps: 2
+  learning_rate: 3e-5
+  max_steps: 10000
+  warmup_steps: 1000
+  eval_steps: 500
+  save_steps: 500
+
+data:
+  max_examples_per_lang: 5000
+

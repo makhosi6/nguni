@@ -1,0 +1,12 @@
+# Medium Resource Language Configuration
+# For languages with >2k examples: af
+
+training:
+  batch_size: 8
+  gradient_accumulation_steps: 4
+  learning_rate: 1e-4
+  max_steps: 3000
+  warmup_steps: 300
+  eval_steps: 300
+  save_steps: 300
+

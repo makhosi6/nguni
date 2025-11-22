@@ -1,0 +1,13 @@
+# Low Resource Language Configuration
+# For languages with <1k examples: en, ss
+# Note: These should use transfer learning from multilingual model
+
+training:
+  batch_size: 4
+  gradient_accumulation_steps: 8
+  learning_rate: 2e-4
+  max_steps: 1000
+  warmup_steps: 100
+  eval_steps: 100
+  save_steps: 100
+
