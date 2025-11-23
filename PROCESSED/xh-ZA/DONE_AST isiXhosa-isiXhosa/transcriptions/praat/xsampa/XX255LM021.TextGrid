@@ -1,0 +1,68 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 3.516 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 3.516 
+        intervals: size = 6
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.39153343992552042 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.39153343992552042 
+            xmax = 0.74494660067114093 
+            text = "[int]" 
+        intervals [3]:
+            xmin = 0.74494660067114093 
+            xmax = 1.4865984261744967 
+            text = "(u) tshintsha (/u)" 
+        intervals [4]:
+            xmin = 1.4865984261744967 
+            xmax = 1.6693242382550335 
+            text = "[int]" 
+        intervals [5]:
+            xmin = 1.6693242382550335 
+            xmax = 2.6393305032433036 
+            text = "0" 
+        intervals [6]:
+            xmin = 2.6393305032433036 
+            xmax = 3.516 
+            text = "[sta]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 3.516 
+        intervals: size = 6
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.39153343992552042 
+            text = "0"
+        intervals [2]:
+            xmin = 0.39153343992552042 
+            xmax = 0.74494660067114093 
+            text = "[int]"
+        intervals [3]:
+            xmin = 0.74494660067114093 
+            xmax = 1.4865984261744967 
+            text = "(u) t-\S_hiJt-\S_ha (/u)"
+        intervals [4]:
+            xmin = 1.4865984261744967 
+            xmax = 1.6693242382550335 
+            text = "[int]"
+        intervals [5]:
+            xmin = 1.6693242382550335 
+            xmax = 2.6393305032433036 
+            text = "0"
+        intervals [6]:
+            xmin = 2.6393305032433036 
+            xmax = 3.516 
+            text = "[sta]"

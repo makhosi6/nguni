@@ -1,0 +1,60 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 9.5039999999999996 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 9.5039999999999996 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 3.6725391188934653 
+            text = "(u) ~ak 0 inqaku ($)twelve(/$) igama *le+ 0 elipelwayo (/u)" 
+        intervals [2]:
+            xmin = 3.6725391188934653 
+            xmax = 3.7659627980553445 
+            text = "0" 
+        intervals [3]:
+            xmin = 3.7659627980553445 
+            xmax = 7.4416318455086854 
+            text = "(s) ngu U. M. 0 F. 0 A. 0 Z. 0 I. (/s)" 
+        intervals [4]:
+            xmin = 7.4416318455086854 
+            xmax = 8.8434786529821672 
+            text = "0" 
+        intervals [5]:
+            xmin = 8.8434786529821672 
+            xmax = 9.5039999999999996 
+            text = "[int]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 9.5039999999999996 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 3.6725391188934653 
+            text = "(u) ak_> 0 i!\~ak_>u ($)t_>welf(/$) igama lE 0 elip_>ElwajO (/u)" 
+        intervals [2]:
+            xmin = 3.6725391188934653 
+            xmax = 3.7659627980553445 
+            text = "0" 
+        intervals [3]:
+            xmin = 3.7659627980553445 
+            xmax = 7.4416318455086854 
+            text = "(s) Ngu ju: Em 0 Ef 0 E-\i 0 zEt 0 a-\i (/s)" 
+        intervals [4]:
+            xmin = 7.4416318455086854 
+            xmax = 8.8434786529821672 
+            text = "0" 
+        intervals [5]:
+            xmin = 8.8434786529821672 
+            xmax = 9.5039999999999996 
+            text = "[int]" 

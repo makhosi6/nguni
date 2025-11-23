@@ -1,0 +1,76 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 5.7240000000000002 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 5.7240000000000002 
+        intervals: size = 7 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.24251365628067478 
+            text = "[sta]" 
+        intervals [2]:
+            xmin = 0.24251365628067478 
+            xmax = 0.50017739541601824 
+            text = "(u) [sta] ($)triple(/$) [/sta]" 
+        intervals [3]:
+            xmin = 0.50017739541601824 
+            xmax = 0.98780485083497016 
+            text = "[int]" 
+        intervals [4]:
+            xmin = 0.98780485083497016 
+            xmax = 2.4131083470866264 
+            text = "[sta] ($)one;nine five seven(/$) [/sta]" 
+        intervals [5]:
+            xmin = 2.4131083470866264 
+            xmax = 2.6496115463100822 
+            text = "[sta]" 
+        intervals [6]:
+            xmin = 2.6496115463100822 
+            xmax = 3.7348143733029282 
+            text = "[sta] ($)five eight one(/$) [/sta] (/u)" 
+        intervals [7]:
+            xmin = 3.7348143733029282 
+            xmax = 5.7240000000000002 
+            text = "[sta]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 5.7240000000000002 
+        intervals: size = 7 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.24251365628067478 
+            text = "[sta]"
+        intervals [2]:
+            xmin = 0.24251365628067478 
+            xmax = 0.50017739541601824 
+            text = "(u) [sta] ($)t@p@l(/$) [/sta]"
+        intervals [3]:
+            xmin = 0.50017739541601824 
+            xmax = 0.98780485083497016 
+            text = "[int]"
+        intervals [4]:
+            xmin = 0.98780485083497016 
+            xmax = 2.4131083470866264 
+            text = "[sta] ($)wana-\in fa-\if sEv(/$) [/sta]"
+        intervals [5]:
+            xmin = 2.4131083470866264 
+            xmax = 2.6496115463100822 
+            text = "[sta]"
+        intervals [6]:
+            xmin = 2.6496115463100822 
+            xmax = 3.7348143733029282 
+            text = "[sta] ($)fa-\if @-\it wan(/$) [/sta] (/u)"
+        intervals [7]:
+            xmin = 3.7348143733029282 
+            xmax = 5.7240000000000002 
+            text = "[sta]"

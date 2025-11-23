@@ -1,0 +1,68 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 18.804375 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 18.804375 
+        intervals: size = 6 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.27630757393036909 
+            text = "(u) [sta] ~ri [/sta] (/u)" 
+        intervals [2]:
+            xmin = 0.27630757393036909 
+            xmax = 0.45247423198048137 
+            text = "[sta]" 
+        intervals [3]:
+            xmin = 0.45247423198048137 
+            xmax = 0.85316412973052558 
+            text = "(u) [sta] ($)eight(/$) [/sta] (/u)" 
+        intervals [4]:
+            xmin = 0.85316412973052558 
+            xmax = 3.0699325348678692 
+            text = "[sta]" 
+        intervals [5]:
+            xmin = 3.0699325348678692 
+            xmax = 18.663604080609396 
+            text = "[int]" 
+        intervals [6]:
+            xmin = 18.663604080609396 
+            xmax = 18.804375 
+            text = "0" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 18.804375 
+        intervals: size = 6 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.27630757393036909 
+            text = "(u) [sta] ri [/sta] (/u)"
+        intervals [2]:
+            xmin = 0.27630757393036909 
+            xmax = 0.45247423198048137 
+            text = "[sta]"
+        intervals [3]:
+            xmin = 0.45247423198048137 
+            xmax = 0.85316412973052558 
+            text = "(u) [sta] ($)E-\It(/$) [/sta] (/u)"
+        intervals [4]:
+            xmin = 0.85316412973052558 
+            xmax = 3.0699325348678692 
+            text = "[sta]"
+        intervals [5]:
+            xmin = 3.0699325348678692 
+            xmax = 18.663604080609396 
+            text = "[int]"
+        intervals [6]:
+            xmin = 18.663604080609396 
+            xmax = 18.804375 
+            text = "0"

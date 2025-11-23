@@ -1,0 +1,92 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 10.536 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 10.536 
+        intervals: size = 9 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.75723324467345476 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.75723324467345476 
+            xmax = 1.2433037070452235 
+            text = "[spk]" 
+        intervals [3]:
+            xmin = 1.2433037070452235 
+            xmax = 2.0431337649849257 
+            text = "(u) [sta] umhla [/sta] (/u)" 
+        intervals [4]:
+            xmin = 2.0431337649849257 
+            xmax = 2.3811008058596501 
+            text = "[sta]" 
+        intervals [5]:
+            xmin = 2.3811008058596501 
+            xmax = 2.807474436343552 
+            text = "0" 
+        intervals [6]:
+            xmin = 2.807474436343552 
+            xmax = 4.054198519068124 
+            text = "[int]" 
+        intervals [7]:
+            xmin = 4.054198519068124 
+            xmax = 7.6031218254693451 
+            text = "(s) [sta] ngumhla 0 wesihlanu 0 kweyeDwarha [/sta] (/s)" 
+        intervals [8]:
+            xmin = 7.6031218254693451 
+            xmax = 8.1180636385550127 
+            text = "0" 
+        intervals [9]:
+            xmin = 8.1180636385550127 
+            xmax = 10.536 
+            text = "[sta]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 10.536 
+        intervals: size = 9 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.75723324467345476 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.75723324467345476 
+            xmax = 1.2433037070452235 
+            text = "[spk]" 
+        intervals [3]:
+            xmin = 1.2433037070452235 
+            xmax = 2.0431337649849257 
+            text = "(u) [sta] umKa [/sta] (/u)" 
+        intervals [4]:
+            xmin = 2.0431337649849257 
+            xmax = 2.3811008058596501 
+            text = "[sta]" 
+        intervals [5]:
+            xmin = 2.3811008058596501 
+            xmax = 2.807474436343552 
+            text = "0" 
+        intervals [6]:
+            xmin = 2.807474436343552 
+            xmax = 4.054198519068124 
+            text = "[int]" 
+        intervals [7]:
+            xmin = 4.054198519068124 
+            xmax = 7.6031218254693451 
+            text = "(s) [sta] NgumKa 0 wesiKanu 0 k_>wEjEdwaxa [/sta] (/s)" 
+        intervals [8]:
+            xmin = 7.6031218254693451 
+            xmax = 8.1180636385550127 
+            text = "0" 
+        intervals [9]:
+            xmin = 8.1180636385550127 
+            xmax = 10.536 
+            text = "[sta]" 

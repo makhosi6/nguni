@@ -1,0 +1,60 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 5.2560000000000002 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 5.2560000000000002 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.60847451069107172 
+            text = "(u) ~akalis (/u)" 
+        intervals [2]:
+            xmin = 0.60847451069107172 
+            xmax = 0.84821699556043384 
+            text = "0" 
+        intervals [3]:
+            xmin = 0.84821699556043384 
+            xmax = 3.2169548226655182 
+            text = "(s) umama uthabatha imbiza yesitovu (/s)" 
+        intervals [4]:
+            xmin = 3.2169548226655182 
+            xmax = 4.4132641059166806 
+            text = "0" 
+        intervals [5]:
+            xmin = 4.4132641059166806 
+            xmax = 5.2560000000000002 
+            text = "[sta]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 5.2560000000000002 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.60847451069107172 
+            text = "(u) ak_>alis (/u)" 
+        intervals [2]:
+            xmin = 0.60847451069107172 
+            xmax = 0.84821699556043384 
+            text = "0" 
+        intervals [3]:
+            xmin = 0.84821699556043384 
+            xmax = 3.2169548226655182 
+            text = "(s) umama ut_hab_<at_ha imbiza jesit_>ovu (/s)" 
+        intervals [4]:
+            xmin = 3.2169548226655182 
+            xmax = 4.4132641059166806 
+            text = "0" 
+        intervals [5]:
+            xmin = 4.4132641059166806 
+            xmax = 5.2560000000000002 
+            text = "[sta]" 

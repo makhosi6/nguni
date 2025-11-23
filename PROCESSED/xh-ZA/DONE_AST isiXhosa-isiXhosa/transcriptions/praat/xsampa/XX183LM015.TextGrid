@@ -1,0 +1,76 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 8.2319999999999993 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 8.2319999999999993 
+        intervals: size = 7
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.080649163964115103 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.080649163964115103 
+            xmax = 1.2611500899548098 
+            text = "**" 
+        intervals [3]:
+            xmin = 1.2611500899548098 
+            xmax = 2.1482770041506702 
+            text = "[sta]" 
+        intervals [4]:
+            xmin = 2.1482770041506702 
+            xmax = 4.0718281504568958 
+            text = "[int]" 
+        intervals [5]:
+            xmin = 4.0718281504568958 
+            xmax = 5.6296944827586195 
+            text = "(s) ngu ($)five(/$) 0 u ($)seven(/$) (/s)"
+        intervals [6]:
+            xmin = 5.6296944827586195 
+            xmax = 7.8674143446048355 
+            text = "[int]" 
+        intervals [7]:
+            xmin = 7.8674143446048355 
+            xmax = 8.2319999999999993 
+            text = "[sta]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 8.2319999999999993 
+        intervals: size = 7
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.080649163964115103 
+            text = "0"
+        intervals [2]:
+            xmin = 0.080649163964115103 
+            xmax = 1.2611500899548098 
+            text = "**"
+        intervals [3]:
+            xmin = 1.2611500899548098 
+            xmax = 2.1482770041506702 
+            text = "[sta]"
+        intervals [4]:
+            xmin = 2.1482770041506702 
+            xmax = 4.0718281504568958 
+            text = "[int]"
+        intervals [5]:
+            xmin = 4.0718281504568958 
+            xmax = 5.6296944827586195 
+            text = "(s) Ngu ($)fa-\i(/$) 0 u ($)sEvEn(/$) (/s)"
+        intervals [6]:
+            xmin = 5.6296944827586195 
+            xmax = 7.8674143446048355 
+            text = "[int]"
+        intervals [7]:
+            xmin = 7.8674143446048355 
+            xmax = 8.2319999999999993 
+            text = "[sta]"

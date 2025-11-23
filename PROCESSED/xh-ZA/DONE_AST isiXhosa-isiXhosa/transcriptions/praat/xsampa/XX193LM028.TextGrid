@@ -1,0 +1,60 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 13.452 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic"
+        xmin = 0 
+        xmax = 13.452 
+        intervals: size = 5
+        intervals [1]:
+            xmin = 0 
+            xmax = 4.2202639876946737 
+            text = "[int]" 
+        intervals [2]:
+            xmin = 4.2202639876946737 
+            xmax = 5.2798247139994245 
+            text = "(u) [int] umhla [/int] (/u)" 
+        intervals [3]:
+            xmin = 5.2798247139994245 
+            xmax = 7.1328788883826242 
+            text = "[int]" 
+        intervals [4]:
+            xmin = 7.1328788883826242 
+            xmax = 10.72624581659276 
+            text = "(u) [int] ngomhla *wa+ *wam+ wamashumi 0 amabini ananye [/int] (/u)"
+        intervals [5]:
+            xmin = 10.72624581659276 
+            xmax = 13.452 
+            text = "[int]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 13.452 
+        intervals: size = 5
+        intervals [1]:
+            xmin = 0 
+            xmax = 4.2202639876946737 
+            text = "[int]"
+        intervals [2]:
+            xmin = 4.2202639876946737 
+            xmax = 5.2798247139994245 
+            text = "(u) [int] um=Ka [/int] (/u)"
+        intervals [3]:
+            xmin = 5.2798247139994245 
+            xmax = 7.1328788883826242 
+            text = "[int]"
+        intervals [4]:
+            xmin = 7.1328788883826242 
+            xmax = 10.72624581659276 
+            text = "(u) [int] NgOmKa wa wam= wamaSumi 0 amab_<ini anan [/int] (/u)"
+        intervals [5]:
+            xmin = 10.72624581659276 
+            xmax = 13.452 
+            text = "[int]"

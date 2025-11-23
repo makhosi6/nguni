@@ -1,0 +1,52 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 15.84 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 15.84 
+        intervals: size = 4 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.80728544386761281 
+            text = "(u) [sta] ~thotho *lwamanani [/sta] (/u)" 
+        intervals [2]:
+            xmin = 0.80728544386761281 
+            xmax = 1.6538252158189382 
+            text = "[sta]" 
+        intervals [3]:
+            xmin = 1.6538252158189382 
+            xmax = 10.007415795640506 
+            text = "(u) [int] ($)two comma five 0 *fi+ 0 two comma eight five six 0 three seven zero 0 four nine one(/$) [/int] (/u)" 
+        intervals [4]:
+            xmin = 10.007415795640506 
+            xmax = 15.84 
+            text = "[int]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 15.84 
+        intervals: size = 4 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.80728544386761281 
+            text = "(u) [sta] t_hOt_hO lwamana-\in [/sta] (/u)"
+        intervals [2]:
+            xmin = 0.80728544386761281 
+            xmax = 1.6538252158189382 
+            text = "[sta]"
+        intervals [3]:
+            xmin = 1.6538252158189382 
+            xmax = 10.007415795640506 
+            text = "(u) [int] ($)tu kQm@ fa-\if 0 fa 0 tu kQm@ E-\It fa-\if siks 0 Tri sEv@n zirO 0 fO na-\in wan(/$) [/int] (/u)"
+        intervals [4]:
+            xmin = 10.007415795640506 
+            xmax = 15.84 
+            text = "[int]"

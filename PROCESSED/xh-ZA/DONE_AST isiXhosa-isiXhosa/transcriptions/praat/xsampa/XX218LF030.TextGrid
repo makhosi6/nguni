@@ -1,0 +1,68 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 35.616 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic"
+        xmin = 0 
+        xmax = 35.616 
+        intervals: size = 6
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.26734888388332717 
+            text = "[sta]" 
+        intervals [2]:
+            xmin = 0.26734888388332717 
+            xmax = 2.4030310090136107 
+            text = "(u) [int] igama elipelwayo [/int] (/u)" 
+        intervals [3]:
+            xmin = 2.4030310090136107 
+            xmax = 2.587592616659403 
+            text = "[int]" 
+        intervals [4]:
+            xmin = 2.587592616659403 
+            xmax = 3.232249372320211 
+            text = "[spk]" 
+        intervals [5]:
+            xmin = 3.232249372320211 
+            xmax = 4.7510539822006859 
+            text = "(u) [sta] iDimbaza [/sta] (/u)" 
+        intervals [6]:
+            xmin = 4.7510539822006859 
+            xmax = 35.616 
+            text = "[int]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 35.616 
+        intervals: size = 6
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.26734888388332717 
+            text = "[sta]"
+        intervals [2]:
+            xmin = 0.26734888388332717 
+            xmax = 2.4030310090136107 
+            text = "(u) [int] igama elip_>ElwajO [/int] (/u)"
+        intervals [3]:
+            xmin = 2.4030310090136107 
+            xmax = 2.587592616659403 
+            text = "[int]"
+        intervals [4]:
+            xmin = 2.587592616659403 
+            xmax = 3.232249372320211 
+            text = "[spk]"
+        intervals [5]:
+            xmin = 3.232249372320211 
+            xmax = 4.7510539822006859 
+            text = "(u) [sta] id_0imbaza [/sta] (/u)"
+        intervals [6]:
+            xmin = 4.7510539822006859 
+            xmax = 35.616 
+            text = "[int]"

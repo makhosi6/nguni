@@ -1,0 +1,52 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 6.1319999999999997 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 6.1319999999999997 
+        intervals: size = 4 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.47295224671826597 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.47295224671826597 
+            xmax = 1.406745851257905 
+            text = "(u) Nqadu ($)road(/$) (/u)" 
+        intervals [3]:
+            xmin = 1.406745851257905 
+            xmax = 4.7816835729970961 
+            text = "[int]" 
+        intervals [4]:
+            xmin = 4.7816835729970961 
+            xmax = 6.1319999999999997 
+            text = "0" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 6.1319999999999997 
+        intervals: size = 4 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.47295224671826597 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.47295224671826597 
+            xmax = 1.406745851257905 
+            text = "(u) !\~adu ($)rO-\ut(/$) (/u)" 
+        intervals [3]:
+            xmin = 1.406745851257905 
+            xmax = 4.7816835729970961 
+            text = "[int]" 
+        intervals [4]:
+            xmin = 4.7816835729970961 
+            xmax = 6.1319999999999997 
+            text = "0" 

@@ -1,0 +1,76 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 6 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 6 
+        intervals: size = 7 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.35395122572836662 
+            text = "[spk]" 
+        intervals [2]:
+            xmin = 0.35395122572836662 
+            xmax = 1.3223572656697107 
+            text = "(u) isivakalisi (/u)" 
+        intervals [3]:
+            xmin = 1.3223572656697107 
+            xmax = 1.5729910554261752 
+            text = "[spk]" 
+        intervals [4]:
+            xmin = 1.5729910554261752 
+            xmax = 1.658057261204031 
+            text = "0" 
+        intervals [5]:
+            xmin = 1.658057261204031 
+            xmax = 3.9892602246410544 
+            text = "(s) *ikomiti 0 inika 0 ingxelo (/s)" 
+        intervals [6]:
+            xmin = 3.9892602246410544 
+            xmax = 4.7643437347558946 
+            text = "0" 
+        intervals [7]:
+            xmin = 4.7643437347558946 
+            xmax = 6 
+            text = "[int]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 6 
+        intervals: size = 7 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.35395122572836662 
+            text = "[spk]" 
+        intervals [2]:
+            xmin = 0.35395122572836662 
+            xmax = 1.3223572656697107 
+            text = "(u) isivak_>alisi (/u)" 
+        intervals [3]:
+            xmin = 1.3223572656697107 
+            xmax = 1.5729910554261752 
+            text = "[spk]" 
+        intervals [4]:
+            xmin = 1.5729910554261752 
+            xmax = 1.658057261204031 
+            text = "0" 
+        intervals [5]:
+            xmin = 1.658057261204031 
+            xmax = 3.9892602246410544 
+            text = "(s) ik_>omint_>i 0 inik_>a 0 i|\|\_v~ElO (/s)" 
+        intervals [6]:
+            xmin = 3.9892602246410544 
+            xmax = 4.7643437347558946 
+            text = "0" 
+        intervals [7]:
+            xmin = 4.7643437347558946 
+            xmax = 6 
+            text = "[int]" 

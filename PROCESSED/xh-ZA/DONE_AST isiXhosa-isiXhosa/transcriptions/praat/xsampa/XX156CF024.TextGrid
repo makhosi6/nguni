@@ -1,0 +1,76 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 8.3879999999999999 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 8.3879999999999999 
+        intervals: size = 7 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.25186257706655474 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.25186257706655474 
+            xmax = 1.4301399003919828 
+            text = "(u) [int] inambari [/int] (/u)" 
+        intervals [3]:
+            xmin = 1.4301399003919828 
+            xmax = 2.2915684662730227 
+            text = "0" 
+        intervals [4]:
+            xmin = 2.2915684662730227 
+            xmax = 2.4775717523324805 
+            text = "[spk]" 
+        intervals [5]:
+            xmin = 2.4775717523324805 
+            xmax = 5.3153183482046149 
+            text = "(u) ($)seven eight 0 oh one(/$) (/u)" 
+        intervals [6]:
+            xmin = 5.3153183482046149 
+            xmax = 8.2126540543822557 
+            text = "0" 
+        intervals [7]:
+            xmin = 8.2126540543822557 
+            xmax = 8.3879999999999999 
+            text = "[sta]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 8.3879999999999999 
+        intervals: size = 7 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.25186257706655474 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.25186257706655474 
+            xmax = 1.4301399003919828 
+            text = "(u) [int] inambari [/int] (/u)" 
+        intervals [3]:
+            xmin = 1.4301399003919828 
+            xmax = 2.2915684662730227 
+            text = "0" 
+        intervals [4]:
+            xmin = 2.2915684662730227 
+            xmax = 2.4775717523324805 
+            text = "[spk]" 
+        intervals [5]:
+            xmin = 2.4775717523324805 
+            xmax = 5.3153183482046149 
+            text = "(u) ($)sEvEn E-\it 0 O-\u wan(/$) (/u)" 
+        intervals [6]:
+            xmin = 5.3153183482046149 
+            xmax = 8.2126540543822557 
+            text = "0" 
+        intervals [7]:
+            xmin = 8.2126540543822557 
+            xmax = 8.3879999999999999 
+            text = "[sta]" 

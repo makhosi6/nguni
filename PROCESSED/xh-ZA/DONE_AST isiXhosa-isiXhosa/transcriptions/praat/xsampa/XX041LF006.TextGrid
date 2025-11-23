@@ -1,0 +1,60 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 9.3239999999999998 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 9.3239999999999998 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.701282748439086 
+            text = "[spk]" 
+        intervals [2]:
+            xmin = 0.701282748439086 
+            xmax = 1.1621662104389017 
+            text = "[sta]" 
+        intervals [3]:
+            xmin = 1.1621662104389017 
+            xmax = 6.3038973333743433 
+            text = "(u) usuku lokuqala ku ($)June(/$) 0 ngo ($)nineteen seventy(/$) (/u)" 
+        intervals [4]:
+            xmin = 6.3038973333743433 
+            xmax = 7.9601972749361805 
+            text = "[sta]" 
+        intervals [5]:
+            xmin = 7.9601972749361805 
+            xmax = 9.3239999999999998 
+            text = "[int]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 9.3239999999999998 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.701282748439086 
+            text = "[spk]"
+        intervals [2]:
+            xmin = 0.701282748439086 
+            xmax = 1.1621662104389017 
+            text = "[sta]"
+        intervals [3]:
+            xmin = 1.1621662104389017 
+            xmax = 6.3038973333743433 
+            text = "(u) suk_>u lok_>u!\ala k_>u ($)d-\Zu:n(/$) 0 NgO ($)na-\Intin sEvE:nt_>i(/$) (/u)"
+        intervals [4]:
+            xmin = 6.3038973333743433 
+            xmax = 7.9601972749361805 
+            text = "[sta]"
+        intervals [5]:
+            xmin = 7.9601972749361805 
+            xmax = 9.3239999999999998 
+            text = "[int]"

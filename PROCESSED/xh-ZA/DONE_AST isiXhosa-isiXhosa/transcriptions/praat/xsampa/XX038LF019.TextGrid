@@ -1,0 +1,84 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 13.452 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 13.452 
+        intervals: size = 8 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.2024691445715984 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.2024691445715984 
+            xmax = 1.6720825752867032 
+            text = "[spk]" 
+        intervals [3]:
+            xmin = 1.6720825752867032 
+            xmax = 4.5540939124247828 
+            text = "(s) ndisebenzisa imfonomfono yabantu bonke (/s)" 
+        intervals [4]:
+            xmin = 4.5540939124247828 
+            xmax = 6.1476986963956479 
+            text = "0" 
+        intervals [5]:
+            xmin = 6.1476986963956479 
+            xmax = 8.1184474575970391 
+            text = "[int]" 
+        intervals [6]:
+            xmin = 8.1184474575970391 
+            xmax = 10.397654555677947 
+            text = "(u) *ndiki+ *f+ *imfonomfono kawonke wonke (/u)" 
+        intervals [7]:
+            xmin = 10.397654555677947 
+            xmax = 11.433805955916011 
+            text = "0" 
+        intervals [8]:
+            xmin = 11.433805955916011 
+            xmax = 13.452 
+            text = "[int]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 13.452 
+        intervals: size = 8 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.2024691445715984 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.2024691445715984 
+            xmax = 1.6720825752867032 
+            text = "[spk]" 
+        intervals [3]:
+            xmin = 1.6720825752867032 
+            xmax = 4.5540939124247828 
+            text = "(s) ndisEb_<end-\zisa imfOnOmfOnO jab_<ant_>u b_<ONk_>E (/s)" 
+        intervals [4]:
+            xmin = 4.5540939124247828 
+            xmax = 6.1476986963956479 
+            text = "0" 
+        intervals [5]:
+            xmin = 6.1476986963956479 
+            xmax = 8.1184474575970391 
+            text = "[int]" 
+        intervals [6]:
+            xmin = 8.1184474575970391 
+            xmax = 10.397654555677947 
+            text = "(u) ndik_>i f mfOnOmfOnO k_>awONk_>E wONk_>E (/u)" 
+        intervals [7]:
+            xmin = 10.397654555677947 
+            xmax = 11.433805955916011 
+            text = "0" 
+        intervals [8]:
+            xmin = 11.433805955916011 
+            xmax = 13.452 
+            text = "[int]" 

@@ -1,0 +1,60 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 5.2800000000000002 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 5.2800000000000002 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.31246668326383009 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.31246668326383009 
+            xmax = 0.54448693436275586 
+            text = "[sta]" 
+        intervals [3]:
+            xmin = 0.54448693436275586 
+            xmax = 2.312160616885417 
+            text = "(s) [sta] ndithetha ndilapha eKapa [/sta] (/s)" 
+        intervals [4]:
+            xmin = 2.312160616885417 
+            xmax = 4.2063437193252318 
+            text = "0" 
+        intervals [5]:
+            xmin = 4.2063437193252318 
+            xmax = 5.2800000000000002 
+            text = "[sta]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 5.2800000000000002 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.31246668326383009 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.31246668326383009 
+            xmax = 0.54448693436275586 
+            text = "[sta]" 
+        intervals [3]:
+            xmin = 0.54448693436275586 
+            xmax = 2.312160616885417 
+            text = "(s) [sta] ndit_hEt_ha ndilap_ha Ek_>ap_>a [/sta] (/s)" 
+        intervals [4]:
+            xmin = 2.312160616885417 
+            xmax = 4.2063437193252318 
+            text = "0" 
+        intervals [5]:
+            xmin = 4.2063437193252318 
+            xmax = 5.2800000000000002 
+            text = "[sta]" 

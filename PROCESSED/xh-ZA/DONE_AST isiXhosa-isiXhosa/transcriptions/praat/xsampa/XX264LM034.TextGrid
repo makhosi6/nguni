@@ -1,0 +1,60 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 9.1080000000000005 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 9.1080000000000005 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.60639612846979374 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.60639612846979374 
+            xmax = 1.1035710901326035 
+            text = "[spk]" 
+        intervals [3]:
+            xmin = 1.1035710901326035 
+            xmax = 7.0555978724635216 
+            text = "(u) [int] ngoLwesihlanu ngomhla weshumi elinantlanu kuJanuwari 0 [spk] ($)two thousand and four(/$) [/int] (/u)" 
+        intervals [4]:
+            xmin = 7.0555978724635216 
+            xmax = 8.3171711411773046 
+            text = "0" 
+        intervals [5]:
+            xmin = 8.3171711411773046 
+            xmax = 9.1080000000000005 
+            text = "[sta]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 9.1080000000000005 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.60639612846979374 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.60639612846979374 
+            xmax = 1.1035710901326035 
+            text = "[spk]" 
+        intervals [3]:
+            xmin = 1.1035710901326035 
+            xmax = 7.0555978724635216 
+            text = "(u) [int] NgOlwesiKanu NgOmKa weSumi elnant-\K_>anu k_>ud-\Zanjari 0 [spk] ($)tu: Ta-\uz@nd End fO:(/$) [/int] (/u)" 
+        intervals [4]:
+            xmin = 7.0555978724635216 
+            xmax = 8.3171711411773046 
+            text = "0" 
+        intervals [5]:
+            xmin = 8.3171711411773046 
+            xmax = 9.1080000000000005 
+            text = "[sta]" 

@@ -1,0 +1,60 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 110.316 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 110.316 
+        intervals: size = 5
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.9936162297346489 
+            text = "[int]" 
+        intervals [2]:
+            xmin = 1.9936162297346489 
+            xmax = 25.601427863062774 
+            text = "(s) [sta] ndihlala 0 kwilokishi ekuthiwa yiKhwezi xa ibizwa kwisitrato [spk] *esi+ ekuthiwa xa sibizwa igama laso yiSolenya [spk] inombolo 0 ngu ($)thirty five(/$) [spk] oko kukuthi ndihlala *eSole+ e ($)number thirty five(/$) Solenya kwidolophu yaseMthatha [/sta] (/s)" 
+        intervals [3]:
+            xmin = 25.601427863062774 
+            xmax = 43.838843059718258 
+            text = "[int]" 
+        intervals [4]:
+            xmin = 43.838843059718258 
+            xmax = 54.916999345743839 
+            text = "(s) [int] ndihlala kwa ($)number thirty five(/$) 0 igama lesitalato yiSolenja 0 kwilokishi yaseKwezi apha eMtata [/int] (/s)" 
+        intervals [5]:
+            xmin = 54.916999345743839 
+            xmax = 110.316 
+            text = "[int]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 110.316 
+        intervals: size = 5
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.9936162297346489 
+            text = "[int]" 
+        intervals [2]:
+            xmin = 1.9936162297346489 
+            xmax = 25.601427863062774 
+            text = "(s) [sta] ndiKala 0 k_>wilok_>iSi ek_>ut_hiwa jik_hwezi |\|\a ib_<izwa k_>wisit_>rat_>O [spk] esi ek_>ut_hiwa |\|\a sib_<izwa igama lasO jisOlEJa [spk] inOmbOlO 0 Ngu ($)TEti fa-\if(/$) [spk] Ok_>O k_>uk_>ut_hi ndiKala EsOlE E ($)namba TEti fa-\if(/$) sOlEJa k_>widOlop_hu jasEmt_hat_ha [/sta] (/s)" 
+        intervals [3]:
+            xmin = 25.601427863062774 
+            xmax = 43.838843059718258 
+            text = "[int]" 
+        intervals [4]:
+            xmin = 43.838843059718258 
+            xmax = 54.916999345743839 
+            text = "(s) [int] ndiKala kwa ($)namba Teti fa-\if(/$) 0 igama lesit_>alat_>o jisOlEJa 0 k_>wilok_>iSi jasEk_hwezi ap_ha Emt_hat_ha [/int] (/s)"
+        intervals [5]:
+            xmin = 54.916999345743839 
+            xmax = 110.316 
+            text = "[int]" 

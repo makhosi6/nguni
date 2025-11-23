@@ -1,0 +1,60 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 6.7320000000000002 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 6.7320000000000002 
+        intervals: size = 5
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.31618307208127988 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.31618307208127988 
+            xmax = 0.99575291695264245 
+            text = "[spk]" 
+        intervals [3]:
+            xmin = 0.99575291695264245 
+            xmax = 1.5793164345110766 
+            text = "**" 
+        intervals [4]:
+            xmin = 1.5793164345110766 
+            xmax = 3.5102759094028828 
+            text = "(u) ngeminyaka engamashumi amane (/u)"
+        intervals [5]:
+            xmin = 3.5102759094028828 
+            xmax = 6.7320000000000002 
+            text = "[spk]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 6.7320000000000002 
+        intervals: size = 5
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.31618307208127988 
+            text = "0"
+        intervals [2]:
+            xmin = 0.31618307208127988 
+            xmax = 0.99575291695264245 
+            text = "[spk]"
+        intervals [3]:
+            xmin = 0.99575291695264245 
+            xmax = 1.5793164345110766 
+            text = "**"
+        intervals [4]:
+            xmin = 1.5793164345110766 
+            xmax = 3.5102759094028828 
+            text = "(u) NgemiJak_> ENgamaSumi amanE (/u)"
+        intervals [5]:
+            xmin = 3.5102759094028828 
+            xmax = 6.7320000000000002 
+            text = "[spk]"

@@ -1,0 +1,60 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 15.972 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 15.972 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.10517401315785865 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.10517401315785865 
+            xmax = 0.53898946074396437 
+            text = "[spk]" 
+        intervals [3]:
+            xmin = 0.53898946074396437 
+            xmax = 10.006158420951436 
+            text = "(s) ixesha ngoku 0 [spk] 0 *ngu+ 0 yimizuzu 0 *e+ 0 *e+ 0 [spk] 0 ($)it's nine *n+ 0 [spk] 0 it'is twenty to ten(/$) (/s)" 
+        intervals [4]:
+            xmin = 10.006158420951436 
+            xmax = 12.79765005717524 
+            text = "0" 
+        intervals [5]:
+            xmin = 12.79765005717524 
+            xmax = 15.972 
+            text = "[int]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 15.972 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.10517401315785865 
+            text = "0"
+        intervals [2]:
+            xmin = 0.10517401315785865 
+            xmax = 0.53898946074396437 
+            text = "[spk]"
+        intervals [3]:
+            xmin = 0.53898946074396437 
+            xmax = 10.006158420951436 
+            text = "(s) i|\|\ESa NgOk_>u 0 [spk] 0 gu: 0 jimizuzu 0 E 0 E 0 [spk] 0 ($)is na-\in n 0 [spk] 0 is twEnti tu tEn(/$) (/s)"
+        intervals [4]:
+            xmin = 10.006158420951436 
+            xmax = 12.79765005717524 
+            text = "0"
+        intervals [5]:
+            xmin = 12.79765005717524 
+            xmax = 15.972 
+            text = "[int]"

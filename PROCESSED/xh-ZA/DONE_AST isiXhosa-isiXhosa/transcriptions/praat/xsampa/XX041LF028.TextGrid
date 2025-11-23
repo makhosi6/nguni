@@ -1,0 +1,60 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 5.6760000000000002 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 5.6760000000000002 
+        intervals: size = 5
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.3392308922584813 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.3392308922584813 
+            xmax = 0.74254099385886685 
+            text = "[spk]" 
+        intervals [3]:
+            xmin = 0.74254099385886685 
+            xmax = 1.1896891499810334 
+            text = "[sta]" 
+        intervals [4]:
+            xmin = 1.1896891499810334 
+            xmax = 2.688950614625945 
+            text = "(u) i ($)Stellenbosch(/$) (/u)" 
+        intervals [5]:
+            xmin = 2.688950614625945 
+            xmax = 5.6760000000000002 
+            text = "[sta]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 5.6760000000000002 
+        intervals: size = 5
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.3392308922584813 
+            text = "0"
+        intervals [2]:
+            xmin = 0.3392308922584813 
+            xmax = 0.74254099385886685 
+            text = "[spk]"
+        intervals [3]:
+            xmin = 0.74254099385886685 
+            xmax = 1.1896891499810334 
+            text = "[sta]"
+        intervals [4]:
+            xmin = 1.1896891499810334 
+            xmax = 2.688950614625945 
+            text = "(u) i ($)st_>ElEnbOS(/$) (/u)"
+        intervals [5]:
+            xmin = 2.688950614625945 
+            xmax = 5.6760000000000002 
+            text = "[sta]"

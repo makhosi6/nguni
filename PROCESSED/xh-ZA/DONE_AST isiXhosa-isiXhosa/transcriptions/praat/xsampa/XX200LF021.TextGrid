@@ -1,0 +1,60 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 589.01999999999998 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 589.01999999999998 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.43575566263441462 
+            text = "(u) [int] [fil]m [/int] (/u)" 
+        intervals [2]:
+            xmin = 0.43575566263441462 
+            xmax = 0.75497626344497315 
+            text = "[spk]" 
+        intervals [3]:
+            xmin = 0.75497626344497315 
+            xmax = 1.1896596347614783 
+            text = "[int]" 
+        intervals [4]:
+            xmin = 1.1896596347614783 
+            xmax = 3.3526438438255219 
+            text = "(s) [int] inqaku lesibini;inambari ngu ($)zero(/$) [/int] (/s)" 
+        intervals [5]:
+            xmin = 3.3526438438255219 
+            xmax = 589.01999999999998 
+            text = "[int]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 589.01999999999998 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.43575566263441462 
+            text = "(u) [int] m [/int] (/u)" 
+        intervals [2]:
+            xmin = 0.43575566263441462 
+            xmax = 0.75497626344497315 
+            text = "[spk]" 
+        intervals [3]:
+            xmin = 0.75497626344497315 
+            xmax = 1.1896596347614783 
+            text = "[int]" 
+        intervals [4]:
+            xmin = 1.1896596347614783 
+            xmax = 3.3526438438255219 
+            text = "(s) [int] !\~ak_>u lesb_<i:nambar Ngu ($)zI@rO(/$) [/int] (/s)" 
+        intervals [5]:
+            xmin = 3.3526438438255219 
+            xmax = 589.01999999999998 
+            text = "[int]" 

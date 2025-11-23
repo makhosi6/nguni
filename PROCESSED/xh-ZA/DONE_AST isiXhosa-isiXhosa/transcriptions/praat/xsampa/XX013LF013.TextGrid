@@ -1,0 +1,60 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 5.3159999999999998 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 5.3159999999999998 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.62457714609538639 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.62457714609538639 
+            xmax = 1.2684264665701939 
+            text = "[spk]" 
+        intervals [3]:
+            xmin = 1.2684264665701939 
+            xmax = 2.3279253483641806 
+            text = "(u) e ($)Long Street(/$) (/u)" 
+        intervals [4]:
+            xmin = 2.3279253483641806 
+            xmax = 2.8658247806595893 
+            text = "[spk]" 
+        intervals [5]:
+            xmin = 2.8658247806595893 
+            xmax = 5.3159999999999998 
+            text = "0" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 5.3159999999999998 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.62457714609538639 
+            text = "0"
+        intervals [2]:
+            xmin = 0.62457714609538639 
+            xmax = 1.2684264665701939 
+            text = "[spk]"
+        intervals [3]:
+            xmin = 1.2684264665701939 
+            xmax = 2.3279253483641806 
+            text = "(u) E ($)lQN strit(/$) (/u)"
+        intervals [4]:
+            xmin = 2.3279253483641806 
+            xmax = 2.8658247806595893 
+            text = "[spk]"
+        intervals [5]:
+            xmin = 2.8658247806595893 
+            xmax = 5.3159999999999998 
+            text = "0"

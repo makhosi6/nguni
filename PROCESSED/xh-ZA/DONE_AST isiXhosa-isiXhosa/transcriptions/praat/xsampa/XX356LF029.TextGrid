@@ -1,0 +1,76 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 19.763999999999999 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 19.763999999999999 
+        intervals: size = 7
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.47375479411853988 
+            text = "[int]" 
+        intervals [2]:
+            xmin = 0.47375479411853988 
+            xmax = 3.5352541999218623 
+            text = "(u) [int] I. Z. I. N. J. A. [/int] (/u)"
+        intervals [3]:
+            xmin = 3.5352541999218623 
+            xmax = 9.4123452473714568 
+            text = "[int]" 
+        intervals [4]:
+            xmin = 9.4123452473714568 
+            xmax = 10.563756898976917 
+            text = "[spk]" 
+        intervals [5]:
+            xmin = 10.563756898976917 
+            xmax = 14.502796759732439 
+            text = "[int]" 
+        intervals [6]:
+            xmin = 14.502796759732439 
+            xmax = 15.775409637822685 
+            text = "[spk]" 
+        intervals [7]:
+            xmin = 15.775409637822685 
+            xmax = 19.763999999999999 
+            text = "[sta]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 19.763999999999999 
+        intervals: size = 7
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.47375479411853988 
+            text = "[int]"
+        intervals [2]:
+            xmin = 0.47375479411853988 
+            xmax = 3.5352541999218623 
+            text = "(u) [int] a-\I zEt a-\I En d-\Ze-\I e-\I [/int] (/u)"
+        intervals [3]:
+            xmin = 3.5352541999218623 
+            xmax = 9.4123452473714568 
+            text = "[int]"
+        intervals [4]:
+            xmin = 9.4123452473714568 
+            xmax = 10.563756898976917 
+            text = "[spk]"
+        intervals [5]:
+            xmin = 10.563756898976917 
+            xmax = 14.502796759732439 
+            text = "[int]"
+        intervals [6]:
+            xmin = 14.502796759732439 
+            xmax = 15.775409637822685 
+            text = "[spk]"
+        intervals [7]:
+            xmin = 15.775409637822685 
+            xmax = 19.763999999999999 
+            text = "[sta]"

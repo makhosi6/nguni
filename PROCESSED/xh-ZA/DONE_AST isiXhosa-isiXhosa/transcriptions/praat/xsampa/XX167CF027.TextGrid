@@ -1,0 +1,68 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 8.1359999999999992 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic"
+        xmin = 0 
+        xmax = 8.1359999999999992 
+        intervals: size = 6
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.96837245873769207 
+            text = "(u) [int] ~akalisi [/int] (/u)" 
+        intervals [2]:
+            xmin = 0.96837245873769207 
+            xmax = 1.3924663678037623 
+            text = "[sta]" 
+        intervals [3]:
+            xmin = 1.3924663678037623 
+            xmax = 3.8247696698003422 
+            text = "(s) [sta] inenekazi lisela iti [/sta] (/s)" 
+        intervals [4]:
+            xmin = 3.8247696698003422 
+            xmax = 4.3985437820662021 
+            text = "[sta]" 
+        intervals [5]:
+            xmin = 4.3985437820662021 
+            xmax = 4.7727442900656758 
+            text = "[spk]" 
+        intervals [6]:
+            xmin = 4.7727442900656758 
+            xmax = 8.1359999999999992 
+            text = "0" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 8.1359999999999992 
+        intervals: size = 6
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.96837245873769207 
+            text = "(u) [int] ak_>ali:si [/int] (/u)"
+        intervals [2]:
+            xmin = 0.96837245873769207 
+            xmax = 1.3924663678037623 
+            text = "[sta]"
+        intervals [3]:
+            xmin = 1.3924663678037623 
+            xmax = 3.8247696698003422 
+            text = "(s) [sta] inEnEk_>a:zi lisEla i:t_>i [/sta] (/s)"
+        intervals [4]:
+            xmin = 3.8247696698003422 
+            xmax = 4.3985437820662021 
+            text = "[sta]"
+        intervals [5]:
+            xmin = 4.3985437820662021 
+            xmax = 4.7727442900656758 
+            text = "[spk]"
+        intervals [6]:
+            xmin = 4.7727442900656758 
+            xmax = 8.1359999999999992 
+            text = "0"

@@ -1,0 +1,154 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0
+xmax = 2.375000
+tiers? <exists>
+size = 3
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "segment"
+		xmin = 0
+		xmax = 2.375000
+		intervals: size = 16
+		intervals [1]:
+			xmin = 0.000000
+			xmax = 0.200000
+			text = "#"
+		intervals [2]:
+			xmin = 0.200000
+			xmax = 0.465000
+			text = "a"
+		intervals [3]:
+			xmin = 0.465000
+			xmax = 0.555000
+			text = "r"
+		intervals [4]:
+			xmin = 0.555000
+			xmax = 0.645000
+			text = "E"
+		intervals [5]:
+			xmin = 0.645000
+			xmax = 0.775000
+			text = "m"
+		intervals [6]:
+			xmin = 0.775000
+			xmax = 0.940000
+			text = "a"
+		intervals [7]:
+			xmin = 0.940000
+			xmax = 1.165000
+			text = "N"
+		intervals [8]:
+			xmin = 1.165000
+			xmax = 1.195000
+			text = "#_cl"
+		intervals [9]:
+			xmin = 1.195000
+			xmax = 1.240000
+			text = "k_e"
+		intervals [10]:
+			xmin = 1.240000
+			xmax = 1.335000
+			text = "E"
+		intervals [11]:
+			xmin = 1.335000
+			xmax = 1.395000
+			text = "#_cl"
+		intervals [12]:
+			xmin = 1.395000
+			xmax = 1.510000
+			text = "kx"
+		intervals [13]:
+			xmin = 1.510000
+			xmax = 1.725000
+			text = "O"
+		intervals [14]:
+			xmin = 1.725000
+			xmax = 1.890000
+			text = "s"
+		intervals [15]:
+			xmin = 1.890000
+			xmax = 2.010000
+			text = "i"
+		intervals [16]:
+			xmin = 2.010000
+			xmax = 2.375000
+			text = "#"
+	item [2]:
+		class = "IntervalTier"
+		name = "syllable"
+		xmin = 0
+		xmax = 2.375000
+		intervals: size = 9
+		intervals [1]:
+			xmin = 0.000000
+			xmax = 0.200000
+			text = "NONE"
+		intervals [2]:
+			xmin = 0.200000
+			xmax = 0.465000
+			text = "syl"
+		intervals [3]:
+			xmin = 0.465000
+			xmax = 0.645000
+			text = "syl"
+		intervals [4]:
+			xmin = 0.645000
+			xmax = 0.940000
+			text = "syl"
+		intervals [5]:
+			xmin = 0.940000
+			xmax = 1.165000
+			text = "syl"
+		intervals [6]:
+			xmin = 1.165000
+			xmax = 1.335000
+			text = "syl"
+		intervals [7]:
+			xmin = 1.335000
+			xmax = 1.725000
+			text = "syl"
+		intervals [8]:
+			xmin = 1.725000
+			xmax = 2.010000
+			text = "syl"
+		intervals [9]:
+			xmin = 2.010000
+			xmax = 2.375000
+			text = "NONE"
+	item [3]:
+		class = "IntervalTier"
+		name = "word"
+		xmin = 0
+		xmax = 2.375000
+		intervals: size = 7
+		intervals [1]:
+			xmin = 0.000000
+			xmax = 0.200000
+			text = "NONE"
+		intervals [2]:
+			xmin = 0.200000
+			xmax = 0.465000
+			text = "A"
+		intervals [3]:
+			xmin = 0.465000
+			xmax = 0.645000
+			text = "re"
+		intervals [4]:
+			xmin = 0.645000
+			xmax = 1.165000
+			text = "mang"
+		intervals [5]:
+			xmin = 1.165000
+			xmax = 1.335000
+			text = "ke"
+		intervals [6]:
+			xmin = 1.335000
+			xmax = 2.010000
+			text = "kgosi"
+		intervals [7]:
+			xmin = 2.010000
+			xmax = 2.375000
+			text = "NONE"

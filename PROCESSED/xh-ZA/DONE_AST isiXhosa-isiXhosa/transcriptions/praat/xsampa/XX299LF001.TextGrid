@@ -1,0 +1,68 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 4.968 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 4.968 
+        intervals: size = 6
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.073387081431708467 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.073387081431708467 
+            xmax = 0.49990943037270164 
+            text = "[spk]" 
+        intervals [3]:
+            xmin = 0.49990943037270164 
+            xmax = 0.58078029109831375 
+            text = "[ext]" 
+        intervals [4]:
+            xmin = 0.58078029109831375 
+            xmax = 1.9089564759813398 
+            text = "(u) [int] ($)two nine nine(/$) [/int] (/u)" 
+        intervals [5]:
+            xmin = 1.9089564759813398 
+            xmax = 2.5792058814600431 
+            text = "[spk]" 
+        intervals [6]:
+            xmin = 2.5792058814600431 
+            xmax = 4.968 
+            text = "[int]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 4.968 
+        intervals: size = 6
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.073387081431708467 
+            text = "0"
+        intervals [2]:
+            xmin = 0.073387081431708467 
+            xmax = 0.49990943037270164 
+            text = "[spk]"
+        intervals [3]:
+            xmin = 0.49990943037270164 
+            xmax = 0.58078029109831375 
+            text = "[ext]"
+        intervals [4]:
+            xmin = 0.58078029109831375 
+            xmax = 1.9089564759813398 
+            text = "(u) [int] ($)tu na-\in na-\in(/$) [/int] (/u)"
+        intervals [5]:
+            xmin = 1.9089564759813398 
+            xmax = 2.5792058814600431 
+            text = "[spk]"
+        intervals [6]:
+            xmin = 2.5792058814600431 
+            xmax = 4.968 
+            text = "[int]"

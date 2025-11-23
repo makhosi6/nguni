@@ -1,0 +1,60 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 7.3559999999999999 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 7.3559999999999999 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.10084016490121056 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.10084016490121056 
+            xmax = 1.4639564687942272 
+            text = "[spk]" 
+        intervals [3]:
+            xmin = 1.4639564687942272 
+            xmax = 5.2973673475637666 
+            text = "(u) Ntombentsha 0 Agrinette 0 [spk] Qhanti (/u)" 
+        intervals [4]:
+            xmin = 5.2973673475637666 
+            xmax = 6.2604678618434981 
+            text = "0" 
+        intervals [5]:
+            xmin = 6.2604678618434981 
+            xmax = 7.3559999999999999 
+            text = "[sta]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 7.3559999999999999 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.10084016490121056 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.10084016490121056 
+            xmax = 1.4639564687942272 
+            text = "[spk]" 
+        intervals [3]:
+            xmin = 1.4639564687942272 
+            xmax = 5.2973673475637666 
+            text = "(u) nt_>OmbEnt-\S_ha 0 agrinEt 0 [spk] !\_hant_>i (/u)" 
+        intervals [4]:
+            xmin = 5.2973673475637666 
+            xmax = 6.2604678618434981 
+            text = "0" 
+        intervals [5]:
+            xmin = 6.2604678618434981 
+            xmax = 7.3559999999999999 
+            text = "[sta]" 

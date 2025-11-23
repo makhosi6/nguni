@@ -1,0 +1,84 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 27.456 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 27.456 
+        intervals: size = 8 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.78673914497307063 
+            text = "(u) [int] ~sithath [/int] (/u)" 
+        intervals [2]:
+            xmin = 0.78673914497307063 
+            xmax = 0.89093210140164958 
+            text = "[int]" 
+        intervals [3]:
+            xmin = 0.89093210140164958 
+            xmax = 1.7802198554821071 
+            text = "(u) inqaku [int] lesithathu [/int] (/u)" 
+        intervals [4]:
+            xmin = 1.7802198554821071 
+            xmax = 1.8426074610206626 
+            text = "[int]" 
+        intervals [5]:
+            xmin = 1.8426074610206626 
+            xmax = 2.4218428143525266 
+            text = "(u) [int] umhla [/int] (/u)" 
+        intervals [6]:
+            xmin = 2.4218428143525266 
+            xmax = 2.8978856548047736 
+            text = "[int]" 
+        intervals [7]:
+            xmin = 2.8978856548047736 
+            xmax = 6.5571825078253791 
+            text = "(u) [int] ngomhla weshumi elinesibhozo 0 kweyoMsintsi 0 ($)nineteen ninety nine(/$) [/int] (/u)" 
+        intervals [8]:
+            xmin = 6.5571825078253791 
+            xmax = 27.456 
+            text = "[int]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 27.456 
+        intervals: size = 8 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.78673914497307063 
+            text = "(u) [int] sit_hat_h [/int] (/u)"
+        intervals [2]:
+            xmin = 0.78673914497307063 
+            xmax = 0.89093210140164958 
+            text = "[int]"
+        intervals [3]:
+            xmin = 0.89093210140164958 
+            xmax = 1.7802198554821071 
+            text = "(u) i!\~ak_>u [int] lest_hat_h [/int] (/u)"
+        intervals [4]:
+            xmin = 1.7802198554821071 
+            xmax = 1.8426074610206626 
+            text = "[int]"
+        intervals [5]:
+            xmin = 1.8426074610206626 
+            xmax = 2.4218428143525266 
+            text = "(u) [int] um=Ka [/int] (/u)"
+        intervals [6]:
+            xmin = 2.4218428143525266 
+            xmax = 2.8978856548047736 
+            text = "[int]"
+        intervals [7]:
+            xmin = 2.8978856548047736 
+            xmax = 6.5571825078253791 
+            text = "(u) [int] gOmKa weSumi elinesib_0@zO 0 k_>wEjomsint-\s_> 0 ($)na-\intin na-\inti na-\in(/$) [/int] (/u)"
+        intervals [8]:
+            xmin = 6.5571825078253791 
+            xmax = 27.456 
+            text = "[int]"

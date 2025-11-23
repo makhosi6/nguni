@@ -1,0 +1,60 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 7.0199999999999996 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 7.0199999999999996 
+        intervals: size = 5
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.1584852234969545 
+            text = "(u) [int] isivakalisi [/int] (/u)"
+        intervals [2]:
+            xmin = 1.1584852234969545 
+            xmax = 2.5058323958246955 
+            text = "[spk]" 
+        intervals [3]:
+            xmin = 2.5058323958246955 
+            xmax = 5.0436425687367814 
+            text = "(s) [int] ndixakene nemhokamhoka yosana [/int] (/s)" 
+        intervals [4]:
+            xmin = 5.0436425687367814 
+            xmax = 5.4418515164087884 
+            text = "0" 
+        intervals [5]:
+            xmin = 5.4418515164087884 
+            xmax = 7.0199999999999996 
+            text = "[int]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 7.0199999999999996 
+        intervals: size = 5
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.1584852234969545 
+            text = "(u) [int] isivak_>alis [/int] (/u)"
+        intervals [2]:
+            xmin = 1.1584852234969545 
+            xmax = 2.5058323958246955 
+            text = "[spk]"
+        intervals [3]:
+            xmin = 2.5058323958246955 
+            xmax = 5.0436425687367814 
+            text = "(s) [int] ndi|\|\ak_>EnE nEmOk_>amOk_>a jOsana [/int] (/s)"
+        intervals [4]:
+            xmin = 5.0436425687367814 
+            xmax = 5.4418515164087884 
+            text = "0"
+        intervals [5]:
+            xmin = 5.4418515164087884 
+            xmax = 7.0199999999999996 
+            text = "[int]"

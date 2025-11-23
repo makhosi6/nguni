@@ -1,0 +1,76 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 9.2400000000000002 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 9.2400000000000002 
+        intervals: size = 7 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.4524680657448818 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.4524680657448818 
+            xmax = 0.88256995786382708 
+            text = "[sta]" 
+        intervals [3]:
+            xmin = 0.88256995786382708 
+            xmax = 1.940744557517561 
+            text = "(s) [int] namhlanje ngumhla [/int] (/s)" 
+        intervals [4]:
+            xmin = 1.940744557517561 
+            xmax = 2.834296428549627 
+            text = "[spk]" 
+        intervals [5]:
+            xmin = 2.834296428549627 
+            xmax = 7.2114436625847684 
+            text = "(s) [int] ngumhla wamashumi *anaz+ *am+ ngumhla wamashumi;amabini *anesithandathu ($)twenty six(/$) [/int] (/s)" 
+        intervals [6]:
+            xmin = 7.2114436625847684 
+            xmax = 8.3527144577459804 
+            text = "0" 
+        intervals [7]:
+            xmin = 8.3527144577459804 
+            xmax = 9.2400000000000002 
+            text = "[sta]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 9.2400000000000002 
+        intervals: size = 7 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.4524680657448818 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.4524680657448818 
+            xmax = 0.88256995786382708 
+            text = "[sta]" 
+        intervals [3]:
+            xmin = 0.88256995786382708 
+            xmax = 1.940744557517561 
+            text = "(s) [int] namKand-\ZE NgumKa [/int] (/s)" 
+        intervals [4]:
+            xmin = 1.940744557517561 
+            xmax = 2.834296428549627 
+            text = "[spk]" 
+        intervals [5]:
+            xmin = 2.834296428549627 
+            xmax = 7.2114436625847684 
+            text = "(s) [int] NgumKa wamaSumi anaz am NgumKa wamaSumamab_<ini anest_handat_hu ($)twEnti siks(/$) [/int] (/s)" 
+        intervals [6]:
+            xmin = 7.2114436625847684 
+            xmax = 8.3527144577459804 
+            text = "0" 
+        intervals [7]:
+            xmin = 8.3527144577459804 
+            xmax = 9.2400000000000002 
+            text = "[sta]" 

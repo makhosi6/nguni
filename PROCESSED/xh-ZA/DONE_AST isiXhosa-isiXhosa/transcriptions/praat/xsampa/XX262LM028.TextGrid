@@ -1,0 +1,92 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 6.492 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 6.492 
+        intervals: size = 9
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.38453434056203767 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.38453434056203767 
+            xmax = 0.70302790961252393 
+            text = "[int]" 
+        intervals [3]:
+            xmin = 0.70302790961252393 
+            xmax = 1.9476255185173126 
+            text = "(u) [int] ($)nine one five zero(/$) [/int] (/u)" 
+        intervals [4]:
+            xmin = 1.9476255185173126 
+            xmax = 2.0701038221476513 
+            text = "[sta]" 
+        intervals [5]:
+            xmin = 2.0701038221476513 
+            xmax = 2.8683372076991187 
+            text = "0" 
+        intervals [6]:
+            xmin = 2.8683372076991187 
+            xmax = 4.4722883392516461 
+            text = "(s) [int] uncanca ubhontsi wakhe [/int] (/s)" 
+        intervals [7]:
+            xmin = 4.4722883392516461 
+            xmax = 5.1221261801880207 
+            text = "0" 
+        intervals [8]:
+            xmin = 5.1221261801880207 
+            xmax = 5.8409101308724845 
+            text = "[int]" 
+        intervals [9]:
+            xmin = 5.8409101308724845 
+            xmax = 6.492 
+            text = "[sta]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 6.492 
+        intervals: size = 9
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.38453434056203767 
+            text = "0"
+        intervals [2]:
+            xmin = 0.38453434056203767 
+            xmax = 0.70302790961252393 
+            text = "[int]"
+        intervals [3]:
+            xmin = 0.70302790961252393 
+            xmax = 1.9476255185173126 
+            text = "(u) [int] ($)na-\in wan fa-\if zirO(/$) [/int] (/u)"
+        intervals [4]:
+            xmin = 1.9476255185173126 
+            xmax = 2.0701038221476513 
+            text = "[sta]"
+        intervals [5]:
+            xmin = 2.0701038221476513 
+            xmax = 2.8683372076991187 
+            text = "0"
+        intervals [6]:
+            xmin = 2.8683372076991187 
+            xmax = 4.4722883392516461 
+            text = "(s) [int] u|\~a|\~a ub_0ont-\s_>i wak_hE [/int] (/s)"
+        intervals [7]:
+            xmin = 4.4722883392516461 
+            xmax = 5.1221261801880207 
+            text = "0"
+        intervals [8]:
+            xmin = 5.1221261801880207 
+            xmax = 5.8409101308724845 
+            text = "[int]"
+        intervals [9]:
+            xmin = 5.8409101308724845 
+            xmax = 6.492 
+            text = "[sta]"

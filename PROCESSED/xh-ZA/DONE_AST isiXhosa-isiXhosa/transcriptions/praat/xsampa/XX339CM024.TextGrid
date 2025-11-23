@@ -1,0 +1,68 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 6.0359999999999996 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 6.0359999999999996 
+        intervals: size = 6 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.9190468288590603 
+            text = "(u) ~vakalisi (/u)" 
+        intervals [2]:
+            xmin = 0.9190468288590603 
+            xmax = 1.3803552181208052 
+            text = "0" 
+        intervals [3]:
+            xmin = 1.3803552181208052 
+            xmax = 1.7640363291400973 
+            text = "[spk]" 
+        intervals [4]:
+            xmin = 1.7640363291400973 
+            xmax = 3.8857449353069873 
+            text = "(s) uphunga ngekomityi yakhe (/s)" 
+        intervals [5]:
+            xmin = 3.8857449353069873 
+            xmax = 4.7801785747239567 
+            text = "0" 
+        intervals [6]:
+            xmin = 4.7801785747239567 
+            xmax = 6.0359999999999996 
+            text = "[int]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 6.0359999999999996 
+        intervals: size = 6 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.9190468288590603 
+            text = "(u) vagalisi (/u)" 
+        intervals [2]:
+            xmin = 0.9190468288590603 
+            xmax = 1.3803552181208052 
+            text = "0" 
+        intervals [3]:
+            xmin = 1.3803552181208052 
+            xmax = 1.7640363291400973 
+            text = "[spk]" 
+        intervals [4]:
+            xmin = 1.7640363291400973 
+            xmax = 3.8857449353069873 
+            text = "(s) up_huNga NgEk_>Omic_>i jak_hE (/s)" 
+        intervals [5]:
+            xmin = 3.8857449353069873 
+            xmax = 4.7801785747239567 
+            text = "0" 
+        intervals [6]:
+            xmin = 4.7801785747239567 
+            xmax = 6.0359999999999996 
+            text = "[int]" 

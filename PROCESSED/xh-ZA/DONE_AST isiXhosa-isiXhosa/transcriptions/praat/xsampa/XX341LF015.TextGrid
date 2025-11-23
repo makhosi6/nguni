@@ -1,0 +1,60 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 7.1159999999999997 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 7.1159999999999997 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.87218688937504996 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.87218688937504996 
+            xmax = 1.415072091743119 
+            text = "[spk]" 
+        intervals [3]:
+            xmin = 1.415072091743119 
+            xmax = 4.1487320293633925 
+            text = "(s) [sta] ngu 0 ($)quarter past 0 nine(/$) 0 ebusuku [/sta] (/s)" 
+        intervals [4]:
+            xmin = 4.1487320293633925 
+            xmax = 5.5800509475201014 
+            text = "0" 
+        intervals [5]:
+            xmin = 5.5800509475201014 
+            xmax = 7.1159999999999997 
+            text = "[int]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 7.1159999999999997 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.87218688937504996 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.87218688937504996 
+            xmax = 1.415072091743119 
+            text = "[spk]" 
+        intervals [3]:
+            xmin = 1.415072091743119 
+            xmax = 4.1487320293633925 
+            text = "(s) [sta] Ngu 0 ($)kOta past 0 na-\in(/$) 0 ebusuku [/sta] (/s)" 
+        intervals [4]:
+            xmin = 4.1487320293633925 
+            xmax = 5.5800509475201014 
+            text = "0" 
+        intervals [5]:
+            xmin = 5.5800509475201014 
+            xmax = 7.1159999999999997 
+            text = "[int]" 

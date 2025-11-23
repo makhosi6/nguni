@@ -1,0 +1,68 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 7.6799999999999997 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic"
+        xmin = 0 
+        xmax = 7.6799999999999997 
+        intervals: size = 6
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.900359091406937 
+            text = "(u) [int] *inq+ 0 inqaku 0 ($)thirteen(/$) [/int] (/u)"
+        intervals [2]:
+            xmin = 1.900359091406937 
+            xmax = 2.0804734020926134 
+            text = "[sta]" 
+        intervals [3]:
+            xmin = 2.0804734020926134 
+            xmax = 3.7688210869498353 
+            text = "(u) ibinzana [int] elichaza umhla [/int] (/u)"
+        intervals [4]:
+            xmin = 3.7688210869498353 
+            xmax = 3.8241307946964045 
+            text = "[sta]" 
+        intervals [5]:
+            xmin = 3.8241307946964045 
+            xmax = 4.6074266075885948 
+            text = "(u) [sta] izolwelinye [/sta] (/u)"
+        intervals [6]:
+            xmin = 4.6074266075885948 
+            xmax = 7.6799999999999997 
+            text = "[int]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 7.6799999999999997 
+        intervals: size = 6
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.900359091406937 
+            text = "(u) [int] i!\~ 0 i!\~ak_>u 0 ($)Tetin(/$) [/int] (/u)"
+        intervals [2]:
+            xmin = 1.900359091406937 
+            xmax = 2.0804734020926134 
+            text = "[sta]"
+        intervals [3]:
+            xmin = 2.0804734020926134 
+            xmax = 3.7688210869498353 
+            text = "(u) ib_<ind-\zana [int] eli|\_haza um=Ka [/int] (/u)"
+        intervals [4]:
+            xmin = 3.7688210869498353 
+            xmax = 3.8241307946964045 
+            text = "[sta]"
+        intervals [5]:
+            xmin = 3.8241307946964045 
+            xmax = 4.6074266075885948 
+            text = "(u) [sta] izOlwelin [/sta] (/u)"
+        intervals [6]:
+            xmin = 4.6074266075885948 
+            xmax = 7.6799999999999997 
+            text = "[int]"

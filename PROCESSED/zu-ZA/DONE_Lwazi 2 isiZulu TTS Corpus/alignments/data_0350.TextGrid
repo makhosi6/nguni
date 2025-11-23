@@ -1,0 +1,226 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0
+xmax = 2.880000
+tiers? <exists>
+size = 5
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "segment"
+		xmin = 0
+		xmax = 2.880000
+		intervals: size = 24
+		intervals [1]:
+			xmin = 0.000000
+			xmax = 0.050000
+			text = "pau"
+		intervals [2]:
+			xmin = 0.050000
+			xmax = 0.200000
+			text = "k"
+		intervals [3]:
+			xmin = 0.200000
+			xmax = 0.380000
+			text = "a"
+		intervals [4]:
+			xmin = 0.380000
+			xmax = 0.485000
+			text = "ɓ"
+		intervals [5]:
+			xmin = 0.485000
+			xmax = 0.605000
+			text = "a"
+		intervals [6]:
+			xmin = 0.605000
+			xmax = 0.685000
+			text = "ŋ"
+		intervals [7]:
+			xmin = 0.685000
+			xmax = 0.735000
+			text = "g"
+		intervals [8]:
+			xmin = 0.735000
+			xmax = 0.810000
+			text = "a"
+		intervals [9]:
+			xmin = 0.810000
+			xmax = 0.965000
+			text = "j"
+		intervals [10]:
+			xmin = 0.965000
+			xmax = 1.070000
+			text = "ɔ"
+		intervals [11]:
+			xmin = 1.070000
+			xmax = 1.160000
+			text = "n"
+		intervals [12]:
+			xmin = 1.160000
+			xmax = 1.355000
+			text = "a"
+		intervals [13]:
+			xmin = 1.355000
+			xmax = 1.450000
+			text = "k"
+		intervals [14]:
+			xmin = 1.450000
+			xmax = 1.540000
+			text = "ɛ"
+		intervals [15]:
+			xmin = 1.540000
+			xmax = 1.580000
+			text = "ɲ"
+		intervals [16]:
+			xmin = 1.580000
+			xmax = 1.695000
+			text = "dʒ"
+		intervals [17]:
+			xmin = 1.695000
+			xmax = 1.835000
+			text = "ɛ"
+		intervals [18]:
+			xmin = 1.835000
+			xmax = 1.950000
+			text = "i"
+		intervals [19]:
+			xmin = 1.950000
+			xmax = 2.030000
+			text = "ŋ"
+		intervals [20]:
+			xmin = 2.030000
+			xmax = 2.115000
+			text = "k"
+		intervals [21]:
+			xmin = 2.115000
+			xmax = 2.295000
+			text = "ɔ"
+		intervals [22]:
+			xmin = 2.295000
+			xmax = 2.450000
+			text = "s"
+		intervals [23]:
+			xmin = 2.450000
+			xmax = 2.600000
+			text = "i"
+		intervals [24]:
+			xmin = 2.600000
+			xmax = 2.880000
+			text = "pau"
+	item [2]:
+		class = "IntervalTier"
+		name = "syllable"
+		xmin = 0
+		xmax = 2.880000
+		intervals: size = 12
+		intervals [1]:
+			xmin = 0.000000
+			xmax = 0.050000
+			text = "NONE"
+		intervals [2]:
+			xmin = 0.050000
+			xmax = 0.380000
+			text = "syl"
+		intervals [3]:
+			xmin = 0.380000
+			xmax = 0.685000
+			text = "syl"
+		intervals [4]:
+			xmin = 0.685000
+			xmax = 0.810000
+			text = "syl"
+		intervals [5]:
+			xmin = 0.810000
+			xmax = 1.070000
+			text = "syl"
+		intervals [6]:
+			xmin = 1.070000
+			xmax = 1.355000
+			text = "syl"
+		intervals [7]:
+			xmin = 1.355000
+			xmax = 1.540000
+			text = "syl"
+		intervals [8]:
+			xmin = 1.540000
+			xmax = 1.835000
+			text = "syl"
+		intervals [9]:
+			xmin = 1.835000
+			xmax = 2.030000
+			text = "syl"
+		intervals [10]:
+			xmin = 2.030000
+			xmax = 2.295000
+			text = "syl"
+		intervals [11]:
+			xmin = 2.295000
+			xmax = 2.600000
+			text = "syl"
+		intervals [12]:
+			xmin = 2.600000
+			xmax = 2.880000
+			text = "NONE"
+	item [3]:
+		class = "IntervalTier"
+		name = "word"
+		xmin = 0
+		xmax = 2.880000
+		intervals: size = 7
+		intervals [1]:
+			xmin = 0.000000
+			xmax = 0.050000
+			text = "NONE"
+		intervals [2]:
+			xmin = 0.050000
+			xmax = 0.810000
+			text = "kabanga"
+		intervals [3]:
+			xmin = 0.810000
+			xmax = 1.355000
+			text = "yona"
+		intervals [4]:
+			xmin = 1.355000
+			xmax = 1.540000
+			text = "ke"
+		intervals [5]:
+			xmin = 1.540000
+			xmax = 1.835000
+			text = "nje"
+		intervals [6]:
+			xmin = 1.835000
+			xmax = 2.600000
+			text = "inkosi"
+		intervals [7]:
+			xmin = 2.600000
+			xmax = 2.880000
+			text = "NONE"
+	item [4]:
+		class = "IntervalTier"
+		name = "phrase"
+		xmin = 0
+		xmax = 2.880000
+		intervals: size = 3
+		intervals [1]:
+			xmin = 0.000000
+			xmax = 0.050000
+			text = "NONE"
+		intervals [2]:
+			xmin = 0.050000
+			xmax = 2.600000
+			text = "BB"
+		intervals [3]:
+			xmin = 2.600000
+			xmax = 2.880000
+			text = "NONE"
+	item [5]:
+		class = "IntervalTier"
+		name = "text"
+		xmin = 0
+		xmax = 2.880000
+		intervals: size = 1
+		intervals [1]:
+			xmin = 0.000000
+			xmax = 2.880000
+			text = "Kabanga yona-ke nje inkosi?"

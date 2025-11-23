@@ -1,0 +1,242 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0
+xmax = 3.770000
+tiers? <exists>
+size = 5
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "segment"
+		xmin = 0
+		xmax = 3.770000
+		intervals: size = 23
+		intervals [1]:
+			xmin = 0.000000
+			xmax = 0.250000
+			text = "pau"
+		intervals [2]:
+			xmin = 0.250000
+			xmax = 0.310000
+			text = "eng_t"
+		intervals [3]:
+			xmin = 0.310000
+			xmax = 0.335000
+			text = "eng_w"
+		intervals [4]:
+			xmin = 0.335000
+			xmax = 0.390000
+			text = "eng_ɛ"
+		intervals [5]:
+			xmin = 0.390000
+			xmax = 0.490000
+			text = "eng_n"
+		intervals [6]:
+			xmin = 0.490000
+			xmax = 0.555000
+			text = "eng_t"
+		intervals [7]:
+			xmin = 0.555000
+			xmax = 0.600000
+			text = "eng_ɪ"
+		intervals [8]:
+			xmin = 0.600000
+			xmax = 0.715000
+			text = "eng_f"
+		intervals [9]:
+			xmin = 0.715000
+			xmax = 0.890000
+			text = "eng_ɔ"
+		intervals [10]:
+			xmin = 0.890000
+			xmax = 1.120000
+			text = "eng_ɹ"
+		intervals [11]:
+			xmin = 1.120000
+			xmax = 1.600000
+			text = "pau"
+		intervals [12]:
+			xmin = 1.600000
+			xmax = 1.740000
+			text = "eng_z"
+		intervals [13]:
+			xmin = 1.740000
+			xmax = 1.880000
+			text = "eng_ɪə"
+		intervals [14]:
+			xmin = 1.880000
+			xmax = 1.985000
+			text = "eng_ɹ"
+		intervals [15]:
+			xmin = 1.985000
+			xmax = 2.285000
+			text = "eng_əʊ"
+		intervals [16]:
+			xmin = 2.285000
+			xmax = 2.620000
+			text = "pau"
+		intervals [17]:
+			xmin = 2.620000
+			xmax = 2.705000
+			text = "eng_ɪ"
+		intervals [18]:
+			xmin = 2.705000
+			xmax = 2.750000
+			text = "eng_l"
+		intervals [19]:
+			xmin = 2.750000
+			xmax = 2.885000
+			text = "eng_ɛ"
+		intervals [20]:
+			xmin = 2.885000
+			xmax = 2.940000
+			text = "eng_v"
+		intervals [21]:
+			xmin = 2.940000
+			xmax = 3.015000
+			text = "eng_ə"
+		intervals [22]:
+			xmin = 3.015000
+			xmax = 3.280000
+			text = "eng_n"
+		intervals [23]:
+			xmin = 3.280000
+			xmax = 3.770000
+			text = "pau"
+	item [2]:
+		class = "IntervalTier"
+		name = "syllable"
+		xmin = 0
+		xmax = 3.770000
+		intervals: size = 12
+		intervals [1]:
+			xmin = 0.000000
+			xmax = 0.250000
+			text = "NONE"
+		intervals [2]:
+			xmin = 0.250000
+			xmax = 0.490000
+			text = "syl"
+		intervals [3]:
+			xmin = 0.490000
+			xmax = 0.600000
+			text = "syl"
+		intervals [4]:
+			xmin = 0.600000
+			xmax = 1.120000
+			text = "syl"
+		intervals [5]:
+			xmin = 1.120000
+			xmax = 1.600000
+			text = "NONE"
+		intervals [6]:
+			xmin = 1.600000
+			xmax = 1.880000
+			text = "syl"
+		intervals [7]:
+			xmin = 1.880000
+			xmax = 2.285000
+			text = "syl"
+		intervals [8]:
+			xmin = 2.285000
+			xmax = 2.620000
+			text = "NONE"
+		intervals [9]:
+			xmin = 2.620000
+			xmax = 2.705000
+			text = "syl"
+		intervals [10]:
+			xmin = 2.705000
+			xmax = 2.885000
+			text = "syl"
+		intervals [11]:
+			xmin = 2.885000
+			xmax = 3.280000
+			text = "syl"
+		intervals [12]:
+			xmin = 3.280000
+			xmax = 3.770000
+			text = "NONE"
+	item [3]:
+		class = "IntervalTier"
+		name = "word"
+		xmin = 0
+		xmax = 3.770000
+		intervals: size = 8
+		intervals [1]:
+			xmin = 0.000000
+			xmax = 0.250000
+			text = "NONE"
+		intervals [2]:
+			xmin = 0.250000
+			xmax = 0.600000
+			text = "twenty"
+		intervals [3]:
+			xmin = 0.600000
+			xmax = 1.120000
+			text = "four"
+		intervals [4]:
+			xmin = 1.120000
+			xmax = 1.600000
+			text = "NONE"
+		intervals [5]:
+			xmin = 1.600000
+			xmax = 2.285000
+			text = "zero"
+		intervals [6]:
+			xmin = 2.285000
+			xmax = 2.620000
+			text = "NONE"
+		intervals [7]:
+			xmin = 2.620000
+			xmax = 3.280000
+			text = "eleven"
+		intervals [8]:
+			xmin = 3.280000
+			xmax = 3.770000
+			text = "NONE"
+	item [4]:
+		class = "IntervalTier"
+		name = "phrase"
+		xmin = 0
+		xmax = 3.770000
+		intervals: size = 7
+		intervals [1]:
+			xmin = 0.000000
+			xmax = 0.250000
+			text = "NONE"
+		intervals [2]:
+			xmin = 0.250000
+			xmax = 1.120000
+			text = "BB"
+		intervals [3]:
+			xmin = 1.120000
+			xmax = 1.600000
+			text = "NONE"
+		intervals [4]:
+			xmin = 1.600000
+			xmax = 2.285000
+			text = "BB"
+		intervals [5]:
+			xmin = 2.285000
+			xmax = 2.620000
+			text = "NONE"
+		intervals [6]:
+			xmin = 2.620000
+			xmax = 3.280000
+			text = "BB"
+		intervals [7]:
+			xmin = 3.280000
+			xmax = 3.770000
+			text = "NONE"
+	item [5]:
+		class = "IntervalTier"
+		name = "text"
+		xmin = 0
+		xmax = 3.770000
+		intervals: size = 1
+		intervals [1]:
+			xmin = 0.000000
+			xmax = 3.770000
+			text = "|twenty-|four, |zero, |eleven"

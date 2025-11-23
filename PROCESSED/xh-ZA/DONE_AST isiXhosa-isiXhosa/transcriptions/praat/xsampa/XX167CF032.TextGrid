@@ -1,0 +1,76 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 5.484 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 5.484 
+        intervals: size = 7 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.22826262712075371 
+            text = "(u) ~a (/u)" 
+        intervals [2]:
+            xmin = 0.22826262712075371 
+            xmax = 0.32908812513857577 
+            text = "[ext]" 
+        intervals [3]:
+            xmin = 0.32908812513857577 
+            xmax = 0.55976240252818965 
+            text = "0" 
+        intervals [4]:
+            xmin = 0.55976240252818965 
+            xmax = 0.62995133110184442 
+            text = "[ext]" 
+        intervals [5]:
+            xmin = 0.62995133110184442 
+            xmax = 1.2968473523996724 
+            text = "0" 
+        intervals [6]:
+            xmin = 1.2968473523996724 
+            xmax = 2.4390352503124975 
+            text = "(u) ngoLwesine (/u)" 
+        intervals [7]:
+            xmin = 2.4390352503124975 
+            xmax = 5.484 
+            text = "0" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 5.484 
+        intervals: size = 7 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.22826262712075371 
+            text = "(u) a (/u)" 
+        intervals [2]:
+            xmin = 0.22826262712075371 
+            xmax = 0.32908812513857577 
+            text = "[ext]" 
+        intervals [3]:
+            xmin = 0.32908812513857577 
+            xmax = 0.55976240252818965 
+            text = "0" 
+        intervals [4]:
+            xmin = 0.55976240252818965 
+            xmax = 0.62995133110184442 
+            text = "[ext]" 
+        intervals [5]:
+            xmin = 0.62995133110184442 
+            xmax = 1.2968473523996724 
+            text = "0" 
+        intervals [6]:
+            xmin = 1.2968473523996724 
+            xmax = 2.4390352503124975 
+            text = "(u) NOlwesi:nE (/u)" 
+        intervals [7]:
+            xmin = 2.4390352503124975 
+            xmax = 5.484 
+            text = "0" 

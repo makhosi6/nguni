@@ -1,0 +1,100 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 8.1600000000000001 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 8.1600000000000001 
+        intervals: size = 10 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.057988443517946943 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.057988443517946943 
+            xmax = 2.3354356427597853 
+            text = "[int]" 
+        intervals [3]:
+            xmin = 2.3354356427597853 
+            xmax = 3.0182596709629199 
+            text = "(s) ngu ($)seven(/$) (/s)" 
+        intervals [4]:
+            xmin = 3.0182596709629199 
+            xmax = 3.7027185309758588 
+            text = "0" 
+        intervals [5]:
+            xmin = 3.7027185309758588 
+            xmax = 4.1817471213133706 
+            text = "[spk]" 
+        intervals [6]:
+            xmin = 4.1817471213133706 
+            xmax = 5.0496143737662349 
+            text = "(s) yintsimbi yesixhenxe (/s)" 
+        intervals [7]:
+            xmin = 5.0496143737662349 
+            xmax = 5.9570042356565267 
+            text = "0" 
+        intervals [8]:
+            xmin = 5.9570042356565267 
+            xmax = 6.1691859060402692 
+            text = "[ext]" 
+        intervals [9]:
+            xmin = 6.1691859060402692 
+            xmax = 7.6266260536941282 
+            text = "[sta]" 
+        intervals [10]:
+            xmin = 7.6266260536941282 
+            xmax = 8.1600000000000001 
+            text = "[int]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 8.1600000000000001 
+        intervals: size = 10 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.057988443517946943 
+            text = "0"
+        intervals [2]:
+            xmin = 0.057988443517946943 
+            xmax = 2.3354356427597853 
+            text = "[int]"
+        intervals [3]:
+            xmin = 2.3354356427597853 
+            xmax = 3.0182596709629199 
+            text = "(s) Ngu ($)sEv@n(/$) (/s)"
+        intervals [4]:
+            xmin = 3.0182596709629199 
+            xmax = 3.7027185309758588 
+            text = "0"
+        intervals [5]:
+            xmin = 3.7027185309758588 
+            xmax = 4.1817471213133706 
+            text = "[spk]"
+        intervals [6]:
+            xmin = 4.1817471213133706 
+            xmax = 5.0496143737662349 
+            text = "(s) nt-\s_>imbi jes|\|\_hE|\|\~ (/s)"
+        intervals [7]:
+            xmin = 5.0496143737662349 
+            xmax = 5.9570042356565267 
+            text = "0"
+        intervals [8]:
+            xmin = 5.9570042356565267 
+            xmax = 6.1691859060402692 
+            text = "[ext]"
+        intervals [9]:
+            xmin = 6.1691859060402692 
+            xmax = 7.6266260536941282 
+            text = "[sta]"
+        intervals [10]:
+            xmin = 7.6266260536941282 
+            xmax = 8.1600000000000001 
+            text = "[int]"

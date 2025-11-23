@@ -1,0 +1,68 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 3.7919999999999998 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 3.7919999999999998 
+        intervals: size = 6
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.20135370728301238 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.20135370728301238 
+            xmax = 1.7229673118529838 
+            text = "(u) [int] iiveki [/int] ezimbini (/u)" 
+        intervals [3]:
+            xmin = 1.7229673118529838 
+            xmax = 1.9337879962355418 
+            text = "[spk]" 
+        intervals [4]:
+            xmin = 1.9337879962355418 
+            xmax = 3.342142187919463 
+            text = "[sta]" 
+        intervals [5]:
+            xmin = 3.342142187919463 
+            xmax = 3.434880765100671 
+            text = "[ext]" 
+        intervals [6]:
+            xmin = 3.434880765100671 
+            xmax = 3.7919999999999998 
+            text = "[sta]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 3.7919999999999998 
+        intervals: size = 6
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.20135370728301238 
+            text = "0"
+        intervals [2]:
+            xmin = 0.20135370728301238 
+            xmax = 1.7229673118529838 
+            text = "(u) [int] i:vek_>i [/int] ez@mbini (/u)"
+        intervals [3]:
+            xmin = 1.7229673118529838 
+            xmax = 1.9337879962355418 
+            text = "[spk]"
+        intervals [4]:
+            xmin = 1.9337879962355418 
+            xmax = 3.342142187919463 
+            text = "[sta]"
+        intervals [5]:
+            xmin = 3.342142187919463 
+            xmax = 3.434880765100671 
+            text = "[ext]"
+        intervals [6]:
+            xmin = 3.434880765100671 
+            xmax = 3.7919999999999998 
+            text = "[sta]"

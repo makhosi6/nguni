@@ -1,0 +1,60 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 10.416 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic"
+        xmin = 0 
+        xmax = 10.416 
+        intervals: size = 5
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.76408109990341644 
+            text = "[int]" 
+        intervals [2]:
+            xmin = 0.76408109990341644 
+            xmax = 1.3410571560412676 
+            text = "(u) [int] inambari [/int] (/u)"
+        intervals [3]:
+            xmin = 1.3410571560412676 
+            xmax = 1.4090915453035302 
+            text = "[sta]" 
+        intervals [4]:
+            xmin = 1.4090915453035302 
+            xmax = 2.9895748430597542 
+            text = "(u) ($)[sta] five six [/sta] [int] eight nine [/int](/$) (/u)" 
+        intervals [5]:
+            xmin = 2.9895748430597542 
+            xmax = 10.416 
+            text = "[int]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 10.416 
+        intervals: size = 5
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.76408109990341644 
+            text = "[int]"
+        intervals [2]:
+            xmin = 0.76408109990341644 
+            xmax = 1.3410571560412676 
+            text = "(u) [int] nambari [/int] (/u)"
+        intervals [3]:
+            xmin = 1.3410571560412676 
+            xmax = 1.4090915453035302 
+            text = "[sta]"
+        intervals [4]:
+            xmin = 1.4090915453035302 
+            xmax = 2.9895748430597542 
+            text = "(u) ($)[sta] fa-\if siks [/sta] [int] E-\It na-\in [/int](/$) (/u)"
+        intervals [5]:
+            xmin = 2.9895748430597542 
+            xmax = 10.416 
+            text = "[int]"

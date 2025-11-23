@@ -1,0 +1,76 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 6.7439999999999998 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 6.7439999999999998 
+        intervals: size = 7 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.55127380183207897 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.55127380183207897 
+            xmax = 0.90830988006031232 
+            text = "[spk]" 
+        intervals [3]:
+            xmin = 0.90830988006031232 
+            xmax = 2.1157790910654835 
+            text = "[sta]" 
+        intervals [4]:
+            xmin = 2.1157790910654835 
+            xmax = 2.5704126055591252 
+            text = "[spk]" 
+        intervals [5]:
+            xmin = 2.5704126055591252 
+            xmax = 4.7109350428561303 
+            text = "(u) umhla umhla wesithandathu kweyeNkanga (/u)" 
+        intervals [6]:
+            xmin = 4.7109350428561303 
+            xmax = 5.9309685181999408 
+            text = "0" 
+        intervals [7]:
+            xmin = 5.9309685181999408 
+            xmax = 6.7439999999999998 
+            text = "[int]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 6.7439999999999998 
+        intervals: size = 7 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.55127380183207897 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.55127380183207897 
+            xmax = 0.90830988006031232 
+            text = "[spk]" 
+        intervals [3]:
+            xmin = 0.90830988006031232 
+            xmax = 2.1157790910654835 
+            text = "[sta]" 
+        intervals [4]:
+            xmin = 2.1157790910654835 
+            xmax = 2.5704126055591252 
+            text = "[spk]" 
+        intervals [5]:
+            xmin = 2.5704126055591252 
+            xmax = 4.7109350428561303 
+            text = "(u) um=Ka um=Ka west_handat_h k_>wEjENk_>aNga (/u)" 
+        intervals [6]:
+            xmin = 4.7109350428561303 
+            xmax = 5.9309685181999408 
+            text = "0" 
+        intervals [7]:
+            xmin = 5.9309685181999408 
+            xmax = 6.7439999999999998 
+            text = "[int]" 

@@ -1,0 +1,68 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 6.6600000000000001 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic"
+        xmin = 0 
+        xmax = 6.6600000000000001 
+        intervals: size = 6
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.0667329991080492 
+            text = "0" 
+        intervals [2]:
+            xmin = 1.0667329991080492 
+            xmax = 1.9308894903577034 
+            text = "(u) [int] inambari [/int] (/u)" 
+        intervals [3]:
+            xmin = 1.9308894903577034 
+            xmax = 2.651019899732415 
+            text = "[int]" 
+        intervals [4]:
+            xmin = 2.651019899732415 
+            xmax = 3.6797776274105747 
+            text = "(u) [int] ($)number seven(/$) [/int] (/u)" 
+        intervals [5]:
+            xmin = 3.6797776274105747 
+            xmax = 5.315502414418849 
+            text = "[int]" 
+        intervals [6]:
+            xmin = 5.315502414418849 
+            xmax = 6.6600000000000001 
+            text = "[sta]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 6.6600000000000001 
+        intervals: size = 6
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.0667329991080492 
+            text = "0"
+        intervals [2]:
+            xmin = 1.0667329991080492 
+            xmax = 1.9308894903577034 
+            text = "(u) [int] inambari [/int] (/u)"
+        intervals [3]:
+            xmin = 1.9308894903577034 
+            xmax = 2.651019899732415 
+            text = "[int]"
+        intervals [4]:
+            xmin = 2.651019899732415 
+            xmax = 3.6797776274105747 
+            text = "(u) [int] ($)namba sEvEn(/$) [/int] (/u)"
+        intervals [5]:
+            xmin = 3.6797776274105747 
+            xmax = 5.315502414418849 
+            text = "[int]"
+        intervals [6]:
+            xmin = 5.315502414418849 
+            xmax = 6.6600000000000001 
+            text = "[sta]"

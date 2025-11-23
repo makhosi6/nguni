@@ -1,0 +1,60 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 7.1280000000000001 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 7.1280000000000001 
+        intervals: size = 5
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.32385409688420247 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.32385409688420247 
+            xmax = 0.80776876032201539 
+            text = "[spk]" 
+        intervals [3]:
+            xmin = 0.80776876032201539 
+            xmax = 4.6206535815939285 
+            text = "(u) [sta] ngomhla weshumi elinesibhozo kuSeptemba ($)nineteen ninety nine(/$) [/sta] (/u)" 
+        intervals [4]:
+            xmin = 4.6206535815939285 
+            xmax = 4.9204667718120811 
+            text = "[spk]" 
+        intervals [5]:
+            xmin = 4.9204667718120811 
+            xmax = 7.1280000000000001 
+            text = "[int]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 7.1280000000000001 
+        intervals: size = 5
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.32385409688420247 
+            text = "0"
+        intervals [2]:
+            xmin = 0.32385409688420247 
+            xmax = 0.80776876032201539 
+            text = "[spk]"
+        intervals [3]:
+            xmin = 0.80776876032201539 
+            xmax = 4.6206535815939285 
+            text = "(u) [sta] NgOm=Ka weSumi elinesib_0OzO k_>usEpt_>Emba ($)na-\intin na-\inti na-\in(/$) [/sta] (/u)"
+        intervals [4]:
+            xmin = 4.6206535815939285 
+            xmax = 4.9204667718120811 
+            text = "[spk]"
+        intervals [5]:
+            xmin = 4.9204667718120811 
+            xmax = 7.1280000000000001 
+            text = "[int]"

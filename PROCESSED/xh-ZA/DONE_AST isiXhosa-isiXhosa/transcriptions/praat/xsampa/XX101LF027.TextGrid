@@ -1,0 +1,60 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 10.26 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 10.26 
+        intervals: size = 5
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.39904479748524124 
+            text = "[spk]" 
+        intervals [2]:
+            xmin = 0.39904479748524124 
+            xmax = 5.0487303568762654 
+            text = "(s) nceda 0 dwelisa zonke *iinkonzo ezifumaneka *ehotele (/s)" 
+        intervals [3]:
+            xmin = 5.0487303568762654 
+            xmax = 5.8090701224373778 
+            text = "0" 
+        intervals [4]:
+            xmin = 5.8090701224373778 
+            xmax = 8.26806864064603 
+            text = "(u) iinkonzo (/u)" 
+        intervals [5]:
+            xmin = 8.26806864064603 
+            xmax = 10.26 
+            text = "0" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 10.26 
+        intervals: size = 5
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.39904479748524124 
+            text = "[spk]" 
+        intervals [2]:
+            xmin = 0.39904479748524124 
+            xmax = 5.0487303568762654 
+            text = "(s) |\~Eda 0 dwelisa zONk_>E i:Nk_>OzO ezifumanEk_>a Eh\Ot_>El (/s)" 
+        intervals [3]:
+            xmin = 5.0487303568762654 
+            xmax = 5.8090701224373778 
+            text = "0" 
+        intervals [4]:
+            xmin = 5.8090701224373778 
+            xmax = 8.26806864064603 
+            text = "(u) i:Nk_>Ond-\zO (/u)"
+        intervals [5]:
+            xmin = 8.26806864064603 
+            xmax = 10.26 
+            text = "0" 

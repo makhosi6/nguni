@@ -1,0 +1,52 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 8.7959999999999994 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 8.7959999999999994 
+        intervals: size = 4 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.31777811956349805 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.31777811956349805 
+            xmax = 5.5583915039616922 
+            text = "(s) ndafunda eMpuma Koloni 0 [spk] 0 kwisikolo ekuthiwa yiNtaba kaNdoda ($)high school(/$) 0 e 0 ($)Debe_Nek(/$) (/s)" 
+        intervals [3]:
+            xmin = 5.5583915039616922 
+            xmax = 5.8746294234914336 
+            text = "[spk]" 
+        intervals [4]:
+            xmin = 5.8746294234914336 
+            xmax = 8.7959999999999994 
+            text = "0" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 8.7959999999999994 
+        intervals: size = 4 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.31777811956349805 
+            text = "0"
+        intervals [2]:
+            xmin = 0.31777811956349805 
+            xmax = 5.5583915039616922 
+            text = "(s) ndafunda emp_>uma k_>Oloni 0 [spk] 0 k_>wisk_>OlO ek_>t_hiwa jint_>ab_<a k_>andOd_0a ($)ha-\i skul(/$) 0 E 0 ($)dEb_<EnEk(/$) (/s)"
+        intervals [3]:
+            xmin = 5.5583915039616922 
+            xmax = 5.8746294234914336 
+            text = "[spk]"
+        intervals [4]:
+            xmin = 5.8746294234914336 
+            xmax = 8.7959999999999994 
+            text = "0"

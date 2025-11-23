@@ -1,0 +1,44 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 72.036000000000001 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 72.036000000000001 
+        intervals: size = 3 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.0432308884478574 
+            text = "[int]" 
+        intervals [2]:
+            xmin = 1.0432308884478574 
+            xmax = 20.398576748669417 
+            text = "(s) [int] umhla wam wokuzalwa ndizalwe ngamhla wamashumi amathathu 0 kweyoMnga ezinyangeni 0 ngonyaka ka ($)nineteen seventy one(/$) oko ngonyaka wewaka elinamakhulu alithoba 0 amashumi asixhenxe ananye [/int] (/s)" 
+        intervals [3]:
+            xmin = 20.398576748669417 
+            xmax = 72.036000000000001 
+            text = "[int]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 72.036000000000001 
+        intervals: size = 3 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.0432308884478574 
+            text = "[int]" 
+        intervals [2]:
+            xmin = 1.0432308884478574 
+            xmax = 20.398576748669417 
+            text = "(s) [int] umKa wam wok_>uzalwa ndizalwE NgamKa wamaSumi amat_hat_hu 0 k_>wEjOmNga eziJaNgeni 0 NgOJak_>a k_>a ($)na-\Inti:n sEvEnti wan(/$) Ok_>O NgOJak_>a wEwak_>a elinamak_hulu alit_hOb_<a 0 amaSumi asi|\|\_hE|\|\~E anaJE [/int] (/s)" 
+        intervals [3]:
+            xmin = 20.398576748669417 
+            xmax = 72.036000000000001 
+            text = "[int]" 

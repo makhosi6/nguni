@@ -1,0 +1,274 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0
+xmax = 3.150000
+tiers? <exists>
+size = 5
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "segment"
+		xmin = 0
+		xmax = 3.150000
+		intervals: size = 28
+		intervals [1]:
+			xmin = 0.000000
+			xmax = 0.260000
+			text = "pau"
+		intervals [2]:
+			xmin = 0.260000
+			xmax = 0.335000
+			text = "ɔ"
+		intervals [3]:
+			xmin = 0.335000
+			xmax = 0.430000
+			text = "tlʼ"
+		intervals [4]:
+			xmin = 0.430000
+			xmax = 0.495000
+			text = "ɔ"
+		intervals [5]:
+			xmin = 0.495000
+			xmax = 0.595000
+			text = "x"
+		intervals [6]:
+			xmin = 0.595000
+			xmax = 0.680000
+			text = "ɛ"
+		intervals [7]:
+			xmin = 0.680000
+			xmax = 0.745000
+			text = "l"
+		intervals [8]:
+			xmin = 0.745000
+			xmax = 0.825000
+			text = "ɛ"
+		intervals [9]:
+			xmin = 0.825000
+			xmax = 0.940000
+			text = "x"
+		intervals [10]:
+			xmin = 0.940000
+			xmax = 1.000000
+			text = "ɔ"
+		intervals [11]:
+			xmin = 1.000000
+			xmax = 1.100000
+			text = "n"
+		intervals [12]:
+			xmin = 1.100000
+			xmax = 1.150000
+			text = "n"
+		intervals [13]:
+			xmin = 1.150000
+			xmax = 1.200000
+			text = "a"
+		intervals [14]:
+			xmin = 1.200000
+			xmax = 1.350000
+			text = "ɔ"
+		intervals [15]:
+			xmin = 1.350000
+			xmax = 1.450000
+			text = "n"
+		intervals [16]:
+			xmin = 1.450000
+			xmax = 1.545000
+			text = "tsʼ"
+		intervals [17]:
+			xmin = 1.545000
+			xmax = 1.605000
+			text = "ɛ"
+		intervals [18]:
+			xmin = 1.605000
+			xmax = 1.715000
+			text = "ɔ"
+		intervals [19]:
+			xmin = 1.715000
+			xmax = 1.780000
+			text = "j"
+		intervals [20]:
+			xmin = 1.780000
+			xmax = 1.835000
+			text = "a"
+		intervals [21]:
+			xmin = 1.835000
+			xmax = 1.890000
+			text = "l"
+		intervals [22]:
+			xmin = 1.890000
+			xmax = 1.945000
+			text = "ɛ"
+		intervals [23]:
+			xmin = 1.945000
+			xmax = 2.070000
+			text = "s"
+		intervals [24]:
+			xmin = 2.070000
+			xmax = 2.225000
+			text = "ɛ"
+		intervals [25]:
+			xmin = 2.225000
+			xmax = 2.400000
+			text = "kx"
+		intervals [26]:
+			xmin = 2.400000
+			xmax = 2.445000
+			text = "w"
+		intervals [27]:
+			xmin = 2.445000
+			xmax = 2.590000
+			text = "a"
+		intervals [28]:
+			xmin = 2.590000
+			xmax = 3.150000
+			text = "pau"
+	item [2]:
+		class = "IntervalTier"
+		name = "syllable"
+		xmin = 0
+		xmax = 3.150000
+		intervals: size = 15
+		intervals [1]:
+			xmin = 0.000000
+			xmax = 0.260000
+			text = "NONE"
+		intervals [2]:
+			xmin = 0.260000
+			xmax = 0.335000
+			text = "syl"
+		intervals [3]:
+			xmin = 0.335000
+			xmax = 0.495000
+			text = "syl"
+		intervals [4]:
+			xmin = 0.495000
+			xmax = 0.680000
+			text = "syl"
+		intervals [5]:
+			xmin = 0.680000
+			xmax = 0.825000
+			text = "syl"
+		intervals [6]:
+			xmin = 0.825000
+			xmax = 1.000000
+			text = "syl"
+		intervals [7]:
+			xmin = 1.000000
+			xmax = 1.200000
+			text = "syl"
+		intervals [8]:
+			xmin = 1.200000
+			xmax = 1.350000
+			text = "syl"
+		intervals [9]:
+			xmin = 1.350000
+			xmax = 1.605000
+			text = "syl"
+		intervals [10]:
+			xmin = 1.605000
+			xmax = 1.715000
+			text = "syl"
+		intervals [11]:
+			xmin = 1.715000
+			xmax = 1.835000
+			text = "syl"
+		intervals [12]:
+			xmin = 1.835000
+			xmax = 1.945000
+			text = "syl"
+		intervals [13]:
+			xmin = 1.945000
+			xmax = 2.400000
+			text = "syl"
+		intervals [14]:
+			xmin = 2.400000
+			xmax = 2.590000
+			text = "syl"
+		intervals [15]:
+			xmin = 2.590000
+			xmax = 3.150000
+			text = "NONE"
+	item [3]:
+		class = "IntervalTier"
+		name = "word"
+		xmin = 0
+		xmax = 3.150000
+		intervals: size = 12
+		intervals [1]:
+			xmin = 0.000000
+			xmax = 0.260000
+			text = "NONE"
+		intervals [2]:
+			xmin = 0.260000
+			xmax = 0.335000
+			text = "o"
+		intervals [3]:
+			xmin = 0.335000
+			xmax = 0.825000
+			text = "tlogele"
+		intervals [4]:
+			xmin = 0.825000
+			xmax = 1.000000
+			text = "go"
+		intervals [5]:
+			xmin = 1.000000
+			xmax = 1.200000
+			text = "nna"
+		intervals [6]:
+			xmin = 1.200000
+			xmax = 1.350000
+			text = "o"
+		intervals [7]:
+			xmin = 1.350000
+			xmax = 1.605000
+			text = "ntse"
+		intervals [8]:
+			xmin = 1.605000
+			xmax = 1.715000
+			text = "o"
+		intervals [9]:
+			xmin = 1.715000
+			xmax = 1.835000
+			text = "ya"
+		intervals [10]:
+			xmin = 1.835000
+			xmax = 1.945000
+			text = "le"
+		intervals [11]:
+			xmin = 1.945000
+			xmax = 2.590000
+			text = "sekgwa"
+		intervals [12]:
+			xmin = 2.590000
+			xmax = 3.150000
+			text = "NONE"
+	item [4]:
+		class = "IntervalTier"
+		name = "phrase"
+		xmin = 0
+		xmax = 3.150000
+		intervals: size = 3
+		intervals [1]:
+			xmin = 0.000000
+			xmax = 0.260000
+			text = "NONE"
+		intervals [2]:
+			xmin = 0.260000
+			xmax = 2.590000
+			text = "BB"
+		intervals [3]:
+			xmin = 2.590000
+			xmax = 3.150000
+			text = "NONE"
+	item [5]:
+		class = "IntervalTier"
+		name = "text"
+		xmin = 0
+		xmax = 3.150000
+		intervals: size = 1
+		intervals [1]:
+			xmin = 0.000000
+			xmax = 3.150000
+			text = "O tlogele go nna o ntse o ya le sekgwa."

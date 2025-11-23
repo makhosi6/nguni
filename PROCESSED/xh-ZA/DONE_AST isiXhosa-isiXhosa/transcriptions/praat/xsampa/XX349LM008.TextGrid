@@ -1,0 +1,68 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 11.676 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 11.676 
+        intervals: size = 6
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.99590245802932631 
+            text = "[sta]" 
+        intervals [2]:
+            xmin = 0.99590245802932631 
+            xmax = 6.322205909784623 
+            text = "(u) [int] ($)eight 0 eight 0 two eight 0 zero 0 eight six(/$) [/int] (/u)" 
+        intervals [3]:
+            xmin = 6.322205909784623 
+            xmax = 6.971756325855468 
+            text = "[int]" 
+        intervals [4]:
+            xmin = 6.971756325855468 
+            xmax = 7.7997217360552957 
+            text = "[sta]" 
+        intervals [5]:
+            xmin = 7.7997217360552957 
+            xmax = 8.4283779145345203 
+            text = "(u) [sta] Xhosa [/sta] (/u)" 
+        intervals [6]:
+            xmin = 8.4283779145345203 
+            xmax = 11.676 
+            text = "[int]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 11.676 
+        intervals: size = 6
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.99590245802932631 
+            text = "[sta]"
+        intervals [2]:
+            xmin = 0.99590245802932631 
+            xmax = 6.322205909784623 
+            text = "(u) [int] ($)E-\It 0 E-\It 0 tu E-\It 0 zI-\@rO 0 E-\It siks(/$) [/int] (/u)"
+        intervals [3]:
+            xmin = 6.322205909784623 
+            xmax = 6.971756325855468 
+            text = "[int]"
+        intervals [4]:
+            xmin = 6.971756325855468 
+            xmax = 7.7997217360552957 
+            text = "[sta]"
+        intervals [5]:
+            xmin = 7.7997217360552957 
+            xmax = 8.4283779145345203 
+            text = "(u) [sta] |\|\_hOsa [/sta] (/u)"
+        intervals [6]:
+            xmin = 8.4283779145345203 
+            xmax = 11.676 
+            text = "[int]"

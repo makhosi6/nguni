@@ -1,0 +1,60 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 3.48 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 3.48 
+        intervals: size = 5
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.18478663010149871 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.18478663010149871 
+            xmax = 0.73933399701343938 
+            text = "[int]" 
+        intervals [3]:
+            xmin = 0.73933399701343938 
+            xmax = 1.5239240429472067 
+            text = "(u) kuQumbu (/u)" 
+        intervals [4]:
+            xmin = 1.5239240429472067 
+            xmax = 2.5536193444580499 
+            text = "0" 
+        intervals [5]:
+            xmin = 2.5536193444580499 
+            xmax = 3.48 
+            text = "[int]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 3.48 
+        intervals: size = 5
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.18478663010149871 
+            text = "0"
+        intervals [2]:
+            xmin = 0.18478663010149871 
+            xmax = 0.73933399701343938 
+            text = "[int]"
+        intervals [3]:
+            xmin = 0.73933399701343938 
+            xmax = 1.5239240429472067 
+            text = "(u) k_>u!\umbu (/u)"
+        intervals [4]:
+            xmin = 1.5239240429472067 
+            xmax = 2.5536193444580499 
+            text = "0"
+        intervals [5]:
+            xmin = 2.5536193444580499 
+            xmax = 3.48 
+            text = "[int]"

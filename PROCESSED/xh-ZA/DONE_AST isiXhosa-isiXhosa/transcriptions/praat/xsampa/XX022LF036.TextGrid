@@ -1,0 +1,76 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 4.4764999999999997 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic"
+        xmin = 0 
+        xmax = 4.4764999999999997 
+        intervals: size = 7
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.0479214376260444 
+            text = "[int]" 
+        intervals [2]:
+            xmin = 1.0479214376260444 
+            xmax = 1.8855969484001269 
+            text = "(s) [int] ngu 0 ($)oh(/$) [/int] (/s)"
+        intervals [3]:
+            xmin = 1.8855969484001269 
+            xmax = 2.6877097716468965 
+            text = "[sta]" 
+        intervals [4]:
+            xmin = 2.6877097716468965 
+            xmax = 3.5727997835054008 
+            text = "[int]" 
+        intervals [5]:
+            xmin = 3.5727997835054008 
+            xmax = 4.1413484986217464 
+            text = "(u) ($)oh(/$) (/u)" 
+        intervals [6]:
+            xmin = 4.1413484986217464 
+            xmax = 4.3403387781639475 
+            text = "[sta]" 
+        intervals [7]:
+            xmin = 4.3403387781639475 
+            xmax = 4.4764999999999997 
+            text = "0" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 4.4764999999999997 
+        intervals: size = 7
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.0479214376260444 
+            text = "[int]"
+        intervals [2]:
+            xmin = 1.0479214376260444 
+            xmax = 1.8855969484001269 
+            text = "(s) [int] Ngu 0 ($)@U(/$) [/int] (/s)"
+        intervals [3]:
+            xmin = 1.8855969484001269 
+            xmax = 2.6877097716468965 
+            text = "[sta]"
+        intervals [4]:
+            xmin = 2.6877097716468965 
+            xmax = 3.5727997835054008 
+            text = "[int]"
+        intervals [5]:
+            xmin = 3.5727997835054008 
+            xmax = 4.1413484986217464 
+            text = "(u) ($)@U(/$) (/u)"
+        intervals [6]:
+            xmin = 4.1413484986217464 
+            xmax = 4.3403387781639475 
+            text = "[sta]"
+        intervals [7]:
+            xmin = 4.3403387781639475 
+            xmax = 4.4764999999999997 
+            text = "0"

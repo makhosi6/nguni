@@ -1,0 +1,68 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 4.0919999999999996 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 4.0919999999999996 
+        intervals: size = 6 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.324351729075392 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.324351729075392 
+            xmax = 0.87208657702126469 
+            text = "[int]" 
+        intervals [3]:
+            xmin = 0.87208657702126469 
+            xmax = 1.8030834857763613 
+            text = "(u) i ($)Zastron(/$) (/u)" 
+        intervals [4]:
+            xmin = 1.8030834857763613 
+            xmax = 2.0365897954846739 
+            text = "[spk]" 
+        intervals [5]:
+            xmin = 2.0365897954846739 
+            xmax = 2.965063307663506 
+            text = "0" 
+        intervals [6]:
+            xmin = 2.965063307663506 
+            xmax = 4.0919999999999996 
+            text = "[int]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 4.0919999999999996 
+        intervals: size = 6 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.324351729075392 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.324351729075392 
+            xmax = 0.87208657702126469 
+            text = "[int]" 
+        intervals [3]:
+            xmin = 0.87208657702126469 
+            xmax = 1.8030834857763613 
+            text = "(u) i ($)z{strOn(/$) (/u)" 
+        intervals [4]:
+            xmin = 1.8030834857763613 
+            xmax = 2.0365897954846739 
+            text = "[spk]" 
+        intervals [5]:
+            xmin = 2.0365897954846739 
+            xmax = 2.965063307663506 
+            text = "0" 
+        intervals [6]:
+            xmin = 2.965063307663506 
+            xmax = 4.0919999999999996 
+            text = "[int]" 

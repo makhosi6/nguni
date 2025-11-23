@@ -1,0 +1,76 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 5.9640000000000004 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 5.9640000000000004 
+        intervals: size = 7 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.08964941923774955 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.08964941923774955 
+            xmax = 0.48126804561875763 
+            text = "[spk]" 
+        intervals [3]:
+            xmin = 0.48126804561875763 
+            xmax = 3.9466333498618695 
+            text = "(s) mizuzu ingamashumi amabini anesine emva kwentsimbi yesibhozo (/s)" 
+        intervals [4]:
+            xmin = 3.9466333498618695 
+            xmax = 4.1569325635758316 
+            text = "0" 
+        intervals [5]:
+            xmin = 4.1569325635758316 
+            xmax = 4.3032276687681525 
+            text = "[spk]" 
+        intervals [6]:
+            xmin = 4.3032276687681525 
+            xmax = 4.6963957639725162 
+            text = "0" 
+        intervals [7]:
+            xmin = 4.6963957639725162 
+            xmax = 5.9640000000000004 
+            text = "[int]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 5.9640000000000004 
+        intervals: size = 7 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.08964941923774955 
+            text = "0"
+        intervals [2]:
+            xmin = 0.08964941923774955 
+            xmax = 0.48126804561875763 
+            text = "[spk]"
+        intervals [3]:
+            xmin = 0.48126804561875763 
+            xmax = 3.9466333498618695 
+            text = "(s) mizuzu iNgamaSum amab_<in anesinE Emva k_>went-\s_>imbi jEsb_0OzO (/s)"
+        intervals [4]:
+            xmin = 3.9466333498618695 
+            xmax = 4.1569325635758316 
+            text = "0"
+        intervals [5]:
+            xmin = 4.1569325635758316 
+            xmax = 4.3032276687681525 
+            text = "[spk]"
+        intervals [6]:
+            xmin = 4.3032276687681525 
+            xmax = 4.6963957639725162 
+            text = "0"
+        intervals [7]:
+            xmin = 4.6963957639725162 
+            xmax = 5.9640000000000004 
+            text = "[int]"

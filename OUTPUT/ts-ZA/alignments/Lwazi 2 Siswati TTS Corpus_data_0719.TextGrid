@@ -1,0 +1,274 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0
+xmax = 3.260000
+tiers? <exists>
+size = 5
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "segment"
+		xmin = 0
+		xmax = 3.260000
+		intervals: size = 30
+		intervals [1]:
+			xmin = 0.000000
+			xmax = 0.030000
+			text = "pau"
+		intervals [2]:
+			xmin = 0.030000
+			xmax = 0.080000
+			text = "tʰ"
+		intervals [3]:
+			xmin = 0.080000
+			xmax = 0.315000
+			text = "ɛ"
+		intervals [4]:
+			xmin = 0.315000
+			xmax = 0.410000
+			text = "m"
+		intervals [5]:
+			xmin = 0.410000
+			xmax = 0.470000
+			text = "b"
+		intervals [6]:
+			xmin = 0.470000
+			xmax = 0.580000
+			text = "a"
+		intervals [7]:
+			xmin = 0.580000
+			xmax = 1.200000
+			text = "pau"
+		intervals [8]:
+			xmin = 1.200000
+			xmax = 1.250000
+			text = "k"
+		intervals [9]:
+			xmin = 1.250000
+			xmax = 1.330000
+			text = "ɔ"
+		intervals [10]:
+			xmin = 1.330000
+			xmax = 1.455000
+			text = "dβ"
+		intervals [11]:
+			xmin = 1.455000
+			xmax = 1.485000
+			text = "w"
+		intervals [12]:
+			xmin = 1.485000
+			xmax = 1.575000
+			text = "a"
+		intervals [13]:
+			xmin = 1.575000
+			xmax = 1.640000
+			text = "k"
+		intervals [14]:
+			xmin = 1.640000
+			xmax = 1.710000
+			text = "ɛ"
+		intervals [15]:
+			xmin = 1.710000
+			xmax = 1.795000
+			text = "b"
+		intervals [16]:
+			xmin = 1.795000
+			xmax = 1.875000
+			text = "a"
+		intervals [17]:
+			xmin = 1.875000
+			xmax = 1.920000
+			text = "n"
+		intervals [18]:
+			xmin = 1.920000
+			xmax = 1.985000
+			text = "tɸ"
+		intervals [19]:
+			xmin = 1.985000
+			xmax = 2.030000
+			text = "u"
+		intervals [20]:
+			xmin = 2.030000
+			xmax = 2.130000
+			text = "s"
+		intervals [21]:
+			xmin = 2.130000
+			xmax = 2.180000
+			text = "ɛ"
+		intervals [22]:
+			xmin = 2.180000
+			xmax = 2.245000
+			text = "b"
+		intervals [23]:
+			xmin = 2.245000
+			xmax = 2.305000
+			text = "a"
+		intervals [24]:
+			xmin = 2.305000
+			xmax = 2.420000
+			text = "g"
+		intervals [25]:
+			xmin = 2.420000
+			xmax = 2.500000
+			text = "i"
+		intervals [26]:
+			xmin = 2.500000
+			xmax = 2.580000
+			text = "b"
+		intervals [27]:
+			xmin = 2.580000
+			xmax = 2.950000
+			text = "ɛ"
+		intervals [28]:
+			xmin = 2.950000
+			xmax = 3.050000
+			text = "l"
+		intervals [29]:
+			xmin = 3.050000
+			xmax = 3.125000
+			text = "ɛ"
+		intervals [30]:
+			xmin = 3.125000
+			xmax = 3.260000
+			text = "pau"
+	item [2]:
+		class = "IntervalTier"
+		name = "syllable"
+		xmin = 0
+		xmax = 3.260000
+		intervals: size = 15
+		intervals [1]:
+			xmin = 0.000000
+			xmax = 0.030000
+			text = "NONE"
+		intervals [2]:
+			xmin = 0.030000
+			xmax = 0.410000
+			text = "syl"
+		intervals [3]:
+			xmin = 0.410000
+			xmax = 0.580000
+			text = "syl"
+		intervals [4]:
+			xmin = 0.580000
+			xmax = 1.200000
+			text = "NONE"
+		intervals [5]:
+			xmin = 1.200000
+			xmax = 1.455000
+			text = "syl"
+		intervals [6]:
+			xmin = 1.455000
+			xmax = 1.575000
+			text = "syl"
+		intervals [7]:
+			xmin = 1.575000
+			xmax = 1.710000
+			text = "syl"
+		intervals [8]:
+			xmin = 1.710000
+			xmax = 1.920000
+			text = "syl"
+		intervals [9]:
+			xmin = 1.920000
+			xmax = 2.030000
+			text = "syl"
+		intervals [10]:
+			xmin = 2.030000
+			xmax = 2.180000
+			text = "syl"
+		intervals [11]:
+			xmin = 2.180000
+			xmax = 2.305000
+			text = "syl"
+		intervals [12]:
+			xmin = 2.305000
+			xmax = 2.500000
+			text = "syl"
+		intervals [13]:
+			xmin = 2.500000
+			xmax = 2.950000
+			text = "syl"
+		intervals [14]:
+			xmin = 2.950000
+			xmax = 3.125000
+			text = "syl"
+		intervals [15]:
+			xmin = 3.125000
+			xmax = 3.260000
+			text = "NONE"
+	item [3]:
+		class = "IntervalTier"
+		name = "word"
+		xmin = 0
+		xmax = 3.260000
+		intervals: size = 8
+		intervals [1]:
+			xmin = 0.000000
+			xmax = 0.030000
+			text = "NONE"
+		intervals [2]:
+			xmin = 0.030000
+			xmax = 0.580000
+			text = "themba"
+		intervals [3]:
+			xmin = 0.580000
+			xmax = 1.200000
+			text = "NONE"
+		intervals [4]:
+			xmin = 1.200000
+			xmax = 1.575000
+			text = "kodvwa"
+		intervals [5]:
+			xmin = 1.575000
+			xmax = 1.710000
+			text = "ke"
+		intervals [6]:
+			xmin = 1.710000
+			xmax = 2.030000
+			text = "bantfu"
+		intervals [7]:
+			xmin = 2.030000
+			xmax = 3.125000
+			text = "sebagibele"
+		intervals [8]:
+			xmin = 3.125000
+			xmax = 3.260000
+			text = "NONE"
+	item [4]:
+		class = "IntervalTier"
+		name = "phrase"
+		xmin = 0
+		xmax = 3.260000
+		intervals: size = 5
+		intervals [1]:
+			xmin = 0.000000
+			xmax = 0.030000
+			text = "NONE"
+		intervals [2]:
+			xmin = 0.030000
+			xmax = 0.580000
+			text = "BB"
+		intervals [3]:
+			xmin = 0.580000
+			xmax = 1.200000
+			text = "NONE"
+		intervals [4]:
+			xmin = 1.200000
+			xmax = 3.125000
+			text = "BB"
+		intervals [5]:
+			xmin = 3.125000
+			xmax = 3.260000
+			text = "NONE"
+	item [5]:
+		class = "IntervalTier"
+		name = "text"
+		xmin = 0
+		xmax = 3.260000
+		intervals: size = 1
+		intervals [1]:
+			xmin = 0.000000
+			xmax = 3.260000
+			text = "Themba: Kodvwa ke bantfu sebagibele"

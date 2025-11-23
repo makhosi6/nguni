@@ -1,0 +1,76 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 15.311999999999999 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 15.311999999999999 
+        intervals: size = 7 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.36703771541909952 
+            text = "[int]" 
+        intervals [2]:
+            xmin = 0.36703771541909952 
+            xmax = 2.298157656451516 
+            text = "(u) [int] inqaku ($)five(/$) libinzana [/int] (/u)" 
+        intervals [3]:
+            xmin = 2.298157656451516 
+            xmax = 3.0195553640433941 
+            text = "[int]" 
+        intervals [4]:
+            xmin = 3.0195553640433941 
+            xmax = 6.2592423319402144 
+            text = "(s) sendive ngokwaneleyo 0 [int] ungayeka ngoku [/int] (/s)" 
+        intervals [5]:
+            xmin = 6.2592423319402144 
+            xmax = 7.2083643766809598 
+            text = "0" 
+        intervals [6]:
+            xmin = 7.2083643766809598 
+            xmax = 7.8929835652865492 
+            text = "[ext]" 
+        intervals [7]:
+            xmin = 7.8929835652865492 
+            xmax = 15.311999999999999 
+            text = "0" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 15.311999999999999 
+        intervals: size = 7 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.36703771541909952 
+            text = "[int]"
+        intervals [2]:
+            xmin = 0.36703771541909952 
+            xmax = 2.298157656451516 
+            text = "(u) [int] i!\~ak_>u ($)fa-\if(/$) lib_<ind-\za:n [/int] (/u)"
+        intervals [3]:
+            xmin = 2.298157656451516 
+            xmax = 3.0195553640433941 
+            text = "[int]"
+        intervals [4]:
+            xmin = 3.0195553640433941 
+            xmax = 6.2592423319402144 
+            text = "(s) sendivE NgOk_>wanElEjO 0 [int] uNgajEk_>a Ngok_> [/int] (/s)"
+        intervals [5]:
+            xmin = 6.2592423319402144 
+            xmax = 7.2083643766809598 
+            text = "0"
+        intervals [6]:
+            xmin = 7.2083643766809598 
+            xmax = 7.8929835652865492 
+            text = "[ext]"
+        intervals [7]:
+            xmin = 7.8929835652865492 
+            xmax = 15.311999999999999 
+            text = "0"

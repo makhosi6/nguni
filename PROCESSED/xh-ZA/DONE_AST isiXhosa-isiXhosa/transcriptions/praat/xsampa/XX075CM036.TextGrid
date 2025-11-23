@@ -1,0 +1,52 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 6.2400000000000002 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic"
+        xmin = 0 
+        xmax = 6.2400000000000002 
+        intervals: size = 4
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.90533642315748997 
+            text = "(u) [sta] ibinzana [/sta] (/u)"
+        intervals [2]:
+            xmin = 0.90533642315748997 
+            xmax = 1.0090102875686005 
+            text = "[sta]" 
+        intervals [3]:
+            xmin = 1.0090102875686005 
+            xmax = 4.3493057003207882 
+            text = "(s) [sta] ndicela 0 umntu nokuba 0 ngu-opharetha 0 xa ekhona [/sta] (/s)"
+        intervals [4]:
+            xmin = 4.3493057003207882 
+            xmax = 6.2400000000000002 
+            text = "[sta]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 6.2400000000000002 
+        intervals: size = 4
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.90533642315748997 
+            text = "(u) [sta] ib_<ind-\zana [/sta] (/u)"
+        intervals [2]:
+            xmin = 0.90533642315748997 
+            xmax = 1.0090102875686005 
+            text = "[sta]"
+        intervals [3]:
+            xmin = 1.0090102875686005 
+            xmax = 4.3493057003207882 
+            text = "(s) [sta] ndi|\Ela 0 um=nt_>u nok_>ub_<a 0 NguQp_hare-\It_ha 0 |\|\a Ek_hOna [/sta] (/s)"
+        intervals [4]:
+            xmin = 4.3493057003207882 
+            xmax = 6.2400000000000002 
+            text = "[sta]"

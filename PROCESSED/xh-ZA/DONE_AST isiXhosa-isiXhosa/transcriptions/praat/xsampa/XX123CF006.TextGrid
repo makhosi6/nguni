@@ -1,0 +1,60 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 9.4199999999999999 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 9.4199999999999999 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.78817858491668313 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.78817858491668313 
+            xmax = 1.2496737241079028 
+            text = "[spk]" 
+        intervals [3]:
+            xmin = 1.2496737241079028 
+            xmax = 6.4853598703062154 
+            text = "(u) ($)ten(/$) 0 inyanga 0 ($)twenty three(/$) usuku 0 ($)eighty one(/$) unyaka (/u)" 
+        intervals [4]:
+            xmin = 6.4853598703062154 
+            xmax = 7.2235944341787937 
+            text = "0" 
+        intervals [5]:
+            xmin = 7.2235944341787937 
+            xmax = 9.4199999999999999 
+            text = "[int]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 9.4199999999999999 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.78817858491668313 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.78817858491668313 
+            xmax = 1.2496737241079028 
+            text = "[spk]" 
+        intervals [3]:
+            xmin = 1.2496737241079028 
+            xmax = 6.4853598703062154 
+            text = "(u) ($)tEn(/$) 0 iJaNga 0 ($)twEnti Tri:(/$) usuk_>u 0 ($)E-\iti wan(/$) uJak_>a (/u)" 
+        intervals [4]:
+            xmin = 6.4853598703062154 
+            xmax = 7.2235944341787937 
+            text = "0" 
+        intervals [5]:
+            xmin = 7.2235944341787937 
+            xmax = 9.4199999999999999 
+            text = "[int]" 

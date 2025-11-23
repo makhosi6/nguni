@@ -1,0 +1,76 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 4.8360000000000003 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 4.8360000000000003 
+        intervals: size = 7 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.16835533424589225 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.16835533424589225 
+            xmax = 0.3035293193553168 
+            text = "[int]" 
+        intervals [3]:
+            xmin = 0.3035293193553168 
+            xmax = 1.8657907740673045 
+            text = "(s) [sta] ndithetha ndiseMthatha [/sta] (/s)" 
+        intervals [4]:
+            xmin = 1.8657907740673045 
+            xmax = 2.5236534476010561 
+            text = "0" 
+        intervals [5]:
+            xmin = 2.5236534476010561 
+            xmax = 2.8517248808427529 
+            text = "[spk]" 
+        intervals [6]:
+            xmin = 2.8517248808427529 
+            xmax = 4.3419590868152884 
+            text = "0" 
+        intervals [7]:
+            xmin = 4.3419590868152884 
+            xmax = 4.8360000000000003 
+            text = "[spk]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 4.8360000000000003 
+        intervals: size = 7 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.16835533424589225 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.16835533424589225 
+            xmax = 0.3035293193553168 
+            text = "[int]" 
+        intervals [3]:
+            xmin = 0.3035293193553168 
+            xmax = 1.8657907740673045 
+            text = "(s) [sta] dit_hEt_ha ndisEmt_hat_ha [/sta] (/s)" 
+        intervals [4]:
+            xmin = 1.8657907740673045 
+            xmax = 2.5236534476010561 
+            text = "0" 
+        intervals [5]:
+            xmin = 2.5236534476010561 
+            xmax = 2.8517248808427529 
+            text = "[spk]" 
+        intervals [6]:
+            xmin = 2.8517248808427529 
+            xmax = 4.3419590868152884 
+            text = "0" 
+        intervals [7]:
+            xmin = 4.3419590868152884 
+            xmax = 4.8360000000000003 
+            text = "[spk]" 

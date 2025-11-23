@@ -1,0 +1,60 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 3.7919999999999998 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 3.7919999999999998 
+        intervals: size = 5
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.13159125269431993 
+            text = "0"
+        intervals [2]:
+            xmin = 0.13159125269431993 
+            xmax = 0.38738691951952559 
+            text = "[spk]"
+        intervals [3]:
+            xmin = 0.38738691951952559 
+            xmax = 1.8000766249405478 
+            text = "(u) Maphipha ($)street(/$) (/u)"
+        intervals [4]:
+            xmin = 1.8000766249405478 
+            xmax = 3.3581047774213464 
+            text = "0"
+        intervals [5]:
+            xmin = 3.3581047774213464 
+            xmax = 3.7919999999999998 
+            text = "[int]"
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 3.7919999999999998 
+        intervals: size = 5
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.13159125269431993 
+            text = "0"
+        intervals [2]:
+            xmin = 0.13159125269431993 
+            xmax = 0.38738691951952559 
+            text = "[spk]"
+        intervals [3]:
+            xmin = 0.38738691951952559 
+            xmax = 1.8000766249405478 
+            text = "(u) map_hip_ha ($)strit(/$) (/u)"
+        intervals [4]:
+            xmin = 1.8000766249405478 
+            xmax = 3.3581047774213464 
+            text = "0"
+        intervals [5]:
+            xmin = 3.3581047774213464 
+            xmax = 3.7919999999999998 
+            text = "[int]"

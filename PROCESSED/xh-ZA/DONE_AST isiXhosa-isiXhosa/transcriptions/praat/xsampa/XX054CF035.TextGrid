@@ -1,0 +1,60 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 13.164 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 13.164 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.2499776908859819 
+            text = "(u) ~ambuku semali (/u)" 
+        intervals [2]:
+            xmin = 1.2499776908859819 
+            xmax = 2.7665778795426124 
+            text = "0" 
+        intervals [3]:
+            xmin = 2.7665778795426124 
+            xmax = 3.1409643141578534 
+            text = "[spk]" 
+        intervals [4]:
+            xmin = 3.1409643141578534 
+            xmax = 11.095236926419668 
+            text = "(u) [sta] *ama+ amakhulu amathandathu 0 amawaka amathandathu anamakhulu amathandathu *an+ 0 *an+ 0 *ana+ 0 anamashumi *amahlanu [/sta] (/u)" 
+        intervals [5]:
+            xmin = 11.095236926419668 
+            xmax = 13.164 
+            text = "0" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 13.164 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.2499776908859819 
+            text = "(u) ambuk_>u sEmali (/u)" 
+        intervals [2]:
+            xmin = 1.2499776908859819 
+            xmax = 2.7665778795426124 
+            text = "0" 
+        intervals [3]:
+            xmin = 2.7665778795426124 
+            xmax = 3.1409643141578534 
+            text = "[spk]" 
+        intervals [4]:
+            xmin = 3.1409643141578534 
+            xmax = 11.095236926419668 
+            text = "(u) [sta] ama amak_hulu amat_handat_hu 0 amawak_> amat_handat_h anamak_hul amat_handat_hw an 0 an 0 ana 0 anamaSum amaKan [/sta] (/u)" 
+        intervals [5]:
+            xmin = 11.095236926419668 
+            xmax = 13.164 
+            text = "0" 

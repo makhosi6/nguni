@@ -1,0 +1,76 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 21.335999999999998 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 21.335999999999998 
+        intervals: size = 7 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.18327829292424094 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.18327829292424094 
+            xmax = 1.6935075410061828 
+            text = "[int]" 
+        intervals [3]:
+            xmin = 1.6935075410061828 
+            xmax = 3.2373345119557251 
+            text = "(u) [int] *ibinza+ ibinzana [/int] (/u)" 
+        intervals [4]:
+            xmin = 3.2373345119557251 
+            xmax = 3.9233946565027225 
+            text = "0" 
+        intervals [5]:
+            xmin = 3.9233946565027225 
+            xmax = 10.191537380625851 
+            text = "(s) [sta] ndivumelekile na ukuba ndongeze into 0 kwi ($)diary(/$) 0 kwidarekthri [/sta] (/s)" 
+        intervals [6]:
+            xmin = 10.191537380625851 
+            xmax = 11.833330659416879 
+            text = "0" 
+        intervals [7]:
+            xmin = 11.833330659416879 
+            xmax = 21.335999999999998 
+            text = "[int]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 21.335999999999998 
+        intervals: size = 7 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.18327829292424094 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.18327829292424094 
+            xmax = 1.6935075410061828 
+            text = "[int]" 
+        intervals [3]:
+            xmin = 1.6935075410061828 
+            xmax = 3.2373345119557251 
+            text = "(u) [int] ib_<ind-\za ib_<ind-\zana [/int] (/u)" 
+        intervals [4]:
+            xmin = 3.2373345119557251 
+            xmax = 3.9233946565027225 
+            text = "0" 
+        intervals [5]:
+            xmin = 3.9233946565027225 
+            xmax = 10.191537380625851 
+            text = "(s) [sta] ndivumElek_>ilE na: uk_>ub_<a ndONgEzE int_>O 0 k_>wi ($)dajari(/$) 0 k_>widarek_>t_hri [/sta] (/s)" 
+        intervals [6]:
+            xmin = 10.191537380625851 
+            xmax = 11.833330659416879 
+            text = "0" 
+        intervals [7]:
+            xmin = 11.833330659416879 
+            xmax = 21.335999999999998 
+            text = "[int]" 

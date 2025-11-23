@@ -1,0 +1,76 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 4.8600000000000003 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 4.8600000000000003 
+        intervals: size = 7
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.097223560699368411 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.097223560699368411 
+            xmax = 0.11768111644098266 
+            text = "[sta]" 
+        intervals [3]:
+            xmin = 0.11768111644098266 
+            xmax = 0.21197425745598408 
+            text = "0" 
+        intervals [4]:
+            xmin = 0.21197425745598408 
+            xmax = 0.54864899462653938 
+            text = "[spk]" 
+        intervals [5]:
+            xmin = 0.54864899462653938 
+            xmax = 1.797861354296945 
+            text = "(s) sisixhosa (/s)" 
+        intervals [6]:
+            xmin = 1.797861354296945 
+            xmax = 2.6647031947297584 
+            text = "0" 
+        intervals [7]:
+            xmin = 2.6647031947297584 
+            xmax = 4.8600000000000003 
+            text = "[int]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 4.8600000000000003 
+        intervals: size = 7
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.097223560699368411 
+            text = "0"
+        intervals [2]:
+            xmin = 0.097223560699368411 
+            xmax = 0.11768111644098266 
+            text = "[sta]"
+        intervals [3]:
+            xmin = 0.11768111644098266 
+            xmax = 0.21197425745598408 
+            text = "0"
+        intervals [4]:
+            xmin = 0.21197425745598408 
+            xmax = 0.54864899462653938 
+            text = "[spk]"
+        intervals [5]:
+            xmin = 0.54864899462653938 
+            xmax = 1.797861354296945 
+            text = "(s) sisi|\|\_hOsa (/s)"
+        intervals [6]:
+            xmin = 1.797861354296945 
+            xmax = 2.6647031947297584 
+            text = "0"
+        intervals [7]:
+            xmin = 2.6647031947297584 
+            xmax = 4.8600000000000003 
+            text = "[int]"

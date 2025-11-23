@@ -1,0 +1,60 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 14.712 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 14.712 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.87030763524154942 
+            text = "[int]" 
+        intervals [2]:
+            xmin = 0.87030763524154942 
+            xmax = 1.720112980448846 
+            text = "(u) [int] ibinzana [/int] (/u)" 
+        intervals [3]:
+            xmin = 1.720112980448846 
+            xmax = 2.2882467525810188 
+            text = "[int]" 
+        intervals [4]:
+            xmin = 2.2882467525810188 
+            xmax = 5.6280119435120444 
+            text = "(s) [int] khawukhangele ukuba ziyafumaneka na ezo ntsuku [/int] (/s)" 
+        intervals [5]:
+            xmin = 5.6280119435120444 
+            xmax = 14.712 
+            text = "[int]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 14.712 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.87030763524154942 
+            text = "[int]"
+        intervals [2]:
+            xmin = 0.87030763524154942 
+            xmax = 1.720112980448846 
+            text = "(u) [int] ib_<ind-\zan [/int] (/u)"
+        intervals [3]:
+            xmin = 1.720112980448846 
+            xmax = 2.2882467525810188 
+            text = "[int]"
+        intervals [4]:
+            xmin = 2.2882467525810188 
+            xmax = 5.6280119435120444 
+            text = "(s) [int] k_hawuk_haNgElE uk_>ub_<a zijafumanEk_>a na EzO nt-\s_>uk_> [/int] (/s)"
+        intervals [5]:
+            xmin = 5.6280119435120444 
+            xmax = 14.712 
+            text = "[int]"

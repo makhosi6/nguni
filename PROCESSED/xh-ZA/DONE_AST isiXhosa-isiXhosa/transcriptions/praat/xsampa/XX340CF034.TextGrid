@@ -1,0 +1,60 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 7.6079999999999996 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 7.6079999999999996 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.065923151683415768 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.065923151683415768 
+            xmax = 0.97420394522229004 
+            text = "(u) [int] *isambuku semali [/int] (/u)" 
+        intervals [3]:
+            xmin = 0.97420394522229004 
+            xmax = 2.0290938999410004 
+            text = "[sta]" 
+        intervals [4]:
+            xmin = 2.0290938999410004 
+            xmax = 5.6562365822153673 
+            text = "(u) [int] ($)five hundred and seventy five 0 rand 0 forty six cents(/$) [/int] (/u)" 
+        intervals [5]:
+            xmin = 5.6562365822153673 
+            xmax = 7.6079999999999996 
+            text = "[sta]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 7.6079999999999996 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.065923151683415768 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.065923151683415768 
+            xmax = 0.97420394522229004 
+            text = "(u) [int] sambuk_>u sEmali [/int] (/u)" 
+        intervals [3]:
+            xmin = 0.97420394522229004 
+            xmax = 2.0290938999410004 
+            text = "[sta]" 
+        intervals [4]:
+            xmin = 2.0290938999410004 
+            xmax = 5.6562365822153673 
+            text = "(u) [int] ($)fa-\if handrEt En sEvEnti fa-\if 0 rant 0 fOti siks sEns(/$) [/int] (/u)" 
+        intervals [5]:
+            xmin = 5.6562365822153673 
+            xmax = 7.6079999999999996 
+            text = "[sta]" 

@@ -1,0 +1,60 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 8.9160000000000004 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 8.9160000000000004 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.49417724045416311 
+            text = "[sta]" 
+        intervals [2]:
+            xmin = 0.49417724045416311 
+            xmax = 2.6704969996907564 
+            text = "(u) [sta] inqaku ($)eleven(/$) isivakalisi [/sta] (/u)" 
+        intervals [3]:
+            xmin = 2.6704969996907564 
+            xmax = 3.3472922919463093 
+            text = "[sta]" 
+        intervals [4]:
+            xmin = 3.3472922919463093 
+            xmax = 5.6092973340340615 
+            text = "(s) umfazi omdala wasekhaya (/s)" 
+        intervals [5]:
+            xmin = 5.6092973340340615 
+            xmax = 8.9160000000000004 
+            text = "[int]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 8.9160000000000004 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.49417724045416311 
+            text = "[sta]" 
+        intervals [2]:
+            xmin = 0.49417724045416311 
+            xmax = 2.6704969996907564 
+            text = "(u) [sta] i!\~ak_>u ($)ilEvEn(/$) isivak_>alis [/sta] (/u)" 
+        intervals [3]:
+            xmin = 2.6704969996907564 
+            xmax = 3.3472922919463093 
+            text = "[sta]" 
+        intervals [4]:
+            xmin = 3.3472922919463093 
+            xmax = 5.6092973340340615 
+            text = "(s) umfazi Omdala wasEk_haj (/s)" 
+        intervals [5]:
+            xmin = 5.6092973340340615 
+            xmax = 8.9160000000000004 
+            text = "[int]" 

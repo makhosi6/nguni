@@ -1,0 +1,222 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0
+xmax = 2.650000
+tiers? <exists>
+size = 5
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "segment"
+		xmin = 0
+		xmax = 2.650000
+		intervals: size = 25
+		intervals [1]:
+			xmin = 0.000000
+			xmax = 0.160000
+			text = "pau"
+		intervals [2]:
+			xmin = 0.160000
+			xmax = 0.295000
+			text = "eng_n"
+		intervals [3]:
+			xmin = 0.295000
+			xmax = 0.450000
+			text = "eng_əʊ"
+		intervals [4]:
+			xmin = 0.450000
+			xmax = 0.580000
+			text = "eng_f"
+		intervals [5]:
+			xmin = 0.580000
+			xmax = 0.665000
+			text = "eng_ɜ"
+		intervals [6]:
+			xmin = 0.665000
+			xmax = 0.700000
+			text = "eng_ð"
+		intervals [7]:
+			xmin = 0.700000
+			xmax = 0.780000
+			text = "eng_ə"
+		intervals [8]:
+			xmin = 0.780000
+			xmax = 0.805000
+			text = "eng_ɹ"
+		intervals [9]:
+			xmin = 0.805000
+			xmax = 0.925000
+			text = "eng_ɛ"
+		intervals [10]:
+			xmin = 0.925000
+			xmax = 0.970000
+			text = "eng_k"
+		intervals [11]:
+			xmin = 0.970000
+			xmax = 1.085000
+			text = "eng_s"
+		intervals [12]:
+			xmin = 1.085000
+			xmax = 1.150000
+			text = "eng_p"
+		intervals [13]:
+			xmin = 1.150000
+			xmax = 1.185000
+			text = "eng_l"
+		intervals [14]:
+			xmin = 1.185000
+			xmax = 1.320000
+			text = "eng_əʊ"
+		intervals [15]:
+			xmin = 1.320000
+			xmax = 1.420000
+			text = "eng_ʒ"
+		intervals [16]:
+			xmin = 1.420000
+			xmax = 1.450000
+			text = "eng_ə"
+		intervals [17]:
+			xmin = 1.450000
+			xmax = 1.595000
+			text = "eng_n"
+		intervals [18]:
+			xmin = 1.595000
+			xmax = 1.685000
+			text = "eng_t"
+		intervals [19]:
+			xmin = 1.685000
+			xmax = 1.775000
+			text = "eng_ʊ"
+		intervals [20]:
+			xmin = 1.775000
+			xmax = 1.800000
+			text = "eng_k"
+		intervals [21]:
+			xmin = 1.800000
+			xmax = 1.965000
+			text = "eng_p"
+		intervals [22]:
+			xmin = 1.965000
+			xmax = 1.990000
+			text = "eng_l"
+		intervals [23]:
+			xmin = 1.990000
+			xmax = 2.175000
+			text = "eng_eɪ"
+		intervals [24]:
+			xmin = 2.175000
+			xmax = 2.370000
+			text = "eng_s"
+		intervals [25]:
+			xmin = 2.370000
+			xmax = 2.650000
+			text = "pau"
+	item [2]:
+		class = "IntervalTier"
+		name = "syllable"
+		xmin = 0
+		xmax = 2.650000
+		intervals: size = 10
+		intervals [1]:
+			xmin = 0.000000
+			xmax = 0.160000
+			text = "NONE"
+		intervals [2]:
+			xmin = 0.160000
+			xmax = 0.450000
+			text = "syl"
+		intervals [3]:
+			xmin = 0.450000
+			xmax = 0.665000
+			text = "syl"
+		intervals [4]:
+			xmin = 0.665000
+			xmax = 0.805000
+			text = "syl"
+		intervals [5]:
+			xmin = 0.805000
+			xmax = 0.970000
+			text = "syl"
+		intervals [6]:
+			xmin = 0.970000
+			xmax = 1.320000
+			text = "syl"
+		intervals [7]:
+			xmin = 1.320000
+			xmax = 1.595000
+			text = "syl"
+		intervals [8]:
+			xmin = 1.595000
+			xmax = 1.800000
+			text = "syl"
+		intervals [9]:
+			xmin = 1.800000
+			xmax = 2.370000
+			text = "syl"
+		intervals [10]:
+			xmin = 2.370000
+			xmax = 2.650000
+			text = "NONE"
+	item [3]:
+		class = "IntervalTier"
+		name = "word"
+		xmin = 0
+		xmax = 2.650000
+		intervals: size = 7
+		intervals [1]:
+			xmin = 0.000000
+			xmax = 0.160000
+			text = "NONE"
+		intervals [2]:
+			xmin = 0.160000
+			xmax = 0.450000
+			text = "no"
+		intervals [3]:
+			xmin = 0.450000
+			xmax = 0.805000
+			text = "further"
+		intervals [4]:
+			xmin = 0.805000
+			xmax = 1.595000
+			text = "explosion"
+		intervals [5]:
+			xmin = 1.595000
+			xmax = 1.800000
+			text = "took"
+		intervals [6]:
+			xmin = 1.800000
+			xmax = 2.370000
+			text = "place"
+		intervals [7]:
+			xmin = 2.370000
+			xmax = 2.650000
+			text = "NONE"
+	item [4]:
+		class = "IntervalTier"
+		name = "phrase"
+		xmin = 0
+		xmax = 2.650000
+		intervals: size = 3
+		intervals [1]:
+			xmin = 0.000000
+			xmax = 0.160000
+			text = "NONE"
+		intervals [2]:
+			xmin = 0.160000
+			xmax = 2.370000
+			text = "BB"
+		intervals [3]:
+			xmin = 2.370000
+			xmax = 2.650000
+			text = "NONE"
+	item [5]:
+		class = "IntervalTier"
+		name = "text"
+		xmin = 0
+		xmax = 2.650000
+		intervals: size = 1
+		intervals [1]:
+			xmin = 0.000000
+			xmax = 2.650000
+			text = "|no |further |explosion |took |place."

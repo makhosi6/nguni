@@ -1,0 +1,52 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 4.4640000000000004 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 4.4640000000000004 
+        intervals: size = 4 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.24388042785294328 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.24388042785294328 
+            xmax = 0.39444370009815932 
+            text = "[sta]" 
+        intervals [3]:
+            xmin = 0.39444370009815932 
+            xmax = 1.2575557894736842 
+            text = "(u) lelethoba (/u)" 
+        intervals [4]:
+            xmin = 1.2575557894736842 
+            xmax = 4.4640000000000004 
+            text = "[int]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 4.4640000000000004 
+        intervals: size = 4 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.24388042785294328 
+            text = "0"
+        intervals [2]:
+            xmin = 0.24388042785294328 
+            xmax = 0.39444370009815932 
+            text = "[sta]"
+        intervals [3]:
+            xmin = 0.39444370009815932 
+            xmax = 1.2575557894736842 
+            text = "(u) lElEt_hO:b_<a (/u)"
+        intervals [4]:
+            xmin = 1.2575557894736842 
+            xmax = 4.4640000000000004 
+            text = "[int]"

@@ -1,0 +1,76 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 10.272 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 10.272 
+        intervals: size = 7 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.16419478093090331 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.16419478093090331 
+            xmax = 2.3494763521820898 
+            text = "[int]" 
+        intervals [3]:
+            xmin = 2.3494763521820898 
+            xmax = 4.2774676957152726 
+            text = "(u) e ($)Friesbank(/$) e ($)Rondebosch_East(/$) (/u)" 
+        intervals [4]:
+            xmin = 4.2774676957152726 
+            xmax = 5.0740775826104851 
+            text = "0" 
+        intervals [5]:
+            xmin = 5.0740775826104851 
+            xmax = 6.5811947398575832 
+            text = "[int]" 
+        intervals [6]:
+            xmin = 6.5811947398575832 
+            xmax = 7.2701149660266271 
+            text = "(u) [sta] eKapa [/sta] (/u)" 
+        intervals [7]:
+            xmin = 7.2701149660266271 
+            xmax = 10.272 
+            text = "0" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 10.272 
+        intervals: size = 7 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.16419478093090331 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.16419478093090331 
+            xmax = 2.3494763521820898 
+            text = "[int]" 
+        intervals [3]:
+            xmin = 2.3494763521820898 
+            xmax = 4.2774676957152726 
+            text = "(u) e ($)frizb@nk(/$) E ($)rOnd@bOSist(/$) (/u)" 
+        intervals [4]:
+            xmin = 4.2774676957152726 
+            xmax = 5.0740775826104851 
+            text = "0" 
+        intervals [5]:
+            xmin = 5.0740775826104851 
+            xmax = 6.5811947398575832 
+            text = "[int]" 
+        intervals [6]:
+            xmin = 6.5811947398575832 
+            xmax = 7.2701149660266271 
+            text = "(u) [sta] Ek_>ap_>a [/sta] (/u)" 
+        intervals [7]:
+            xmin = 7.2701149660266271 
+            xmax = 10.272 
+            text = "0" 

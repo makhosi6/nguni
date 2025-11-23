@@ -1,0 +1,60 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 7.5720000000000001 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 7.5720000000000001 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.0654185429927443 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.0654185429927443 
+            xmax = 0.19896947448952665 
+            text = "[sta]" 
+        intervals [3]:
+            xmin = 0.19896947448952665 
+            xmax = 2.2710674566631925 
+            text = "(s) andisiva isitshayina [int] ngesixhosa kuphela [/int] (/s)" 
+        intervals [4]:
+            xmin = 2.2710674566631925 
+            xmax = 2.9327621307643268 
+            text = "0" 
+        intervals [5]:
+            xmin = 2.9327621307643268 
+            xmax = 7.5720000000000001 
+            text = "[int]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 7.5720000000000001 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.0654185429927443 
+            text = "0"
+        intervals [2]:
+            xmin = 0.0654185429927443 
+            xmax = 0.19896947448952665 
+            text = "[sta]"
+        intervals [3]:
+            xmin = 0.19896947448952665 
+            xmax = 2.2710674566631925 
+            text = "(s) andisi:v ist-\S_ha-\ina [int] NgEs|\|\_hOsa kp_hEl [/int] (/s)"
+        intervals [4]:
+            xmin = 2.2710674566631925 
+            xmax = 2.9327621307643268 
+            text = "0"
+        intervals [5]:
+            xmin = 2.9327621307643268 
+            xmax = 7.5720000000000001 
+            text = "[int]"

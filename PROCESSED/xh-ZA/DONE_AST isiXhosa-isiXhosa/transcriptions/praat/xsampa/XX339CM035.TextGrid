@@ -1,0 +1,76 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 8.3879999999999999 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 8.3879999999999999 
+        intervals: size = 7 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.26344690743627913 
+            text = "[int]" 
+        intervals [2]:
+            xmin = 0.26344690743627913 
+            xmax = 0.84701490732264251 
+            text = "(u) [int] umhla [/int] (/u)" 
+        intervals [3]:
+            xmin = 0.84701490732264251 
+            xmax = 1.2112226114535234 
+            text = "[int]" 
+        intervals [4]:
+            xmin = 1.2112226114535234 
+            xmax = 1.8143688767623862 
+            text = "0" 
+        intervals [5]:
+            xmin = 1.8143688767623862 
+            xmax = 6.0994196394113915 
+            text = "(u) [sta] ngoMvulo 0 ngomhla wesibini kweyeSilimela 0 ($)two 0 thousand(/$) [/sta] (/u)" 
+        intervals [6]:
+            xmin = 6.0994196394113915 
+            xmax = 6.9603436917443418 
+            text = "0" 
+        intervals [7]:
+            xmin = 6.9603436917443418 
+            xmax = 8.3879999999999999 
+            text = "[int]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 8.3879999999999999 
+        intervals: size = 7 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.26344690743627913 
+            text = "[int]" 
+        intervals [2]:
+            xmin = 0.26344690743627913 
+            xmax = 0.84701490732264251 
+            text = "(u) [int] um=Ka [/int] (/u)" 
+        intervals [3]:
+            xmin = 0.84701490732264251 
+            xmax = 1.2112226114535234 
+            text = "[int]" 
+        intervals [4]:
+            xmin = 1.2112226114535234 
+            xmax = 1.8143688767623862 
+            text = "0" 
+        intervals [5]:
+            xmin = 1.8143688767623862 
+            xmax = 6.0994196394113915 
+            text = "(u) [sta] NgomvulO 0 NgOmKa wesb_<ini k_>wEjesilimEla 0 ($)tu: 0 Ta-\uz@nt(/$) [/sta] (/u)" 
+        intervals [6]:
+            xmin = 6.0994196394113915 
+            xmax = 6.9603436917443418 
+            text = "0" 
+        intervals [7]:
+            xmin = 6.9603436917443418 
+            xmax = 8.3879999999999999 
+            text = "[int]" 

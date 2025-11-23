@@ -1,0 +1,60 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 9.5760000000000005 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 9.5760000000000005 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.14383819159231559 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.14383819159231559 
+            xmax = 1.7654303959731545 
+            text = "(u) [sta] igama elipelwayo [/sta] (/u)" 
+        intervals [3]:
+            xmin = 1.7654303959731545 
+            xmax = 2.157922309365123 
+            text = "[sta]" 
+        intervals [4]:
+            xmin = 2.157922309365123 
+            xmax = 7.5400706097948653 
+            text = "(u) [sta] I. B. 0 E. 0 L. L. V. I. L. L. E. [/sta] (/u)" 
+        intervals [5]:
+            xmin = 7.5400706097948653 
+            xmax = 9.5760000000000005 
+            text = "[sta]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 9.5760000000000005 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.14383819159231559 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.14383819159231559 
+            xmax = 1.7654303959731545 
+            text = "(u) [sta] igama elip_>ElwajO [/sta] (/u)" 
+        intervals [3]:
+            xmin = 1.7654303959731545 
+            xmax = 2.157922309365123 
+            text = "[sta]" 
+        intervals [4]:
+            xmin = 2.157922309365123 
+            xmax = 7.5400706097948653 
+            text = "(u) [sta] a-\i bi: 0 i: 0 El El vi: a-\i El El i: [/sta] (/u)" 
+        intervals [5]:
+            xmin = 7.5400706097948653 
+            xmax = 9.5760000000000005 
+            text = "[sta]" 

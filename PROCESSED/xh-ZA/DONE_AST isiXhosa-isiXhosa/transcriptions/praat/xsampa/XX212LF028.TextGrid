@@ -1,0 +1,52 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 11.664 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 11.664 
+        intervals: size = 4 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.6246832730231483 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.6246832730231483 
+            xmax = 4.2450508886196889 
+            text = "(u) ibinzana *elicha+ 0 ibinzana elichaza ixesha (/u)" 
+        intervals [3]:
+            xmin = 4.2450508886196889 
+            xmax = 5.6093505052168196 
+            text = "0" 
+        intervals [4]:
+            xmin = 5.6093505052168196 
+            xmax = 11.664 
+            text = "[int]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 11.664 
+        intervals: size = 4 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.6246832730231483 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.6246832730231483 
+            xmax = 4.2450508886196889 
+            text = "(u) ib_<ind-\zana eli|\_ha 0 ib_<ind-\zana eli|\_haza i|\|\ES (/u)" 
+        intervals [3]:
+            xmin = 4.2450508886196889 
+            xmax = 5.6093505052168196 
+            text = "0" 
+        intervals [4]:
+            xmin = 5.6093505052168196 
+            xmax = 11.664 
+            text = "[int]" 

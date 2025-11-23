@@ -1,0 +1,68 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 9.8879999999999999 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic"
+        xmin = 0 
+        xmax = 9.8879999999999999 
+        intervals: size = 6
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.14606510893654051 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.14606510893654051 
+            xmax = 0.76533299455535386 
+            text = "[int]" 
+        intervals [3]:
+            xmin = 0.76533299455535386 
+            xmax = 7.3576320871143368 
+            text = "(u) *e+ 0 edolophini laseMthatha 0 e ($)Stanford 0 terrace(/$) 0 eLundi ($)flats(/$) (/u)"
+        intervals [4]:
+            xmin = 7.3576320871143368 
+            xmax = 7.8924939535919201 
+            text = "[spk]" 
+        intervals [5]:
+            xmin = 7.8924939535919201 
+            xmax = 8.5746647911838814 
+            text = "0" 
+        intervals [6]:
+            xmin = 8.5746647911838814 
+            xmax = 9.8879999999999999 
+            text = "[int]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 9.8879999999999999 
+        intervals: size = 6
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.14606510893654051 
+            text = "0"
+        intervals [2]:
+            xmin = 0.14606510893654051 
+            xmax = 0.76533299455535386 
+            text = "[int]"
+        intervals [3]:
+            xmin = 0.76533299455535386 
+            xmax = 7.3576320871143368 
+            text = "(u) E 0 Ed_0Olop_hin lasEmt_hat_ha 0 E ($)stanfO 0 tErEsa(/$) 0 elundi ($)flEts(/$) (/u)"
+        intervals [4]:
+            xmin = 7.3576320871143368 
+            xmax = 7.8924939535919201 
+            text = "[spk]"
+        intervals [5]:
+            xmin = 7.8924939535919201 
+            xmax = 8.5746647911838814 
+            text = "0"
+        intervals [6]:
+            xmin = 8.5746647911838814 
+            xmax = 9.8879999999999999 
+            text = "[int]"

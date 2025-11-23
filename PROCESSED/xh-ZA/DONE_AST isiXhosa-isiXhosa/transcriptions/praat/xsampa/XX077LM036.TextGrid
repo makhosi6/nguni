@@ -1,0 +1,60 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 6.8159999999999998 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 6.8159999999999998 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.1237721742169562 
+            text = "[ext]" 
+        intervals [2]:
+            xmin = 0.1237721742169562 
+            xmax = 3.2716445294065171 
+            text = "(u) [sta] *ibinzana 0 elichaza umhla [/sta] (/u)" 
+        intervals [3]:
+            xmin = 3.2716445294065171 
+            xmax = 3.7371639866827233 
+            text = "[sta]" 
+        intervals [4]:
+            xmin = 3.7371639866827233 
+            xmax = 4.7655333475424166 
+            text = "(u) [sta] zonke;iintsuku [/sta] (/u)" 
+        intervals [5]:
+            xmin = 4.7655333475424166 
+            xmax = 6.8159999999999998 
+            text = "[int]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 6.8159999999999998 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.1237721742169562 
+            text = "[ext]" 
+        intervals [2]:
+            xmin = 0.1237721742169562 
+            xmax = 3.2716445294065171 
+            text = "(u) [sta] limb_<ind-\zana 0 eli|\_haza umKa [/sta] (/u)" 
+        intervals [3]:
+            xmin = 3.2716445294065171 
+            xmax = 3.7371639866827233 
+            text = "[sta]" 
+        intervals [4]:
+            xmin = 3.7371639866827233 
+            xmax = 4.7655333475424166 
+            text = "(u) [sta] zOnk_>i:nt-\s_>uk_>u [/sta] (/u)" 
+        intervals [5]:
+            xmin = 4.7655333475424166 
+            xmax = 6.8159999999999998 
+            text = "[int]" 

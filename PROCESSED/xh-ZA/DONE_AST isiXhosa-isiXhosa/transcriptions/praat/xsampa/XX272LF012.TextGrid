@@ -1,0 +1,84 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 4.0199999999999996 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 4.0199999999999996 
+        intervals: size = 8
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.26276510590068708 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.26276510590068708 
+            xmax = 0.36883147551118978 
+            text = "[int]" 
+        intervals [3]:
+            xmin = 0.36883147551118978 
+            xmax = 0.49986954263934236 
+            text = "[sta]" 
+        intervals [4]:
+            xmin = 0.49986954263934236 
+            xmax = 0.55833268028113348 
+            text = "[ext]" 
+        intervals [5]:
+            xmin = 0.55833268028113348 
+            xmax = 1.4430580055797984 
+            text = "(u) [int] kwa ($)Cochlan(/$) [/int] (/u)" 
+        intervals [6]:
+            xmin = 1.4430580055797984 
+            xmax = 1.9393363590604025 
+            text = "[spk]" 
+        intervals [7]:
+            xmin = 1.9393363590604025 
+            xmax = 2.9067290197229276 
+            text = "0" 
+        intervals [8]:
+            xmin = 2.9067290197229276 
+            xmax = 4.0199999999999996 
+            text = "[int]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 4.0199999999999996 
+        intervals: size = 8
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.26276510590068708 
+            text = "0"
+        intervals [2]:
+            xmin = 0.26276510590068708 
+            xmax = 0.36883147551118978 
+            text = "[int]"
+        intervals [3]:
+            xmin = 0.36883147551118978 
+            xmax = 0.49986954263934236 
+            text = "[sta]"
+        intervals [4]:
+            xmin = 0.49986954263934236 
+            xmax = 0.55833268028113348 
+            text = "[ext]"
+        intervals [5]:
+            xmin = 0.55833268028113348 
+            xmax = 1.4430580055797984 
+            text = "(u) [int] k_>wa ($)kOklen(/$) [/int] (/u)"
+        intervals [6]:
+            xmin = 1.4430580055797984 
+            xmax = 1.9393363590604025 
+            text = "[spk]"
+        intervals [7]:
+            xmin = 1.9393363590604025 
+            xmax = 2.9067290197229276 
+            text = "0"
+        intervals [8]:
+            xmin = 2.9067290197229276 
+            xmax = 4.0199999999999996 
+            text = "[int]"

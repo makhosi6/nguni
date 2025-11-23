@@ -1,0 +1,68 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 3.8999999999999999 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 3.8999999999999999 
+        intervals: size = 6
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.27883782470982299 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.27883782470982299 
+            xmax = 0.64356373774274178 
+            text = "[spk]" 
+        intervals [3]:
+            xmin = 0.64356373774274178 
+            xmax = 2.0066317953020132 
+            text = "(u) ibanga leshumi (/u)" 
+        intervals [4]:
+            xmin = 2.0066317953020132 
+            xmax = 2.7003787227152674 
+            text = "0" 
+        intervals [5]:
+            xmin = 2.7003787227152674 
+            xmax = 3.6869324219026707 
+            text = "[int]" 
+        intervals [6]:
+            xmin = 3.6869324219026707 
+            xmax = 3.8999999999999999 
+            text = "0" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 3.8999999999999999 
+        intervals: size = 6
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.27883782470982299 
+            text = "0"
+        intervals [2]:
+            xmin = 0.27883782470982299 
+            xmax = 0.64356373774274178 
+            text = "[spk]"
+        intervals [3]:
+            xmin = 0.64356373774274178 
+            xmax = 2.0066317953020132 
+            text = "(u) ib_<aNga leSumi (/u)"
+        intervals [4]:
+            xmin = 2.0066317953020132 
+            xmax = 2.7003787227152674 
+            text = "0"
+        intervals [5]:
+            xmin = 2.7003787227152674 
+            xmax = 3.6869324219026707 
+            text = "[int]"
+        intervals [6]:
+            xmin = 3.6869324219026707 
+            xmax = 3.8999999999999999 
+            text = "0"

@@ -1,0 +1,52 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 19.884 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 19.884 
+        intervals: size = 4 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.15494861238980781 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.15494861238980781 
+            xmax = 16.195959231220137 
+            text = "(u) [int] ($)*oh+(/$) 0 isibhozo 0 isinye 0 ($)*oh+(/$) isinye 0 isixhenxe 0 ($)oh(/$) 0 isithathu 0 isibhozo 0 isibini [/int] (/u)" 
+        intervals [3]:
+            xmin = 16.195959231220137 
+            xmax = 17.639350612224931 
+            text = "0" 
+        intervals [4]:
+            xmin = 17.639350612224931 
+            xmax = 19.884 
+            text = "[int]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 19.884 
+        intervals: size = 4 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.15494861238980781 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.15494861238980781 
+            xmax = 16.195959231220137 
+            text = "(u) [int] ($)O-\u(/$) 0 sib_0OzO 0 isiJE 0 ($)O-\u(/$) isiJE 0 isi|\|\_hE|\|\~E 0 ($)O-\u(/$) 0 isit_hat_hu 0 isib_0OzO 0 isib_<ini [/int] (/u)" 
+        intervals [3]:
+            xmin = 16.195959231220137 
+            xmax = 17.639350612224931 
+            text = "0" 
+        intervals [4]:
+            xmin = 17.639350612224931 
+            xmax = 19.884 
+            text = "[int]" 

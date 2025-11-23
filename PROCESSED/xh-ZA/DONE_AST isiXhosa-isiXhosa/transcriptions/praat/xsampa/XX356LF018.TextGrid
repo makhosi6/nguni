@@ -1,0 +1,68 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 104.58 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 104.58 
+        intervals: size = 6 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.26033875184823002 
+            text = "[sta]" 
+        intervals [2]:
+            xmin = 0.26033875184823002 
+            xmax = 0.36662114630732745 
+            text = "[spk]" 
+        intervals [3]:
+            xmin = 0.36662114630732745 
+            xmax = 1.7454197771280511 
+            text = "(s) [int] hayi anditshatanga [/int] (/s)" 
+        intervals [4]:
+            xmin = 1.7454197771280511 
+            xmax = 5.870353879314707 
+            text = "[int]" 
+        intervals [5]:
+            xmin = 5.870353879314707 
+            xmax = 12.999296693955616 
+            text = "[sta]" 
+        intervals [6]:
+            xmin = 12.999296693955616 
+            xmax = 104.58 
+            text = "[int]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 104.58 
+        intervals: size = 6 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.26033875184823002 
+            text = "[sta]"
+        intervals [2]:
+            xmin = 0.26033875184823002 
+            xmax = 0.36662114630732745 
+            text = "[spk]"
+        intervals [3]:
+            xmin = 0.36662114630732745 
+            xmax = 1.7454197771280511 
+            text = "(s) [int] haji andit-\S_hat_>aNga [/int] (/s)"
+        intervals [4]:
+            xmin = 1.7454197771280511 
+            xmax = 5.870353879314707 
+            text = "[int]"
+        intervals [5]:
+            xmin = 5.870353879314707 
+            xmax = 12.999296693955616 
+            text = "[sta]"
+        intervals [6]:
+            xmin = 12.999296693955616 
+            xmax = 104.58 
+            text = "[int]"

@@ -1,0 +1,68 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 4.6443750000000001 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 4.6443750000000001 
+        intervals: size = 6 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.34413125338974815 
+            text = "[int]" 
+        intervals [2]:
+            xmin = 0.34413125338974815 
+            xmax = 2.260955610804797 
+            text = "(u) Simangele 0 Jange (/u)" 
+        intervals [3]:
+            xmin = 2.260955610804797 
+            xmax = 2.6123734096642224 
+            text = "[sta]" 
+        intervals [4]:
+            xmin = 2.6123734096642224 
+            xmax = 4.1937535045316379 
+            text = "(u) Simangele [spk] 0 [spk] Jange (/u)" 
+        intervals [5]:
+            xmin = 4.1937535045316379 
+            xmax = 4.4759526460399641 
+            text = "[sta]" 
+        intervals [6]:
+            xmin = 4.4759526460399641 
+            xmax = 4.6443750000000001 
+            text = "0" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 4.6443750000000001 
+        intervals: size = 6 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.34413125338974815 
+            text = "[int]" 
+        intervals [2]:
+            xmin = 0.34413125338974815 
+            xmax = 2.260955610804797 
+            text = "(u) smaNgElE 0 d_0ZaNgE (/u)" 
+        intervals [3]:
+            xmin = 2.260955610804797 
+            xmax = 2.6123734096642224 
+            text = "[sta]" 
+        intervals [4]:
+            xmin = 2.6123734096642224 
+            xmax = 4.1937535045316379 
+            text = "(u) maNgElE [spk] 0 [spk] d_0ZaNgE (/u)" 
+        intervals [5]:
+            xmin = 4.1937535045316379 
+            xmax = 4.4759526460399641 
+            text = "[sta]" 
+        intervals [6]:
+            xmin = 4.4759526460399641 
+            xmax = 4.6443750000000001 
+            text = "0" 

@@ -1,0 +1,60 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 7.6920000000000002 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic"
+        xmin = 0 
+        xmax = 7.6920000000000002 
+        intervals: size = 5
+        intervals [1]:
+            xmin = 0 
+            xmax = 2.5429120412066504 
+            text = "(s) *mel+ 0 kumele ukuba ubhukishe (/s)" 
+        intervals [2]:
+            xmin = 2.5429120412066504 
+            xmax = 2.9556548335846342 
+            text = "[sta]" 
+        intervals [3]:
+            xmin = 2.9556548335846342 
+            xmax = 3.1679225553790262 
+            text = "0" 
+        intervals [4]:
+            xmin = 3.1679225553790262 
+            xmax = 3.9934081401349943 
+            text = "[sta]" 
+        intervals [5]:
+            xmin = 3.9934081401349943 
+            xmax = 7.6920000000000002 
+            text = "[int]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 7.6920000000000002 
+        intervals: size = 5
+        intervals [1]:
+            xmin = 0 
+            xmax = 2.5429120412066504 
+            text = "(s) mEl 0 k_>umElE uk_>ub_<a ub_0uk_>iSE (/s)"
+        intervals [2]:
+            xmin = 2.5429120412066504 
+            xmax = 2.9556548335846342 
+            text = "[sta]"
+        intervals [3]:
+            xmin = 2.9556548335846342 
+            xmax = 3.1679225553790262 
+            text = "0"
+        intervals [4]:
+            xmin = 3.1679225553790262 
+            xmax = 3.9934081401349943 
+            text = "[sta]"
+        intervals [5]:
+            xmin = 3.9934081401349943 
+            xmax = 7.6920000000000002 
+            text = "[int]"

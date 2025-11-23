@@ -1,0 +1,92 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 5.0880000000000001 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 5.0880000000000001 
+        intervals: size = 9 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.30117190981448461 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.30117190981448461 
+            xmax = 0.70948911739052123 
+            text = "[int]" 
+        intervals [3]:
+            xmin = 0.70948911739052123 
+            xmax = 1.4832455435249994 
+            text = "(u) nqaku ($)four(/$) (/u)" 
+        intervals [4]:
+            xmin = 1.4832455435249994 
+            xmax = 1.8707328573686655 
+            text = "[int]" 
+        intervals [5]:
+            xmin = 1.8707328573686655 
+            xmax = 2.8521175077667249 
+            text = "(s) inqaku ($)four(/$) leliphi na (/s)" 
+        intervals [6]:
+            xmin = 2.8521175077667249 
+            xmax = 3.1593923628467406 
+            text = "[spk]" 
+        intervals [7]:
+            xmin = 3.1593923628467406 
+            xmax = 3.6435399089726128 
+            text = "0" 
+        intervals [8]:
+            xmin = 3.6435399089726128 
+            xmax = 4.2268502055098081 
+            text = "[int]" 
+        intervals [9]:
+            xmin = 4.2268502055098081 
+            xmax = 5.0880000000000001 
+            text = "[sta]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 5.0880000000000001 
+        intervals: size = 9 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.30117190981448461 
+            text = "0"
+        intervals [2]:
+            xmin = 0.30117190981448461 
+            xmax = 0.70948911739052123 
+            text = "[int]"
+        intervals [3]:
+            xmin = 0.70948911739052123 
+            xmax = 1.4832455435249994 
+            text = "(u) !\~ak_>u ($)fO(/$) (/u)"
+        intervals [4]:
+            xmin = 1.4832455435249994 
+            xmax = 1.8707328573686655 
+            text = "[int]"
+        intervals [5]:
+            xmin = 1.8707328573686655 
+            xmax = 2.8521175077667249 
+            text = "(s) !\~ak_>u ($)fO(/$) lelip_hi na (/s)"
+        intervals [6]:
+            xmin = 2.8521175077667249 
+            xmax = 3.1593923628467406 
+            text = "[spk]"
+        intervals [7]:
+            xmin = 3.1593923628467406 
+            xmax = 3.6435399089726128 
+            text = "0"
+        intervals [8]:
+            xmin = 3.6435399089726128 
+            xmax = 4.2268502055098081 
+            text = "[int]"
+        intervals [9]:
+            xmin = 4.2268502055098081 
+            xmax = 5.0880000000000001 
+            text = "[sta]"

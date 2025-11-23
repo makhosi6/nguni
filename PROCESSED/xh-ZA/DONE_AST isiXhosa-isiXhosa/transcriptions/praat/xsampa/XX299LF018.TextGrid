@@ -1,0 +1,68 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 3.9239999999999999 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 3.9239999999999999 
+        intervals: size = 6
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.28656965765692832 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.28656965765692832 
+            xmax = 0.5013022756964618 
+            text = "[sta]" 
+        intervals [3]:
+            xmin = 0.5013022756964618 
+            xmax = 1.5109817898236055 
+            text = "(s) [sta] anditshatanga [/sta] (/s)"
+        intervals [4]:
+            xmin = 1.5109817898236055 
+            xmax = 1.5920216658739716 
+            text = "[sta]" 
+        intervals [5]:
+            xmin = 1.5920216658739716 
+            xmax = 2.6869168985721368 
+            text = "[int]" 
+        intervals [6]:
+            xmin = 2.6869168985721368 
+            xmax = 3.9239999999999999 
+            text = "0" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 3.9239999999999999 
+        intervals: size = 6
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.28656965765692832 
+            text = "0"
+        intervals [2]:
+            xmin = 0.28656965765692832 
+            xmax = 0.5013022756964618 
+            text = "[sta]"
+        intervals [3]:
+            xmin = 0.5013022756964618 
+            xmax = 1.5109817898236055 
+            text = "(s) [sta] andit-\S_hat_>aNg [/sta] (/s)"
+        intervals [4]:
+            xmin = 1.5109817898236055 
+            xmax = 1.5920216658739716 
+            text = "[sta]"
+        intervals [5]:
+            xmin = 1.5920216658739716 
+            xmax = 2.6869168985721368 
+            text = "[int]"
+        intervals [6]:
+            xmin = 2.6869168985721368 
+            xmax = 3.9239999999999999 
+            text = "0"

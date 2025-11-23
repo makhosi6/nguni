@@ -1,0 +1,60 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 5.7839999999999998 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 5.7839999999999998 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.6227929744013132 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.6227929744013132 
+            xmax = 3.8019187109852664 
+            text = "(u) igama Zuko 0 ifani 0 Mabija (/u)" 
+        intervals [3]:
+            xmin = 3.8019187109852664 
+            xmax = 4.2344171769857368 
+            text = "0" 
+        intervals [4]:
+            xmin = 4.2344171769857368 
+            xmax = 4.695097021625843 
+            text = "[int]" 
+        intervals [5]:
+            xmin = 4.695097021625843 
+            xmax = 5.7839999999999998 
+            text = "0" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 5.7839999999999998 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.6227929744013132 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.6227929744013132 
+            xmax = 3.8019187109852664 
+            text = "(u) igama zuk_>O 0 ifani 0 mab_<id-\Za (/u)" 
+        intervals [3]:
+            xmin = 3.8019187109852664 
+            xmax = 4.2344171769857368 
+            text = "0" 
+        intervals [4]:
+            xmin = 4.2344171769857368 
+            xmax = 4.695097021625843 
+            text = "[int]" 
+        intervals [5]:
+            xmin = 4.695097021625843 
+            xmax = 5.7839999999999998 
+            text = "0" 

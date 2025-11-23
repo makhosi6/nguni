@@ -1,0 +1,60 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 5.9400000000000004 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic"
+        xmin = 0 
+        xmax = 5.9400000000000004 
+        intervals: size = 5
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.88913058217549268 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.88913058217549268 
+            xmax = 1.3615218634325441 
+            text = "[sta]" 
+        intervals [3]:
+            xmin = 1.3615218634325441 
+            xmax = 4.2585909086309321 
+            text = "(s) imizuzu iyi ($)twenty(/$) emva kwentsimbi yesibhozo (/s)"
+        intervals [4]:
+            xmin = 4.2585909086309321 
+            xmax = 4.7321366842408858 
+            text = "[spk]" 
+        intervals [5]:
+            xmin = 4.7321366842408858 
+            xmax = 5.9400000000000004 
+            text = "[sta]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 5.9400000000000004 
+        intervals: size = 5
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.88913058217549268 
+            text = "0"
+        intervals [2]:
+            xmin = 0.88913058217549268 
+            xmax = 1.3615218634325441 
+            text = "[sta]"
+        intervals [3]:
+            xmin = 1.3615218634325441 
+            xmax = 4.2585909086309321 
+            text = "(s) imizuzu iji ($)twenti(/$) Emva k_>went-\s_>imbi yEsbOzO (/s)"
+        intervals [4]:
+            xmin = 4.2585909086309321 
+            xmax = 4.7321366842408858 
+            text = "[spk]"
+        intervals [5]:
+            xmin = 4.7321366842408858 
+            xmax = 5.9400000000000004 
+            text = "[sta]"

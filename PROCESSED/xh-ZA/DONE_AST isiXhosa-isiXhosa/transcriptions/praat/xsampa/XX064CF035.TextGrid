@@ -1,0 +1,60 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 84.311999999999998 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic"
+        xmin = 0 
+        xmax = 84.311999999999998 
+        intervals: size = 5
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.58113824264564506 
+            text = "[int]" 
+        intervals [2]:
+            xmin = 0.58113824264564506 
+            xmax = 3.4846365736325233 
+            text = "(u) [int] igama 0 *ibi+ okanye ibinzana [/int] (/u)"
+        intervals [3]:
+            xmin = 3.4846365736325233 
+            xmax = 3.9181551197353723 
+            text = "[int]" 
+        intervals [4]:
+            xmin = 3.9181551197353723 
+            xmax = 4.6836541983454225 
+            text = "(u) [sta] ivalethi [/sta] (/u)"
+        intervals [5]:
+            xmin = 4.6836541983454225 
+            xmax = 84.311999999999998 
+            text = "[int]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 84.311999999999998 
+        intervals: size = 5
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.58113824264564506 
+            text = "[int]"
+        intervals [2]:
+            xmin = 0.58113824264564506 
+            xmax = 3.4846365736325233 
+            text = "(u) [int] igama 0 ib_<i Ok_>aJE ib_<ind-\zana [/int] (/u)"
+        intervals [3]:
+            xmin = 3.4846365736325233 
+            xmax = 3.9181551197353723 
+            text = "[int]"
+        intervals [4]:
+            xmin = 3.9181551197353723 
+            xmax = 4.6836541983454225 
+            text = "(u) [sta] ivalet_h [/sta] (/u)"
+        intervals [5]:
+            xmin = 4.6836541983454225 
+            xmax = 84.311999999999998 
+            text = "[int]"

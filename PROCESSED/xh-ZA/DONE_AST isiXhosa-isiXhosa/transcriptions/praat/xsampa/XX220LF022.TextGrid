@@ -1,0 +1,60 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 10.859999999999999 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic"
+        xmin = 0 
+        xmax = 10.859999999999999 
+        intervals: size = 5
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.75637128531541775 
+            text = "[int]" 
+        intervals [2]:
+            xmin = 0.75637128531541775 
+            xmax = 1.8601028752411557 
+            text = "(u) [sta] isambuku semali [/sta] (/u)"
+        intervals [3]:
+            xmin = 1.8601028752411557 
+            xmax = 2.45034216442953 
+            text = "[spk]" 
+        intervals [4]:
+            xmin = 2.45034216442953 
+            xmax = 4.9014990481152658 
+            text = "(u) [int] ($)nine thousand two hundred and fifty nine eighty four cents(/$) [/int] (/u)"
+        intervals [5]:
+            xmin = 4.9014990481152658 
+            xmax = 10.859999999999999 
+            text = "[int]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 10.859999999999999 
+        intervals: size = 5
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.75637128531541775 
+            text = "[int]"
+        intervals [2]:
+            xmin = 0.75637128531541775 
+            xmax = 1.8601028752411557 
+            text = "(u) [sta] isambuk_>u sEmal [/sta] (/u)"
+        intervals [3]:
+            xmin = 1.8601028752411557 
+            xmax = 2.45034216442953 
+            text = "[spk]"
+        intervals [4]:
+            xmin = 2.45034216442953 
+            xmax = 4.9014990481152658 
+            text = "(u) [int] ($)na-\in Ta-\Uz@n tu handr@t @n f@fti na-\in E-\Iti fO sEn(/$) [/int] (/u)"
+        intervals [5]:
+            xmin = 4.9014990481152658 
+            xmax = 10.859999999999999 
+            text = "[int]"

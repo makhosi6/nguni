@@ -1,0 +1,60 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 8.3040000000000003 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 8.3040000000000003 
+        intervals: size = 5
+        intervals [1]:
+            xmin = 0 
+            xmax = 2.1735303599660591 
+            text = "(u) ~gama 0 igama okanye ibinzana (/u)"
+        intervals [2]:
+            xmin = 2.1735303599660591 
+            xmax = 2.863051271506023 
+            text = "0" 
+        intervals [3]:
+            xmin = 2.863051271506023 
+            xmax = 5.3184518980810944 
+            text = "(u) [sta] iodolo yokutya egumbini [/sta] (/u)" 
+        intervals [4]:
+            xmin = 5.3184518980810944 
+            xmax = 7.6564369605912059 
+            text = "0" 
+        intervals [5]:
+            xmin = 7.6564369605912059 
+            xmax = 8.3040000000000003 
+            text = "[sta]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 8.3040000000000003 
+        intervals: size = 5
+        intervals [1]:
+            xmin = 0 
+            xmax = 2.1735303599660591 
+            text = "(u) gama 0 igama Ok_>aJE ib_<ind-\zana (/u)"
+        intervals [2]:
+            xmin = 2.1735303599660591 
+            xmax = 2.863051271506023 
+            text = "0" 
+        intervals [3]:
+            xmin = 2.863051271506023 
+            xmax = 5.3184518980810944 
+            text = "(u) [sta] iOdOlO jok_>uc_>a egumbini [/sta] (/u)" 
+        intervals [4]:
+            xmin = 5.3184518980810944 
+            xmax = 7.6564369605912059 
+            text = "0" 
+        intervals [5]:
+            xmin = 7.6564369605912059 
+            xmax = 8.3040000000000003 
+            text = "[sta]" 

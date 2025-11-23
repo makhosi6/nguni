@@ -1,0 +1,60 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 6.2039999999999997 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 6.2039999999999997 
+        intervals: size = 5
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.2284159129137707 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.2284159129137707 
+            xmax = 0.62428303261518536 
+            text = "[spk]" 
+        intervals [3]:
+            xmin = 0.62428303261518536 
+            xmax = 3.0211531891640271 
+            text = "(s) ndifuna ukwazi ngamaxabiso (/s)" 
+        intervals [4]:
+            xmin = 3.0211531891640271 
+            xmax = 3.9722921401754721 
+            text = "0" 
+        intervals [5]:
+            xmin = 3.9722921401754721 
+            xmax = 6.2039999999999997 
+            text = "[int]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 6.2039999999999997 
+        intervals: size = 5
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.2284159129137707 
+            text = "0"
+        intervals [2]:
+            xmin = 0.2284159129137707 
+            xmax = 0.62428303261518536 
+            text = "[spk]"
+        intervals [3]:
+            xmin = 0.62428303261518536 
+            xmax = 3.0211531891640271 
+            text = "(s) ndifuna uk_>wazi Ngama|\|\ab_<isO (/s)"
+        intervals [4]:
+            xmin = 3.0211531891640271 
+            xmax = 3.9722921401754721 
+            text = "0"
+        intervals [5]:
+            xmin = 3.9722921401754721 
+            xmax = 6.2039999999999997 
+            text = "[int]"

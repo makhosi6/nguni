@@ -1,0 +1,60 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 89.004000000000005 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic"
+        xmin = 0 
+        xmax = 89.004000000000005 
+        intervals: size = 5
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.7309677288780498 
+            text = "[int]" 
+        intervals [2]:
+            xmin = 1.7309677288780498 
+            xmax = 3.0877956542182643 
+            text = "(u) [int] isambuku semali [/int] (/u)" 
+        intervals [3]:
+            xmin = 3.0877956542182643 
+            xmax = 3.3870698002554467 
+            text = "[int]" 
+        intervals [4]:
+            xmin = 3.3870698002554467 
+            xmax = 7.6640878778372583 
+            text = "(u) [int] ($)three thousand 0 five hundred and thirty 0 three rand 0 seventy 0 seven 0 cents(/$) [/int] (/u)"
+        intervals [5]:
+            xmin = 7.6640878778372583 
+            xmax = 89.004000000000005 
+            text = "[int]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 89.004000000000005 
+        intervals: size = 5
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.7309677288780498 
+            text = "[int]"
+        intervals [2]:
+            xmin = 1.7309677288780498 
+            xmax = 3.0877956542182643 
+            text = "(u) [int] isambuk_>u sEmali [/int] (/u)"
+        intervals [3]:
+            xmin = 3.0877956542182643 
+            xmax = 3.3870698002554467 
+            text = "[int]"
+        intervals [4]:
+            xmin = 3.3870698002554467 
+            xmax = 7.6640878778372583 
+            text = "(u) [int] ($)tri TaUz{n 0 fa-\if handr@t {n Teti 0 tri rant 0 sEvEnti 0 sEvEn 0 sEn(/$) [/int] (/u)"
+        intervals [5]:
+            xmin = 7.6640878778372583 
+            xmax = 89.004000000000005 
+            text = "[int]"

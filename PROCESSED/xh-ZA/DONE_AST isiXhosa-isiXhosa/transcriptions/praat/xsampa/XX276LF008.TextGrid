@@ -1,0 +1,68 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 4.6319999999999997 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 4.6319999999999997 
+        intervals: size = 6
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.54421394671065282 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.54421394671065282 
+            xmax = 1.3892742286402413 
+            text = "[int]" 
+        intervals [3]:
+            xmin = 1.3892742286402413 
+            xmax = 1.4803479303711053 
+            text = "[ext]" 
+        intervals [4]:
+            xmin = 1.4803479303711053 
+            xmax = 2.6675166718950809 
+            text = "(u) [int] isixhosa [/int] (/u)" 
+        intervals [5]:
+            xmin = 2.6675166718950809 
+            xmax = 3.1930163430109593 
+            text = "[spk]" 
+        intervals [6]:
+            xmin = 3.1930163430109593 
+            xmax = 4.6319999999999997 
+            text = "[sta]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 4.6319999999999997 
+        intervals: size = 6
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.54421394671065282 
+            text = "0"
+        intervals [2]:
+            xmin = 0.54421394671065282 
+            xmax = 1.3892742286402413 
+            text = "[int]"
+        intervals [3]:
+            xmin = 1.3892742286402413 
+            xmax = 1.4803479303711053 
+            text = "[ext]"
+        intervals [4]:
+            xmin = 1.4803479303711053 
+            xmax = 2.6675166718950809 
+            text = "(u) [int] isi|\|\_hOsa [/int] (/u)"
+        intervals [5]:
+            xmin = 2.6675166718950809 
+            xmax = 3.1930163430109593 
+            text = "[spk]"
+        intervals [6]:
+            xmin = 3.1930163430109593 
+            xmax = 4.6319999999999997 
+            text = "[sta]"

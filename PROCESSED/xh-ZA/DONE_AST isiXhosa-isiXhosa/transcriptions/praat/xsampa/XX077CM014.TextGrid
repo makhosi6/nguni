@@ -1,0 +1,60 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 3.8999999999999999 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic"
+        xmin = 0 
+        xmax = 3.8999999999999999 
+        intervals: size = 5
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.34460807132231658 
+            text = "[int]" 
+        intervals [2]:
+            xmin = 0.34460807132231658 
+            xmax = 1.7623522539924601 
+            text = "(s) ngumhla wamashumi amabini (/s)"
+        intervals [3]:
+            xmin = 1.7623522539924601 
+            xmax = 1.9873707783069927 
+            text = "[spk]" 
+        intervals [4]:
+            xmin = 1.9873707783069927 
+            xmax = 3.525496362035641 
+            text = "0" 
+        intervals [5]:
+            xmin = 3.525496362035641 
+            xmax = 3.8999999999999999 
+            text = "[sta]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 3.8999999999999999 
+        intervals: size = 5
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.34460807132231658 
+            text = "[int]"
+        intervals [2]:
+            xmin = 0.34460807132231658 
+            xmax = 1.7623522539924601 
+            text = "(s) gumKa wamaSum amab_<in (/s)"
+        intervals [3]:
+            xmin = 1.7623522539924601 
+            xmax = 1.9873707783069927 
+            text = "[spk]"
+        intervals [4]:
+            xmin = 1.9873707783069927 
+            xmax = 3.525496362035641 
+            text = "0"
+        intervals [5]:
+            xmin = 3.525496362035641 
+            xmax = 3.8999999999999999 
+            text = "[sta]"

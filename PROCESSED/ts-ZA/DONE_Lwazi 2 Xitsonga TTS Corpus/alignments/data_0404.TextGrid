@@ -1,0 +1,238 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0
+xmax = 1.850000
+tiers? <exists>
+size = 5
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "segment"
+		xmin = 0
+		xmax = 1.850000
+		intervals: size = 26
+		intervals [1]:
+			xmin = 0.000000
+			xmax = 0.020000
+			text = "pau"
+		intervals [2]:
+			xmin = 0.020000
+			xmax = 0.085000
+			text = "k"
+		intervals [3]:
+			xmin = 0.085000
+			xmax = 0.155000
+			text = "u"
+		intervals [4]:
+			xmin = 0.155000
+			xmax = 0.325000
+			text = "tjʰ"
+		intervals [5]:
+			xmin = 0.325000
+			xmax = 0.400000
+			text = "a"
+		intervals [6]:
+			xmin = 0.400000
+			xmax = 0.485000
+			text = "k"
+		intervals [7]:
+			xmin = 0.485000
+			xmax = 0.520000
+			text = "i"
+		intervals [8]:
+			xmin = 0.520000
+			xmax = 0.610000
+			text = "s"
+		intervals [9]:
+			xmin = 0.610000
+			xmax = 0.665000
+			text = "a"
+		intervals [10]:
+			xmin = 0.665000
+			xmax = 0.740000
+			text = "k"
+		intervals [11]:
+			xmin = 0.740000
+			xmax = 0.795000
+			text = "u"
+		intervals [12]:
+			xmin = 0.795000
+			xmax = 0.855000
+			text = "n"
+		intervals [13]:
+			xmin = 0.855000
+			xmax = 0.905000
+			text = "w"
+		intervals [14]:
+			xmin = 0.905000
+			xmax = 0.930000
+			text = "a"
+		intervals [15]:
+			xmin = 0.930000
+			xmax = 0.955000
+			text = "n"
+		intervals [16]:
+			xmin = 0.955000
+			xmax = 0.985000
+			text = "a"
+		intervals [17]:
+			xmin = 0.985000
+			xmax = 1.050000
+			text = "n"
+		intervals [18]:
+			xmin = 1.050000
+			xmax = 1.105000
+			text = "a"
+		intervals [19]:
+			xmin = 1.105000
+			xmax = 1.180000
+			text = "k"
+		intervals [20]:
+			xmin = 1.180000
+			xmax = 1.205000
+			text = "u"
+		intervals [21]:
+			xmin = 1.205000
+			xmax = 1.335000
+			text = "n"
+		intervals [22]:
+			xmin = 1.335000
+			xmax = 1.390000
+			text = "w"
+		intervals [23]:
+			xmin = 1.390000
+			xmax = 1.505000
+			text = "a"
+		intervals [24]:
+			xmin = 1.505000
+			xmax = 1.575000
+			text = "n"
+		intervals [25]:
+			xmin = 1.575000
+			xmax = 1.680000
+			text = "a"
+		intervals [26]:
+			xmin = 1.680000
+			xmax = 1.850000
+			text = "pau"
+	item [2]:
+		class = "IntervalTier"
+		name = "syllable"
+		xmin = 0
+		xmax = 1.850000
+		intervals: size = 13
+		intervals [1]:
+			xmin = 0.000000
+			xmax = 0.020000
+			text = "NONE"
+		intervals [2]:
+			xmin = 0.020000
+			xmax = 0.155000
+			text = "syl"
+		intervals [3]:
+			xmin = 0.155000
+			xmax = 0.400000
+			text = "syl"
+		intervals [4]:
+			xmin = 0.400000
+			xmax = 0.520000
+			text = "syl"
+		intervals [5]:
+			xmin = 0.520000
+			xmax = 0.665000
+			text = "syl"
+		intervals [6]:
+			xmin = 0.665000
+			xmax = 0.855000
+			text = "syl"
+		intervals [7]:
+			xmin = 0.855000
+			xmax = 0.930000
+			text = "syl"
+		intervals [8]:
+			xmin = 0.930000
+			xmax = 0.985000
+			text = "syl"
+		intervals [9]:
+			xmin = 0.985000
+			xmax = 1.105000
+			text = "syl"
+		intervals [10]:
+			xmin = 1.105000
+			xmax = 1.335000
+			text = "syl"
+		intervals [11]:
+			xmin = 1.335000
+			xmax = 1.505000
+			text = "syl"
+		intervals [12]:
+			xmin = 1.505000
+			xmax = 1.680000
+			text = "syl"
+		intervals [13]:
+			xmin = 1.680000
+			xmax = 1.850000
+			text = "NONE"
+	item [3]:
+		class = "IntervalTier"
+		name = "word"
+		xmin = 0
+		xmax = 1.850000
+		intervals: size = 7
+		intervals [1]:
+			xmin = 0.000000
+			xmax = 0.020000
+			text = "NONE"
+		intervals [2]:
+			xmin = 0.020000
+			xmax = 0.155000
+			text = "ku"
+		intervals [3]:
+			xmin = 0.155000
+			xmax = 0.665000
+			text = "thyakisa"
+		intervals [4]:
+			xmin = 0.665000
+			xmax = 0.985000
+			text = "kun'wana"
+		intervals [5]:
+			xmin = 0.985000
+			xmax = 1.105000
+			text = "na"
+		intervals [6]:
+			xmin = 1.105000
+			xmax = 1.680000
+			text = "kun'wana"
+		intervals [7]:
+			xmin = 1.680000
+			xmax = 1.850000
+			text = "NONE"
+	item [4]:
+		class = "IntervalTier"
+		name = "phrase"
+		xmin = 0
+		xmax = 1.850000
+		intervals: size = 3
+		intervals [1]:
+			xmin = 0.000000
+			xmax = 0.020000
+			text = "NONE"
+		intervals [2]:
+			xmin = 0.020000
+			xmax = 1.680000
+			text = "BB"
+		intervals [3]:
+			xmin = 1.680000
+			xmax = 1.850000
+			text = "NONE"
+	item [5]:
+		class = "IntervalTier"
+		name = "text"
+		xmin = 0
+		xmax = 1.850000
+		intervals: size = 1
+		intervals [1]:
+			xmin = 0.000000
+			xmax = 1.850000
+			text = "Ku thyakisa kun'wana na kun'wana?"

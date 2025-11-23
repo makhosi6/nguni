@@ -1,0 +1,68 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 4.7039999999999997 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic"
+        xmin = 0 
+        xmax = 4.7039999999999997 
+        intervals: size = 6
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.13176124014489668 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.13176124014489668 
+            xmax = 0.57504973721862551 
+            text = "[spk]"
+        intervals [3]:
+            xmin = 0.57504973721862551 
+            xmax = 2.1104070269887369 
+            text = "(u) ($)twenty 0 three years(/$) (/u)" 
+        intervals [4]:
+            xmin = 2.1104070269887369 
+            xmax = 2.7052329050445518 
+            text = "[spk]" 
+        intervals [5]:
+            xmin = 2.7052329050445518 
+            xmax = 3.6759492853196578 
+            text = "0" 
+        intervals [6]:
+            xmin = 3.6759492853196578 
+            xmax = 4.7039999999999997 
+            text = "[int]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 4.7039999999999997 
+        intervals: size = 6
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.13176124014489668 
+            text = "0"
+        intervals [2]:
+            xmin = 0.13176124014489668 
+            xmax = 0.57504973721862551 
+            text = "[spk]"
+        intervals [3]:
+            xmin = 0.57504973721862551 
+            xmax = 2.1104070269887369 
+            text = "(u) ($)twEnti 0 tri jEz(/$) (/u)"
+        intervals [4]:
+            xmin = 2.1104070269887369 
+            xmax = 2.7052329050445518 
+            text = "[spk]"
+        intervals [5]:
+            xmin = 2.7052329050445518 
+            xmax = 3.6759492853196578 
+            text = "0"
+        intervals [6]:
+            xmin = 3.6759492853196578 
+            xmax = 4.7039999999999997 
+            text = "[int]"

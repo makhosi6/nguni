@@ -1,0 +1,60 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 11.112 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 11.112 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.67522219411246831 
+            text = "[sta]" 
+        intervals [2]:
+            xmin = 0.67522219411246831 
+            xmax = 1.3566571408332406 
+            text = "[spk]" 
+        intervals [3]:
+            xmin = 1.3566571408332406 
+            xmax = 5.0534417267934311 
+            text = "(s) [sta] ndivumelekile na ukuba ndongeze into kwi ($)directory(/$) [/sta] (/s)" 
+        intervals [4]:
+            xmin = 5.0534417267934311 
+            xmax = 8.937620923101834 
+            text = "[int]" 
+        intervals [5]:
+            xmin = 8.937620923101834 
+            xmax = 11.112 
+            text = "[sta]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 11.112 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.67522219411246831 
+            text = "[sta]"
+        intervals [2]:
+            xmin = 0.67522219411246831 
+            xmax = 1.3566571408332406 
+            text = "[spk]"
+        intervals [3]:
+            xmin = 1.3566571408332406 
+            xmax = 5.0534417267934311 
+            text = "(s) [sta] ndivumElek_>ilE na uk_>ub_<a ndONgEzE int_>O k_>wi ($)da-\IrEktri(/$) [/sta] (/s)"
+        intervals [4]:
+            xmin = 5.0534417267934311 
+            xmax = 8.937620923101834 
+            text = "[int]"
+        intervals [5]:
+            xmin = 8.937620923101834 
+            xmax = 11.112 
+            text = "[sta]"

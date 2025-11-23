@@ -1,0 +1,60 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 16.260000000000002 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 16.260000000000002 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.7768685409507286 
+            text = "[int]" 
+        intervals [2]:
+            xmin = 1.7768685409507286 
+            xmax = 3.717461994510709 
+            text = "(u) [int] i 0 ($)Piketberg(/$) [/int] (/u)" 
+        intervals [3]:
+            xmin = 3.717461994510709 
+            xmax = 5.4577248931215747 
+            text = "[int]" 
+        intervals [4]:
+            xmin = 5.4577248931215747 
+            xmax = 6.696622562462685 
+            text = "(u) [sta] i ($)Piketberg(/$) [/sta] (/u)" 
+        intervals [5]:
+            xmin = 6.696622562462685 
+            xmax = 16.260000000000002 
+            text = "[int]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 16.260000000000002 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.7768685409507286 
+            text = "[int]" 
+        intervals [2]:
+            xmin = 1.7768685409507286 
+            xmax = 3.717461994510709 
+            text = "(u) [int] i: 0 ($)pik@tsb{k(/$) [/int] (/u)" 
+        intervals [3]:
+            xmin = 3.717461994510709 
+            xmax = 5.4577248931215747 
+            text = "[int]" 
+        intervals [4]:
+            xmin = 5.4577248931215747 
+            xmax = 6.696622562462685 
+            text = "(u) [sta] i: ($)pik@tb{k(/$) [/sta] (/u)" 
+        intervals [5]:
+            xmin = 6.696622562462685 
+            xmax = 16.260000000000002 
+            text = "[int]" 

@@ -1,0 +1,44 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 41.387999999999998 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 41.387999999999998 
+        intervals: size = 3 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.35722599785641007 
+            text = "[sta]" 
+        intervals [2]:
+            xmin = 0.35722599785641007 
+            xmax = 9.1477638646355164 
+            text = "(s) [sta] ndihlala *eZiphunzana ($)location(/$) Ziphunzana 0 Ziphunzana ($)location(/$) [/sta] (/s)" 
+        intervals [3]:
+            xmin = 9.1477638646355164 
+            xmax = 41.387999999999998 
+            text = "[int]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 41.387999999999998 
+        intervals: size = 3 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.35722599785641007 
+            text = "[sta]" 
+        intervals [2]:
+            xmin = 0.35722599785641007 
+            xmax = 9.1477638646355164 
+            text = "(s) [sta] ndiKala ezip_hund-\zanE ($)lOkE-\ISin(/$) zip_hund-\zana 0 zip_hund-\zana ($)lOkE-\ISin(/$) [/sta] (/s)" 
+        intervals [3]:
+            xmin = 9.1477638646355164 
+            xmax = 41.387999999999998 
+            text = "[int]" 

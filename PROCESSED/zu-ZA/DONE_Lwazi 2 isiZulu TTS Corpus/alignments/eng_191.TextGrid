@@ -1,0 +1,250 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0
+xmax = 2.865000
+tiers? <exists>
+size = 5
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "segment"
+		xmin = 0
+		xmax = 2.865000
+		intervals: size = 24
+		intervals [1]:
+			xmin = 0.000000
+			xmax = 0.045000
+			text = "pau"
+		intervals [2]:
+			xmin = 0.045000
+			xmax = 0.245000
+			text = "eng_aɪ"
+		intervals [3]:
+			xmin = 0.245000
+			xmax = 0.400000
+			text = "eng_w"
+		intervals [4]:
+			xmin = 0.400000
+			xmax = 0.480000
+			text = "eng_ɪ"
+		intervals [5]:
+			xmin = 0.480000
+			xmax = 0.655000
+			text = "eng_ʃ"
+		intervals [6]:
+			xmin = 0.655000
+			xmax = 0.705000
+			text = "eng_j"
+		intervals [7]:
+			xmin = 0.705000
+			xmax = 0.735000
+			text = "eng_u"
+		intervals [8]:
+			xmin = 0.735000
+			xmax = 0.860000
+			text = "eng_w"
+		intervals [9]:
+			xmin = 0.860000
+			xmax = 0.940000
+			text = "eng_ʊ"
+		intervals [10]:
+			xmin = 0.940000
+			xmax = 1.030000
+			text = "eng_d"
+		intervals [11]:
+			xmin = 1.030000
+			xmax = 1.105000
+			text = "eng_k"
+		intervals [12]:
+			xmin = 1.105000
+			xmax = 1.200000
+			text = "eng_ʌ"
+		intervals [13]:
+			xmin = 1.200000
+			xmax = 1.375000
+			text = "eng_m"
+		intervals [14]:
+			xmin = 1.375000
+			xmax = 1.500000
+			text = "eng_t"
+		intervals [15]:
+			xmin = 1.500000
+			xmax = 1.710000
+			text = "eng_u"
+		intervals [16]:
+			xmin = 1.710000
+			xmax = 2.050000
+			text = "pau"
+		intervals [17]:
+			xmin = 2.050000
+			xmax = 2.130000
+			text = "eng_m"
+		intervals [18]:
+			xmin = 2.130000
+			xmax = 2.165000
+			text = "eng_ə"
+		intervals [19]:
+			xmin = 2.165000
+			xmax = 2.295000
+			text = "eng_s"
+		intervals [20]:
+			xmin = 2.295000
+			xmax = 2.500000
+			text = "eng_a"
+		intervals [21]:
+			xmin = 2.500000
+			xmax = 2.545000
+			text = "eng_p"
+		intervals [22]:
+			xmin = 2.545000
+			xmax = 2.570000
+			text = "eng_ə"
+		intervals [23]:
+			xmin = 2.570000
+			xmax = 2.725000
+			text = "eng_l"
+		intervals [24]:
+			xmin = 2.725000
+			xmax = 2.865000
+			text = "pau"
+	item [2]:
+		class = "IntervalTier"
+		name = "syllable"
+		xmin = 0
+		xmax = 2.865000
+		intervals: size = 12
+		intervals [1]:
+			xmin = 0.000000
+			xmax = 0.045000
+			text = "NONE"
+		intervals [2]:
+			xmin = 0.045000
+			xmax = 0.245000
+			text = "syl"
+		intervals [3]:
+			xmin = 0.245000
+			xmax = 0.655000
+			text = "syl"
+		intervals [4]:
+			xmin = 0.655000
+			xmax = 0.735000
+			text = "syl"
+		intervals [5]:
+			xmin = 0.735000
+			xmax = 1.030000
+			text = "syl"
+		intervals [6]:
+			xmin = 1.030000
+			xmax = 1.375000
+			text = "syl"
+		intervals [7]:
+			xmin = 1.375000
+			xmax = 1.710000
+			text = "syl"
+		intervals [8]:
+			xmin = 1.710000
+			xmax = 2.050000
+			text = "NONE"
+		intervals [9]:
+			xmin = 2.050000
+			xmax = 2.295000
+			text = "syl"
+		intervals [10]:
+			xmin = 2.295000
+			xmax = 2.500000
+			text = "syl"
+		intervals [11]:
+			xmin = 2.500000
+			xmax = 2.725000
+			text = "syl"
+		intervals [12]:
+			xmin = 2.725000
+			xmax = 2.865000
+			text = "NONE"
+	item [3]:
+		class = "IntervalTier"
+		name = "word"
+		xmin = 0
+		xmax = 2.865000
+		intervals: size = 11
+		intervals [1]:
+			xmin = 0.000000
+			xmax = 0.045000
+			text = "NONE"
+		intervals [2]:
+			xmin = 0.045000
+			xmax = 0.245000
+			text = "i"
+		intervals [3]:
+			xmin = 0.245000
+			xmax = 0.655000
+			text = "wish"
+		intervals [4]:
+			xmin = 0.655000
+			xmax = 0.735000
+			text = "you"
+		intervals [5]:
+			xmin = 0.735000
+			xmax = 1.030000
+			text = "would"
+		intervals [6]:
+			xmin = 1.030000
+			xmax = 1.375000
+			text = "come"
+		intervals [7]:
+			xmin = 1.375000
+			xmax = 1.710000
+			text = "too"
+		intervals [8]:
+			xmin = 1.710000
+			xmax = 2.050000
+			text = "NONE"
+		intervals [9]:
+			xmin = 2.050000
+			xmax = 2.295000
+			text = "miss"
+		intervals [10]:
+			xmin = 2.295000
+			xmax = 2.725000
+			text = "apple"
+		intervals [11]:
+			xmin = 2.725000
+			xmax = 2.865000
+			text = "NONE"
+	item [4]:
+		class = "IntervalTier"
+		name = "phrase"
+		xmin = 0
+		xmax = 2.865000
+		intervals: size = 5
+		intervals [1]:
+			xmin = 0.000000
+			xmax = 0.045000
+			text = "NONE"
+		intervals [2]:
+			xmin = 0.045000
+			xmax = 1.710000
+			text = "BB"
+		intervals [3]:
+			xmin = 1.710000
+			xmax = 2.050000
+			text = "NONE"
+		intervals [4]:
+			xmin = 2.050000
+			xmax = 2.725000
+			text = "BB"
+		intervals [5]:
+			xmin = 2.725000
+			xmax = 2.865000
+			text = "NONE"
+	item [5]:
+		class = "IntervalTier"
+		name = "text"
+		xmin = 0
+		xmax = 2.865000
+		intervals: size = 1
+		intervals [1]:
+			xmin = 0.000000
+			xmax = 2.865000
+			text = "|i |wish |you |would |come |too, |miss |apple."

@@ -1,0 +1,84 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 11.651999999999999 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 11.651999999999999 
+        intervals: size = 8
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.3686241006284216 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.3686241006284216 
+            xmax = 0.70014511976535154 
+            text = "[int]" 
+        intervals [3]:
+            xmin = 0.70014511976535154 
+            xmax = 4.8082068729649334 
+            text = "(u) intsimbi *yesthanda+ *yi+ 0 intsimbi yesithandathu entloko (/u)"
+        intervals [4]:
+            xmin = 4.8082068729649334 
+            xmax = 7.6034432143616097 
+            text = "[int]" 
+        intervals [5]:
+            xmin = 7.6034432143616097 
+            xmax = 8.3537207520820882 
+            text = "[spk]" 
+        intervals [6]:
+            xmin = 8.3537207520820882 
+            xmax = 10.300869599975712 
+            text = "[int]" 
+        intervals [7]:
+            xmin = 10.300869599975712 
+            xmax = 11.408422155658323 
+            text = "0" 
+        intervals [8]:
+            xmin = 11.408422155658323 
+            xmax = 11.651999999999999 
+            text = "[sta]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 11.651999999999999 
+        intervals: size = 8
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.3686241006284216 
+            text = "0"
+        intervals [2]:
+            xmin = 0.3686241006284216 
+            xmax = 0.70014511976535154 
+            text = "[int]"
+        intervals [3]:
+            xmin = 0.70014511976535154 
+            xmax = 4.8082068729649334 
+            text = "(u) int-\s_>imbi jest_handa ji 0 int-\s_>imbi jest_handat_hu Ent-\K_>Ok_>O (/u)"
+        intervals [4]:
+            xmin = 4.8082068729649334 
+            xmax = 7.6034432143616097 
+            text = "[int]"
+        intervals [5]:
+            xmin = 7.6034432143616097 
+            xmax = 8.3537207520820882 
+            text = "[spk]"
+        intervals [6]:
+            xmin = 8.3537207520820882 
+            xmax = 10.300869599975712 
+            text = "[int]"
+        intervals [7]:
+            xmin = 10.300869599975712 
+            xmax = 11.408422155658323 
+            text = "0"
+        intervals [8]:
+            xmin = 11.408422155658323 
+            xmax = 11.651999999999999 
+            text = "[sta]"

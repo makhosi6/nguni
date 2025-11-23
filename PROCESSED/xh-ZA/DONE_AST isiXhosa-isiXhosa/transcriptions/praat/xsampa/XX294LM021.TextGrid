@@ -1,0 +1,68 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 37.752000000000002 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 37.752000000000002 
+        intervals: size = 6
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.15078630201342277 
+            text = "0"
+        intervals [2]:
+            xmin = 0.15078630201342277 
+            xmax = 0.85553617501212809 
+            text = "[int]" 
+        intervals [3]:
+            xmin = 0.85553617501212809 
+            xmax = 6.1837063359474715 
+            text = "(u) [int] ($)two seven six oh eight one five nine three four(/$) [/int] (/u)" 
+        intervals [4]:
+            xmin = 6.1837063359474715 
+            xmax = 30.746169217086415 
+            text = "[int]" 
+        intervals [5]:
+            xmin = 30.746169217086415 
+            xmax = 35.828259524099209 
+            text = "(u) [int] ($)two seven six zero eight one five nine three four(/$) [/int] (/u)" 
+        intervals [6]:
+            xmin = 35.828259524099209 
+            xmax = 37.752000000000002 
+            text = "[int]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 37.752000000000002 
+        intervals: size = 6
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.15078630201342277 
+            text = "0"
+        intervals [2]:
+            xmin = 0.15078630201342277 
+            xmax = 0.85553617501212809 
+            text = "[int]"
+        intervals [3]:
+            xmin = 0.85553617501212809 
+            xmax = 6.1837063359474715 
+            text = "(u) [int] ($)tu: sEv@n siks @-\U E-\It wan fa-\if na-\in tri fO(/$) [/int] (/u)"
+        intervals [4]:
+            xmin = 6.1837063359474715 
+            xmax = 30.746169217086415 
+            text = "[int]"
+        intervals [5]:
+            xmin = 30.746169217086415 
+            xmax = 35.828259524099209 
+            text = "(u) [int] ($)tu: sEv@n siks zirO E-\It wan fa-\if na-\in tri fO(/$) [/int] (/u)"
+        intervals [6]:
+            xmin = 35.828259524099209 
+            xmax = 37.752000000000002 
+            text = "[int]"

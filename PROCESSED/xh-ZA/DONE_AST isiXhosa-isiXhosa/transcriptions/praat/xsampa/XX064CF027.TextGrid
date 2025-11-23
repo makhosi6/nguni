@@ -1,0 +1,76 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 11.532 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic"
+        xmin = 0 
+        xmax = 11.532 
+        intervals: size = 7
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.17263496652621005 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.17263496652621005 
+            xmax = 0.42836163786696646 
+            text = "[sta]" 
+        intervals [3]:
+            xmin = 0.42836163786696646 
+            xmax = 2.1499073191236326 
+            text = "(u) [int] igama elipelwayo [/int] (/u)" 
+        intervals [4]:
+            xmin = 2.1499073191236326 
+            xmax = 3.0405705410143637 
+            text = "[sta]" 
+        intervals [5]:
+            xmin = 3.0405705410143637 
+            xmax = 7.4404468571545745 
+            text = "(u) [int] U. 0 K. U. R. 0 H. 0 O. 0 L. 0 A. [/int] (/u)" 
+        intervals [6]:
+            xmin = 7.4404468571545745 
+            xmax = 7.9214049969755695 
+            text = "[sta]" 
+        intervals [7]:
+            xmin = 7.9214049969755695 
+            xmax = 11.532 
+            text = "[int]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 11.532 
+        intervals: size = 7
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.17263496652621005 
+            text = "0"
+        intervals [2]:
+            xmin = 0.17263496652621005 
+            xmax = 0.42836163786696646 
+            text = "[sta]"
+        intervals [3]:
+            xmin = 0.42836163786696646 
+            xmax = 2.1499073191236326 
+            text = "(u) [int] igama elip_>ElwajO [/int] (/u)"
+        intervals [4]:
+            xmin = 2.1499073191236326 
+            xmax = 3.0405705410143637 
+            text = "[sta]"
+        intervals [5]:
+            xmin = 3.0405705410143637 
+            xmax = 7.4404468571545745 
+            text = "(u) [int] ju 0 ke-\I ju ar 0 e-\ItS 0 @U 0 el 0 e-\Ij@ [/int] (/u)"
+        intervals [6]:
+            xmin = 7.4404468571545745 
+            xmax = 7.9214049969755695 
+            text = "[sta]"
+        intervals [7]:
+            xmin = 7.9214049969755695 
+            xmax = 11.532 
+            text = "[int]"

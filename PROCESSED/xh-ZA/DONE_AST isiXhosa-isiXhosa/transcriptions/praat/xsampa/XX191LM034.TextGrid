@@ -1,0 +1,60 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 33.240000000000002 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 33.240000000000002 
+        intervals: size = 5
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.55043775915051107 
+            text = "[int]" 
+        intervals [2]:
+            xmin = 0.55043775915051107 
+            xmax = 2.1179906344449497 
+            text = "(u) [int] isivakalisi [/int] (/u)" 
+        intervals [3]:
+            xmin = 2.1179906344449497 
+            xmax = 2.8179097222085443 
+            text = "[int]" 
+        intervals [4]:
+            xmin = 2.8179097222085443 
+            xmax = 5.6389745406675651 
+            text = "(s) [int] kune0ndyebo 0 kweli lizwe [/int] (/s)" 
+        intervals [5]:
+            xmin = 5.6389745406675651 
+            xmax = 33.240000000000002 
+            text = "[int]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 33.240000000000002 
+        intervals: size = 5
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.55043775915051107 
+            text = "[int]"
+        intervals [2]:
+            xmin = 0.55043775915051107 
+            xmax = 2.1179906344449497 
+            text = "(u) [int] isivak_>alisi [/int] (/u)"
+        intervals [3]:
+            xmin = 2.1179906344449497 
+            xmax = 2.8179097222085443 
+            text = "[int]"
+        intervals [4]:
+            xmin = 2.8179097222085443 
+            xmax = 5.6389745406675651 
+            text = "(s) [int] k_>unE0JJ\Eb_<O 0 k_>weli lizwE [/int] (/s)"
+        intervals [5]:
+            xmin = 5.6389745406675651 
+            xmax = 33.240000000000002 
+            text = "[int]"

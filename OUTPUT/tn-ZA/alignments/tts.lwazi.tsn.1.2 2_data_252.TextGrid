@@ -1,0 +1,206 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0
+xmax = 3.320000
+tiers? <exists>
+size = 3
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "segment"
+		xmin = 0
+		xmax = 3.320000
+		intervals: size = 25
+		intervals [1]:
+			xmin = 0.000000
+			xmax = 0.290000
+			text = "#"
+		intervals [2]:
+			xmin = 0.290000
+			xmax = 0.315000
+			text = "#_cl"
+		intervals [3]:
+			xmin = 0.315000
+			xmax = 0.450000
+			text = "ts_h"
+		intervals [4]:
+			xmin = 0.450000
+			xmax = 0.540000
+			text = "w"
+		intervals [5]:
+			xmin = 0.540000
+			xmax = 0.660000
+			text = "a"
+		intervals [6]:
+			xmin = 0.660000
+			xmax = 0.745000
+			text = "r"
+		intervals [7]:
+			xmin = 0.745000
+			xmax = 0.840000
+			text = "a"
+		intervals [8]:
+			xmin = 0.840000
+			xmax = 0.950000
+			text = "m"
+		intervals [9]:
+			xmin = 0.950000
+			xmax = 1.080000
+			text = "O"
+		intervals [10]:
+			xmin = 1.080000
+			xmax = 1.160000
+			text = "#_cl"
+		intervals [11]:
+			xmin = 1.160000
+			xmax = 1.240000
+			text = "t_h"
+		intervals [12]:
+			xmin = 1.240000
+			xmax = 1.290000
+			text = "O"
+		intervals [13]:
+			xmin = 1.290000
+			xmax = 1.450000
+			text = "j"
+		intervals [14]:
+			xmin = 1.450000
+			xmax = 1.665000
+			text = "O"
+		intervals [15]:
+			xmin = 1.665000
+			xmax = 1.805000
+			text = "r"
+		intervals [16]:
+			xmin = 1.805000
+			xmax = 1.880000
+			text = "E"
+		intervals [17]:
+			xmin = 1.880000
+			xmax = 2.010000
+			text = "m"
+		intervals [18]:
+			xmin = 2.010000
+			xmax = 2.115000
+			text = "O"
+		intervals [19]:
+			xmin = 2.115000
+			xmax = 2.300000
+			text = "x"
+		intervals [20]:
+			xmin = 2.300000
+			xmax = 2.380000
+			text = "O"
+		intervals [21]:
+			xmin = 2.380000
+			xmax = 2.510000
+			text = "l"
+		intervals [22]:
+			xmin = 2.510000
+			xmax = 2.750000
+			text = "E"
+		intervals [23]:
+			xmin = 2.750000
+			xmax = 2.930000
+			text = "x"
+		intervals [24]:
+			xmin = 2.930000
+			xmax = 3.085000
+			text = "E"
+		intervals [25]:
+			xmin = 3.085000
+			xmax = 3.320000
+			text = "#"
+	item [2]:
+		class = "IntervalTier"
+		name = "syllable"
+		xmin = 0
+		xmax = 3.320000
+		intervals: size = 12
+		intervals [1]:
+			xmin = 0.000000
+			xmax = 0.290000
+			text = "NONE"
+		intervals [2]:
+			xmin = 0.290000
+			xmax = 0.660000
+			text = "syl"
+		intervals [3]:
+			xmin = 0.660000
+			xmax = 0.840000
+			text = "syl"
+		intervals [4]:
+			xmin = 0.840000
+			xmax = 1.080000
+			text = "syl"
+		intervals [5]:
+			xmin = 1.080000
+			xmax = 1.290000
+			text = "syl"
+		intervals [6]:
+			xmin = 1.290000
+			xmax = 1.665000
+			text = "syl"
+		intervals [7]:
+			xmin = 1.665000
+			xmax = 1.880000
+			text = "syl"
+		intervals [8]:
+			xmin = 1.880000
+			xmax = 2.115000
+			text = "syl"
+		intervals [9]:
+			xmin = 2.115000
+			xmax = 2.380000
+			text = "syl"
+		intervals [10]:
+			xmin = 2.380000
+			xmax = 2.750000
+			text = "syl"
+		intervals [11]:
+			xmin = 2.750000
+			xmax = 3.085000
+			text = "syl"
+		intervals [12]:
+			xmin = 3.085000
+			xmax = 3.320000
+			text = "NONE"
+	item [3]:
+		class = "IntervalTier"
+		name = "word"
+		xmin = 0
+		xmax = 3.320000
+		intervals: size = 8
+		intervals [1]:
+			xmin = 0.000000
+			xmax = 0.290000
+			text = "NONE"
+		intervals [2]:
+			xmin = 0.290000
+			xmax = 0.840000
+			text = "Tshwara"
+		intervals [3]:
+			xmin = 0.840000
+			xmax = 1.290000
+			text = "motho"
+		intervals [4]:
+			xmin = 1.290000
+			xmax = 1.665000
+			text = "yo"
+		intervals [5]:
+			xmin = 1.665000
+			xmax = 1.880000
+			text = "re"
+		intervals [6]:
+			xmin = 1.880000
+			xmax = 2.115000
+			text = "mo"
+		intervals [7]:
+			xmin = 2.115000
+			xmax = 3.085000
+			text = "golege"
+		intervals [8]:
+			xmin = 3.085000
+			xmax = 3.320000
+			text = "NONE"

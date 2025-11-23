@@ -1,0 +1,68 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 5.7839999999999998 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 5.7839999999999998 
+        intervals: size = 6 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.046924352724386997 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.046924352724386997 
+            xmax = 0.41210003471793799 
+            text = "[sta]" 
+        intervals [3]:
+            xmin = 0.41210003471793799 
+            xmax = 2.551584805298428 
+            text = "(s) [sta] umama uzamisa iti [/sta] (/s)" 
+        intervals [4]:
+            xmin = 2.551584805298428 
+            xmax = 2.9863777327973855 
+            text = "[sta]" 
+        intervals [5]:
+            xmin = 2.9863777327973855 
+            xmax = 4.4576970542530692 
+            text = "0" 
+        intervals [6]:
+            xmin = 4.4576970542530692 
+            xmax = 5.7839999999999998 
+            text = "[int]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 5.7839999999999998 
+        intervals: size = 6 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.046924352724386997 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.046924352724386997 
+            xmax = 0.41210003471793799 
+            text = "[sta]" 
+        intervals [3]:
+            xmin = 0.41210003471793799 
+            xmax = 2.551584805298428 
+            text = "(s) [sta] umama uzamisa it_>i [/sta] (/s)" 
+        intervals [4]:
+            xmin = 2.551584805298428 
+            xmax = 2.9863777327973855 
+            text = "[sta]" 
+        intervals [5]:
+            xmin = 2.9863777327973855 
+            xmax = 4.4576970542530692 
+            text = "0" 
+        intervals [6]:
+            xmin = 4.4576970542530692 
+            xmax = 5.7839999999999998 
+            text = "[int]" 

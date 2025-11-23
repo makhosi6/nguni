@@ -1,0 +1,52 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 6.3479999999999999 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 6.3479999999999999 
+        intervals: size = 4 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.56570063256748582 
+            text = "[int]" 
+        intervals [2]:
+            xmin = 0.56570063256748582 
+            xmax = 5.6957891789109762 
+            text = "(s) [int] ndisebenzisa imfonomfono enomxeba 0 ndisebenzisa imfonomfono *enomnxe+ [/int] (/s)" 
+        intervals [3]:
+            xmin = 5.6957891789109762 
+            xmax = 6.1913547115849079 
+            text = "[int]" 
+        intervals [4]:
+            xmin = 6.1913547115849079 
+            xmax = 6.3479999999999999 
+            text = "0" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 6.3479999999999999 
+        intervals: size = 4 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.56570063256748582 
+            text = "[int]"
+        intervals [2]:
+            xmin = 0.56570063256748582 
+            xmax = 5.6957891789109762 
+            text = "(s) [int] ndisEb_<end-\zisa imfOnOfOnO EnOm|\|\Eb_<a 0 ndisEb_<end-\zisa imfOnOfOn EnOm|\|\~E [/int] (/s)"
+        intervals [3]:
+            xmin = 5.6957891789109762 
+            xmax = 6.1913547115849079 
+            text = "[int]"
+        intervals [4]:
+            xmin = 6.1913547115849079 
+            xmax = 6.3479999999999999 
+            text = "0"

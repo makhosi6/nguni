@@ -1,0 +1,226 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0
+xmax = 3.045000
+tiers? <exists>
+size = 5
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "segment"
+		xmin = 0
+		xmax = 3.045000
+		intervals: size = 24
+		intervals [1]:
+			xmin = 0.000000
+			xmax = 0.325000
+			text = "pau"
+		intervals [2]:
+			xmin = 0.325000
+			xmax = 0.395000
+			text = "eng_ð"
+		intervals [3]:
+			xmin = 0.395000
+			xmax = 0.625000
+			text = "eng_eɪ"
+		intervals [4]:
+			xmin = 0.625000
+			xmax = 0.720000
+			text = "eng_i"
+		intervals [5]:
+			xmin = 0.720000
+			xmax = 0.780000
+			text = "eng_t"
+		intervals [6]:
+			xmin = 0.780000
+			xmax = 0.895000
+			text = "eng_l"
+		intervals [7]:
+			xmin = 0.895000
+			xmax = 1.010000
+			text = "eng_ʌ"
+		intervals [8]:
+			xmin = 1.010000
+			xmax = 1.090000
+			text = "eng_n"
+		intervals [9]:
+			xmin = 1.090000
+			xmax = 1.190000
+			text = "eng_tʃ"
+		intervals [10]:
+			xmin = 1.190000
+			xmax = 1.225000
+			text = "eng_a"
+		intervals [11]:
+			xmin = 1.225000
+			xmax = 1.290000
+			text = "eng_t"
+		intervals [12]:
+			xmin = 1.290000
+			xmax = 1.365000
+			text = "eng_ð"
+		intervals [13]:
+			xmin = 1.365000
+			xmax = 1.395000
+			text = "eng_ə"
+		intervals [14]:
+			xmin = 1.395000
+			xmax = 1.575000
+			text = "eng_s"
+		intervals [15]:
+			xmin = 1.575000
+			xmax = 1.615000
+			text = "eng_n"
+		intervals [16]:
+			xmin = 1.615000
+			xmax = 1.730000
+			text = "eng_a"
+		intervals [17]:
+			xmin = 1.730000
+			xmax = 1.835000
+			text = "eng_k"
+		intervals [18]:
+			xmin = 1.835000
+			xmax = 1.955000
+			text = "eng_k"
+		intervals [19]:
+			xmin = 1.955000
+			xmax = 2.075000
+			text = "eng_aʊ"
+		intervals [20]:
+			xmin = 2.075000
+			xmax = 2.150000
+			text = "eng_n"
+		intervals [21]:
+			xmin = 2.150000
+			xmax = 2.205000
+			text = "eng_t"
+		intervals [22]:
+			xmin = 2.205000
+			xmax = 2.245000
+			text = "eng_ə"
+		intervals [23]:
+			xmin = 2.245000
+			xmax = 2.435000
+			text = "eng_ɹ"
+		intervals [24]:
+			xmin = 2.435000
+			xmax = 3.045000
+			text = "pau"
+	item [2]:
+		class = "IntervalTier"
+		name = "syllable"
+		xmin = 0
+		xmax = 3.045000
+		intervals: size = 10
+		intervals [1]:
+			xmin = 0.000000
+			xmax = 0.325000
+			text = "NONE"
+		intervals [2]:
+			xmin = 0.325000
+			xmax = 0.625000
+			text = "syl"
+		intervals [3]:
+			xmin = 0.625000
+			xmax = 0.780000
+			text = "syl"
+		intervals [4]:
+			xmin = 0.780000
+			xmax = 1.190000
+			text = "syl"
+		intervals [5]:
+			xmin = 1.190000
+			xmax = 1.290000
+			text = "syl"
+		intervals [6]:
+			xmin = 1.290000
+			xmax = 1.395000
+			text = "syl"
+		intervals [7]:
+			xmin = 1.395000
+			xmax = 1.835000
+			text = "syl"
+		intervals [8]:
+			xmin = 1.835000
+			xmax = 2.150000
+			text = "syl"
+		intervals [9]:
+			xmin = 2.150000
+			xmax = 2.435000
+			text = "syl"
+		intervals [10]:
+			xmin = 2.435000
+			xmax = 3.045000
+			text = "NONE"
+	item [3]:
+		class = "IntervalTier"
+		name = "word"
+		xmin = 0
+		xmax = 3.045000
+		intervals: size = 9
+		intervals [1]:
+			xmin = 0.000000
+			xmax = 0.325000
+			text = "NONE"
+		intervals [2]:
+			xmin = 0.325000
+			xmax = 0.625000
+			text = "they"
+		intervals [3]:
+			xmin = 0.625000
+			xmax = 0.780000
+			text = "eat"
+		intervals [4]:
+			xmin = 0.780000
+			xmax = 1.190000
+			text = "lunch"
+		intervals [5]:
+			xmin = 1.190000
+			xmax = 1.290000
+			text = "at"
+		intervals [6]:
+			xmin = 1.290000
+			xmax = 1.395000
+			text = "the"
+		intervals [7]:
+			xmin = 1.395000
+			xmax = 1.835000
+			text = "snack"
+		intervals [8]:
+			xmin = 1.835000
+			xmax = 2.435000
+			text = "counter"
+		intervals [9]:
+			xmin = 2.435000
+			xmax = 3.045000
+			text = "NONE"
+	item [4]:
+		class = "IntervalTier"
+		name = "phrase"
+		xmin = 0
+		xmax = 3.045000
+		intervals: size = 3
+		intervals [1]:
+			xmin = 0.000000
+			xmax = 0.325000
+			text = "NONE"
+		intervals [2]:
+			xmin = 0.325000
+			xmax = 2.435000
+			text = "BB"
+		intervals [3]:
+			xmin = 2.435000
+			xmax = 3.045000
+			text = "NONE"
+	item [5]:
+		class = "IntervalTier"
+		name = "text"
+		xmin = 0
+		xmax = 3.045000
+		intervals: size = 1
+		intervals [1]:
+			xmin = 0.000000
+			xmax = 3.045000
+			text = "|they |eat |lunch |at |the |snack |counter."

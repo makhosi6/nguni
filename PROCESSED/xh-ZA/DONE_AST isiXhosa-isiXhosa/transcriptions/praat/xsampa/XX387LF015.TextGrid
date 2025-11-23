@@ -1,0 +1,60 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 7.3319999999999998 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 7.3319999999999998 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.29553454195567602 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.29553454195567602 
+            xmax = 0.52421511045446723 
+            text = "[spk]" 
+        intervals [3]:
+            xmin = 0.52421511045446723 
+            xmax = 3.4589726938400953 
+            text = "(s) lishumi *elinethoba lemizuzu phambi kwentsimbi yethoba (/s)" 
+        intervals [4]:
+            xmin = 3.4589726938400953 
+            xmax = 4.467430286643931 
+            text = "0" 
+        intervals [5]:
+            xmin = 4.467430286643931 
+            xmax = 7.3319999999999998 
+            text = "[int]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 7.3319999999999998 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.29553454195567602 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.29553454195567602 
+            xmax = 0.52421511045446723 
+            text = "[spk]" 
+        intervals [3]:
+            xmin = 0.52421511045446723 
+            xmax = 3.4589726938400953 
+            text = "(s) liSumi elnEt_hOb_<a lemizuzu p_hambi k_>went-\s_>imbi jet_hOb_<a (/s)" 
+        intervals [4]:
+            xmin = 3.4589726938400953 
+            xmax = 4.467430286643931 
+            text = "0" 
+        intervals [5]:
+            xmin = 4.467430286643931 
+            xmax = 7.3319999999999998 
+            text = "[int]" 

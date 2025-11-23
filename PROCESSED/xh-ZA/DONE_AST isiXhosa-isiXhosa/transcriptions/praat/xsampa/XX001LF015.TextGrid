@@ -1,0 +1,76 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 6.5640000000000001 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic"
+        xmin = 0 
+        xmax = 6.5640000000000001 
+        intervals: size = 7
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.26803935477995122 
+            text = "[spk]" 
+        intervals [2]:
+            xmin = 0.26803935477995122 
+            xmax = 0.59006520001214346 
+            text = "[sta]" 
+        intervals [3]:
+            xmin = 0.59006520001214346 
+            xmax = 1.4454463514101541 
+            text = "[int]" 
+        intervals [4]:
+            xmin = 1.4454463514101541 
+            xmax = 2.0391815035570087 
+            text = "[sta]" 
+        intervals [5]:
+            xmin = 2.0391815035570087 
+            xmax = 3.5266799814974172 
+            text = "(u) ($)quarter 0 past 0 nine(/$) (/u)" 
+        intervals [6]:
+            xmin = 3.5266799814974172 
+            xmax = 3.7627696205999182 
+            text = "[spk]" 
+        intervals [7]:
+            xmin = 3.7627696205999182 
+            xmax = 6.5640000000000001 
+            text = "[int]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 6.5640000000000001 
+        intervals: size = 7
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.26803935477995122 
+            text = "[spk]"
+        intervals [2]:
+            xmin = 0.26803935477995122 
+            xmax = 0.59006520001214346 
+            text = "[sta]"
+        intervals [3]:
+            xmin = 0.59006520001214346 
+            xmax = 1.4454463514101541 
+            text = "[int]"
+        intervals [4]:
+            xmin = 1.4454463514101541 
+            xmax = 2.0391815035570087 
+            text = "[sta]"
+        intervals [5]:
+            xmin = 2.0391815035570087 
+            xmax = 3.5266799814974172 
+            text = "(u) ($)kOta 0 past 0 na-\in(/$) (/u)"
+        intervals [6]:
+            xmin = 3.5266799814974172 
+            xmax = 3.7627696205999182 
+            text = "[spk]"
+        intervals [7]:
+            xmin = 3.7627696205999182 
+            xmax = 6.5640000000000001 
+            text = "[int]"

@@ -1,0 +1,46 @@
+# Low-resource language training configuration
+# For languages with <2k examples: en, ss
+# Uses transfer learning from multilingual model
+
+model:
+  model_id: "openai/whisper-large-v3"
+  base_model: "multilingual_finetuned"  # Warm start from multilingual model
+  gradient_checkpointing: true
+  use_cache: false
+
+training:
+  batch_size: 4
+  gradient_accumulation_steps: 8  # Effective batch size: 32
+  learning_rate: 2e-4  # Higher LR for rapid adaptation
+  max_steps: 1000
+  warmup_steps: 100
+  lr_scheduler: "linear_with_warmup"
+  weight_decay: 0.01
+  max_grad_norm: 1.0
+  fp16: true
+  dataloader_num_workers: 2
+  dataloader_pin_memory: true
+
+data:
+  max_audio_length: 30.0
+  min_audio_length: 0.3
+  apply_specaugment: true
+  time_mask_param: 10
+  freq_mask_param: 10
+
+evaluation:
+  eval_strategy: "steps"
+  eval_steps: 100
+  metric_for_best_model: "wer"
+  greater_is_better: false
+  load_best_model_at_end: true
+
+checkpointing:
+  save_strategy: "steps"
+  save_steps: 100
+  save_total_limit: 3
+
+early_stopping:
+  patience: 3
+  threshold: 0.001
+

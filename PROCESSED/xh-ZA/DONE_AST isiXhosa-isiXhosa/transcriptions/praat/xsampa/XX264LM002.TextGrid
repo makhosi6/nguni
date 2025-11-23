@@ -1,0 +1,68 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 5.2320000000000002 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 5.2320000000000002 
+        intervals: size = 6
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.085308088525485992 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.085308088525485992 
+            xmax = 0.62801124374278006 
+            text = "[int]" 
+        intervals [3]:
+            xmin = 0.62801124374278006 
+            xmax = 3.2135801819488159 
+            text = "(u) [int] Nominentle [/int] B. 0 [ext] 0 [ext] 0 [int] Busakhwe [/int] (/u)" 
+        intervals [4]:
+            xmin = 3.2135801819488159 
+            xmax = 4.8714311898344249 
+            text = "0" 
+        intervals [5]:
+            xmin = 4.8714311898344249 
+            xmax = 5.0271663221476519 
+            text = "[ext]" 
+        intervals [6]:
+            xmin = 5.0271663221476519 
+            xmax = 5.2320000000000002 
+            text = "[sta]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 5.2320000000000002 
+        intervals: size = 6
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.085308088525485992 
+            text = "0"
+        intervals [2]:
+            xmin = 0.085308088525485992 
+            xmax = 0.62801124374278006 
+            text = "[int]"
+        intervals [3]:
+            xmin = 0.62801124374278006 
+            xmax = 3.2135801819488159 
+            text = "(u) [int] nominEnt-\K_>E [/int] bi 0 [ext] 0 [ext] 0 [int] b_<usak_hwE [/int] (/u)"
+        intervals [4]:
+            xmin = 3.2135801819488159 
+            xmax = 4.8714311898344249 
+            text = "0"
+        intervals [5]:
+            xmin = 4.8714311898344249 
+            xmax = 5.0271663221476519 
+            text = "[ext]"
+        intervals [6]:
+            xmin = 5.0271663221476519 
+            xmax = 5.2320000000000002 
+            text = "[sta]"

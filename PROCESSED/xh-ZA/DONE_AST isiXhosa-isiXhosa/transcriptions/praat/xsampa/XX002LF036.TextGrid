@@ -1,0 +1,52 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 7.8239999999999998 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic"
+        xmin = 0 
+        xmax = 7.8239999999999998 
+        intervals: size = 4
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.22353098088424289 
+            text = "(u) ~na (/u)" 
+        intervals [2]:
+            xmin = 0.22353098088424289 
+            xmax = 0.47542642609214825 
+            text = "[spk]" 
+        intervals [3]:
+            xmin = 0.47542642609214825 
+            xmax = 5.8012158390592905 
+            text = "(u) ngoLwesine 0 ngomhla wesixhenxe kuJulayi 0 ($)two thousand and three(/$) (/u)"
+        intervals [4]:
+            xmin = 5.8012158390592905 
+            xmax = 7.8239999999999998 
+            text = "0" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 7.8239999999999998 
+        intervals: size = 4
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.22353098088424289 
+            text = "(u) na (/u)"
+        intervals [2]:
+            xmin = 0.22353098088424289 
+            xmax = 0.47542642609214825 
+            text = "[spk]"
+        intervals [3]:
+            xmin = 0.47542642609214825 
+            xmax = 5.8012158390592905 
+            text = "(u) NgOlwesinE 0 NgOmKa wesi|\|\_hE|\|\~E k_>ud-\Zulaj 0 ($)tu TaUzEn {n tri(/$) (/u)"
+        intervals [4]:
+            xmin = 5.8012158390592905 
+            xmax = 7.8239999999999998 
+            text = "0"

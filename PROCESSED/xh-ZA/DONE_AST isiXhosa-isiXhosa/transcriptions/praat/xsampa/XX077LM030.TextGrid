@@ -1,0 +1,60 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 6.7560000000000002 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 6.7560000000000002 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.3203475519115277 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.3203475519115277 
+            xmax = 2.3681277588318039 
+            text = "(u) [sta] *inamba+ 0 *inambari [/sta] (/u)" 
+        intervals [3]:
+            xmin = 2.3681277588318039 
+            xmax = 3.4031986110122196 
+            text = "[sta]" 
+        intervals [4]:
+            xmin = 3.4031986110122196 
+            xmax = 4.7580263388883441 
+            text = "(u) [sta] ($)sixteen fifty 0 three(/$) [/sta] (/u)" 
+        intervals [5]:
+            xmin = 4.7580263388883441 
+            xmax = 6.7560000000000002 
+            text = "[sta]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 6.7560000000000002 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.3203475519115277 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.3203475519115277 
+            xmax = 2.3681277588318039 
+            text = "(u) [sta] inamba 0 nambari [/sta] (/u)" 
+        intervals [3]:
+            xmin = 2.3681277588318039 
+            xmax = 3.4031986110122196 
+            text = "[sta]" 
+        intervals [4]:
+            xmin = 3.4031986110122196 
+            xmax = 4.7580263388883441 
+            text = "(u) [sta] ($)sikstin fifti 0 Tri:(/$) [/sta] (/u)" 
+        intervals [5]:
+            xmin = 4.7580263388883441 
+            xmax = 6.7560000000000002 
+            text = "[sta]" 

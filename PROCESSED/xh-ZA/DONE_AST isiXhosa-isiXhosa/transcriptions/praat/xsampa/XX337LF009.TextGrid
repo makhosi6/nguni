@@ -1,0 +1,68 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 4.2000000000000002 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 4.2000000000000002 
+        intervals: size = 6 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.24877452716582846 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.24877452716582846 
+            xmax = 0.3874532467280869 
+            text = "[int]" 
+        intervals [3]:
+            xmin = 0.3874532467280869 
+            xmax = 1.6723369137143902 
+            text = "(u) ibanga [int] leshumi [/int] (/u)" 
+        intervals [4]:
+            xmin = 1.6723369137143902 
+            xmax = 1.9100481688744071 
+            text = "[spk]" 
+        intervals [5]:
+            xmin = 1.9100481688744071 
+            xmax = 3.2523538590604022 
+            text = "[int]" 
+        intervals [6]:
+            xmin = 3.2523538590604022 
+            xmax = 4.2000000000000002 
+            text = "0" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 4.2000000000000002 
+        intervals: size = 6 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.24877452716582846 
+            text = "0"
+        intervals [2]:
+            xmin = 0.24877452716582846 
+            xmax = 0.3874532467280869 
+            text = "[int]"
+        intervals [3]:
+            xmin = 0.3874532467280869 
+            xmax = 1.6723369137143902 
+            text = "(u) ib_<aNga [int] leSumi [/int] (/u)"
+        intervals [4]:
+            xmin = 1.6723369137143902 
+            xmax = 1.9100481688744071 
+            text = "[spk]"
+        intervals [5]:
+            xmin = 1.9100481688744071 
+            xmax = 3.2523538590604022 
+            text = "[int]"
+        intervals [6]:
+            xmin = 3.2523538590604022 
+            xmax = 4.2000000000000002 
+            text = "0"

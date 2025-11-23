@@ -1,0 +1,60 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 8.7599999999999998 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 8.7599999999999998 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.57947879293102755 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.57947879293102755 
+            xmax = 3.6786336369618851 
+            text = "(u) [int] inqaku ($)fifteen(/$) ibinzana 0 elichaza 0 umhla [/int] (/u)" 
+        intervals [3]:
+            xmin = 3.6786336369618851 
+            xmax = 4.4938121565234033 
+            text = "[int]" 
+        intervals [4]:
+            xmin = 4.4938121565234033 
+            xmax = 5.9366950769728053 
+            text = "(u) [int] ngezinye iimini [/int] (/u)" 
+        intervals [5]:
+            xmin = 5.9366950769728053 
+            xmax = 8.7599999999999998 
+            text = "[int]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 8.7599999999999998 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.57947879293102755 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.57947879293102755 
+            xmax = 3.6786336369618851 
+            text = "(u) [int] !\~ak_>u ($)fiftin(/$) ib_<ind-\zana 0 eli|\_haza 0 umKa [/int] (/u)" 
+        intervals [3]:
+            xmin = 3.6786336369618851 
+            xmax = 4.4938121565234033 
+            text = "[int]" 
+        intervals [4]:
+            xmin = 4.4938121565234033 
+            xmax = 5.9366950769728053 
+            text = "(u) [int] NgeziJE i:mini [/int] (/u)" 
+        intervals [5]:
+            xmin = 5.9366950769728053 
+            xmax = 8.7599999999999998 
+            text = "[int]" 

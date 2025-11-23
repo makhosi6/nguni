@@ -1,0 +1,68 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 3.8399999999999999 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 3.8399999999999999 
+        intervals: size = 6
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.85571472391333703 
+            text = "(s) [int] ~ca itafile [/int] (/s)" 
+        intervals [2]:
+            xmin = 0.85571472391333703 
+            xmax = 1.0575358989667978 
+            text = "[sta]" 
+        intervals [3]:
+            xmin = 1.0575358989667978 
+            xmax = 1.58149019925318 
+            text = "0" 
+        intervals [4]:
+            xmin = 1.58149019925318 
+            xmax = 1.9052821825762252 
+            text = "[spk]" 
+        intervals [5]:
+            xmin = 1.9052821825762252 
+            xmax = 3.5006935913134112 
+            text = "[int]" 
+        intervals [6]:
+            xmin = 3.5006935913134112 
+            xmax = 3.8399999999999999 
+            text = "[sta]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 3.8399999999999999 
+        intervals: size = 6
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.85571472391333703 
+            text = "(s) [int] |\a it_>afilE [/int] (/s)"
+        intervals [2]:
+            xmin = 0.85571472391333703 
+            xmax = 1.0575358989667978 
+            text = "[sta]"
+        intervals [3]:
+            xmin = 1.0575358989667978 
+            xmax = 1.58149019925318 
+            text = "0"
+        intervals [4]:
+            xmin = 1.58149019925318 
+            xmax = 1.9052821825762252 
+            text = "[spk]"
+        intervals [5]:
+            xmin = 1.9052821825762252 
+            xmax = 3.5006935913134112 
+            text = "[int]"
+        intervals [6]:
+            xmin = 3.5006935913134112 
+            xmax = 3.8399999999999999 
+            text = "[sta]"

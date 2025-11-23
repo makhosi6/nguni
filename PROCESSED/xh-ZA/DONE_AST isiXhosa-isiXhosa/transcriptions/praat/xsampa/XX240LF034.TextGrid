@@ -1,0 +1,60 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 4.3440000000000003 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 4.3440000000000003 
+        intervals: size = 5
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.18404600329896073 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.18404600329896073 
+            xmax = 0.43384806795645842 
+            text = "[int]" 
+        intervals [3]:
+            xmin = 0.43384806795645842 
+            xmax = 2.6748158350114859 
+            text = "(u) idesika [int] yokusebenzela [/int] (/u)" 
+        intervals [4]:
+            xmin = 2.6748158350114859 
+            xmax = 3.8950556174496649 
+            text = "[sta]" 
+        intervals [5]:
+            xmin = 3.8950556174496649 
+            xmax = 4.3440000000000003 
+            text = "[int]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 4.3440000000000003 
+        intervals: size = 5
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.18404600329896073 
+            text = "0"
+        intervals [2]:
+            xmin = 0.18404600329896073 
+            xmax = 0.43384806795645842 
+            text = "[int]"
+        intervals [3]:
+            xmin = 0.43384806795645842 
+            xmax = 2.6748158350114859 
+            text = "(u) id_0esik_>a [int] jok_>usEb_<End-\zEla [/int] (/u)"
+        intervals [4]:
+            xmin = 2.6748158350114859 
+            xmax = 3.8950556174496649 
+            text = "[sta]"
+        intervals [5]:
+            xmin = 3.8950556174496649 
+            xmax = 4.3440000000000003 
+            text = "[int]"

@@ -1,0 +1,68 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 8.0640000000000001 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic"
+        xmin = 0 
+        xmax = 8.0640000000000001 
+        intervals: size = 6
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.9488401218389177 
+            text = "(u) ~wesithandathu 0 kweyeNkanga (/u)" 
+        intervals [2]:
+            xmin = 1.9488401218389177 
+            xmax = 2.3691809874619252 
+            text = "[spk]" 
+        intervals [3]:
+            xmin = 2.3691809874619252 
+            xmax = 3.1974997520719701 
+            text = "0" 
+        intervals [4]:
+            xmin = 3.1974997520719701 
+            xmax = 4.1123592831338103 
+            text = "[int]" 
+        intervals [5]:
+            xmin = 4.1123592831338103 
+            xmax = 7.3514565417581643 
+            text = "[spk]" 
+        intervals [6]:
+            xmin = 7.3514565417581643 
+            xmax = 8.0640000000000001 
+            text = "[sta]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 8.0640000000000001 
+        intervals: size = 6
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.9488401218389177 
+            text = "(u) wesit_handat_hu 0 k_>wEjENk_>aNga (/u)"
+        intervals [2]:
+            xmin = 1.9488401218389177 
+            xmax = 2.3691809874619252 
+            text = "[spk]"
+        intervals [3]:
+            xmin = 2.3691809874619252 
+            xmax = 3.1974997520719701 
+            text = "0"
+        intervals [4]:
+            xmin = 3.1974997520719701 
+            xmax = 4.1123592831338103 
+            text = "[int]"
+        intervals [5]:
+            xmin = 4.1123592831338103 
+            xmax = 7.3514565417581643 
+            text = "[spk]"
+        intervals [6]:
+            xmin = 7.3514565417581643 
+            xmax = 8.0640000000000001 
+            text = "[sta]"

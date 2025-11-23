@@ -1,0 +1,68 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 4.7999999999999998 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic"
+        xmin = 0 
+        xmax = 4.7999999999999998 
+        intervals: size = 6
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.65185321100917426 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.65185321100917426 
+            xmax = 0.82887299001204207 
+            text = "[spk]" 
+        intervals [3]:
+            xmin = 0.82887299001204207 
+            xmax = 1.1085115210637628 
+            text = "[sta]" 
+        intervals [4]:
+            xmin = 1.1085115210637628 
+            xmax = 2.5729343547293531 
+            text = "(u) iKaladokhwe (/u)" 
+        intervals [5]:
+            xmin = 2.5729343547293531 
+            xmax = 2.8820085206286237 
+            text = "[spk]" 
+        intervals [6]:
+            xmin = 2.8820085206286237 
+            xmax = 4.7999999999999998 
+            text = "0" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 4.7999999999999998 
+        intervals: size = 6
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.65185321100917426 
+            text = "0"
+        intervals [2]:
+            xmin = 0.65185321100917426 
+            xmax = 0.82887299001204207 
+            text = "[spk]"
+        intervals [3]:
+            xmin = 0.82887299001204207 
+            xmax = 1.1085115210637628 
+            text = "[sta]"
+        intervals [4]:
+            xmin = 1.1085115210637628 
+            xmax = 2.5729343547293531 
+            text = "(u) ik_>alad_0Ok_hwE (/u)"
+        intervals [5]:
+            xmin = 2.5729343547293531 
+            xmax = 2.8820085206286237 
+            text = "[spk]"
+        intervals [6]:
+            xmin = 2.8820085206286237 
+            xmax = 4.7999999999999998 
+            text = "0"

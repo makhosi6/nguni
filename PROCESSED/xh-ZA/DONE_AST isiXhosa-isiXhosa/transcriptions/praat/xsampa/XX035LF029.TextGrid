@@ -1,0 +1,52 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 3.8279999999999998 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 3.8279999999999998 
+        intervals: size = 4
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.050678320970663528 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.050678320970663528 
+            xmax = 1.8993281757556746 
+            text = "(s) bacoca itafile (/s)" 
+        intervals [3]:
+            xmin = 1.8993281757556746 
+            xmax = 2.9439620619516491 
+            text = "0" 
+        intervals [4]:
+            xmin = 2.9439620619516491 
+            xmax = 3.8279999999999998 
+            text = "[int]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 3.8279999999999998 
+        intervals: size = 4
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.050678320970663528 
+            text = "0"
+        intervals [2]:
+            xmin = 0.050678320970663528 
+            xmax = 1.8993281757556746 
+            text = "(s) b_<a|\O|\a it_>afilE (/s)"
+        intervals [3]:
+            xmin = 1.8993281757556746 
+            xmax = 2.9439620619516491 
+            text = "0"
+        intervals [4]:
+            xmin = 2.9439620619516491 
+            xmax = 3.8279999999999998 
+            text = "[int]"

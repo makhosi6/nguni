@@ -1,0 +1,68 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 7.2119999999999997 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 7.2119999999999997 
+        intervals: size = 6 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.35565788117701275 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.35565788117701275 
+            xmax = 1.7958123433212099 
+            text = "(u) [sta] ibinzana okanye igama [/sta] (/u)" 
+        intervals [3]:
+            xmin = 1.7958123433212099 
+            xmax = 2.1591371797194974 
+            text = "[sta]" 
+        intervals [4]:
+            xmin = 2.1591371797194974 
+            xmax = 2.9038957184347138 
+            text = "(u) [sta] isixhosa [/sta] (/u)" 
+        intervals [5]:
+            xmin = 2.9038957184347138 
+            xmax = 4.219737028195004 
+            text = "[sta]" 
+        intervals [6]:
+            xmin = 4.219737028195004 
+            xmax = 7.2119999999999997 
+            text = "[int]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 7.2119999999999997 
+        intervals: size = 6 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.35565788117701275 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.35565788117701275 
+            xmax = 1.7958123433212099 
+            text = "(u) [sta] ib_<ind-\zana Ok_>aJE igama [/sta] (/u)" 
+        intervals [3]:
+            xmin = 1.7958123433212099 
+            xmax = 2.1591371797194974 
+            text = "[sta]" 
+        intervals [4]:
+            xmin = 2.1591371797194974 
+            xmax = 2.9038957184347138 
+            text = "(u) [sta] isi|\|\_hOsa [/sta] (/u)" 
+        intervals [5]:
+            xmin = 2.9038957184347138 
+            xmax = 4.219737028195004 
+            text = "[sta]" 
+        intervals [6]:
+            xmin = 4.219737028195004 
+            xmax = 7.2119999999999997 
+            text = "[int]" 

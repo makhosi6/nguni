@@ -1,0 +1,60 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 4.9199999999999999 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic"
+        xmin = 0 
+        xmax = 4.9199999999999999 
+        intervals: size = 5
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.53904193920738752 
+            text = "(u) ~nzana (/u)" 
+        intervals [2]:
+            xmin = 0.53904193920738752 
+            xmax = 0.83633306766338711 
+            text = "[int]" 
+        intervals [3]:
+            xmin = 0.83633306766338711 
+            xmax = 1.9111548397735394 
+            text = "(s) [sta] ungayeka ngoku [/sta] (/s)" 
+        intervals [4]:
+            xmin = 1.9111548397735394 
+            xmax = 3.4265060058925743 
+            text = "0" 
+        intervals [5]:
+            xmin = 3.4265060058925743 
+            xmax = 4.9199999999999999 
+            text = "[sta]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 4.9199999999999999 
+        intervals: size = 5
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.53904193920738752 
+            text = "(u) nd-\zana (/u)"
+        intervals [2]:
+            xmin = 0.53904193920738752 
+            xmax = 0.83633306766338711 
+            text = "[int]"
+        intervals [3]:
+            xmin = 0.83633306766338711 
+            xmax = 1.9111548397735394 
+            text = "(s) [sta] uNgajEk_>a Ngok_>u [/sta] (/s)"
+        intervals [4]:
+            xmin = 1.9111548397735394 
+            xmax = 3.4265060058925743 
+            text = "0"
+        intervals [5]:
+            xmin = 3.4265060058925743 
+            xmax = 4.9199999999999999 
+            text = "[sta]"

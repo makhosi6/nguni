@@ -1,0 +1,60 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 9.4559999999999995 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 9.4559999999999995 
+        intervals: size = 5
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.0495287382550336 
+            text = "[int]"
+        intervals [2]:
+            xmin = 1.0495287382550336 
+            xmax = 2.1257794958459404 
+            text = "(u) ($)Bokveld(/$) (/u)" 
+        intervals [3]:
+            xmin = 2.1257794958459404 
+            xmax = 2.8273360671140937 
+            text = "[spk]"
+        intervals [4]:
+            xmin = 2.8273360671140937 
+            xmax = 3.3476699194630872 
+            text = "0" 
+        intervals [5]:
+            xmin = 3.3476699194630872 
+            xmax = 9.4559999999999995 
+            text = "[int]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 9.4559999999999995 
+        intervals: size = 5
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.0495287382550336 
+            text = "[int]"
+        intervals [2]:
+            xmin = 1.0495287382550336 
+            xmax = 2.1257794958459404 
+            text = "(u) ($)bOkfElt(/$) (/u)"
+        intervals [3]:
+            xmin = 2.1257794958459404 
+            xmax = 2.8273360671140937 
+            text = "[spk]"
+        intervals [4]:
+            xmin = 2.8273360671140937 
+            xmax = 3.3476699194630872 
+            text = "0"
+        intervals [5]:
+            xmin = 3.3476699194630872 
+            xmax = 9.4559999999999995 
+            text = "[int]"

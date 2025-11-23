@@ -1,0 +1,68 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 6.54 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 6.54 
+        intervals: size = 6 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.41173817578711469 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.41173817578711469 
+            xmax = 1.9482563139196691 
+            text = "(u) isambuku semali (/u)" 
+        intervals [3]:
+            xmin = 1.9482563139196691 
+            xmax = 2.731099150673137 
+            text = "0" 
+        intervals [4]:
+            xmin = 2.731099150673137 
+            xmax = 4.6786623305331556 
+            text = "(u) ($)nine rand ninety five cents(/$) (/u)" 
+        intervals [5]:
+            xmin = 4.6786623305331556 
+            xmax = 6.2237091244436824 
+            text = "0" 
+        intervals [6]:
+            xmin = 6.2237091244436824 
+            xmax = 6.54 
+            text = "[int]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 6.54 
+        intervals: size = 6 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.41173817578711469 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.41173817578711469 
+            xmax = 1.9482563139196691 
+            text = "(u) isambuk_>u sEmali (/u)" 
+        intervals [3]:
+            xmin = 1.9482563139196691 
+            xmax = 2.731099150673137 
+            text = "0" 
+        intervals [4]:
+            xmin = 2.731099150673137 
+            xmax = 4.6786623305331556 
+            text = "(u) ($)na-\in rant na-\inti fa-\if sEns(/$) (/u)" 
+        intervals [5]:
+            xmin = 4.6786623305331556 
+            xmax = 6.2237091244436824 
+            text = "0" 
+        intervals [6]:
+            xmin = 6.2237091244436824 
+            xmax = 6.54 
+            text = "[int]" 

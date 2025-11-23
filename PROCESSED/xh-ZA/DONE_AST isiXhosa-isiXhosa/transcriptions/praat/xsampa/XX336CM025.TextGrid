@@ -1,0 +1,68 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 5.8680000000000003 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 5.8680000000000003 
+        intervals: size = 6
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.96831590078831009 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.96831590078831009 
+            xmax = 1.265192675497627 
+            text = "[spk]" 
+        intervals [3]:
+            xmin = 1.265192675497627 
+            xmax = 3.7020318473688363 
+            text = "(u) ngomhla wesihlanu ku ($)October(/$) (/u)" 
+        intervals [4]:
+            xmin = 3.7020318473688363 
+            xmax = 3.9644960773939992 
+            text = "[spk]" 
+        intervals [5]:
+            xmin = 3.9644960773939992 
+            xmax = 4.8457065038099971 
+            text = "0" 
+        intervals [6]:
+            xmin = 4.8457065038099971 
+            xmax = 5.8680000000000003 
+            text = "[int]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 5.8680000000000003 
+        intervals: size = 6
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.96831590078831009 
+            text = "0"
+        intervals [2]:
+            xmin = 0.96831590078831009 
+            xmax = 1.265192675497627 
+            text = "[spk]"
+        intervals [3]:
+            xmin = 1.265192675497627 
+            xmax = 3.7020318473688363 
+            text = "(u) NgOm=Ka wesiKanu k_>u ($)Okt@-\Ub_0a(/$) (/u)"
+        intervals [4]:
+            xmin = 3.7020318473688363 
+            xmax = 3.9644960773939992 
+            text = "[spk]"
+        intervals [5]:
+            xmin = 3.9644960773939992 
+            xmax = 4.8457065038099971 
+            text = "0"
+        intervals [6]:
+            xmin = 4.8457065038099971 
+            xmax = 5.8680000000000003 
+            text = "[int]"

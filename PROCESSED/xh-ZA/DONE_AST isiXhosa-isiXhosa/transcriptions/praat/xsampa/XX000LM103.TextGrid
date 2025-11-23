@@ -1,0 +1,92 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 16.463999999999999 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 16.463999999999999 
+        intervals: size = 9
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.056873778592649679 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.056873778592649679 
+            xmax = 5.0578064034957268 
+            text = "(u) T. 0 M. 0 Z. 0 A. (/u)" 
+        intervals [3]:
+            xmin = 5.0578064034957268 
+            xmax = 5.5866433826299717 
+            text = "0" 
+        intervals [4]:
+            xmin = 5.5866433826299717 
+            xmax = 7.9205618279950691 
+            text = "[int]" 
+        intervals [5]:
+            xmin = 7.9205618279950691 
+            xmax = 8.7028774706679961 
+            text = "0" 
+        intervals [6]:
+            xmin = 8.7028774706679961 
+            xmax = 12.126718869814281 
+            text = "(u) T. Z. 0 U. (/u)"
+        intervals [7]:
+            xmin = 12.126718869814281 
+            xmax = 13.607064180848566 
+            text = "[int]" 
+        intervals [8]:
+            xmin = 13.607064180848566 
+            xmax = 14.47177269847904 
+            text = "(u) Tzuzu (/u)" 
+        intervals [9]:
+            xmin = 14.47177269847904 
+            xmax = 16.463999999999999 
+            text = "[int]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 16.463999999999999 
+        intervals: size = 9
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.056873778592649679 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.056873778592649679 
+            xmax = 5.0578064034957268 
+            text = "(u) ti: 0 Em 0 zEt 0 E-\i (/u)" 
+        intervals [3]:
+            xmin = 5.0578064034957268 
+            xmax = 5.5866433826299717 
+            text = "0" 
+        intervals [4]:
+            xmin = 5.5866433826299717 
+            xmax = 7.9205618279950691 
+            text = "[int]" 
+        intervals [5]:
+            xmin = 7.9205618279950691 
+            xmax = 8.7028774706679961 
+            text = "0" 
+        intervals [6]:
+            xmin = 8.7028774706679961 
+            xmax = 12.126718869814281 
+            text = "(u) ti: zEt 0 ju: (/u)" 
+        intervals [7]:
+            xmin = 12.126718869814281 
+            xmax = 13.607064180848566 
+            text = "[int]" 
+        intervals [8]:
+            xmin = 13.607064180848566 
+            xmax = 14.47177269847904 
+            text = "(u) t-\s_>u:zu (/u)" 
+        intervals [9]:
+            xmin = 14.47177269847904 
+            xmax = 16.463999999999999 
+            text = "[int]" 

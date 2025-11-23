@@ -1,0 +1,60 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 4.056 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic"
+        xmin = 0 
+        xmax = 4.056 
+        intervals: size = 5
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.097224723990325751 
+            text = "0"
+        intervals [2]:
+            xmin = 0.097224723990325751 
+            xmax = 2.1630348752557302 
+            text = "(u) [sta] e ($)number five Mbuthuma 0 Place(/$) [/sta] (/u)"
+        intervals [3]:
+            xmin = 2.1630348752557302 
+            xmax = 2.5022763825503356 
+            text = "[spk]"
+        intervals [4]:
+            xmin = 2.5022763825503356 
+            xmax = 2.892856932885906 
+            text = "[sta]"
+        intervals [5]:
+            xmin = 2.892856932885906 
+            xmax = 4.056 
+            text = "[int]"
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 4.056 
+        intervals: size = 5
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.097224723990325751 
+            text = "0"
+        intervals [2]:
+            xmin = 0.097224723990325751 
+            xmax = 2.1630348752557302 
+            text = "(u) [sta] E ($)namb@ fa-\if mbut_huma 0 ple-\Is(/$) [/sta] (/u)"
+        intervals [3]:
+            xmin = 2.1630348752557302 
+            xmax = 2.5022763825503356 
+            text = "[spk]"
+        intervals [4]:
+            xmin = 2.5022763825503356 
+            xmax = 2.892856932885906 
+            text = "[sta]"
+        intervals [5]:
+            xmin = 2.892856932885906 
+            xmax = 4.056 
+            text = "[int]"

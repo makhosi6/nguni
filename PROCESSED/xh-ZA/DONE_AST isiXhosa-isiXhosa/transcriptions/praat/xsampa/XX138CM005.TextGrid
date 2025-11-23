@@ -1,0 +1,60 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 4.9800000000000004 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 4.9800000000000004 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.88052815885454461 
+            text = "(u) ($)four years(/$) (/u)" 
+        intervals [2]:
+            xmin = 0.88052815885454461 
+            xmax = 2.241655093896656 
+            text = "0" 
+        intervals [3]:
+            xmin = 2.241655093896656 
+            xmax = 3.0172868513859585 
+            text = "(u) [sta] yeminyaka [/sta] (/u)" 
+        intervals [4]:
+            xmin = 3.0172868513859585 
+            xmax = 3.7388035449027508 
+            text = "[sta]" 
+        intervals [5]:
+            xmin = 3.7388035449027508 
+            xmax = 4.9800000000000004 
+            text = "0" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 4.9800000000000004 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.88052815885454461 
+            text = "(u) ($)fO: j{s(/$) (/u)" 
+        intervals [2]:
+            xmin = 0.88052815885454461 
+            xmax = 2.241655093896656 
+            text = "0" 
+        intervals [3]:
+            xmin = 2.241655093896656 
+            xmax = 3.0172868513859585 
+            text = "(u) [sta] jemiJak_>a [/sta] (/u)" 
+        intervals [4]:
+            xmin = 3.0172868513859585 
+            xmax = 3.7388035449027508 
+            text = "[sta]" 
+        intervals [5]:
+            xmin = 3.7388035449027508 
+            xmax = 4.9800000000000004 
+            text = "0" 

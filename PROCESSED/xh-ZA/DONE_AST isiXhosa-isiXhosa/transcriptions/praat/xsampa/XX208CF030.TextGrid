@@ -1,0 +1,84 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 12.288 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 12.288 
+        intervals: size = 8 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.5246894153394891 
+            text = "[int]" 
+        intervals [2]:
+            xmin = 0.5246894153394891 
+            xmax = 3.0071677854487948 
+            text = "(u) [int] ibinzana elichaza ixesha [/int] (/u)" 
+        intervals [3]:
+            xmin = 3.0071677854487948 
+            xmax = 3.7976270786075013 
+            text = "[int]" 
+        intervals [4]:
+            xmin = 3.7976270786075013 
+            xmax = 7.0018491688015407 
+            text = "(u) intsimbi 0 yesithandathu entloko (/u)" 
+        intervals [5]:
+            xmin = 7.0018491688015407 
+            xmax = 8.1456480605369279 
+            text = "0" 
+        intervals [6]:
+            xmin = 8.1456480605369279 
+            xmax = 8.560275158791006 
+            text = "[int]" 
+        intervals [7]:
+            xmin = 8.560275158791006 
+            xmax = 9.232257007685547 
+            text = "0" 
+        intervals [8]:
+            xmin = 9.232257007685547 
+            xmax = 12.288 
+            text = "[int]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 12.288 
+        intervals: size = 8 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.5246894153394891 
+            text = "[int]" 
+        intervals [2]:
+            xmin = 0.5246894153394891 
+            xmax = 3.0071677854487948 
+            text = "(u) [int] ib_<ind-\zana eli|\_haza i|\|\ESa [/int] (/u)" 
+        intervals [3]:
+            xmin = 3.0071677854487948 
+            xmax = 3.7976270786075013 
+            text = "[int]" 
+        intervals [4]:
+            xmin = 3.7976270786075013 
+            xmax = 7.0018491688015407 
+            text = "(u) int-\s_>imbi 0 jesit_handat_hu Ent-\K_>Ok_>O (/u)" 
+        intervals [5]:
+            xmin = 7.0018491688015407 
+            xmax = 8.1456480605369279 
+            text = "0" 
+        intervals [6]:
+            xmin = 8.1456480605369279 
+            xmax = 8.560275158791006 
+            text = "[int]" 
+        intervals [7]:
+            xmin = 8.560275158791006 
+            xmax = 9.232257007685547 
+            text = "0" 
+        intervals [8]:
+            xmin = 9.232257007685547 
+            xmax = 12.288 
+            text = "[int]" 

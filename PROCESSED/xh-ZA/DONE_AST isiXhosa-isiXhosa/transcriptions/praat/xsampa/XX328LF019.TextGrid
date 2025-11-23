@@ -1,0 +1,68 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 8.6159999999999997 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 8.6159999999999997 
+        intervals: size = 6 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.37682712080536906 
+            text = "[spk]" 
+        intervals [2]:
+            xmin = 0.37682712080536906 
+            xmax = 1.5406639816229675 
+            text = "[int]" 
+        intervals [3]:
+            xmin = 1.5406639816229675 
+            xmax = 2.2274362648537278 
+            text = "(u) [sta] hayi sisi [/sta] (/u)" 
+        intervals [4]:
+            xmin = 2.2274362648537278 
+            xmax = 3.0002092431604219 
+            text = "[int]" 
+        intervals [5]:
+            xmin = 3.0002092431604219 
+            xmax = 3.6864264463690217 
+            text = "0" 
+        intervals [6]:
+            xmin = 3.6864264463690217 
+            xmax = 8.6159999999999997 
+            text = "[int]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 8.6159999999999997 
+        intervals: size = 6 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.37682712080536906 
+            text = "[spk]"
+        intervals [2]:
+            xmin = 0.37682712080536906 
+            xmax = 1.5406639816229675 
+            text = "[int]"
+        intervals [3]:
+            xmin = 1.5406639816229675 
+            xmax = 2.2274362648537278 
+            text = "(u) [sta] a-\i sis [/sta] (/u)"
+        intervals [4]:
+            xmin = 2.2274362648537278 
+            xmax = 3.0002092431604219 
+            text = "[int]"
+        intervals [5]:
+            xmin = 3.0002092431604219 
+            xmax = 3.6864264463690217 
+            text = "0"
+        intervals [6]:
+            xmin = 3.6864264463690217 
+            xmax = 8.6159999999999997 
+            text = "[int]"

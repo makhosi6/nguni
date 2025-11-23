@@ -1,0 +1,36 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 4.2599999999999998 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 4.2599999999999998 
+        intervals: size = 2 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.2878400849046072 
+            text = "(u) ~ini emaqanda (/u)" 
+        intervals [2]:
+            xmin = 1.2878400849046072 
+            xmax = 4.2599999999999998 
+            text = "0" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 4.2599999999999998 
+        intervals: size = 2 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.2878400849046072 
+            text = "(u) ini Ema!\anda (/u)" 
+        intervals [2]:
+            xmin = 1.2878400849046072 
+            xmax = 4.2599999999999998 
+            text = "0" 

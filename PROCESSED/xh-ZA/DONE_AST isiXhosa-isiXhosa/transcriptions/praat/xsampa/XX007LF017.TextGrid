@@ -1,0 +1,60 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 5.0039999999999996 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 5.0039999999999996 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.46140401498583711 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.46140401498583711 
+            xmax = 0.60417561819602705 
+            text = "[sta]" 
+        intervals [3]:
+            xmin = 0.60417561819602705 
+            xmax = 3.0011745453062226 
+            text = "(s) *a+ andisazi *nokuba *sibhekiswa ngaphi ke sona (/s)" 
+        intervals [4]:
+            xmin = 3.0011745453062226 
+            xmax = 4.1283832924877108 
+            text = "0" 
+        intervals [5]:
+            xmin = 4.1283832924877108 
+            xmax = 5.0039999999999996 
+            text = "[sta]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 5.0039999999999996 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.46140401498583711 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.46140401498583711 
+            xmax = 0.60417561819602705 
+            text = "[sta]" 
+        intervals [3]:
+            xmin = 0.60417561819602705 
+            xmax = 3.0011745453062226 
+            text = "(s) a andisazi nob_<a sib_0ek_>swa Ngap_hi k_>E sOna (/s)" 
+        intervals [4]:
+            xmin = 3.0011745453062226 
+            xmax = 4.1283832924877108 
+            text = "0" 
+        intervals [5]:
+            xmin = 4.1283832924877108 
+            xmax = 5.0039999999999996 
+            text = "[sta]" 

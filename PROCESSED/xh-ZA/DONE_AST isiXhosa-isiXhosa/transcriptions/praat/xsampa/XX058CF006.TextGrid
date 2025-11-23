@@ -1,0 +1,60 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 7.0679999999999996 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 7.0679999999999996 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.27324231917629255 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.27324231917629255 
+            xmax = 0.59485795705271094 
+            text = "[spk]" 
+        intervals [3]:
+            xmin = 0.59485795705271094 
+            xmax = 1.1663355124014612 
+            text = "[sta]" 
+        intervals [4]:
+            xmin = 1.1663355124014612 
+            xmax = 4.6714276657740586 
+            text = "(s) ngumhla wesine 0 ku ($)April(/$) ngo ($)nineteen sixty seven(/$) (/s)" 
+        intervals [5]:
+            xmin = 4.6714276657740586 
+            xmax = 7.0679999999999996 
+            text = "0" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 7.0679999999999996 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.27324231917629255 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.27324231917629255 
+            xmax = 0.59485795705271094 
+            text = "[spk]" 
+        intervals [3]:
+            xmin = 0.59485795705271094 
+            xmax = 1.1663355124014612 
+            text = "[sta]" 
+        intervals [4]:
+            xmin = 1.1663355124014612 
+            xmax = 4.6714276657740586 
+            text = "(s) ngumKa wesinE 0 k_>u ($)E-\ipr@l(/$) NgO ($)na-\intin siksti sEvEn(/$) (/s)" 
+        intervals [5]:
+            xmin = 4.6714276657740586 
+            xmax = 7.0679999999999996 
+            text = "0" 

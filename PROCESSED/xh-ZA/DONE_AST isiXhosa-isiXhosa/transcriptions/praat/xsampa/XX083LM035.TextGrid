@@ -1,0 +1,68 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 3.972 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic"
+        xmin = 0 
+        xmax = 3.972 
+        intervals: size = 6
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.25353811513980107 
+            text = "0"
+        intervals [2]:
+            xmin = 0.25353811513980107 
+            xmax = 0.74678736882583308 
+            text = "[sta]"
+        intervals [3]:
+            xmin = 0.74678736882583308 
+            xmax = 1.9707762576022831 
+            text = "(u) [int] ngoLwesihlanu [/int] (/u)"
+        intervals [4]:
+            xmin = 1.9707762576022831 
+            xmax = 2.9538021948402 
+            text = "0"
+        intervals [5]:
+            xmin = 2.9538021948402 
+            xmax = 3.5601349639239421 
+            text = "[int]"
+        intervals [6]:
+            xmin = 3.5601349639239421 
+            xmax = 3.972 
+            text = "[sta]"
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 3.972 
+        intervals: size = 6
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.25353811513980107 
+            text = "0"
+        intervals [2]:
+            xmin = 0.25353811513980107 
+            xmax = 0.74678736882583308 
+            text = "[sta]"
+        intervals [3]:
+            xmin = 0.74678736882583308 
+            xmax = 1.9707762576022831 
+            text = "(u) [int] NgOlwesiKanu [/int] (/u)"
+        intervals [4]:
+            xmin = 1.9707762576022831 
+            xmax = 2.9538021948402 
+            text = "0"
+        intervals [5]:
+            xmin = 2.9538021948402 
+            xmax = 3.5601349639239421 
+            text = "[int]"
+        intervals [6]:
+            xmin = 3.5601349639239421 
+            xmax = 3.972 
+            text = "[sta]"

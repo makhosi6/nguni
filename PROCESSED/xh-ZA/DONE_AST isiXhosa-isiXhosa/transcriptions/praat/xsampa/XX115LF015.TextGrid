@@ -1,0 +1,92 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 13.548 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 13.548 
+        intervals: size = 9 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.42860618909319059 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.42860618909319059 
+            xmax = 1.6748373794513203 
+            text = "[int]" 
+        intervals [3]:
+            xmin = 1.6748373794513203 
+            xmax = 2.4225760936661982 
+            text = "[spk]" 
+        intervals [4]:
+            xmin = 2.4225760936661982 
+            xmax = 3.0456916888452628 
+            text = "(u) [fil]ehm (/u)" 
+        intervals [5]:
+            xmin = 3.0456916888452628 
+            xmax = 4.0011356014531625 
+            text = "[int]" 
+        intervals [6]:
+            xmin = 4.0011356014531625 
+            xmax = 4.8111858751859469 
+            text = "(u) [int] [fil]er [/int] (/u)" 
+        intervals [7]:
+            xmin = 4.8111858751859469 
+            xmax = 7.2075647956113684 
+            text = "[int]" 
+        intervals [8]:
+            xmin = 7.2075647956113684 
+            xmax = 10.523078830994042 
+            text = "(s) ixesha yintsimbi *yeshi+ *yeshi+ [int] yesithoba [/int] (/s)" 
+        intervals [9]:
+            xmin = 10.523078830994042 
+            xmax = 13.548 
+            text = "0" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 13.548 
+        intervals: size = 9 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.42860618909319059 
+            text = "0"
+        intervals [2]:
+            xmin = 0.42860618909319059 
+            xmax = 1.6748373794513203 
+            text = "[int]"
+        intervals [3]:
+            xmin = 1.6748373794513203 
+            xmax = 2.4225760936661982 
+            text = "[spk]"
+        intervals [4]:
+            xmin = 2.4225760936661982 
+            xmax = 3.0456916888452628 
+            text = "(u) @m (/u)"
+        intervals [5]:
+            xmin = 3.0456916888452628 
+            xmax = 4.0011356014531625 
+            text = "[int]"
+        intervals [6]:
+            xmin = 4.0011356014531625 
+            xmax = 4.8111858751859469 
+            text = "(u) [int] @ [/int] (/u)"
+        intervals [7]:
+            xmin = 4.8111858751859469 
+            xmax = 7.2075647956113684 
+            text = "[int]"
+        intervals [8]:
+            xmin = 7.2075647956113684 
+            xmax = 10.523078830994042 
+            text = "(s) |\|\ESa jint-\s_>imbi jeSi jeSi [int] jesit_hOb_<a [/int] (/s)"
+        intervals [9]:
+            xmin = 10.523078830994042 
+            xmax = 13.548 
+            text = "0"

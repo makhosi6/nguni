@@ -1,0 +1,60 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 6.2999999999999998 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic"
+        xmin = 0 
+        xmax = 6.2999999999999998 
+        intervals: size = 5
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.96233441949422682 
+            text = "(u) ~ichaza ixesha (/u)"
+        intervals [2]:
+            xmin = 0.96233441949422682 
+            xmax = 1.261750017709145 
+            text = "[int]" 
+        intervals [3]:
+            xmin = 1.261750017709145 
+            xmax = 3.0292679039455974 
+            text = "(u) intsimbi yesihlanu entloko (/u)"
+        intervals [4]:
+            xmin = 3.0292679039455974 
+            xmax = 4.1496617553304525 
+            text = "0" 
+        intervals [5]:
+            xmin = 4.1496617553304525 
+            xmax = 6.2999999999999998 
+            text = "[int]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 6.2999999999999998 
+        intervals: size = 5
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.96233441949422682 
+            text = "(u) i|\_haza i|\|\ESa (/u)"
+        intervals [2]:
+            xmin = 0.96233441949422682 
+            xmax = 1.261750017709145 
+            text = "[int]"
+        intervals [3]:
+            xmin = 1.261750017709145 
+            xmax = 3.0292679039455974 
+            text = "(u) int-\s_>imbi jesKanu Ent-\K_>Ok_>O (/u)"
+        intervals [4]:
+            xmin = 3.0292679039455974 
+            xmax = 4.1496617553304525 
+            text = "0"
+        intervals [5]:
+            xmin = 4.1496617553304525 
+            xmax = 6.2999999999999998 
+            text = "[int]"

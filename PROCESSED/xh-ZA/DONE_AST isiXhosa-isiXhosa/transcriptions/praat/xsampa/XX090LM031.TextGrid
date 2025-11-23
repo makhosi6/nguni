@@ -1,0 +1,60 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 3.7799999999999998 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic"
+        xmin = 0 
+        xmax = 3.7799999999999998 
+        intervals: size = 5
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.3455950272720833 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.3455950272720833 
+            xmax = 0.59941290141240955 
+            text = "[spk]" 
+        intervals [3]:
+            xmin = 0.59941290141240955 
+            xmax = 1.9044878515265282 
+            text = "(u) [int] ekugqibeleni [/int] (/u)"
+        intervals [4]:
+            xmin = 1.9044878515265282 
+            xmax = 2.3738942409860453 
+            text = "0" 
+        intervals [5]:
+            xmin = 2.3738942409860453 
+            xmax = 3.7799999999999998 
+            text = "[sta]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 3.7799999999999998 
+        intervals: size = 5
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.3455950272720833 
+            text = "0"
+        intervals [2]:
+            xmin = 0.3455950272720833 
+            xmax = 0.59941290141240955 
+            text = "[spk]"
+        intervals [3]:
+            xmin = 0.59941290141240955 
+            xmax = 1.9044878515265282 
+            text = "(u) [int] ek_>u!\_vib_<Elen [/int] (/u)"
+        intervals [4]:
+            xmin = 1.9044878515265282 
+            xmax = 2.3738942409860453 
+            text = "0"
+        intervals [5]:
+            xmin = 2.3738942409860453 
+            xmax = 3.7799999999999998 
+            text = "[sta]"

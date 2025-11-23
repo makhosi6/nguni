@@ -1,0 +1,262 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0
+xmax = 3.110000
+tiers? <exists>
+size = 5
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "segment"
+		xmin = 0
+		xmax = 3.110000
+		intervals: size = 27
+		intervals [1]:
+			xmin = 0.000000
+			xmax = 0.095000
+			text = "pau"
+		intervals [2]:
+			xmin = 0.095000
+			xmax = 0.220000
+			text = "kʼ"
+		intervals [3]:
+			xmin = 0.220000
+			xmax = 0.315000
+			text = "a"
+		intervals [4]:
+			xmin = 0.315000
+			xmax = 0.375000
+			text = "b"
+		intervals [5]:
+			xmin = 0.375000
+			xmax = 0.405000
+			text = "ɔ"
+		intervals [6]:
+			xmin = 0.405000
+			xmax = 0.570000
+			text = "pʰ"
+		intervals [7]:
+			xmin = 0.570000
+			xmax = 0.665000
+			text = "a"
+		intervals [8]:
+			xmin = 0.665000
+			xmax = 0.745000
+			text = "r"
+		intervals [9]:
+			xmin = 0.745000
+			xmax = 0.870000
+			text = "a"
+		intervals [10]:
+			xmin = 0.870000
+			xmax = 0.980000
+			text = "x"
+		intervals [11]:
+			xmin = 0.980000
+			xmax = 1.045000
+			text = "ɔ"
+		intervals [12]:
+			xmin = 1.045000
+			xmax = 1.110000
+			text = "b"
+		intervals [13]:
+			xmin = 1.110000
+			xmax = 1.335000
+			text = "a"
+		intervals [14]:
+			xmin = 1.335000
+			xmax = 1.445000
+			text = "x"
+		intervals [15]:
+			xmin = 1.445000
+			xmax = 1.565000
+			text = "i"
+		intervals [16]:
+			xmin = 1.565000
+			xmax = 1.625000
+			text = "b"
+		intervals [17]:
+			xmin = 1.625000
+			xmax = 1.690000
+			text = "a"
+		intervals [18]:
+			xmin = 1.690000
+			xmax = 1.750000
+			text = "b"
+		intervals [19]:
+			xmin = 1.750000
+			xmax = 1.800000
+			text = "a"
+		intervals [20]:
+			xmin = 1.800000
+			xmax = 1.855000
+			text = "d"
+		intervals [21]:
+			xmin = 1.855000
+			xmax = 1.895000
+			text = "i"
+		intervals [22]:
+			xmin = 1.895000
+			xmax = 2.035000
+			text = "tlʰ"
+		intervals [23]:
+			xmin = 2.035000
+			xmax = 2.080000
+			text = "ɔ"
+		intervals [24]:
+			xmin = 2.080000
+			xmax = 2.180000
+			text = "kʼ"
+		intervals [25]:
+			xmin = 2.180000
+			xmax = 2.355000
+			text = "a"
+		intervals [26]:
+			xmin = 2.355000
+			xmax = 2.615000
+			text = "ŋ"
+		intervals [27]:
+			xmin = 2.615000
+			xmax = 3.110000
+			text = "pau"
+	item [2]:
+		class = "IntervalTier"
+		name = "syllable"
+		xmin = 0
+		xmax = 3.110000
+		intervals: size = 15
+		intervals [1]:
+			xmin = 0.000000
+			xmax = 0.095000
+			text = "NONE"
+		intervals [2]:
+			xmin = 0.095000
+			xmax = 0.315000
+			text = "syl"
+		intervals [3]:
+			xmin = 0.315000
+			xmax = 0.405000
+			text = "syl"
+		intervals [4]:
+			xmin = 0.405000
+			xmax = 0.665000
+			text = "syl"
+		intervals [5]:
+			xmin = 0.665000
+			xmax = 0.870000
+			text = "syl"
+		intervals [6]:
+			xmin = 0.870000
+			xmax = 1.045000
+			text = "syl"
+		intervals [7]:
+			xmin = 1.045000
+			xmax = 1.335000
+			text = "syl"
+		intervals [8]:
+			xmin = 1.335000
+			xmax = 1.565000
+			text = "syl"
+		intervals [9]:
+			xmin = 1.565000
+			xmax = 1.690000
+			text = "syl"
+		intervals [10]:
+			xmin = 1.690000
+			xmax = 1.800000
+			text = "syl"
+		intervals [11]:
+			xmin = 1.800000
+			xmax = 1.895000
+			text = "syl"
+		intervals [12]:
+			xmin = 1.895000
+			xmax = 2.080000
+			text = "syl"
+		intervals [13]:
+			xmin = 2.080000
+			xmax = 2.355000
+			text = "syl"
+		intervals [14]:
+			xmin = 2.355000
+			xmax = 2.615000
+			text = "syl"
+		intervals [15]:
+			xmin = 2.615000
+			xmax = 3.110000
+			text = "NONE"
+	item [3]:
+		class = "IntervalTier"
+		name = "word"
+		xmin = 0
+		xmax = 3.110000
+		intervals: size = 10
+		intervals [1]:
+			xmin = 0.000000
+			xmax = 0.095000
+			text = "NONE"
+		intervals [2]:
+			xmin = 0.095000
+			xmax = 0.315000
+			text = "ka"
+		intervals [3]:
+			xmin = 0.315000
+			xmax = 0.870000
+			text = "bophara"
+		intervals [4]:
+			xmin = 0.870000
+			xmax = 1.045000
+			text = "go"
+		intervals [5]:
+			xmin = 1.045000
+			xmax = 1.565000
+			text = "baagi"
+		intervals [6]:
+			xmin = 1.565000
+			xmax = 1.690000
+			text = "ba"
+		intervals [7]:
+			xmin = 1.690000
+			xmax = 1.800000
+			text = "ba"
+		intervals [8]:
+			xmin = 1.800000
+			xmax = 1.895000
+			text = "di"
+		intervals [9]:
+			xmin = 1.895000
+			xmax = 2.615000
+			text = "tlhokang"
+		intervals [10]:
+			xmin = 2.615000
+			xmax = 3.110000
+			text = "NONE"
+	item [4]:
+		class = "IntervalTier"
+		name = "phrase"
+		xmin = 0
+		xmax = 3.110000
+		intervals: size = 3
+		intervals [1]:
+			xmin = 0.000000
+			xmax = 0.095000
+			text = "NONE"
+		intervals [2]:
+			xmin = 0.095000
+			xmax = 2.615000
+			text = "BB"
+		intervals [3]:
+			xmin = 2.615000
+			xmax = 3.110000
+			text = "NONE"
+	item [5]:
+		class = "IntervalTier"
+		name = "text"
+		xmin = 0
+		xmax = 3.110000
+		intervals: size = 1
+		intervals [1]:
+			xmin = 0.000000
+			xmax = 3.110000
+			text = "Ka bophara go baagi ba ba di tlhokang."

@@ -1,0 +1,84 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 6.5880000000000001 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 6.5880000000000001 
+        intervals: size = 8
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.1407929791419851 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.1407929791419851 
+            xmax = 0.74820045469488194 
+            text = "[int]" 
+        intervals [3]:
+            xmin = 0.74820045469488194 
+            xmax = 1.3363604546628778 
+            text = "(u) hayi (/u)"
+        intervals [4]:
+            xmin = 1.3363604546628778 
+            xmax = 1.9215977773483661 
+            text = "0" 
+        intervals [5]:
+            xmin = 1.9215977773483661 
+            xmax = 3.3703039367635164 
+            text = "[spk]" 
+        intervals [6]:
+            xmin = 3.3703039367635164 
+            xmax = 4.2395961250322909 
+            text = "(s) [sta] anditshatanga [/sta] (/s)" 
+        intervals [7]:
+            xmin = 4.2395961250322909 
+            xmax = 5.6329287078079702 
+            text = "[int]" 
+        intervals [8]:
+            xmin = 5.6329287078079702 
+            xmax = 6.5880000000000001 
+            text = "0" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 6.5880000000000001 
+        intervals: size = 8
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.1407929791419851 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.1407929791419851 
+            xmax = 0.74820045469488194 
+            text = "[int]" 
+        intervals [3]:
+            xmin = 0.74820045469488194 
+            xmax = 1.3363604546628778 
+            text = "(u) h\aji (/u)" 
+        intervals [4]:
+            xmin = 1.3363604546628778 
+            xmax = 1.9215977773483661 
+            text = "0" 
+        intervals [5]:
+            xmin = 1.9215977773483661 
+            xmax = 3.3703039367635164 
+            text = "[spk]" 
+        intervals [6]:
+            xmin = 3.3703039367635164 
+            xmax = 4.2395961250322909 
+            text = "(s) [sta] ant-\S_hat_>aNga [/sta] (/s)" 
+        intervals [7]:
+            xmin = 4.2395961250322909 
+            xmax = 5.6329287078079702 
+            text = "[int]" 
+        intervals [8]:
+            xmin = 5.6329287078079702 
+            xmax = 6.5880000000000001 
+            text = "0" 

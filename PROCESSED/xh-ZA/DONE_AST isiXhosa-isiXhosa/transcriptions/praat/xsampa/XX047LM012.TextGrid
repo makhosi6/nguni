@@ -1,0 +1,60 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 8.5559999999999992 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 8.5559999999999992 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.046760194056865677 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.046760194056865677 
+            xmax = 2.1463779943364711 
+            text = "(u) eKhayelitsha e ($)Macassar(/$) (/u)" 
+        intervals [3]:
+            xmin = 2.1463779943364711 
+            xmax = 2.8635294142015173 
+            text = "[spk]" 
+        intervals [4]:
+            xmin = 2.8635294142015173 
+            xmax = 5.039741845452772 
+            text = "0" 
+        intervals [5]:
+            xmin = 5.039741845452772 
+            xmax = 8.5559999999999992 
+            text = "[int]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 8.5559999999999992 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.046760194056865677 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.046760194056865677 
+            xmax = 2.1463779943364711 
+            text = "(u) Ek_hajelit-\S_ha E ($)makasa(/$) (/u)" 
+        intervals [3]:
+            xmin = 2.1463779943364711 
+            xmax = 2.8635294142015173 
+            text = "[spk]" 
+        intervals [4]:
+            xmin = 2.8635294142015173 
+            xmax = 5.039741845452772 
+            text = "0" 
+        intervals [5]:
+            xmin = 5.039741845452772 
+            xmax = 8.5559999999999992 
+            text = "[int]" 

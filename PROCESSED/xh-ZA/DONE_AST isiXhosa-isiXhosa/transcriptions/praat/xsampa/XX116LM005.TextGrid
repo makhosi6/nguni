@@ -1,0 +1,60 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 9.2040000000000006 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic"
+        xmin = 0 
+        xmax = 9.2040000000000006 
+        intervals: size = 5
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.15007179793359576 
+            text = "**" 
+        intervals [2]:
+            xmin = 0.15007179793359576 
+            xmax = 0.91361367035746932 
+            text = "[sta]" 
+        intervals [3]:
+            xmin = 0.91361367035746932 
+            xmax = 2.481352831344048 
+            text = "(s) ingamashumi mabini anesibini (/s)"
+        intervals [4]:
+            xmin = 2.481352831344048 
+            xmax = 9.0680389095214498 
+            text = "[int]" 
+        intervals [5]:
+            xmin = 9.0680389095214498 
+            xmax = 9.2040000000000006 
+            text = "0" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 9.2040000000000006 
+        intervals: size = 5
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.15007179793359576 
+            text = "**"
+        intervals [2]:
+            xmin = 0.15007179793359576 
+            xmax = 0.91361367035746932 
+            text = "[sta]"
+        intervals [3]:
+            xmin = 0.91361367035746932 
+            xmax = 2.481352831344048 
+            text = "(s) iNgamaSumi mab_<in anesb_<ini (/s)"
+        intervals [4]:
+            xmin = 2.481352831344048 
+            xmax = 9.0680389095214498 
+            text = "[int]"
+        intervals [5]:
+            xmin = 9.0680389095214498 
+            xmax = 9.2040000000000006 
+            text = "0"

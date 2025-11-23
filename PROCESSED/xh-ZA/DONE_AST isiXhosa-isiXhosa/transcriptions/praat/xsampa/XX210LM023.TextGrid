@@ -1,0 +1,60 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 5.1719999999999997 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 5.1719999999999997 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.19533892267681316 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.19533892267681316 
+            xmax = 0.6762039598747619 
+            text = "[int]" 
+        intervals [3]:
+            xmin = 0.6762039598747619 
+            xmax = 3.2051172464188813 
+            text = "(u) [int] igama okanye ibinzana phambili [/int] (/u)" 
+        intervals [4]:
+            xmin = 3.2051172464188813 
+            xmax = 4.1995971118914381 
+            text = "[sta]" 
+        intervals [5]:
+            xmin = 4.1995971118914381 
+            xmax = 5.1719999999999997 
+            text = "[int]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 5.1719999999999997 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.19533892267681316 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.19533892267681316 
+            xmax = 0.6762039598747619 
+            text = "[int]" 
+        intervals [3]:
+            xmin = 0.6762039598747619 
+            xmax = 3.2051172464188813 
+            text = "(u) [int] igama Ok_>aJE ib_<ind-\zana p_hambil [/int] (/u)" 
+        intervals [4]:
+            xmin = 3.2051172464188813 
+            xmax = 4.1995971118914381 
+            text = "[sta]" 
+        intervals [5]:
+            xmin = 4.1995971118914381 
+            xmax = 5.1719999999999997 
+            text = "[int]" 

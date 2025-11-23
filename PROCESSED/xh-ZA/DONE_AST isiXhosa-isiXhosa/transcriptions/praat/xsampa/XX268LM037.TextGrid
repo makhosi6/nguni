@@ -1,0 +1,60 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 10.836 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 10.836 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.2088656079524768 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.2088656079524768 
+            xmax = 1.8359868108679926 
+            text = "(u) [sta] inambari yemfonomfono [/sta] (/u)" 
+        intervals [3]:
+            xmin = 1.8359868108679926 
+            xmax = 2.1789079780548053 
+            text = "[sta]" 
+        intervals [4]:
+            xmin = 2.1789079780548053 
+            xmax = 7.7892003789013282 
+            text = "(u) [sta] ($)oh eight seven 0 oh nine three 0 oh three one two(/$) [/sta] (/u)" 
+        intervals [5]:
+            xmin = 7.7892003789013282 
+            xmax = 10.836 
+            text = "[sta]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 10.836 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.2088656079524768 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.2088656079524768 
+            xmax = 1.8359868108679926 
+            text = "(u) [sta] inambari jEmfOnOmfOnO [/sta] (/u)" 
+        intervals [3]:
+            xmin = 1.8359868108679926 
+            xmax = 2.1789079780548053 
+            text = "[sta]" 
+        intervals [4]:
+            xmin = 2.1789079780548053 
+            xmax = 7.7892003789013282 
+            text = "(u) [sta] ($)O-\u E-\it sEvEn 0 O-\u na-\in Tri: 0 O-\u Tri: wan tu:(/$) [/sta] (/u)" 
+        intervals [5]:
+            xmin = 7.7892003789013282 
+            xmax = 10.836 
+            text = "[sta]" 

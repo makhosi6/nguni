@@ -1,0 +1,76 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 8.0999999999999996 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 8.0999999999999996 
+        intervals: size = 7 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.19416180086825408 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.19416180086825408 
+            xmax = 1.1379418431678119 
+            text = "[spk]" 
+        intervals [3]:
+            xmin = 1.1379418431678119 
+            xmax = 2.6157026988736987 
+            text = "(u) ngumhla wesine (/u)" 
+        intervals [4]:
+            xmin = 2.6157026988736987 
+            xmax = 3.4725556320140867 
+            text = "0" 
+        intervals [5]:
+            xmin = 3.4725556320140867 
+            xmax = 6.1476851632188261 
+            text = "(u) ku ($)August 0 nineteen seventy(/$) (/u)" 
+        intervals [6]:
+            xmin = 6.1476851632188261 
+            xmax = 6.8006220969651592 
+            text = "0" 
+        intervals [7]:
+            xmin = 6.8006220969651592 
+            xmax = 8.0999999999999996 
+            text = "[sta]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 8.0999999999999996 
+        intervals: size = 7 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.19416180086825408 
+            text = "0"
+        intervals [2]:
+            xmin = 0.19416180086825408 
+            xmax = 1.1379418431678119 
+            text = "[spk]"
+        intervals [3]:
+            xmin = 1.1379418431678119 
+            xmax = 2.6157026988736987 
+            text = "(u) NgumKa wesi:nE (/u)"
+        intervals [4]:
+            xmin = 2.6157026988736987 
+            xmax = 3.4725556320140867 
+            text = "0"
+        intervals [5]:
+            xmin = 3.4725556320140867 
+            xmax = 6.1476851632188261 
+            text = "(u) k_>u ($)OgEst 0 na-\intin sEvEnti(/$) (/u)"
+        intervals [6]:
+            xmin = 6.1476851632188261 
+            xmax = 6.8006220969651592 
+            text = "0"
+        intervals [7]:
+            xmin = 6.8006220969651592 
+            xmax = 8.0999999999999996 
+            text = "[sta]"

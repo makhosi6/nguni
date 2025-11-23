@@ -1,0 +1,60 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 10.644 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 10.644 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.3585205959612992 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.3585205959612992 
+            xmax = 4.8281738041012794 
+            text = "(u) inqaku ($)six(/$) *igama;elipewuwa 0 *igama;elipelwayo (/u)" 
+        intervals [3]:
+            xmin = 4.8281738041012794 
+            xmax = 5.2773729397227234 
+            text = "[spk]" 
+        intervals [4]:
+            xmin = 5.2773729397227234 
+            xmax = 8.5652384675741597 
+            text = "(u) I. 0 C. A. 0 C. A. 0 D. U. (/u)" 
+        intervals [5]:
+            xmin = 8.5652384675741597 
+            xmax = 10.644 
+            text = "0" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 10.644 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.3585205959612992 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.3585205959612992 
+            xmax = 4.8281738041012794 
+            text = "(u) !\~ak_>u ($)siks(/$) igamulEp_>ewulwaj 0 gamelip_>ElwajO (/u)" 
+        intervals [3]:
+            xmin = 4.8281738041012794 
+            xmax = 5.2773729397227234 
+            text = "[spk]" 
+        intervals [4]:
+            xmin = 5.2773729397227234 
+            xmax = 8.5652384675741597 
+            text = "(u) a-\i 0 si: E-\i 0 si: E-\i 0 di: ju: (/u)" 
+        intervals [5]:
+            xmin = 8.5652384675741597 
+            xmax = 10.644 
+            text = "0" 

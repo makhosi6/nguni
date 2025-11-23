@@ -1,0 +1,68 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 3.8879999999999999 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 3.8879999999999999 
+        intervals: size = 6 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.1171576546585258 
+            text = "(u) ~a ophelileyo (/u)" 
+        intervals [2]:
+            xmin = 1.1171576546585258 
+            xmax = 1.487119458773579 
+            text = "[sta]" 
+        intervals [3]:
+            xmin = 1.487119458773579 
+            xmax = 2.2032911484633519 
+            text = "[int]" 
+        intervals [4]:
+            xmin = 2.2032911484633519 
+            xmax = 3.0795164087877835 
+            text = "0" 
+        intervals [5]:
+            xmin = 3.0795164087877835 
+            xmax = 3.6109832617449666 
+            text = "[sta]" 
+        intervals [6]:
+            xmin = 3.6109832617449666 
+            xmax = 3.8879999999999999 
+            text = "[int]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 3.8879999999999999 
+        intervals: size = 6 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.1171576546585258 
+            text = "(u) a Op_helilEjO (/u)"
+        intervals [2]:
+            xmin = 1.1171576546585258 
+            xmax = 1.487119458773579 
+            text = "[sta]"
+        intervals [3]:
+            xmin = 1.487119458773579 
+            xmax = 2.2032911484633519 
+            text = "[int]"
+        intervals [4]:
+            xmin = 2.2032911484633519 
+            xmax = 3.0795164087877835 
+            text = "0"
+        intervals [5]:
+            xmin = 3.0795164087877835 
+            xmax = 3.6109832617449666 
+            text = "[sta]"
+        intervals [6]:
+            xmin = 3.6109832617449666 
+            xmax = 3.8879999999999999 
+            text = "[int]"

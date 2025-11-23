@@ -1,0 +1,76 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 20.904 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 20.904 
+        intervals: size = 7 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.19533809206597419 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.19533809206597419 
+            xmax = 1.6841844548358318 
+            text = "(u) [int] isivakalisi [/int] (/u)" 
+        intervals [3]:
+            xmin = 1.6841844548358318 
+            xmax = 1.9000571469978413 
+            text = "0" 
+        intervals [4]:
+            xmin = 1.9000571469978413 
+            xmax = 2.6114874832460506 
+            text = "[int]" 
+        intervals [5]:
+            xmin = 2.6114874832460506 
+            xmax = 5.138178985164326 
+            text = "(s) iloli ithwala iziqhamo (/s)" 
+        intervals [6]:
+            xmin = 5.138178985164326 
+            xmax = 8.8656216517066557 
+            text = "0" 
+        intervals [7]:
+            xmin = 8.8656216517066557 
+            xmax = 20.904 
+            text = "[int]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 20.904 
+        intervals: size = 7 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.19533809206597419 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.19533809206597419 
+            xmax = 1.6841844548358318 
+            text = "(u) [int] isivak_>alisi [/int] (/u)" 
+        intervals [3]:
+            xmin = 1.6841844548358318 
+            xmax = 1.9000571469978413 
+            text = "0" 
+        intervals [4]:
+            xmin = 1.9000571469978413 
+            xmax = 2.6114874832460506 
+            text = "[int]" 
+        intervals [5]:
+            xmin = 2.6114874832460506 
+            xmax = 5.138178985164326 
+            text = "(s) iloli it_hwala izi!\_ham (/s)" 
+        intervals [6]:
+            xmin = 5.138178985164326 
+            xmax = 8.8656216517066557 
+            text = "0" 
+        intervals [7]:
+            xmin = 8.8656216517066557 
+            xmax = 20.904 
+            text = "[int]" 

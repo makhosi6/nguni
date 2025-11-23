@@ -1,0 +1,68 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 6.1559999999999997 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 6.1559999999999997 
+        intervals: size = 6
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.062622764852912891 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.062622764852912891 
+            xmax = 0.24100843288590598 
+            text = "[sta]" 
+        intervals [3]:
+            xmin = 0.24100843288590598 
+            xmax = 0.38350797923476254 
+            text = "[ext]" 
+        intervals [4]:
+            xmin = 0.38350797923476254 
+            xmax = 2.5070130744087673 
+            text = "(u) ($)Faith(/$) [int] Nozibele [/int] 0 [ext] 0 Ntikica (/u)"
+        intervals [5]:
+            xmin = 2.5070130744087673 
+            xmax = 5.8397148422818788 
+            text = "[int]" 
+        intervals [6]:
+            xmin = 5.8397148422818788 
+            xmax = 6.1559999999999997 
+            text = "[sta]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 6.1559999999999997 
+        intervals: size = 6
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.062622764852912891 
+            text = "0"
+        intervals [2]:
+            xmin = 0.062622764852912891 
+            xmax = 0.24100843288590598 
+            text = "[sta]"
+        intervals [3]:
+            xmin = 0.24100843288590598 
+            xmax = 0.38350797923476254 
+            text = "[ext]"
+        intervals [4]:
+            xmin = 0.38350797923476254 
+            xmax = 2.5070130744087673 
+            text = "(u) ($)fE-\IT(/$) [int] nozb_<ElE [/int] 0 [ext] 0 nt_>ik_>i|\a (/u)"
+        intervals [5]:
+            xmin = 2.5070130744087673 
+            xmax = 5.8397148422818788 
+            text = "[int]"
+        intervals [6]:
+            xmin = 5.8397148422818788 
+            xmax = 6.1559999999999997 
+            text = "[sta]"

@@ -1,0 +1,60 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 12.156000000000001 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 12.156000000000001 
+        intervals: size = 5
+        intervals [1]:
+            xmin = 0 
+            xmax = 3.7028436490604206 
+            text = "[int]" 
+        intervals [2]:
+            xmin = 3.7028436490604206 
+            xmax = 5.9295673884898523 
+            text = "(u) [sta] igama ledolophu [/sta] (/u)"
+        intervals [3]:
+            xmin = 5.9295673884898523 
+            xmax = 8.6462727950056788 
+            text = "[sta]" 
+        intervals [4]:
+            xmin = 8.6462727950056788 
+            xmax = 9.8828315822828507 
+            text = "(u) [int] i ($)Bonteheuwel(/$) [/int] (/u)" 
+        intervals [5]:
+            xmin = 9.8828315822828507 
+            xmax = 12.156000000000001 
+            text = "[sta]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 12.156000000000001 
+        intervals: size = 5
+        intervals [1]:
+            xmin = 0 
+            xmax = 3.7028436490604206 
+            text = "[int]"
+        intervals [2]:
+            xmin = 3.7028436490604206 
+            xmax = 5.9295673884898523 
+            text = "(u) [sta] igama lEd_0Olop_h [/sta] (/u)"
+        intervals [3]:
+            xmin = 5.9295673884898523 
+            xmax = 8.6462727950056788 
+            text = "[sta]"
+        intervals [4]:
+            xmin = 8.6462727950056788 
+            xmax = 9.8828315822828507 
+            text = "(u) [int] i ($)bQntIvIl(/$) [/int] (/u)"
+        intervals [5]:
+            xmin = 9.8828315822828507 
+            xmax = 12.156000000000001 
+            text = "[sta]"

@@ -1,0 +1,100 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 9.8520000000000003 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 9.8520000000000003 
+        intervals: size = 10 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.17702416963338691 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.17702416963338691 
+            xmax = 0.60575493638403921 
+            text = "[sta]" 
+        intervals [3]:
+            xmin = 0.60575493638403921 
+            xmax = 0.83016587544611531 
+            text = "[spk]" 
+        intervals [4]:
+            xmin = 0.83016587544611531 
+            xmax = 3.6376183441752796 
+            text = "(s) [int] umtshayelo wayame 0 *ekoneni [/int] (/s)" 
+        intervals [5]:
+            xmin = 3.6376183441752796 
+            xmax = 3.9671666829666141 
+            text = "0" 
+        intervals [6]:
+            xmin = 3.9671666829666141 
+            xmax = 4.4861426064446839 
+            text = "[spk]" 
+        intervals [7]:
+            xmin = 4.4861426064446839 
+            xmax = 6.4765715731917357 
+            text = "(s) umtshayelo wayame *ekoneni (/s)" 
+        intervals [8]:
+            xmin = 6.4765715731917357 
+            xmax = 7.8823972082291709 
+            text = "[int]" 
+        intervals [9]:
+            xmin = 7.8823972082291709 
+            xmax = 9.0569877958692171 
+            text = "0" 
+        intervals [10]:
+            xmin = 9.0569877958692171 
+            xmax = 9.8520000000000003 
+            text = "[sta]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 9.8520000000000003 
+        intervals: size = 10 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.17702416963338691 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.17702416963338691 
+            xmax = 0.60575493638403921 
+            text = "[sta]" 
+        intervals [3]:
+            xmin = 0.60575493638403921 
+            xmax = 0.83016587544611531 
+            text = "[spk]" 
+        intervals [4]:
+            xmin = 0.83016587544611531 
+            xmax = 3.6376183441752796 
+            text = "(s) [int] umt-\S_hajElO wajamE 0 Ek_>Onen [/int] (/s)" 
+        intervals [5]:
+            xmin = 3.6376183441752796 
+            xmax = 3.9671666829666141 
+            text = "0" 
+        intervals [6]:
+            xmin = 3.9671666829666141 
+            xmax = 4.4861426064446839 
+            text = "[spk]" 
+        intervals [7]:
+            xmin = 4.4861426064446839 
+            xmax = 6.4765715731917357 
+            text = "(s) umt-\S_hajElO wajamE Ek_>Onen (/s)" 
+        intervals [8]:
+            xmin = 6.4765715731917357 
+            xmax = 7.8823972082291709 
+            text = "[int]" 
+        intervals [9]:
+            xmin = 7.8823972082291709 
+            xmax = 9.0569877958692171 
+            text = "0" 
+        intervals [10]:
+            xmin = 9.0569877958692171 
+            xmax = 9.8520000000000003 
+            text = "[sta]" 

@@ -1,0 +1,60 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 22.116 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 22.116 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.31042960177374079 
+            text = "[int]" 
+        intervals [2]:
+            xmin = 0.31042960177374079 
+            xmax = 2.3733070409829584 
+            text = "(u) ($)forty three [spk] years(/$) (/u)" 
+        intervals [3]:
+            xmin = 2.3733070409829584 
+            xmax = 2.652904467789297 
+            text = "0" 
+        intervals [4]:
+            xmin = 2.652904467789297 
+            xmax = 4.7445787758393907 
+            text = "(u) [sta] mashumi mane anesithathu eminyaka [/sta] (/u)" 
+        intervals [5]:
+            xmin = 4.7445787758393907 
+            xmax = 22.116 
+            text = "[int]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 22.116 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.31042960177374079 
+            text = "[int]" 
+        intervals [2]:
+            xmin = 0.31042960177374079 
+            xmax = 2.3733070409829584 
+            text = "(u) ($)fOti Tri: [spk] jEs(/$) (/u)" 
+        intervals [3]:
+            xmin = 2.3733070409829584 
+            xmax = 2.652904467789297 
+            text = "0" 
+        intervals [4]:
+            xmin = 2.652904467789297 
+            xmax = 4.7445787758393907 
+            text = "(u) [sta] maSumi manE anesit_hat_hu emiJak_>a [/sta] (/u)" 
+        intervals [5]:
+            xmin = 4.7445787758393907 
+            xmax = 22.116 
+            text = "[int]" 

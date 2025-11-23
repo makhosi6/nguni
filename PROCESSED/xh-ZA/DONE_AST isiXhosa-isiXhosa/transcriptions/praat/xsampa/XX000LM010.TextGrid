@@ -1,0 +1,60 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 6.7679999999999998 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 6.7679999999999998 
+        intervals: size = 5
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.23486540037846973 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.23486540037846973 
+            xmax = 0.54614723889130634 
+            text = "[int]" 
+        intervals [3]:
+            xmin = 0.54614723889130634 
+            xmax = 0.70412133565292012 
+            text = "**" 
+        intervals [4]:
+            xmin = 0.70412133565292012 
+            xmax = 1.7393942865238468 
+            text = "(u) eCofimvaba (/u)" 
+        intervals [5]:
+            xmin = 1.7393942865238468 
+            xmax = 6.7679999999999998 
+            text = "[int]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 6.7679999999999998 
+        intervals: size = 5
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.23486540037846973 
+            text = "0"
+        intervals [2]:
+            xmin = 0.23486540037846973 
+            xmax = 0.54614723889130634 
+            text = "[int]"
+        intervals [3]:
+            xmin = 0.54614723889130634 
+            xmax = 0.70412133565292012 
+            text = "**"
+        intervals [4]:
+            xmin = 0.70412133565292012 
+            xmax = 1.7393942865238468 
+            text = "(u) E|\ofimvab_<a (/u)"
+        intervals [5]:
+            xmin = 1.7393942865238468 
+            xmax = 6.7679999999999998 
+            text = "[int]"

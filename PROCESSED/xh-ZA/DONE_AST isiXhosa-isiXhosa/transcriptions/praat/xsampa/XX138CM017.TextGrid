@@ -1,0 +1,84 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 8.6519999999999992 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 8.6519999999999992 
+        intervals: size = 8
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.06643588730630369 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.06643588730630369 
+            xmax = 0.37334062946739782 
+            text = "[sta]"
+        intervals [3]:
+            xmin = 0.37334062946739782 
+            xmax = 0.73734082746801499 
+            text = "(u) [fil]aha (/u)" 
+        intervals [4]:
+            xmin = 0.73734082746801499 
+            xmax = 0.85480409575334326 
+            text = "[ext]" 
+        intervals [5]:
+            xmin = 0.85480409575334326 
+            xmax = 1.0184615829215111 
+            text = "0" 
+        intervals [6]:
+            xmin = 1.0184615829215111 
+            xmax = 5.2404409660874549 
+            text = "(s) [sta] andisazi *isitshayina 0 ngamagama ambalwa endiwaziyo *kwisitshayina [/sta] (/s)" 
+        intervals [7]:
+            xmin = 5.2404409660874549 
+            xmax = 6.3310895996896521 
+            text = "0" 
+        intervals [8]:
+            xmin = 6.3310895996896521 
+            xmax = 8.6519999999999992 
+            text = "[int]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 8.6519999999999992 
+        intervals: size = 8
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.06643588730630369 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.06643588730630369 
+            xmax = 0.37334062946739782 
+            text = "[sta]" 
+        intervals [3]:
+            xmin = 0.37334062946739782 
+            xmax = 0.73734082746801499 
+            text = "(u) aha (/u)" 
+        intervals [4]:
+            xmin = 0.73734082746801499 
+            xmax = 0.85480409575334326 
+            text = "[ext]" 
+        intervals [5]:
+            xmin = 0.85480409575334326 
+            xmax = 1.0184615829215111 
+            text = "0" 
+        intervals [6]:
+            xmin = 1.0184615829215111 
+            xmax = 5.2404409660874549 
+            text = "(s) [sta] andisazi isit-\S_hajna 0 Ngamagama ambalwa endiwazijO k_>wist-\S_hajna [/sta] (/s)" 
+        intervals [7]:
+            xmin = 5.2404409660874549 
+            xmax = 6.3310895996896521 
+            text = "0" 
+        intervals [8]:
+            xmin = 6.3310895996896521 
+            xmax = 8.6519999999999992 
+            text = "[int]" 

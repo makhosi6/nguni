@@ -1,0 +1,52 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 4.5599999999999996 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 4.5599999999999996 
+        intervals: size = 4
+        intervals [1]:
+            xmin = 0 
+            xmax = 2.5483475838926171 
+            text = "(u) [sta] e ($)Transkei College of Education(/$) [/sta] (/u)" 
+        intervals [2]:
+            xmin = 2.5483475838926171 
+            xmax = 2.9804917449664425 
+            text = "[int]" 
+        intervals [3]:
+            xmin = 2.9804917449664425 
+            xmax = 4.1932834228187916 
+            text = "[sta]" 
+        intervals [4]:
+            xmin = 4.1932834228187916 
+            xmax = 4.5599999999999996 
+            text = "[int]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 4.5599999999999996 
+        intervals: size = 4
+        intervals [1]:
+            xmin = 0 
+            xmax = 2.5483475838926171 
+            text = "(u) [sta] E ($)transka-\I kOlE-\Id-\Z Qf edjukE-\ISin(/$) [/sta] (/u)"
+        intervals [2]:
+            xmin = 2.5483475838926171 
+            xmax = 2.9804917449664425 
+            text = "[int]"
+        intervals [3]:
+            xmin = 2.9804917449664425 
+            xmax = 4.1932834228187916 
+            text = "[sta]"
+        intervals [4]:
+            xmin = 4.1932834228187916 
+            xmax = 4.5599999999999996 
+            text = "[int]"

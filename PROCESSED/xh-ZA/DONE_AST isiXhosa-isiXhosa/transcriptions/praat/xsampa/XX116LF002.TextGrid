@@ -1,0 +1,60 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 6.9119999999999999 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic"
+        xmin = 0 
+        xmax = 6.9119999999999999 
+        intervals: size = 5
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.04265568029663204 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.04265568029663204 
+            xmax = 1.0452215059856911 
+            text = "[spk]" 
+        intervals [3]:
+            xmin = 1.0452215059856911 
+            xmax = 3.9911398415284509 
+            text = "(u) Thembakazi [spk] 0 igama [spk] ifani 0 Dekeda (/u)" 
+        intervals [4]:
+            xmin = 3.9911398415284509 
+            xmax = 6.6085564921725579 
+            text = "0" 
+        intervals [5]:
+            xmin = 6.6085564921725579 
+            xmax = 6.9119999999999999 
+            text = "[sta]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 6.9119999999999999 
+        intervals: size = 5
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.04265568029663204 
+            text = "0"
+        intervals [2]:
+            xmin = 0.04265568029663204 
+            xmax = 1.0452215059856911 
+            text = "[spk]"
+        intervals [3]:
+            xmin = 1.0452215059856911 
+            xmax = 3.9911398415284509 
+            text = "(u) t_hEmbak_>azi [spk] 0 igama [spk] ifani 0 dEk_>Ed_0a (/u)"
+        intervals [4]:
+            xmin = 3.9911398415284509 
+            xmax = 6.6085564921725579 
+            text = "0"
+        intervals [5]:
+            xmin = 6.6085564921725579 
+            xmax = 6.9119999999999999 
+            text = "[sta]"

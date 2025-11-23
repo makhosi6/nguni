@@ -1,0 +1,68 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 6.2519999999999998 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 6.2519999999999998 
+        intervals: size = 6
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.81789399112150019 
+            text = "**" 
+        intervals [2]:
+            xmin = 0.81789399112150019 
+            xmax = 1.6387685131075775 
+            text = "[sta]" 
+        intervals [3]:
+            xmin = 1.6387685131075775 
+            xmax = 2.4886150770461049 
+            text = "[int]" 
+        intervals [4]:
+            xmin = 2.4886150770461049 
+            xmax = 2.9790649617413791 
+            text = "(u) B. A. (/u)" 
+        intervals [5]:
+            xmin = 2.9790649617413791 
+            xmax = 3.486235651376147 
+            text = "[spk]" 
+        intervals [6]:
+            xmin = 3.486235651376147 
+            xmax = 6.2519999999999998 
+            text = "[int]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 6.2519999999999998 
+        intervals: size = 6
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.81789399112150019 
+            text = "**"
+        intervals [2]:
+            xmin = 0.81789399112150019 
+            xmax = 1.6387685131075775 
+            text = "[sta]"
+        intervals [3]:
+            xmin = 1.6387685131075775 
+            xmax = 2.4886150770461049 
+            text = "[int]"
+        intervals [4]:
+            xmin = 2.4886150770461049 
+            xmax = 2.9790649617413791 
+            text = "(u) bi e-\I (/u)"
+        intervals [5]:
+            xmin = 2.9790649617413791 
+            xmax = 3.486235651376147 
+            text = "[spk]"
+        intervals [6]:
+            xmin = 3.486235651376147 
+            xmax = 6.2519999999999998 
+            text = "[int]"

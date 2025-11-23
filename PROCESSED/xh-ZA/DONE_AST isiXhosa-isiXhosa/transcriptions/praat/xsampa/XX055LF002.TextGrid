@@ -1,0 +1,68 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 4.992 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 4.992 
+        intervals: size = 6
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.40283200599075075 
+            text = "[int]" 
+        intervals [2]:
+            xmin = 0.40283200599075075 
+            xmax = 0.77784199394853215 
+            text = "[sta]" 
+        intervals [3]:
+            xmin = 0.77784199394853215 
+            xmax = 2.1945996241610741 
+            text = "(u) [sta] Nonkqubela Hlakaza [/sta] (/u)" 
+        intervals [4]:
+            xmin = 2.1945996241610741 
+            xmax = 3.1427008976006641 
+            text = "[int]" 
+        intervals [5]:
+            xmin = 3.1427008976006641 
+            xmax = 3.8085349578522352 
+            text = "0" 
+        intervals [6]:
+            xmin = 3.8085349578522352 
+            xmax = 4.992 
+            text = "[sta]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 4.992 
+        intervals: size = 6
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.40283200599075075 
+            text = "[int]"
+        intervals [2]:
+            xmin = 0.40283200599075075 
+            xmax = 0.77784199394853215 
+            text = "[sta]"
+        intervals [3]:
+            xmin = 0.77784199394853215 
+            xmax = 2.1945996241610741 
+            text = "(u) [sta] noN!\ub_<Ela Kak_>aza [/sta] (/u)"
+        intervals [4]:
+            xmin = 2.1945996241610741 
+            xmax = 3.1427008976006641 
+            text = "[int]"
+        intervals [5]:
+            xmin = 3.1427008976006641 
+            xmax = 3.8085349578522352 
+            text = "0"
+        intervals [6]:
+            xmin = 3.8085349578522352 
+            xmax = 4.992 
+            text = "[sta]"

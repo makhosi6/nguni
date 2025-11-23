@@ -1,0 +1,52 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 4.8959999999999999 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 4.8959999999999999 
+        intervals: size = 4 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.44371444197192245 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.44371444197192245 
+            xmax = 2.7386879939147155 
+            text = "(s) iloli yayinyuka induli (/s)" 
+        intervals [3]:
+            xmin = 2.7386879939147155 
+            xmax = 2.8333945060088706 
+            text = "[spk]" 
+        intervals [4]:
+            xmin = 2.8333945060088706 
+            xmax = 4.8959999999999999 
+            text = "0" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 4.8959999999999999 
+        intervals: size = 4 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.44371444197192245 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.44371444197192245 
+            xmax = 2.7386879939147155 
+            text = "(s) iloli jajiJuk_>a induli (/s)" 
+        intervals [3]:
+            xmin = 2.7386879939147155 
+            xmax = 2.8333945060088706 
+            text = "[spk]" 
+        intervals [4]:
+            xmin = 2.8333945060088706 
+            xmax = 4.8959999999999999 
+            text = "0" 

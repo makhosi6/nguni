@@ -1,0 +1,60 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 3.7440000000000002 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic"
+        xmin = 0 
+        xmax = 3.7440000000000002 
+        intervals: size = 5
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.043826308705815685 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.043826308705815685 
+            xmax = 1.7772908448780096 
+            text = "(s) ivila ligxothwe emsebenzini (/s)"
+        intervals [3]:
+            xmin = 1.7772908448780096 
+            xmax = 2.7875218328459108 
+            text = "[spk]" 
+        intervals [4]:
+            xmin = 2.7875218328459108 
+            xmax = 3.1663584533338738 
+            text = "[sta]" 
+        intervals [5]:
+            xmin = 3.1663584533338738 
+            xmax = 3.7440000000000002 
+            text = "[int]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 3.7440000000000002 
+        intervals: size = 5
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.043826308705815685 
+            text = "0"
+        intervals [2]:
+            xmin = 0.043826308705815685 
+            xmax = 1.7772908448780096 
+            text = "(s) ivila li|\|\_vOt_hwE EmsEb_<end-\zini (/s)"
+        intervals [3]:
+            xmin = 1.7772908448780096 
+            xmax = 2.7875218328459108 
+            text = "[spk]"
+        intervals [4]:
+            xmin = 2.7875218328459108 
+            xmax = 3.1663584533338738 
+            text = "[sta]"
+        intervals [5]:
+            xmin = 3.1663584533338738 
+            xmax = 3.7440000000000002 
+            text = "[int]"

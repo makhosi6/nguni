@@ -1,0 +1,76 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 4.7999999999999998 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 4.7999999999999998 
+        intervals: size = 7 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.078621510879636175 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.078621510879636175 
+            xmax = 0.42413301085823568 
+            text = "[spk]" 
+        intervals [3]:
+            xmin = 0.42413301085823568 
+            xmax = 2.3202359091717031 
+            text = "(s) ngamashumi amabini anesine (/s)" 
+        intervals [4]:
+            xmin = 2.3202359091717031 
+            xmax = 2.6549842236376997 
+            text = "0" 
+        intervals [5]:
+            xmin = 2.6549842236376997 
+            xmax = 2.7421892551027631 
+            text = "[ext]" 
+        intervals [6]:
+            xmin = 2.7421892551027631 
+            xmax = 4.0279075802897797 
+            text = "0" 
+        intervals [7]:
+            xmin = 4.0279075802897797 
+            xmax = 4.7999999999999998 
+            text = "[int]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 4.7999999999999998 
+        intervals: size = 7 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.078621510879636175 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.078621510879636175 
+            xmax = 0.42413301085823568 
+            text = "[spk]" 
+        intervals [3]:
+            xmin = 0.42413301085823568 
+            xmax = 2.3202359091717031 
+            text = "(s) NgamaSum amab_<in anesinE (/s)" 
+        intervals [4]:
+            xmin = 2.3202359091717031 
+            xmax = 2.6549842236376997 
+            text = "0" 
+        intervals [5]:
+            xmin = 2.6549842236376997 
+            xmax = 2.7421892551027631 
+            text = "[ext]" 
+        intervals [6]:
+            xmin = 2.7421892551027631 
+            xmax = 4.0279075802897797 
+            text = "0" 
+        intervals [7]:
+            xmin = 4.0279075802897797 
+            xmax = 4.7999999999999998 
+            text = "[int]" 

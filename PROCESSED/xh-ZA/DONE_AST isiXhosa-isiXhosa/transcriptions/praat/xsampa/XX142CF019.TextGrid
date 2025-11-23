@@ -1,0 +1,60 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 7.1639999999999997 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic"
+        xmin = 0 
+        xmax = 7.1639999999999997 
+        intervals: size = 5
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.44001779326507956 
+            text = "[int]" 
+        intervals [2]:
+            xmin = 0.44001779326507956 
+            xmax = 1.3488098248427285 
+            text = "[sta]" 
+        intervals [3]:
+            xmin = 1.3488098248427285 
+            xmax = 3.9183645401152516 
+            text = "(s) [sta] ndisebenzisa 0 i ($)cellular phone(/$) [/sta] (/s)" 
+        intervals [4]:
+            xmin = 3.9183645401152516 
+            xmax = 4.3744223202170964 
+            text = "[int]" 
+        intervals [5]:
+            xmin = 4.3744223202170964 
+            xmax = 7.1639999999999997 
+            text = "[sta]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 7.1639999999999997 
+        intervals: size = 5
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.44001779326507956 
+            text = "[int]"
+        intervals [2]:
+            xmin = 0.44001779326507956 
+            xmax = 1.3488098248427285 
+            text = "[sta]"
+        intervals [3]:
+            xmin = 1.3488098248427285 
+            xmax = 3.9183645401152516 
+            text = "(s) [sta] ndisEb_<end-\zisa 0 i ($)sElula f@Un(/$) [/sta] (/s)"
+        intervals [4]:
+            xmin = 3.9183645401152516 
+            xmax = 4.3744223202170964 
+            text = "[int]"
+        intervals [5]:
+            xmin = 4.3744223202170964 
+            xmax = 7.1639999999999997 
+            text = "[sta]"

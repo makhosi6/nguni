@@ -1,0 +1,68 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 50.795999999999999 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 50.795999999999999 
+        intervals: size = 6 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.17447093549366946 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.17447093549366946 
+            xmax = 1.7769609083273461 
+            text = "[spk]" 
+        intervals [3]:
+            xmin = 1.7769609083273461 
+            xmax = 8.3237423954201972 
+            text = "(u) [int] ($)seven two oh eight oh one six one oh three oh eight nine(/$) [/int] (/u)" 
+        intervals [4]:
+            xmin = 8.3237423954201972 
+            xmax = 19.392348637407789 
+            text = "[int]" 
+        intervals [5]:
+            xmin = 19.392348637407789 
+            xmax = 20.509864927340658 
+            text = "[spk]" 
+        intervals [6]:
+            xmin = 20.509864927340658 
+            xmax = 50.795999999999999 
+            text = "[int]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 50.795999999999999 
+        intervals: size = 6 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.17447093549366946 
+            text = "0"
+        intervals [2]:
+            xmin = 0.17447093549366946 
+            xmax = 1.7769609083273461 
+            text = "[spk]"
+        intervals [3]:
+            xmin = 1.7769609083273461 
+            xmax = 8.3237423954201972 
+            text = "(u) [int] ($)sEvEn tu @-\U E-\It @-\U wan siks wan @-\U Tri @-\U E-\It na-\in(/$) [/int] (/u)"
+        intervals [4]:
+            xmin = 8.3237423954201972 
+            xmax = 19.392348637407789 
+            text = "[int]"
+        intervals [5]:
+            xmin = 19.392348637407789 
+            xmax = 20.509864927340658 
+            text = "[spk]"
+        intervals [6]:
+            xmin = 20.509864927340658 
+            xmax = 50.795999999999999 
+            text = "[int]"

@@ -1,0 +1,238 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0
+xmax = 2.525000
+tiers? <exists>
+size = 5
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "segment"
+		xmin = 0
+		xmax = 2.525000
+		intervals: size = 25
+		intervals [1]:
+			xmin = 0.000000
+			xmax = 0.230000
+			text = "pau"
+		intervals [2]:
+			xmin = 0.230000
+			xmax = 0.295000
+			text = "b"
+		intervals [3]:
+			xmin = 0.295000
+			xmax = 0.360000
+			text = "a"
+		intervals [4]:
+			xmin = 0.360000
+			xmax = 0.440000
+			text = "kʼ"
+		intervals [5]:
+			xmin = 0.440000
+			xmax = 0.505000
+			text = "ɛ"
+		intervals [6]:
+			xmin = 0.505000
+			xmax = 0.535000
+			text = "ŋ"
+		intervals [7]:
+			xmin = 0.535000
+			xmax = 0.600000
+			text = "s"
+		intervals [8]:
+			xmin = 0.600000
+			xmax = 0.670000
+			text = "a"
+		intervals [9]:
+			xmin = 0.670000
+			xmax = 0.760000
+			text = "tsʰ"
+		intervals [10]:
+			xmin = 0.760000
+			xmax = 0.790000
+			text = "ɛ"
+		intervals [11]:
+			xmin = 0.790000
+			xmax = 0.850000
+			text = "b"
+		intervals [12]:
+			xmin = 0.850000
+			xmax = 0.900000
+			text = "ɛ"
+		intervals [13]:
+			xmin = 0.900000
+			xmax = 0.955000
+			text = "d"
+		intervals [14]:
+			xmin = 0.955000
+			xmax = 0.980000
+			text = "i"
+		intervals [15]:
+			xmin = 0.980000
+			xmax = 1.075000
+			text = "s"
+		intervals [16]:
+			xmin = 1.075000
+			xmax = 1.140000
+			text = "ɔ"
+		intervals [17]:
+			xmin = 1.140000
+			xmax = 1.185000
+			text = "j"
+		intervals [18]:
+			xmin = 1.185000
+			xmax = 1.270000
+			text = "a"
+		intervals [19]:
+			xmin = 1.270000
+			xmax = 1.420000
+			text = "tʃʰ"
+		intervals [20]:
+			xmin = 1.420000
+			xmax = 1.460000
+			text = "ɛ"
+		intervals [21]:
+			xmin = 1.460000
+			xmax = 1.515000
+			text = "l"
+		intervals [22]:
+			xmin = 1.515000
+			xmax = 1.685000
+			text = "ɛ"
+		intervals [23]:
+			xmin = 1.685000
+			xmax = 1.790000
+			text = "tʼ"
+		intervals [24]:
+			xmin = 1.790000
+			xmax = 1.855000
+			text = "ɛ"
+		intervals [25]:
+			xmin = 1.855000
+			xmax = 2.525000
+			text = "pau"
+	item [2]:
+		class = "IntervalTier"
+		name = "syllable"
+		xmin = 0
+		xmax = 2.525000
+		intervals: size = 14
+		intervals [1]:
+			xmin = 0.000000
+			xmax = 0.230000
+			text = "NONE"
+		intervals [2]:
+			xmin = 0.230000
+			xmax = 0.360000
+			text = "syl"
+		intervals [3]:
+			xmin = 0.360000
+			xmax = 0.505000
+			text = "syl"
+		intervals [4]:
+			xmin = 0.505000
+			xmax = 0.535000
+			text = "syl"
+		intervals [5]:
+			xmin = 0.535000
+			xmax = 0.670000
+			text = "syl"
+		intervals [6]:
+			xmin = 0.670000
+			xmax = 0.790000
+			text = "syl"
+		intervals [7]:
+			xmin = 0.790000
+			xmax = 0.900000
+			text = "syl"
+		intervals [8]:
+			xmin = 0.900000
+			xmax = 0.980000
+			text = "syl"
+		intervals [9]:
+			xmin = 0.980000
+			xmax = 1.140000
+			text = "syl"
+		intervals [10]:
+			xmin = 1.140000
+			xmax = 1.270000
+			text = "syl"
+		intervals [11]:
+			xmin = 1.270000
+			xmax = 1.460000
+			text = "syl"
+		intervals [12]:
+			xmin = 1.460000
+			xmax = 1.685000
+			text = "syl"
+		intervals [13]:
+			xmin = 1.685000
+			xmax = 1.855000
+			text = "syl"
+		intervals [14]:
+			xmin = 1.855000
+			xmax = 2.525000
+			text = "NONE"
+	item [3]:
+		class = "IntervalTier"
+		name = "word"
+		xmin = 0
+		xmax = 2.525000
+		intervals: size = 7
+		intervals [1]:
+			xmin = 0.000000
+			xmax = 0.230000
+			text = "NONE"
+		intervals [2]:
+			xmin = 0.230000
+			xmax = 0.535000
+			text = "bakeng"
+		intervals [3]:
+			xmin = 0.535000
+			xmax = 0.670000
+			text = "sa"
+		intervals [4]:
+			xmin = 0.670000
+			xmax = 1.140000
+			text = "tshebediso"
+		intervals [5]:
+			xmin = 1.140000
+			xmax = 1.270000
+			text = "ya"
+		intervals [6]:
+			xmin = 1.270000
+			xmax = 1.855000
+			text = "tjhelete"
+		intervals [7]:
+			xmin = 1.855000
+			xmax = 2.525000
+			text = "NONE"
+	item [4]:
+		class = "IntervalTier"
+		name = "phrase"
+		xmin = 0
+		xmax = 2.525000
+		intervals: size = 3
+		intervals [1]:
+			xmin = 0.000000
+			xmax = 0.230000
+			text = "NONE"
+		intervals [2]:
+			xmin = 0.230000
+			xmax = 1.855000
+			text = "BB"
+		intervals [3]:
+			xmin = 1.855000
+			xmax = 2.525000
+			text = "NONE"
+	item [5]:
+		class = "IntervalTier"
+		name = "text"
+		xmin = 0
+		xmax = 2.525000
+		intervals: size = 1
+		intervals [1]:
+			xmin = 0.000000
+			xmax = 2.525000
+			text = "bakeng sa tshebediso ya tjhelete"

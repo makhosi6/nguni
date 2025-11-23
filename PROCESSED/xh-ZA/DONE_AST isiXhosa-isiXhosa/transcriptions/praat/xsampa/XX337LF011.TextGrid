@@ -1,0 +1,68 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 4.0679999999999996 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 4.0679999999999996 
+        intervals: size = 6
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.2222458737692144 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.2222458737692144 
+            xmax = 0.57503147901399065 
+            text = "[int]" 
+        intervals [3]:
+            xmin = 0.57503147901399065 
+            xmax = 2.019527332285346 
+            text = "(s) [int] ndiseMthatha [/int] (/s)" 
+        intervals [4]:
+            xmin = 2.019527332285346 
+            xmax = 2.3427154190995658 
+            text = "[int]" 
+        intervals [5]:
+            xmin = 2.3427154190995658 
+            xmax = 3.7709140246308905 
+            text = "0" 
+        intervals [6]:
+            xmin = 3.7709140246308905 
+            xmax = 4.0679999999999996 
+            text = "[int]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 4.0679999999999996 
+        intervals: size = 6
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.2222458737692144 
+            text = "0"
+        intervals [2]:
+            xmin = 0.2222458737692144 
+            xmax = 0.57503147901399065 
+            text = "[int]"
+        intervals [3]:
+            xmin = 0.57503147901399065 
+            xmax = 2.019527332285346 
+            text = "(s) [int] ndisEm=t_hat_ha [/int] (/s)"
+        intervals [4]:
+            xmin = 2.019527332285346 
+            xmax = 2.3427154190995658 
+            text = "[int]"
+        intervals [5]:
+            xmin = 2.3427154190995658 
+            xmax = 3.7709140246308905 
+            text = "0"
+        intervals [6]:
+            xmin = 3.7709140246308905 
+            xmax = 4.0679999999999996 
+            text = "[int]"

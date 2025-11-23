@@ -1,0 +1,60 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 6.3600000000000003 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 6.3600000000000003 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.74723676620892743 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.74723676620892743 
+            xmax = 1.4872590811088715 
+            text = "[spk]" 
+        intervals [3]:
+            xmin = 1.4872590811088715 
+            xmax = 4.3646923162549713 
+            text = "(s) [sta] ikomityi ixhonywe *kiwehu+ *kwihuku [/sta] (/s)" 
+        intervals [4]:
+            xmin = 4.3646923162549713 
+            xmax = 6.0222865036076065 
+            text = "0" 
+        intervals [5]:
+            xmin = 6.0222865036076065 
+            xmax = 6.3600000000000003 
+            text = "[int]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 6.3600000000000003 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.74723676620892743 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.74723676620892743 
+            xmax = 1.4872590811088715 
+            text = "[spk]" 
+        intervals [3]:
+            xmin = 1.4872590811088715 
+            xmax = 4.3646923162549713 
+            text = "(s) [sta] ik_>omic_>i i|\|\_hOJwE k_>iweh\u k_>weh\uk_>u [/sta] (/s)" 
+        intervals [4]:
+            xmin = 4.3646923162549713 
+            xmax = 6.0222865036076065 
+            text = "0" 
+        intervals [5]:
+            xmin = 6.0222865036076065 
+            xmax = 6.3600000000000003 
+            text = "[int]" 

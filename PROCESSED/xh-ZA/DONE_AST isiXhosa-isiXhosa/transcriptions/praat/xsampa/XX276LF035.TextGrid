@@ -1,0 +1,60 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 6.984 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 6.984 
+        intervals: size = 5
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.25193951095848022 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.25193951095848022 
+            xmax = 0.66671114441487311 
+            text = "[spk]" 
+        intervals [3]:
+            xmin = 0.66671114441487311 
+            xmax = 4.964241674171971 
+            text = "(u) [int] ngomhla wamashumi amabini anantathu kweyoMnga [/int] (/u)" 
+        intervals [4]:
+            xmin = 4.964241674171971 
+            xmax = 6.2919359839706939 
+            text = "0" 
+        intervals [5]:
+            xmin = 6.2919359839706939 
+            xmax = 6.984 
+            text = "[sta]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 6.984 
+        intervals: size = 5
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.25193951095848022 
+            text = "0"
+        intervals [2]:
+            xmin = 0.25193951095848022 
+            xmax = 0.66671114441487311 
+            text = "[spk]"
+        intervals [3]:
+            xmin = 0.66671114441487311 
+            xmax = 4.964241674171971 
+            text = "(u) [int] NgOm=Ka wamaSumi amab_<ini anant_>at_hu k_>wEjOm=Nga [/int] (/u)"
+        intervals [4]:
+            xmin = 4.964241674171971 
+            xmax = 6.2919359839706939 
+            text = "0"
+        intervals [5]:
+            xmin = 6.2919359839706939 
+            xmax = 6.984 
+            text = "[sta]"

@@ -1,0 +1,60 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 4.8239999999999998 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 4.8239999999999998 
+        intervals: size = 5
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.28573531405903724 
+            text = "[ext]" 
+        intervals [2]:
+            xmin = 0.28573531405903724 
+            xmax = 2.1716396441979779 
+            text = "(u) Nolusindiso 0 Gabada (/u)" 
+        intervals [3]:
+            xmin = 2.1716396441979779 
+            xmax = 2.6079861362693411 
+            text = "0" 
+        intervals [4]:
+            xmin = 2.6079861362693411 
+            xmax = 3.3919306813467043 
+            text = "[ext]" 
+        intervals [5]:
+            xmin = 3.3919306813467043 
+            xmax = 4.8239999999999998 
+            text = "0" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 4.8239999999999998 
+        intervals: size = 5
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.28573531405903724 
+            text = "[ext]"
+        intervals [2]:
+            xmin = 0.28573531405903724 
+            xmax = 2.1716396441979779 
+            text = "(u) nolusindisO 0 gabad_0a (/u)"
+        intervals [3]:
+            xmin = 2.1716396441979779 
+            xmax = 2.6079861362693411 
+            text = "0"
+        intervals [4]:
+            xmin = 2.6079861362693411 
+            xmax = 3.3919306813467043 
+            text = "[ext]"
+        intervals [5]:
+            xmin = 3.3919306813467043 
+            xmax = 4.8239999999999998 
+            text = "0"

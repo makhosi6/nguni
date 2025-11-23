@@ -1,0 +1,44 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 9.8399999999999999 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 9.8399999999999999 
+        intervals: size = 3 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.91688506981740059 
+            text = "[sta]" 
+        intervals [2]:
+            xmin = 0.91688506981740059 
+            xmax = 3.4329602164300219 
+            text = "(u) [int] kwa ($)number six(/$) 0 e ($)Maphekula_Drive(/$) [/int] (/u)" 
+        intervals [3]:
+            xmin = 3.4329602164300219 
+            xmax = 9.8399999999999999 
+            text = "[sta]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 9.8399999999999999 
+        intervals: size = 3 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.91688506981740059 
+            text = "[sta]"
+        intervals [2]:
+            xmin = 0.91688506981740059 
+            xmax = 3.4329602164300219 
+            text = "(u) [int] k_>wa ($)namba siks(/$) 0 E ($)map_hek_>uladra-\if(/$) [/int] (/u)"
+        intervals [3]:
+            xmin = 3.4329602164300219 
+            xmax = 9.8399999999999999 
+            text = "[sta]"

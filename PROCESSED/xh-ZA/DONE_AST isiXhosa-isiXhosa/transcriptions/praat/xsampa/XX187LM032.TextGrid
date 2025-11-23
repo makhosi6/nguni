@@ -1,0 +1,60 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 5.8079999999999998 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic"
+        xmin = 0 
+        xmax = 5.8079999999999998 
+        intervals: size = 5
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.16400994056304219 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.16400994056304219 
+            xmax = 1.2700647041560833 
+            text = "[int]" 
+        intervals [3]:
+            xmin = 1.2700647041560833 
+            xmax = 3.7988800939090659 
+            text = "(s) [int] ileli ikufuphi nocango [/int] (/s)" 
+        intervals [4]:
+            xmin = 3.7988800939090659 
+            xmax = 4.072574132275057 
+            text = "[spk]" 
+        intervals [5]:
+            xmin = 4.072574132275057 
+            xmax = 5.8079999999999998 
+            text = "[sta]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 5.8079999999999998 
+        intervals: size = 5
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.16400994056304219 
+            text = "0"
+        intervals [2]:
+            xmin = 0.16400994056304219 
+            xmax = 1.2700647041560833 
+            text = "[int]"
+        intervals [3]:
+            xmin = 1.2700647041560833 
+            xmax = 3.7988800939090659 
+            text = "(s) [int] ileli ik_>ufup_hi nO|\aNgO [/int] (/s)"
+        intervals [4]:
+            xmin = 3.7988800939090659 
+            xmax = 4.072574132275057 
+            text = "[spk]"
+        intervals [5]:
+            xmin = 4.072574132275057 
+            xmax = 5.8079999999999998 
+            text = "[sta]"

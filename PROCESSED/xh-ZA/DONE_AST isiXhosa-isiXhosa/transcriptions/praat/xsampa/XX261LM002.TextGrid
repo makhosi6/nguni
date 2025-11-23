@@ -1,0 +1,60 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 17.111999999999998 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 17.111999999999998 
+        intervals: size = 5
+        intervals [1]:
+            xmin = 0 
+            xmax = 5.5459786663413135 
+            text = "[int]" 
+        intervals [2]:
+            xmin = 5.5459786663413135 
+            xmax = 6.8077883264719423 
+            text = "(u) [int] Monwabisi Magadla [/int] (/u)" 
+        intervals [3]:
+            xmin = 6.8077883264719423 
+            xmax = 8.6475463288590593 
+            text = "[int]" 
+        intervals [4]:
+            xmin = 8.6475463288590593 
+            xmax = 9.4169731194603781 
+            text = "[spk]" 
+        intervals [5]:
+            xmin = 9.4169731194603781 
+            xmax = 17.111999999999998 
+            text = "[int]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 17.111999999999998 
+        intervals: size = 5
+        intervals [1]:
+            xmin = 0 
+            xmax = 5.5459786663413135 
+            text = "[int]"
+        intervals [2]:
+            xmin = 5.5459786663413135 
+            xmax = 6.8077883264719423 
+            text = "(u) [int] mOnwab_<isi magaK\a [/int] (/u)"
+        intervals [3]:
+            xmin = 6.8077883264719423 
+            xmax = 8.6475463288590593 
+            text = "[int]"
+        intervals [4]:
+            xmin = 8.6475463288590593 
+            xmax = 9.4169731194603781 
+            text = "[spk]"
+        intervals [5]:
+            xmin = 9.4169731194603781 
+            xmax = 17.111999999999998 
+            text = "[int]"

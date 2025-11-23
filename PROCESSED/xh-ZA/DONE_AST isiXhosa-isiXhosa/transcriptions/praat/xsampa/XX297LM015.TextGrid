@@ -1,0 +1,92 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 8.0999999999999996 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 8.0999999999999996 
+        intervals: size = 9 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.63902962495222904 
+            text = "(u) [int] ~xesha ngoku [/int] (/u)" 
+        intervals [2]:
+            xmin = 0.63902962495222904 
+            xmax = 1.0721589400892624 
+            text = "[int]" 
+        intervals [3]:
+            xmin = 1.0721589400892624 
+            xmax = 1.5718702742622368 
+            text = "(u) [int] ($)twenty to(/$) [/int] (/u)" 
+        intervals [4]:
+            xmin = 1.5718702742622368 
+            xmax = 4.082351592907199 
+            text = "[int]" 
+        intervals [5]:
+            xmin = 4.082351592907199 
+            xmax = 4.9050792960189478 
+            text = "(u) [sta] ($)five past eight(/$) [/sta] (/u)" 
+        intervals [6]:
+            xmin = 4.9050792960189478 
+            xmax = 5.7561487145060655 
+            text = "[int]" 
+        intervals [7]:
+            xmin = 5.7561487145060655 
+            xmax = 6.0487682307553561 
+            text = "(u) [sta] ($)ten(/$) [/sta] (/u)" 
+        intervals [8]:
+            xmin = 6.0487682307553561 
+            xmax = 6.9544034367119769 
+            text = "0" 
+        intervals [9]:
+            xmin = 6.9544034367119769 
+            xmax = 8.0999999999999996 
+            text = "[int]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 8.0999999999999996 
+        intervals: size = 9 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.63902962495222904 
+            text = "(u) [int] |\|\ESa Ngok_>u [/int] (/u)" 
+        intervals [2]:
+            xmin = 0.63902962495222904 
+            xmax = 1.0721589400892624 
+            text = "[int]" 
+        intervals [3]:
+            xmin = 1.0721589400892624 
+            xmax = 1.5718702742622368 
+            text = "(u) [int] ($)twEnti t_hu(/$) [/int] (/u)" 
+        intervals [4]:
+            xmin = 1.5718702742622368 
+            xmax = 4.082351592907199 
+            text = "[int]" 
+        intervals [5]:
+            xmin = 4.082351592907199 
+            xmax = 4.9050792960189478 
+            text = "(u) [sta] ($)fa-\if past E-\it(/$) [/sta] (/u)" 
+        intervals [6]:
+            xmin = 4.9050792960189478 
+            xmax = 5.7561487145060655 
+            text = "[int]" 
+        intervals [7]:
+            xmin = 5.7561487145060655 
+            xmax = 6.0487682307553561 
+            text = "(u) [sta] ($)tEn(/$) [/sta] (/u)" 
+        intervals [8]:
+            xmin = 6.0487682307553561 
+            xmax = 6.9544034367119769 
+            text = "0" 
+        intervals [9]:
+            xmin = 6.9544034367119769 
+            xmax = 8.0999999999999996 
+            text = "[int]" 

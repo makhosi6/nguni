@@ -1,0 +1,68 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 11.1 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 11.1 
+        intervals: size = 6
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.99048805408646512 
+            text = "(s) [int] ndilapha eMthatha [/int] (/s)" 
+        intervals [2]:
+            xmin = 0.99048805408646512 
+            xmax = 1.0320472628436046 
+            text = "[ext]" 
+        intervals [3]:
+            xmin = 1.0320472628436046 
+            xmax = 1.3617352682991588 
+            text = "**" 
+        intervals [4]:
+            xmin = 1.3617352682991588 
+            xmax = 1.6222296140939596 
+            text = "[spk]" 
+        intervals [5]:
+            xmin = 1.6222296140939596 
+            xmax = 3.9127220637583888 
+            text = "0" 
+        intervals [6]:
+            xmin = 3.9127220637583888 
+            xmax = 11.1 
+            text = "[int]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 11.1 
+        intervals: size = 6
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.99048805408646512 
+            text = "(s) [int] ndilap_ha Em=t_hat_ha [/int] (/s)"
+        intervals [2]:
+            xmin = 0.99048805408646512 
+            xmax = 1.0320472628436046 
+            text = "[ext]"
+        intervals [3]:
+            xmin = 1.0320472628436046 
+            xmax = 1.3617352682991588 
+            text = "**"
+        intervals [4]:
+            xmin = 1.3617352682991588 
+            xmax = 1.6222296140939596 
+            text = "[spk]"
+        intervals [5]:
+            xmin = 1.6222296140939596 
+            xmax = 3.9127220637583888 
+            text = "0"
+        intervals [6]:
+            xmin = 3.9127220637583888 
+            xmax = 11.1 
+            text = "[int]"

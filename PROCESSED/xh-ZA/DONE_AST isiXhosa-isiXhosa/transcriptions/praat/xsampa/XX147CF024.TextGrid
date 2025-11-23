@@ -1,0 +1,60 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 35.112000000000002 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 35.112000000000002 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.47837100079366285 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.47837100079366285 
+            xmax = 2.3570260374031751 
+            text = "(u) [int] inqaku ($)four(/$) isivakalisi [/int] (/u)" 
+        intervals [3]:
+            xmin = 2.3570260374031751 
+            xmax = 2.6270549502705629 
+            text = "[sta]" 
+        intervals [4]:
+            xmin = 2.6270549502705629 
+            xmax = 4.3880396559324986 
+            text = "(s) [int] umthathi uzala umlotha [/int] (/s)" 
+        intervals [5]:
+            xmin = 4.3880396559324986 
+            xmax = 35.112000000000002 
+            text = "[int]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 35.112000000000002 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.47837100079366285 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.47837100079366285 
+            xmax = 2.3570260374031751 
+            text = "(u) [int] i!\~ak_>u ($)fO(/$) isivakalis [/int] (/u)" 
+        intervals [3]:
+            xmin = 2.3570260374031751 
+            xmax = 2.6270549502705629 
+            text = "[sta]" 
+        intervals [4]:
+            xmin = 2.6270549502705629 
+            xmax = 4.3880396559324986 
+            text = "(s) [int] umt_hat_hi uzala umlOt_ha [/int] (/s)" 
+        intervals [5]:
+            xmin = 4.3880396559324986 
+            xmax = 35.112000000000002 
+            text = "[int]" 

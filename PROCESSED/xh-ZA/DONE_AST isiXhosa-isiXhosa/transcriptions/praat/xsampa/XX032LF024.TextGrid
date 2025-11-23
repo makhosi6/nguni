@@ -1,0 +1,68 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 3.54 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic"
+        xmin = 0 
+        xmax = 3.54 
+        intervals: size = 6
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.43219638935832178 
+            text = "[int]" 
+        intervals [2]:
+            xmin = 0.43219638935832178 
+            xmax = 1.4919989901585997 
+            text = "(s) sala kakuhle (/s)" 
+        intervals [3]:
+            xmin = 1.4919989901585997 
+            xmax = 1.588188961636932 
+            text = "[spk]" 
+        intervals [4]:
+            xmin = 1.588188961636932 
+            xmax = 2.5958862117186126 
+            text = "0" 
+        intervals [5]:
+            xmin = 2.5958862117186126 
+            xmax = 2.8852886084659835 
+            text = "[ext]" 
+        intervals [6]:
+            xmin = 2.8852886084659835 
+            xmax = 3.54 
+            text = "[sta]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 3.54 
+        intervals: size = 6
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.43219638935832178 
+            text = "[int]"
+        intervals [2]:
+            xmin = 0.43219638935832178 
+            xmax = 1.4919989901585997 
+            text = "(s) sala k_>ak_>uKE (/s)"
+        intervals [3]:
+            xmin = 1.4919989901585997 
+            xmax = 1.588188961636932 
+            text = "[spk]"
+        intervals [4]:
+            xmin = 1.588188961636932 
+            xmax = 2.5958862117186126 
+            text = "0"
+        intervals [5]:
+            xmin = 2.5958862117186126 
+            xmax = 2.8852886084659835 
+            text = "[ext]"
+        intervals [6]:
+            xmin = 2.8852886084659835 
+            xmax = 3.54 
+            text = "[sta]"

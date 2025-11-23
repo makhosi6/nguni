@@ -1,0 +1,60 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 6.4320000000000004 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 6.4320000000000004 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.068892192715202985 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.068892192715202985 
+            xmax = 1.804513389992602 
+            text = "(u) [int] igama 0 ibinzana [/int] (/u)" 
+        intervals [3]:
+            xmin = 1.804513389992602 
+            xmax = 2.13924436138818 
+            text = "[sta]" 
+        intervals [4]:
+            xmin = 2.13924436138818 
+            xmax = 3.4843735294302522 
+            text = "(u) [sta] indawo yokujima [/sta] (/u)" 
+        intervals [5]:
+            xmin = 3.4843735294302522 
+            xmax = 6.4320000000000004 
+            text = "[int]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 6.4320000000000004 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.068892192715202985 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.068892192715202985 
+            xmax = 1.804513389992602 
+            text = "(u) [int] igama 0 ib_<ind-\zana [/int] (/u)" 
+        intervals [3]:
+            xmin = 1.804513389992602 
+            xmax = 2.13924436138818 
+            text = "[sta]" 
+        intervals [4]:
+            xmin = 2.13924436138818 
+            xmax = 3.4843735294302522 
+            text = "(u) [sta] indaw jok_>ud-\Zima [/sta] (/u)" 
+        intervals [5]:
+            xmin = 3.4843735294302522 
+            xmax = 6.4320000000000004 
+            text = "[int]" 

@@ -1,0 +1,68 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 6.492 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic"
+        xmin = 0 
+        xmax = 6.492 
+        intervals: size = 6
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.45419188421771484 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.45419188421771484 
+            xmax = 0.97225233690251889 
+            text = "[spk]" 
+        intervals [3]:
+            xmin = 0.97225233690251889 
+            xmax = 3.5089641241610741 
+            text = "(s) ivenkile yeswiti yayize (/s)" 
+        intervals [4]:
+            xmin = 3.5089641241610741 
+            xmax = 4.0372574606098022 
+            text = "[spk]" 
+        intervals [5]:
+            xmin = 4.0372574606098022 
+            xmax = 5.244367422395003 
+            text = "0" 
+        intervals [6]:
+            xmin = 5.244367422395003 
+            xmax = 6.492 
+            text = "[int]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 6.492 
+        intervals: size = 6
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.45419188421771484 
+            text = "0"
+        intervals [2]:
+            xmin = 0.45419188421771484 
+            xmax = 0.97225233690251889 
+            text = "[spk]"
+        intervals [3]:
+            xmin = 0.97225233690251889 
+            xmax = 3.5089641241610741 
+            text = "(s) iveNk_>ilE jeswit_>i jajizE (/s)"
+        intervals [4]:
+            xmin = 3.5089641241610741 
+            xmax = 4.0372574606098022 
+            text = "[spk]"
+        intervals [5]:
+            xmin = 4.0372574606098022 
+            xmax = 5.244367422395003 
+            text = "0"
+        intervals [6]:
+            xmin = 5.244367422395003 
+            xmax = 6.492 
+            text = "[int]"

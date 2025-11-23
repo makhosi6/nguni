@@ -1,0 +1,68 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 9.048 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 9.048 
+        intervals: size = 6
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.4460463396093382 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.4460463396093382 
+            xmax = 0.62730252854983559 
+            text = "[spk]" 
+        intervals [3]:
+            xmin = 0.62730252854983559 
+            xmax = 1.4171771785340359 
+            text = "(u) [sta] libinzana [/sta] (/u)"
+        intervals [4]:
+            xmin = 1.4171771785340359 
+            xmax = 1.5014892374225142 
+            text = "[sta]" 
+        intervals [5]:
+            xmin = 1.5014892374225142 
+            xmax = 4.6193542582661955 
+            text = "(s) [sta] ndicela ukubuza malunga ne 0 ($)directory(/$) [/sta] (/s)"
+        intervals [6]:
+            xmin = 4.6193542582661955 
+            xmax = 9.048 
+            text = "[int]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 9.048 
+        intervals: size = 6
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.4460463396093382 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.4460463396093382 
+            xmax = 0.62730252854983559 
+            text = "[spk]" 
+        intervals [3]:
+            xmin = 0.62730252854983559 
+            xmax = 1.4171771785340359 
+            text = "(u) [sta] lib_<ind-\zana [/sta] (/u)"
+        intervals [4]:
+            xmin = 1.4171771785340359 
+            xmax = 1.5014892374225142 
+            text = "[sta]"
+        intervals [5]:
+            xmin = 1.5014892374225142 
+            xmax = 4.6193542582661955 
+            text = "(s) [sta] ndi|\Ela uk_>ub_<uza maluNga nE 0 ($)darEktri(/$) [/sta] (/s)"
+        intervals [6]:
+            xmin = 4.6193542582661955 
+            xmax = 9.048 
+            text = "[int]" 

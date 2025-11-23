@@ -1,0 +1,68 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 9.4320000000000004 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 9.4320000000000004 
+        intervals: size = 6 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.52881736336400142 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.52881736336400142 
+            xmax = 3.1969535382983603 
+            text = "[int]" 
+        intervals [3]:
+            xmin = 3.1969535382983603 
+            xmax = 4.3608189248914213 
+            text = "(s) ($)but it's about 0 past;ten(/$) (/s)" 
+        intervals [4]:
+            xmin = 4.3608189248914213 
+            xmax = 4.5000303408263713 
+            text = "[ext]" 
+        intervals [5]:
+            xmin = 4.5000303408263713 
+            xmax = 5.4516504330912889 
+            text = "0" 
+        intervals [6]:
+            xmin = 5.4516504330912889 
+            xmax = 9.4320000000000004 
+            text = "[int]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 9.4320000000000004 
+        intervals: size = 6 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.52881736336400142 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.52881736336400142 
+            xmax = 3.1969535382983603 
+            text = "[int]" 
+        intervals [3]:
+            xmin = 3.1969535382983603 
+            xmax = 4.3608189248914213 
+            text = "(s) ($)bat its ab@-\ut 0 pastEn(/$) (/s)" 
+        intervals [4]:
+            xmin = 4.3608189248914213 
+            xmax = 4.5000303408263713 
+            text = "[ext]" 
+        intervals [5]:
+            xmin = 4.5000303408263713 
+            xmax = 5.4516504330912889 
+            text = "0" 
+        intervals [6]:
+            xmin = 5.4516504330912889 
+            xmax = 9.4320000000000004 
+            text = "[int]" 

@@ -1,0 +1,254 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0
+xmax = 3.265000
+tiers? <exists>
+size = 5
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "segment"
+		xmin = 0
+		xmax = 3.265000
+		intervals: size = 29
+		intervals [1]:
+			xmin = 0.000000
+			xmax = 0.055000
+			text = "pau"
+		intervals [2]:
+			xmin = 0.055000
+			xmax = 0.285000
+			text = "eng_f"
+		intervals [3]:
+			xmin = 0.285000
+			xmax = 0.345000
+			text = "eng_l"
+		intervals [4]:
+			xmin = 0.345000
+			xmax = 0.440000
+			text = "eng_ʌ"
+		intervals [5]:
+			xmin = 0.440000
+			xmax = 0.565000
+			text = "eng_ŋ"
+		intervals [6]:
+			xmin = 0.565000
+			xmax = 0.640000
+			text = "eng_w"
+		intervals [7]:
+			xmin = 0.640000
+			xmax = 0.735000
+			text = "eng_ɛ"
+		intervals [8]:
+			xmin = 0.735000
+			xmax = 0.835000
+			text = "eng_l"
+		intervals [9]:
+			xmin = 0.835000
+			xmax = 0.970000
+			text = "eng_g"
+		intervals [10]:
+			xmin = 0.970000
+			xmax = 1.090000
+			text = "eng_ɒ"
+		intervals [11]:
+			xmin = 1.090000
+			xmax = 1.200000
+			text = "eng_t"
+		intervals [12]:
+			xmin = 1.200000
+			xmax = 1.310000
+			text = "eng_ɹ"
+		intervals [13]:
+			xmin = 1.310000
+			xmax = 1.455000
+			text = "eng_ɛ"
+		intervals [14]:
+			xmin = 1.455000
+			xmax = 1.485000
+			text = "eng_d"
+		intervals [15]:
+			xmin = 1.485000
+			xmax = 1.630000
+			text = "eng_ɪ"
+		intervals [16]:
+			xmin = 1.630000
+			xmax = 1.725000
+			text = "eng_t"
+		intervals [17]:
+			xmin = 1.725000
+			xmax = 1.755000
+			text = "eng_u"
+		intervals [18]:
+			xmin = 1.755000
+			xmax = 1.920000
+			text = "eng_θ"
+		intervals [19]:
+			xmin = 1.920000
+			xmax = 1.985000
+			text = "eng_ɹ"
+		intervals [20]:
+			xmin = 1.985000
+			xmax = 2.125000
+			text = "eng_əʊ"
+		intervals [21]:
+			xmin = 2.125000
+			xmax = 2.235000
+			text = "eng_ð"
+		intervals [22]:
+			xmin = 2.235000
+			xmax = 2.335000
+			text = "eng_ə"
+		intervals [23]:
+			xmin = 2.335000
+			xmax = 2.425000
+			text = "eng_d"
+		intervals [24]:
+			xmin = 2.425000
+			xmax = 2.460000
+			text = "eng_ɪ"
+		intervals [25]:
+			xmin = 2.460000
+			xmax = 2.595000
+			text = "eng_s"
+		intervals [26]:
+			xmin = 2.595000
+			xmax = 2.725000
+			text = "eng_k"
+		intervals [27]:
+			xmin = 2.725000
+			xmax = 2.895000
+			text = "eng_ʌ"
+		intervals [28]:
+			xmin = 2.895000
+			xmax = 3.085000
+			text = "eng_s"
+		intervals [29]:
+			xmin = 3.085000
+			xmax = 3.265000
+			text = "pau"
+	item [2]:
+		class = "IntervalTier"
+		name = "syllable"
+		xmin = 0
+		xmax = 3.265000
+		intervals: size = 12
+		intervals [1]:
+			xmin = 0.000000
+			xmax = 0.055000
+			text = "NONE"
+		intervals [2]:
+			xmin = 0.055000
+			xmax = 0.565000
+			text = "syl"
+		intervals [3]:
+			xmin = 0.565000
+			xmax = 0.835000
+			text = "syl"
+		intervals [4]:
+			xmin = 0.835000
+			xmax = 1.200000
+			text = "syl"
+		intervals [5]:
+			xmin = 1.200000
+			xmax = 1.455000
+			text = "syl"
+		intervals [6]:
+			xmin = 1.455000
+			xmax = 1.630000
+			text = "syl"
+		intervals [7]:
+			xmin = 1.630000
+			xmax = 1.755000
+			text = "syl"
+		intervals [8]:
+			xmin = 1.755000
+			xmax = 2.125000
+			text = "syl"
+		intervals [9]:
+			xmin = 2.125000
+			xmax = 2.335000
+			text = "syl"
+		intervals [10]:
+			xmin = 2.335000
+			xmax = 2.460000
+			text = "syl"
+		intervals [11]:
+			xmin = 2.460000
+			xmax = 3.085000
+			text = "syl"
+		intervals [12]:
+			xmin = 3.085000
+			xmax = 3.265000
+			text = "NONE"
+	item [3]:
+		class = "IntervalTier"
+		name = "word"
+		xmin = 0
+		xmax = 3.265000
+		intervals: size = 9
+		intervals [1]:
+			xmin = 0.000000
+			xmax = 0.055000
+			text = "NONE"
+		intervals [2]:
+			xmin = 0.055000
+			xmax = 0.835000
+			text = "flungwell"
+		intervals [3]:
+			xmin = 0.835000
+			xmax = 1.200000
+			text = "got"
+		intervals [4]:
+			xmin = 1.200000
+			xmax = 1.630000
+			text = "ready"
+		intervals [5]:
+			xmin = 1.630000
+			xmax = 1.755000
+			text = "to"
+		intervals [6]:
+			xmin = 1.755000
+			xmax = 2.125000
+			text = "throw"
+		intervals [7]:
+			xmin = 2.125000
+			xmax = 2.335000
+			text = "the"
+		intervals [8]:
+			xmin = 2.335000
+			xmax = 3.085000
+			text = "discuss"
+		intervals [9]:
+			xmin = 3.085000
+			xmax = 3.265000
+			text = "NONE"
+	item [4]:
+		class = "IntervalTier"
+		name = "phrase"
+		xmin = 0
+		xmax = 3.265000
+		intervals: size = 3
+		intervals [1]:
+			xmin = 0.000000
+			xmax = 0.055000
+			text = "NONE"
+		intervals [2]:
+			xmin = 0.055000
+			xmax = 3.085000
+			text = "BB"
+		intervals [3]:
+			xmin = 3.085000
+			xmax = 3.265000
+			text = "NONE"
+	item [5]:
+		class = "IntervalTier"
+		name = "text"
+		xmin = 0
+		xmax = 3.265000
+		intervals: size = 1
+		intervals [1]:
+			xmin = 0.000000
+			xmax = 3.265000
+			text = "|flungwell |got |ready |to |throw |the |discuss."

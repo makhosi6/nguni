@@ -1,0 +1,68 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 5.6399999999999997 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic"
+        xmin = 0 
+        xmax = 5.6399999999999997 
+        intervals: size = 6
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.10210774639200688 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.10210774639200688 
+            xmax = 0.82629733563587027 
+            text = "[spk]" 
+        intervals [3]:
+            xmin = 0.82629733563587027 
+            xmax = 3.6619794621931665 
+            text = "(s) ngoku ndisebenzisa imfonomfono enomnxeba (/s)"
+        intervals [4]:
+            xmin = 3.6619794621931665 
+            xmax = 4.0633375477981994 
+            text = "[spk]" 
+        intervals [5]:
+            xmin = 4.0633375477981994 
+            xmax = 5.0143817071666463 
+            text = "0" 
+        intervals [6]:
+            xmin = 5.0143817071666463 
+            xmax = 5.6399999999999997 
+            text = "[sta]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 5.6399999999999997 
+        intervals: size = 6
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.10210774639200688 
+            text = "0"
+        intervals [2]:
+            xmin = 0.10210774639200688 
+            xmax = 0.82629733563587027 
+            text = "[spk]"
+        intervals [3]:
+            xmin = 0.82629733563587027 
+            xmax = 3.6619794621931665 
+            text = "(s) Ngok_>u ndisEb_<ensa imfOnOmfOnO EnOm|\|\~Eb_<a (/s)"
+        intervals [4]:
+            xmin = 3.6619794621931665 
+            xmax = 4.0633375477981994 
+            text = "[spk]"
+        intervals [5]:
+            xmin = 4.0633375477981994 
+            xmax = 5.0143817071666463 
+            text = "0"
+        intervals [6]:
+            xmin = 5.0143817071666463 
+            xmax = 5.6399999999999997 
+            text = "[sta]"

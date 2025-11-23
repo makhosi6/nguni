@@ -1,0 +1,68 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 53.052 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 53.052 
+        intervals: size = 6 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.29486289124264825 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.29486289124264825 
+            xmax = 1.1173233771014737 
+            text = "[sta]" 
+        intervals [3]:
+            xmin = 1.1173233771014737 
+            xmax = 3.3157257543397951 
+            text = "(u) [int] inambari yemfonomfono [/int] (/u)" 
+        intervals [4]:
+            xmin = 3.3157257543397951 
+            xmax = 3.8497768473271909 
+            text = "[int]" 
+        intervals [5]:
+            xmin = 3.8497768473271909 
+            xmax = 10.434199306846939 
+            text = "(u) [int] ($)zero 0 six zero 0 six six zero 0 zero 0 four one nine(/$) [/int] (/u)" 
+        intervals [6]:
+            xmin = 10.434199306846939 
+            xmax = 53.052 
+            text = "[int]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 53.052 
+        intervals: size = 6 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.29486289124264825 
+            text = "0"
+        intervals [2]:
+            xmin = 0.29486289124264825 
+            xmax = 1.1173233771014737 
+            text = "[sta]"
+        intervals [3]:
+            xmin = 1.1173233771014737 
+            xmax = 3.3157257543397951 
+            text = "(u) [int] inambari jEfOnOmfOnO [/int] (/u)"
+        intervals [4]:
+            xmin = 3.3157257543397951 
+            xmax = 3.8497768473271909 
+            text = "[int]"
+        intervals [5]:
+            xmin = 3.8497768473271909 
+            xmax = 10.434199306846939 
+            text = "(u) [int] ($)zI@rO 0 siks zI@rO 0 siks siks zI@rO 0 zI@rO 0 fO wan na-\in(/$) [/int] (/u)"
+        intervals [6]:
+            xmin = 10.434199306846939 
+            xmax = 53.052 
+            text = "[int]"

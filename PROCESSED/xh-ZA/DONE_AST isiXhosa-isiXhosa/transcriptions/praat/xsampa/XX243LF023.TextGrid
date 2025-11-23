@@ -1,0 +1,68 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 6.7800000000000002 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic"
+        xmin = 0 
+        xmax = 6.7800000000000002 
+        intervals: size = 6
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.39049759780370619 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.39049759780370619 
+            xmax = 1.0356551371699776 
+            text = "[sta]" 
+        intervals [3]:
+            xmin = 1.0356551371699776 
+            xmax = 4.2153306479336399 
+            text = "(s) babaleka 0 ukudlula 0 exandeni (/s)"
+        intervals [4]:
+            xmin = 4.2153306479336399 
+            xmax = 4.7568713000536338 
+            text = "[spk]" 
+        intervals [5]:
+            xmin = 4.7568713000536338 
+            xmax = 5.8809362509588601 
+            text = "0" 
+        intervals [6]:
+            xmin = 5.8809362509588601 
+            xmax = 6.7800000000000002 
+            text = "[spk]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 6.7800000000000002 
+        intervals: size = 6
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.39049759780370619 
+            text = "0"
+        intervals [2]:
+            xmin = 0.39049759780370619 
+            xmax = 1.0356551371699776 
+            text = "[sta]"
+        intervals [3]:
+            xmin = 1.0356551371699776 
+            xmax = 4.2153306479336399 
+            text = "(s) b_<ab_<alEk_>a 0 uk_>uK\ula 0 E|\|\anden (/s)"
+        intervals [4]:
+            xmin = 4.2153306479336399 
+            xmax = 4.7568713000536338 
+            text = "[spk]"
+        intervals [5]:
+            xmin = 4.7568713000536338 
+            xmax = 5.8809362509588601 
+            text = "0"
+        intervals [6]:
+            xmin = 5.8809362509588601 
+            xmax = 6.7800000000000002 
+            text = "[spk]"

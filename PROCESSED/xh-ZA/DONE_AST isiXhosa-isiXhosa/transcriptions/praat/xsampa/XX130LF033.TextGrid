@@ -1,0 +1,60 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 11.916 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 11.916 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.21427274412050246 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.21427274412050246 
+            xmax = 1.2163836083899384 
+            text = "(u) [sta] ibinzana [/sta] (/u)" 
+        intervals [3]:
+            xmin = 1.2163836083899384 
+            xmax = 2.5140724379513677 
+            text = "[int]" 
+        intervals [4]:
+            xmin = 2.5140724379513677 
+            xmax = 5.136639430859594 
+            text = "(s) [sta] ndingathetha na no ($)operator(/$) [/sta] (/s)" 
+        intervals [5]:
+            xmin = 5.136639430859594 
+            xmax = 11.916 
+            text = "[int]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 11.916 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.21427274412050246 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.21427274412050246 
+            xmax = 1.2163836083899384 
+            text = "(u) [sta] ib_<ind-\zana [/sta] (/u)" 
+        intervals [3]:
+            xmin = 1.2163836083899384 
+            xmax = 2.5140724379513677 
+            text = "[int]" 
+        intervals [4]:
+            xmin = 2.5140724379513677 
+            xmax = 5.136639430859594 
+            text = "(s) [sta] ndiNgat_hEt_ha na nO ($)OparE-\ita(/$) [/sta] (/s)" 
+        intervals [5]:
+            xmin = 5.136639430859594 
+            xmax = 11.916 
+            text = "[int]" 

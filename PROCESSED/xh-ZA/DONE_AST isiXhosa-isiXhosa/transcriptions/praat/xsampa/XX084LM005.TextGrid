@@ -1,0 +1,52 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 5.3879999999999999 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 5.3879999999999999 
+        intervals: size = 4 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.16133285875998452 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.16133285875998452 
+            xmax = 0.36230994716733422 
+            text = "[sta]" 
+        intervals [3]:
+            xmin = 0.36230994716733422 
+            xmax = 3.3267353653893026 
+            text = "(s) *ndineminyaka ndineminyaka engamashumi amabini anesixhenxe (/s)" 
+        intervals [4]:
+            xmin = 3.3267353653893026 
+            xmax = 5.3879999999999999 
+            text = "0" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 5.3879999999999999 
+        intervals: size = 4 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.16133285875998452 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.16133285875998452 
+            xmax = 0.36230994716733422 
+            text = "[sta]" 
+        intervals [3]:
+            xmin = 0.36230994716733422 
+            xmax = 3.3267353653893026 
+            text = "(s) ndinamaJak_>a ndinemiJak_> ENgamaSum amab_<in anes|\|\_hE|\|\~E (/s)" 
+        intervals [4]:
+            xmin = 3.3267353653893026 
+            xmax = 5.3879999999999999 
+            text = "0" 

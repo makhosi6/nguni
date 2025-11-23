@@ -1,0 +1,60 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 4.9560000000000004 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 4.9560000000000004 
+        intervals: size = 5
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.34674045477084364 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.34674045477084364 
+            xmax = 0.71053373297847611 
+            text = "[spk]" 
+        intervals [3]:
+            xmin = 0.71053373297847611 
+            xmax = 2.983271870794078 
+            text = "(u) [int] kwinyanga ephelileyo [/int] (/u)" 
+        intervals [4]:
+            xmin = 2.983271870794078 
+            xmax = 3.7202849755613796 
+            text = "0" 
+        intervals [5]:
+            xmin = 3.7202849755613796 
+            xmax = 4.9560000000000004 
+            text = "[sta]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 4.9560000000000004 
+        intervals: size = 5
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.34674045477084364 
+            text = "0"
+        intervals [2]:
+            xmin = 0.34674045477084364 
+            xmax = 0.71053373297847611 
+            text = "[spk]"
+        intervals [3]:
+            xmin = 0.71053373297847611 
+            xmax = 2.983271870794078 
+            text = "(u) [int] k_>wiJaNga Ep_helilEjO [/int] (/u)"
+        intervals [4]:
+            xmin = 2.983271870794078 
+            xmax = 3.7202849755613796 
+            text = "0"
+        intervals [5]:
+            xmin = 3.7202849755613796 
+            xmax = 4.9560000000000004 
+            text = "[sta]"

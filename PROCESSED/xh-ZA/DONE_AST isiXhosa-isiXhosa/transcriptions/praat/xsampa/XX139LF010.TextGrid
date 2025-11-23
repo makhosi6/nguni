@@ -1,0 +1,68 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 3.1440000000000001 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 3.1440000000000001 
+        intervals: size = 6 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.1001340196717173 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.1001340196717173 
+            xmax = 0.28039113983550001 
+            text = "[spk]" 
+        intervals [3]:
+            xmin = 0.28039113983550001 
+            xmax = 1.0750226134301271 
+            text = "(u) [sta] e ($)Cape 0 Town(/$) [/sta] (/u)" 
+        intervals [4]:
+            xmin = 1.0750226134301271 
+            xmax = 1.3461617896761466 
+            text = "[sta]" 
+        intervals [5]:
+            xmin = 1.3461617896761466 
+            xmax = 2.7658751805728459 
+            text = "0" 
+        intervals [6]:
+            xmin = 2.7658751805728459 
+            xmax = 3.1440000000000001 
+            text = "[sta]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 3.1440000000000001 
+        intervals: size = 6 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.1001340196717173 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.1001340196717173 
+            xmax = 0.28039113983550001 
+            text = "[spk]" 
+        intervals [3]:
+            xmin = 0.28039113983550001 
+            xmax = 1.0750226134301271 
+            text = "(u) [sta] E ($)kE-\ip 0 ta-\un(/$) [/sta] (/u)" 
+        intervals [4]:
+            xmin = 1.0750226134301271 
+            xmax = 1.3461617896761466 
+            text = "[sta]" 
+        intervals [5]:
+            xmin = 1.3461617896761466 
+            xmax = 2.7658751805728459 
+            text = "0" 
+        intervals [6]:
+            xmin = 2.7658751805728459 
+            xmax = 3.1440000000000001 
+            text = "[sta]" 

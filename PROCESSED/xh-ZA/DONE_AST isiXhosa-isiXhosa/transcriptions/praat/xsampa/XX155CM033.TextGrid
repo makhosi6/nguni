@@ -1,0 +1,60 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 14.064 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 14.064 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.43713979634680228 
+            text = "(u) ~hla (/u)" 
+        intervals [2]:
+            xmin = 0.43713979634680228 
+            xmax = 0.91558424984153419 
+            text = "[int]" 
+        intervals [3]:
+            xmin = 0.91558424984153419 
+            xmax = 8.5908928681837331 
+            text = "(u) [int] ngoLwesibini 0 ngomhla wokuqala 0 kwekaCanzibe 0 ngo ($)two thousand 0 and one(/$) [/int] (/u)" 
+        intervals [4]:
+            xmin = 8.5908928681837331 
+            xmax = 9.7626493239315462 
+            text = "0" 
+        intervals [5]:
+            xmin = 9.7626493239315462 
+            xmax = 14.064 
+            text = "[int]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 14.064 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.43713979634680228 
+            text = "(u) Ka (/u)" 
+        intervals [2]:
+            xmin = 0.43713979634680228 
+            xmax = 0.91558424984153419 
+            text = "[int]" 
+        intervals [3]:
+            xmin = 0.91558424984153419 
+            xmax = 8.5908928681837331 
+            text = "(u) [int] NgOlwesib_<ini 0 NgOmKa wok_>u!\ala 0 k_>wEk_>a|\and-\zib_<E 0 NgO ($)tu: Ta-\uz@n 0 {nd wan(/$) [/int] (/u)" 
+        intervals [4]:
+            xmin = 8.5908928681837331 
+            xmax = 9.7626493239315462 
+            text = "0" 
+        intervals [5]:
+            xmin = 9.7626493239315462 
+            xmax = 14.064 
+            text = "[int]" 

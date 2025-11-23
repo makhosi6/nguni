@@ -1,0 +1,60 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 8.3640000000000008 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 8.3640000000000008 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.96885057568294186 
+            text = "(u) ~mbuku semali (/u)" 
+        intervals [2]:
+            xmin = 0.96885057568294186 
+            xmax = 1.2450866143483037 
+            text = "[spk]" 
+        intervals [3]:
+            xmin = 1.2450866143483037 
+            xmax = 4.0808355423080878 
+            text = "(u) [int] ($)three hundred and fifty six *rand 0 eighty seven cents(/$) [/int] (/u)" 
+        intervals [4]:
+            xmin = 4.0808355423080878 
+            xmax = 5.6198820967949796 
+            text = "0" 
+        intervals [5]:
+            xmin = 5.6198820967949796 
+            xmax = 8.3640000000000008 
+            text = "[int]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 8.3640000000000008 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.96885057568294186 
+            text = "(u) mbuk_>u sEmali (/u)" 
+        intervals [2]:
+            xmin = 0.96885057568294186 
+            xmax = 1.2450866143483037 
+            text = "[spk]" 
+        intervals [3]:
+            xmin = 1.2450866143483037 
+            xmax = 4.0808355423080878 
+            text = "(u) [int] ($)Tri: handr@t En fifti siks ran 0 E-\iti sEvEn sEn(/$) [/int] (/u)" 
+        intervals [4]:
+            xmin = 4.0808355423080878 
+            xmax = 5.6198820967949796 
+            text = "0" 
+        intervals [5]:
+            xmin = 5.6198820967949796 
+            xmax = 8.3640000000000008 
+            text = "[int]" 

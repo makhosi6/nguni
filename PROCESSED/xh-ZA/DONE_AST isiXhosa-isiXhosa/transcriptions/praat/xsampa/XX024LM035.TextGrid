@@ -1,0 +1,60 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 4.9800000000000004 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic"
+        xmin = 0 
+        xmax = 4.9800000000000004 
+        intervals: size = 5
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.31788011414808898 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.31788011414808898 
+            xmax = 1.1348109675264881 
+            text = "[int]" 
+        intervals [3]:
+            xmin = 1.1348109675264881 
+            xmax = 2.9442746334206991 
+            text = "(u) i ($)Kleinmond(/$) (/u)"
+        intervals [4]:
+            xmin = 2.9442746334206991 
+            xmax = 4.6392152824861626 
+            text = "0" 
+        intervals [5]:
+            xmin = 4.6392152824861626 
+            xmax = 4.9800000000000004 
+            text = "[sta]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 4.9800000000000004 
+        intervals: size = 5
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.31788011414808898 
+            text = "0"
+        intervals [2]:
+            xmin = 0.31788011414808898 
+            xmax = 1.1348109675264881 
+            text = "[int]"
+        intervals [3]:
+            xmin = 1.1348109675264881 
+            xmax = 2.9442746334206991 
+            text = "(u) i ($)kle-\InmOnd(/$) (/u)"
+        intervals [4]:
+            xmin = 2.9442746334206991 
+            xmax = 4.6392152824861626 
+            text = "0"
+        intervals [5]:
+            xmin = 4.6392152824861626 
+            xmax = 4.9800000000000004 
+            text = "[sta]"

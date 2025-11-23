@@ -1,0 +1,68 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 5.6879999999999997 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 5.6879999999999997 
+        intervals: size = 6
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.067560798765051971 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.067560798765051971 
+            xmax = 0.21482749268865295 
+            text = "[spk]" 
+        intervals [3]:
+            xmin = 0.21482749268865295 
+            xmax = 0.79036774304536572 
+            text = "(u) Qumbu (/u)" 
+        intervals [4]:
+            xmin = 0.79036774304536572 
+            xmax = 2.0024903915238972 
+            text = "[int]" 
+        intervals [5]:
+            xmin = 2.0024903915238972 
+            xmax = 2.883241380706139 
+            text = "0" 
+        intervals [6]:
+            xmin = 2.883241380706139 
+            xmax = 5.6879999999999997 
+            text = "[int]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 5.6879999999999997 
+        intervals: size = 6
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.067560798765051971 
+            text = "0"
+        intervals [2]:
+            xmin = 0.067560798765051971 
+            xmax = 0.21482749268865295 
+            text = "[spk]"
+        intervals [3]:
+            xmin = 0.21482749268865295 
+            xmax = 0.79036774304536572 
+            text = "(u) !\umbu (/u)"
+        intervals [4]:
+            xmin = 0.79036774304536572 
+            xmax = 2.0024903915238972 
+            text = "[int]"
+        intervals [5]:
+            xmin = 2.0024903915238972 
+            xmax = 2.883241380706139 
+            text = "0"
+        intervals [6]:
+            xmin = 2.883241380706139 
+            xmax = 5.6879999999999997 
+            text = "[int]"

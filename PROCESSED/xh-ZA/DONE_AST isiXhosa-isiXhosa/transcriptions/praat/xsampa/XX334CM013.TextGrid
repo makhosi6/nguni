@@ -1,0 +1,60 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 6.468 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 6.468 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.29893344826598128 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.29893344826598128 
+            xmax = 1.0603915374974606 
+            text = "[spk]" 
+        intervals [3]:
+            xmin = 1.0603915374974606 
+            xmax = 4.4051989124483928 
+            text = "(s) [sta] yiVukuzenzele 0 e ($)police camp(/$) eMthatha [/sta] (/s)" 
+        intervals [4]:
+            xmin = 4.4051989124483928 
+            xmax = 6.2048902248322149 
+            text = "0" 
+        intervals [5]:
+            xmin = 6.2048902248322149 
+            xmax = 6.468 
+            text = "[sta]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 6.468 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.29893344826598128 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.29893344826598128 
+            xmax = 1.0603915374974606 
+            text = "[spk]" 
+        intervals [3]:
+            xmin = 1.0603915374974606 
+            xmax = 4.4051989124483928 
+            text = "(s) [sta] jivuk_>uzEnd-\zElE 0 E ($)pQlis k{mp(/$) Emt_hat_ha [/sta] (/s)" 
+        intervals [4]:
+            xmin = 4.4051989124483928 
+            xmax = 6.2048902248322149 
+            text = "0" 
+        intervals [5]:
+            xmin = 6.2048902248322149 
+            xmax = 6.468 
+            text = "[sta]" 

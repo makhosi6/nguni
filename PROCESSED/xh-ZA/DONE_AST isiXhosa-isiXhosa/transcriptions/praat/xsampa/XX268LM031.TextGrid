@@ -1,0 +1,60 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 6.2519999999999998 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 6.2519999999999998 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.07571986679845466 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.07571986679845466 
+            xmax = 1.9654336096643072 
+            text = "(u) [sta] inambari ($)fourteen ninety [/sta] [int] *f+ [/int](/$) (/u)" 
+        intervals [3]:
+            xmin = 1.9654336096643072 
+            xmax = 2.1706333633909765 
+            text = "[sta]" 
+        intervals [4]:
+            xmin = 2.1706333633909765 
+            xmax = 3.3250958833142703 
+            text = "(u) [sta] ($)fourteen ninety eight(/$) [/sta] (/u)" 
+        intervals [5]:
+            xmin = 3.3250958833142703 
+            xmax = 6.2519999999999998 
+            text = "[int]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 6.2519999999999998 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.07571986679845466 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.07571986679845466 
+            xmax = 1.9654336096643072 
+            text = "(u) [sta] inambar ($)fotin na-\inti [/sta] [int] f [/int](/$) (/u)" 
+        intervals [3]:
+            xmin = 1.9654336096643072 
+            xmax = 2.1706333633909765 
+            text = "[sta]" 
+        intervals [4]:
+            xmin = 2.1706333633909765 
+            xmax = 3.3250958833142703 
+            text = "(u) [sta] ($)fotin na-\inti E-\It_>(/$) [/sta] (/u)" 
+        intervals [5]:
+            xmin = 3.3250958833142703 
+            xmax = 6.2519999999999998 
+            text = "[int]" 

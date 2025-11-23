@@ -1,0 +1,60 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 10.116 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic"
+        xmin = 0 
+        xmax = 10.116 
+        intervals: size = 5
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.78534147575789537 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.78534147575789537 
+            xmax = 1.6264116631573671 
+            text = "(u) [sta] eNyanga [/sta] (/u)" 
+        intervals [3]:
+            xmin = 1.6264116631573671 
+            xmax = 5.8045132629349805 
+            text = "[int]" 
+        intervals [4]:
+            xmin = 5.8045132629349805 
+            xmax = 6.6011355609751154 
+            text = "(u) [int] Nyanga ($)East(/$) [/int] (/u)" 
+        intervals [5]:
+            xmin = 6.6011355609751154 
+            xmax = 10.116 
+            text = "[int]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 10.116 
+        intervals: size = 5
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.78534147575789537 
+            text = "0"
+        intervals [2]:
+            xmin = 0.78534147575789537 
+            xmax = 1.6264116631573671 
+            text = "(u) [sta] EJaNga [/sta] (/u)"
+        intervals [3]:
+            xmin = 1.6264116631573671 
+            xmax = 5.8045132629349805 
+            text = "[int]"
+        intervals [4]:
+            xmin = 5.8045132629349805 
+            xmax = 6.6011355609751154 
+            text = "(u) [int] JaNga ($)ist(/$) [/int] (/u)"
+        intervals [5]:
+            xmin = 6.6011355609751154 
+            xmax = 10.116 
+            text = "[int]"

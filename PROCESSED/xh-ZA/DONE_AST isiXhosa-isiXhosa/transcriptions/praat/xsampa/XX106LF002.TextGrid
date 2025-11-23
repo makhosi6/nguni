@@ -1,0 +1,68 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 4.3440000000000003 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 4.3440000000000003 
+        intervals: size = 6
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.15074694137767031 
+            text = "0"
+        intervals [2]:
+            xmin = 0.15074694137767031 
+            xmax = 0.32390206336838062 
+            text = "[int]"
+        intervals [3]:
+            xmin = 0.32390206336838062 
+            xmax = 2.1455139022235876 
+            text = "(u) Fikiswa Mcwabeni (/u)"
+        intervals [4]:
+            xmin = 2.1455139022235876 
+            xmax = 2.5682588368633565 
+            text = "[int]"
+        intervals [5]:
+            xmin = 2.5682588368633565 
+            xmax = 3.700426942187232 
+            text = "0"
+        intervals [6]:
+            xmin = 3.700426942187232 
+            xmax = 4.3440000000000003 
+            text = "[sta]"
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 4.3440000000000003 
+        intervals: size = 6
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.15074694137767031 
+            text = "0"
+        intervals [2]:
+            xmin = 0.15074694137767031 
+            xmax = 0.32390206336838062 
+            text = "[int]"
+        intervals [3]:
+            xmin = 0.32390206336838062 
+            xmax = 2.1455139022235876 
+            text = "(u) fik_>iswa m|\wab_<eni (/u)"
+        intervals [4]:
+            xmin = 2.1455139022235876 
+            xmax = 2.5682588368633565 
+            text = "[int]"
+        intervals [5]:
+            xmin = 2.5682588368633565 
+            xmax = 3.700426942187232 
+            text = "0"
+        intervals [6]:
+            xmin = 3.700426942187232 
+            xmax = 4.3440000000000003 
+            text = "[sta]"

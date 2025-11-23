@@ -1,0 +1,60 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 21.948 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic"
+        xmin = 0 
+        xmax = 21.948 
+        intervals: size = 5
+        intervals [1]:
+            xmin = 0 
+            xmax = 2.006645412319493 
+            text = "[sta]" 
+        intervals [2]:
+            xmin = 2.006645412319493 
+            xmax = 2.7572876675106328 
+            text = "(u) [sta] ibinzana [/sta] (/u)" 
+        intervals [3]:
+            xmin = 2.7572876675106328 
+            xmax = 3.4232381495256461 
+            text = "[sta]" 
+        intervals [4]:
+            xmin = 3.4232381495256461 
+            xmax = 10.38514932351066 
+            text = "(s) [sta] nceda 0 dwelisa zonke iinkonzo 0 ezifumaneka 0 ehotele [/sta] (/s)" 
+        intervals [5]:
+            xmin = 10.38514932351066 
+            xmax = 21.948 
+            text = "[sta]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 21.948 
+        intervals: size = 5
+        intervals [1]:
+            xmin = 0 
+            xmax = 2.006645412319493 
+            text = "[sta]"
+        intervals [2]:
+            xmin = 2.006645412319493 
+            xmax = 2.7572876675106328 
+            text = "(u) [sta] ib_<ind-\zana [/sta] (/u)"
+        intervals [3]:
+            xmin = 2.7572876675106328 
+            xmax = 3.4232381495256461 
+            text = "[sta]"
+        intervals [4]:
+            xmin = 3.4232381495256461 
+            xmax = 10.38514932351066 
+            text = "(s) [sta] |\~Ed_0a 0 dwelisa zONk_>E i:Nk_>Ond-\zO 0 ezifumanEk_>a 0 Eh\Ot_>ElE [/sta] (/s)"
+        intervals [5]:
+            xmin = 10.38514932351066 
+            xmax = 21.948 
+            text = "[sta]"

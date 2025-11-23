@@ -1,0 +1,68 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 5.8200000000000003 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 5.8200000000000003 
+        intervals: size = 6 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.51305254083484575 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.51305254083484575 
+            xmax = 1.439288112522686 
+            text = "[sta]" 
+        intervals [3]:
+            xmin = 1.439288112522686 
+            xmax = 2.7660579854809435 
+            text = "(s) ndihlala eNyanga (/s)" 
+        intervals [4]:
+            xmin = 2.7660579854809435 
+            xmax = 3.955144192377495 
+            text = "[sta]" 
+        intervals [5]:
+            xmin = 3.955144192377495 
+            xmax = 4.3306450998185113 
+            text = "[spk]" 
+        intervals [6]:
+            xmin = 4.3306450998185113 
+            xmax = 5.8200000000000003 
+            text = "[int]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 5.8200000000000003 
+        intervals: size = 6 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.51305254083484575 
+            text = "0"
+        intervals [2]:
+            xmin = 0.51305254083484575 
+            xmax = 1.439288112522686 
+            text = "[sta]"
+        intervals [3]:
+            xmin = 1.439288112522686 
+            xmax = 2.7660579854809435 
+            text = "(s) Kala EJa:Ng@ (/s)"
+        intervals [4]:
+            xmin = 2.7660579854809435 
+            xmax = 3.955144192377495 
+            text = "[sta]"
+        intervals [5]:
+            xmin = 3.955144192377495 
+            xmax = 4.3306450998185113 
+            text = "[spk]"
+        intervals [6]:
+            xmin = 4.3306450998185113 
+            xmax = 5.8200000000000003 
+            text = "[int]"

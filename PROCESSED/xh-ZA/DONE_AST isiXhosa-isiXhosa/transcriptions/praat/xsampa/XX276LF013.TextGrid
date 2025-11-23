@@ -1,0 +1,68 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 4.6200000000000001 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 4.6200000000000001 
+        intervals: size = 6 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.38626542072604547 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.38626542072604547 
+            xmax = 0.74820960544024939 
+            text = "[spk]" 
+        intervals [3]:
+            xmin = 0.74820960544024939 
+            xmax = 2.6960207551179427 
+            text = "(u) ($)Main Road Umtata(/$) (/u)" 
+        intervals [4]:
+            xmin = 2.6960207551179427 
+            xmax = 3.5672235602465112 
+            text = "[int]" 
+        intervals [5]:
+            xmin = 3.5672235602465112 
+            xmax = 4.1976060777785644 
+            text = "[sta]" 
+        intervals [6]:
+            xmin = 4.1976060777785644 
+            xmax = 4.6200000000000001 
+            text = "[int]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 4.6200000000000001 
+        intervals: size = 6 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.38626542072604547 
+            text = "0"
+        intervals [2]:
+            xmin = 0.38626542072604547 
+            xmax = 0.74820960544024939 
+            text = "[spk]"
+        intervals [3]:
+            xmin = 0.74820960544024939 
+            xmax = 2.6960207551179427 
+            text = "(u) ($)mE-\In r@-\Ut_> Vmtata(/$) (/u)"
+        intervals [4]:
+            xmin = 2.6960207551179427 
+            xmax = 3.5672235602465112 
+            text = "[int]"
+        intervals [5]:
+            xmin = 3.5672235602465112 
+            xmax = 4.1976060777785644 
+            text = "[sta]"
+        intervals [6]:
+            xmin = 4.1976060777785644 
+            xmax = 4.6200000000000001 
+            text = "[int]"

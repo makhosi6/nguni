@@ -1,0 +1,52 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 11.976000000000001 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 11.976000000000001 
+        intervals: size = 4
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.0110934571435508 
+            text = "(u) [sta] ~nxe entloko [/sta] (/u)" 
+        intervals [2]:
+            xmin = 1.0110934571435508 
+            xmax = 1.6109220652071139 
+            text = "[spk]" 
+        intervals [3]:
+            xmin = 1.6109220652071139 
+            xmax = 10.22009000293466 
+            text = "(u) [int] I. 0 K. 0 H. 0 A. 0 Y. 0 E. 0 L. 0 I. 0 T. 0 S. 0 H. 0 A. [/int] (/u)" 
+        intervals [4]:
+            xmin = 10.22009000293466 
+            xmax = 11.976000000000001 
+            text = "[int]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 11.976000000000001 
+        intervals: size = 4
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.0110934571435508 
+            text = "(u) [sta] |\|\~E Ent-\K_>Ok_>O [/sta] (/u)"
+        intervals [2]:
+            xmin = 1.0110934571435508 
+            xmax = 1.6109220652071139 
+            text = "[spk]"
+        intervals [3]:
+            xmin = 1.6109220652071139 
+            xmax = 10.22009000293466 
+            text = "(u) [int] a-\i 0 kE-\I 0 E-\IS 0 E-\I 0 wa-\i 0 i 0 El 0 a-\i 0 ti 0 Es 0 E-\IS 0 E-\I [/int] (/u)"
+        intervals [4]:
+            xmin = 10.22009000293466 
+            xmax = 11.976000000000001 
+            text = "[int]"

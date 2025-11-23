@@ -1,0 +1,76 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 8.6639999999999997 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 8.6639999999999997 
+        intervals: size = 7 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.12893694971133665 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.12893694971133665 
+            xmax = 0.38566049971390426 
+            text = "[spk]" 
+        intervals [3]:
+            xmin = 0.38566049971390426 
+            xmax = 1.3148118971766314 
+            text = "(u) ibinzana (/u)" 
+        intervals [4]:
+            xmin = 1.3148118971766314 
+            xmax = 1.4083294458091995 
+            text = "0" 
+        intervals [5]:
+            xmin = 1.4083294458091995 
+            xmax = 6.5937470345195246 
+            text = "(s) ndifuna ukuqinise0kisa 0 ibhukhingi yam yale nyanga izayo (/s)" 
+        intervals [6]:
+            xmin = 6.5937470345195246 
+            xmax = 7.3432016731768828 
+            text = "0" 
+        intervals [7]:
+            xmin = 7.3432016731768828 
+            xmax = 8.6639999999999997 
+            text = "[int]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 8.6639999999999997 
+        intervals: size = 7 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.12893694971133665 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.12893694971133665 
+            xmax = 0.38566049971390426 
+            text = "[spk]" 
+        intervals [3]:
+            xmin = 0.38566049971390426 
+            xmax = 1.3148118971766314 
+            text = "(u) ib_<ind-\zana (/u)" 
+        intervals [4]:
+            xmin = 1.3148118971766314 
+            xmax = 1.4083294458091995 
+            text = "0" 
+        intervals [5]:
+            xmin = 1.4083294458091995 
+            xmax = 6.5937470345195246 
+            text = "(s) ndifuna uk_>u!\inise0k_>isa 0 ib_0uk_hiN jam jalE JaNga izajO (/s)" 
+        intervals [6]:
+            xmin = 6.5937470345195246 
+            xmax = 7.3432016731768828 
+            text = "0" 
+        intervals [7]:
+            xmin = 7.3432016731768828 
+            xmax = 8.6639999999999997 
+            text = "[int]" 

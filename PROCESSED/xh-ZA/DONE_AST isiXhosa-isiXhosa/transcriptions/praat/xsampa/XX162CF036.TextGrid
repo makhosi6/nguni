@@ -1,0 +1,60 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 6.2759999999999998 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic"
+        xmin = 0 
+        xmax = 6.2759999999999998 
+        intervals: size = 5
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.77332219127516777 
+            text = "(u) ~inzana (/u)" 
+        intervals [2]:
+            xmin = 0.77332219127516777 
+            xmax = 1.4640191577181207 
+            text = "[int]" 
+        intervals [3]:
+            xmin = 1.4640191577181207 
+            xmax = 4.2555860637583889 
+            text = "(s) ndifuna [int] uku0qala [/int] umnxeba omtsha (/s)" 
+        intervals [4]:
+            xmin = 4.2555860637583889 
+            xmax = 5.1381432986577185 
+            text = "0" 
+        intervals [5]:
+            xmin = 5.1381432986577185 
+            xmax = 6.2759999999999998 
+            text = "[int]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 6.2759999999999998 
+        intervals: size = 5
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.77332219127516777 
+            text = "(u) ind-\zana (/u)"
+        intervals [2]:
+            xmin = 0.77332219127516777 
+            xmax = 1.4640191577181207 
+            text = "[int]"
+        intervals [3]:
+            xmin = 1.4640191577181207 
+            xmax = 4.2555860637583889 
+            text = "(s) ndifuna [int] uk_>u0!\ala [/int] um=|\|\~Eb_<a Omt-\S_ha (/s)"
+        intervals [4]:
+            xmin = 4.2555860637583889 
+            xmax = 5.1381432986577185 
+            text = "0"
+        intervals [5]:
+            xmin = 5.1381432986577185 
+            xmax = 6.2759999999999998 
+            text = "[int]"

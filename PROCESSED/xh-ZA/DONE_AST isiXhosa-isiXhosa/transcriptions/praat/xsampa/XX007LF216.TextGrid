@@ -1,0 +1,76 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 4.5119999999999996 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic"
+        xmin = 0 
+        xmax = 4.5119999999999996 
+        intervals: size = 7
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.0696703265566336 
+            text = "0" 
+        intervals [2]:
+            xmin = 1.0696703265566336 
+            xmax = 1.9758463453384467 
+            text = "[int]" 
+        intervals [3]:
+            xmin = 1.9758463453384467 
+            xmax = 2.0726895839868846 
+            text = "[ext]" 
+        intervals [4]:
+            xmin = 2.0726895839868846 
+            xmax = 2.5292362804723783 
+            text = "(u) ewe (/u)"
+        intervals [5]:
+            xmin = 2.5292362804723783 
+            xmax = 3.7051898926319833 
+            text = "[sta]" 
+        intervals [6]:
+            xmin = 3.7051898926319833 
+            xmax = 4.0579759762798648 
+            text = "[ext]" 
+        intervals [7]:
+            xmin = 4.0579759762798648 
+            xmax = 4.5119999999999996 
+            text = "[sta]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 4.5119999999999996 
+        intervals: size = 7
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.0696703265566336 
+            text = "0"
+        intervals [2]:
+            xmin = 1.0696703265566336 
+            xmax = 1.9758463453384467 
+            text = "[int]"
+        intervals [3]:
+            xmin = 1.9758463453384467 
+            xmax = 2.0726895839868846 
+            text = "[ext]"
+        intervals [4]:
+            xmin = 2.0726895839868846 
+            xmax = 2.5292362804723783 
+            text = "(u) EwE (/u)"
+        intervals [5]:
+            xmin = 2.5292362804723783 
+            xmax = 3.7051898926319833 
+            text = "[sta]"
+        intervals [6]:
+            xmin = 3.7051898926319833 
+            xmax = 4.0579759762798648 
+            text = "[ext]"
+        intervals [7]:
+            xmin = 4.0579759762798648 
+            xmax = 4.5119999999999996 
+            text = "[sta]"

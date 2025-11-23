@@ -1,0 +1,84 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 16.98 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 16.98 
+        intervals: size = 8 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.18647483247064456 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.18647483247064456 
+            xmax = 1.979091669610793 
+            text = "(u) igama ledolophu (/u)" 
+        intervals [3]:
+            xmin = 1.979091669610793 
+            xmax = 2.7605181487943962 
+            text = "0" 
+        intervals [4]:
+            xmin = 2.7605181487943962 
+            xmax = 2.9216985649053684 
+            text = "[ext]" 
+        intervals [5]:
+            xmin = 2.9216985649053684 
+            xmax = 3.5492733765714952 
+            text = "0" 
+        intervals [6]:
+            xmin = 3.5492733765714952 
+            xmax = 6.3679198153061289 
+            text = "(u) [int] e ($)Bellville [spk] 0 ville(/$) [/int] (/u)" 
+        intervals [7]:
+            xmin = 6.3679198153061289 
+            xmax = 7.3970694956143399 
+            text = "0" 
+        intervals [8]:
+            xmin = 7.3970694956143399 
+            xmax = 16.98 
+            text = "[int]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 16.98 
+        intervals: size = 8 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.18647483247064456 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.18647483247064456 
+            xmax = 1.979091669610793 
+            text = "(u) igama lEdOlop_hi (/u)" 
+        intervals [3]:
+            xmin = 1.979091669610793 
+            xmax = 2.7605181487943962 
+            text = "0" 
+        intervals [4]:
+            xmin = 2.7605181487943962 
+            xmax = 2.9216985649053684 
+            text = "[ext]" 
+        intervals [5]:
+            xmin = 2.9216985649053684 
+            xmax = 3.5492733765714952 
+            text = "0" 
+        intervals [6]:
+            xmin = 3.5492733765714952 
+            xmax = 6.3679198153061289 
+            text = "(u) [int] E ($)bElv@l [spk] 0 vil(/$) [/int] (/u)" 
+        intervals [7]:
+            xmin = 6.3679198153061289 
+            xmax = 7.3970694956143399 
+            text = "0" 
+        intervals [8]:
+            xmin = 7.3970694956143399 
+            xmax = 16.98 
+            text = "[int]" 

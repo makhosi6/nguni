@@ -1,0 +1,52 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 12.336 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 12.336 
+        intervals: size = 4 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.049840091480383299 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.049840091480383299 
+            xmax = 0.54156237160869869 
+            text = "[spk]" 
+        intervals [3]:
+            xmin = 0.54156237160869869 
+            xmax = 9.6005997632034319 
+            text = "(s) [int] ndihlala 0 e [/int] ($)[int] Liberty 0 Residence 0 T. 0 two 0 private bag 0 X. 0 ninety;one [/int] 0 Bellville 0 seventy five thirty five(/$) (/s)" 
+        intervals [4]:
+            xmin = 9.6005997632034319 
+            xmax = 12.336 
+            text = "[int]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 12.336 
+        intervals: size = 4 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.049840091480383299 
+            text = "0"
+        intervals [2]:
+            xmin = 0.049840091480383299 
+            xmax = 0.54156237160869869 
+            text = "[spk]"
+        intervals [3]:
+            xmin = 0.54156237160869869 
+            xmax = 9.6005997632034319 
+            text = "(s) [int] ndiKala 0 E [/int] ($)[int] libati 0 rEz@dEns 0 ti 0 tu 0 pra-\iv@t b{k 0 Eks 0 na-\intuwan [/int] 0 bElv@l 0 sEvEnt fa-\if Teti fa-\if(/$) (/s)"
+        intervals [4]:
+            xmin = 9.6005997632034319 
+            xmax = 12.336 
+            text = "[int]"

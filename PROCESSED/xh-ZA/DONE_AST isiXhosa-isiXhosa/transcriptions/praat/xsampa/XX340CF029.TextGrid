@@ -1,0 +1,60 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 7.8360000000000003 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 7.8360000000000003 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.11985854685657471 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.11985854685657471 
+            xmax = 0.88252178951837823 
+            text = "(u) [sta] *ibinzana [/sta] (/u)" 
+        intervals [3]:
+            xmin = 0.88252178951837823 
+            xmax = 1.2927364090663223 
+            text = "[sta]" 
+        intervals [4]:
+            xmin = 1.2927364090663223 
+            xmax = 5.2352903398678317 
+            text = "(s) [sta] ndicela umntu 0 nokuba nguOpharetha 0 xa ekhona [/sta] (/s)" 
+        intervals [5]:
+            xmin = 5.2352903398678317 
+            xmax = 7.8360000000000003 
+            text = "[int]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 7.8360000000000003 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.11985854685657471 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.11985854685657471 
+            xmax = 0.88252178951837823 
+            text = "(u) [sta] b_<ind-\zana [/sta] (/u)" 
+        intervals [3]:
+            xmin = 0.88252178951837823 
+            xmax = 1.2927364090663223 
+            text = "[sta]" 
+        intervals [4]:
+            xmin = 1.2927364090663223 
+            xmax = 5.2352903398678317 
+            text = "(s) [sta] ndi|\Ela umnt_>u 0 nok_>ub_<a NguOp_harEt_ha 0 |\|\a Ek_hOna [/sta] (/s)" 
+        intervals [5]:
+            xmin = 5.2352903398678317 
+            xmax = 7.8360000000000003 
+            text = "[int]" 

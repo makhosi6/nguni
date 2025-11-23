@@ -1,0 +1,68 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 6.4560000000000004 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 6.4560000000000004 
+        intervals: size = 6 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.32601347153446314 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.32601347153446314 
+            xmax = 1.0240858323337332 
+            text = "[int]" 
+        intervals [3]:
+            xmin = 1.0240858323337332 
+            xmax = 4.0581651257620415 
+            text = "(u) umhla 0 ($)twenty four(/$) kuSeptemba ngo ($)nineteen sixty six(/$) (/u)" 
+        intervals [4]:
+            xmin = 4.0581651257620415 
+            xmax = 4.5682176937671279 
+            text = "[spk]" 
+        intervals [5]:
+            xmin = 4.5682176937671279 
+            xmax = 5.2260534848469637 
+            text = "0" 
+        intervals [6]:
+            xmin = 5.2260534848469637 
+            xmax = 6.4560000000000004 
+            text = "[sta]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 6.4560000000000004 
+        intervals: size = 6 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.32601347153446314 
+            text = "0"
+        intervals [2]:
+            xmin = 0.32601347153446314 
+            xmax = 1.0240858323337332 
+            text = "[int]"
+        intervals [3]:
+            xmin = 1.0240858323337332 
+            xmax = 4.0581651257620415 
+            text = "(u) mKa 0 ($)twEnti fO(/$) k_>usEp_>t_>Emb O ($)na-\intin siksti siks(/$) (/u)"
+        intervals [4]:
+            xmin = 4.0581651257620415 
+            xmax = 4.5682176937671279 
+            text = "[spk]"
+        intervals [5]:
+            xmin = 4.5682176937671279 
+            xmax = 5.2260534848469637 
+            text = "0"
+        intervals [6]:
+            xmin = 5.2260534848469637 
+            xmax = 6.4560000000000004 
+            text = "[sta]"

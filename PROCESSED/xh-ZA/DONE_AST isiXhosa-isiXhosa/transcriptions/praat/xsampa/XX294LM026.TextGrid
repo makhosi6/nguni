@@ -1,0 +1,60 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 56.268000000000001 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 56.268000000000001 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.156072857169236 
+            text = "[int]" 
+        intervals [2]:
+            xmin = 1.156072857169236 
+            xmax = 2.3396434722812129 
+            text = "(u) ($)three oh eight seven(/$) (/u)" 
+        intervals [3]:
+            xmin = 2.3396434722812129 
+            xmax = 39.416968949413032 
+            text = "[int]" 
+        intervals [4]:
+            xmin = 39.416968949413032 
+            xmax = 40.647105346159798 
+            text = "(u) ($)three oh eight seven(/$) (/u)" 
+        intervals [5]:
+            xmin = 40.647105346159798 
+            xmax = 56.268000000000001 
+            text = "[int]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 56.268000000000001 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.156072857169236 
+            text = "[int]" 
+        intervals [2]:
+            xmin = 1.156072857169236 
+            xmax = 2.3396434722812129 
+            text = "(u) ($)Tri: O-\u E-\it sEvEn(/$) (/u)" 
+        intervals [3]:
+            xmin = 2.3396434722812129 
+            xmax = 39.416968949413032 
+            text = "[int]" 
+        intervals [4]:
+            xmin = 39.416968949413032 
+            xmax = 40.647105346159798 
+            text = "(u) ($)Tri: O-\u E-\it sEvEn(/$) (/u)" 
+        intervals [5]:
+            xmin = 40.647105346159798 
+            xmax = 56.268000000000001 
+            text = "[int]" 

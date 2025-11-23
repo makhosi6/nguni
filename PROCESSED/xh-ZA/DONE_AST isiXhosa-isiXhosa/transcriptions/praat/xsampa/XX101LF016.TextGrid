@@ -1,0 +1,68 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 5.1600000000000001 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 5.1600000000000001 
+        intervals: size = 6 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.73278634988126179 
+            text = "(u) ($)~i o'clock(/$) (/u)" 
+        intervals [2]:
+            xmin = 0.73278634988126179 
+            xmax = 1.6033932800114272 
+            text = "[int]" 
+        intervals [3]:
+            xmin = 1.6033932800114272 
+            xmax = 2.2440352793450735 
+            text = "(u) hayi (/u)" 
+        intervals [4]:
+            xmin = 2.2440352793450735 
+            xmax = 2.6088858598914646 
+            text = "0" 
+        intervals [5]:
+            xmin = 2.6088858598914646 
+            xmax = 3.1535349477327235 
+            text = "(u) ewe (/u)" 
+        intervals [6]:
+            xmin = 3.1535349477327235 
+            xmax = 5.1600000000000001 
+            text = "0" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 5.1600000000000001 
+        intervals: size = 6 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.73278634988126179 
+            text = "(u) ($)i @-\uklQk(/$) (/u)" 
+        intervals [2]:
+            xmin = 0.73278634988126179 
+            xmax = 1.6033932800114272 
+            text = "[int]" 
+        intervals [3]:
+            xmin = 1.6033932800114272 
+            xmax = 2.2440352793450735 
+            text = "(u) h\aji (/u)" 
+        intervals [4]:
+            xmin = 2.2440352793450735 
+            xmax = 2.6088858598914646 
+            text = "0" 
+        intervals [5]:
+            xmin = 2.6088858598914646 
+            xmax = 3.1535349477327235 
+            text = "(u) EwE (/u)" 
+        intervals [6]:
+            xmin = 3.1535349477327235 
+            xmax = 5.1600000000000001 
+            text = "0" 

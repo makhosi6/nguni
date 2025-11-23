@@ -1,0 +1,52 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 4.3799999999999999 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 4.3799999999999999 
+        intervals: size = 4 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.086490817230165953 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.086490817230165953 
+            xmax = 0.72470834561772224 
+            text = "[int]" 
+        intervals [3]:
+            xmin = 0.72470834561772224 
+            xmax = 2.4549992006174963 
+            text = "(s) baya *eholideyini (/s)" 
+        intervals [4]:
+            xmin = 2.4549992006174963 
+            xmax = 4.3799999999999999 
+            text = "0" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 4.3799999999999999 
+        intervals: size = 4 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.086490817230165953 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.086490817230165953 
+            xmax = 0.72470834561772224 
+            text = "[int]" 
+        intervals [3]:
+            xmin = 0.72470834561772224 
+            xmax = 2.4549992006174963 
+            text = "(s) b_<aja Eh\oldEjin (/s)" 
+        intervals [4]:
+            xmin = 2.4549992006174963 
+            xmax = 4.3799999999999999 
+            text = "0" 

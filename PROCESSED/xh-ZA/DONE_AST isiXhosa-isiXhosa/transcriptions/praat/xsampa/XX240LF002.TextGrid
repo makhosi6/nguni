@@ -1,0 +1,52 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 3.9119999999999999 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 3.9119999999999999 
+        intervals: size = 4
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.26676755033557048 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.26676755033557048 
+            xmax = 0.51359870065473234 
+            text = "[sta]" 
+        intervals [3]:
+            xmin = 0.51359870065473234 
+            xmax = 2.0309688825023526 
+            text = "(u) Bongani Mbiza (/u)" 
+        intervals [4]:
+            xmin = 2.0309688825023526 
+            xmax = 3.9119999999999999 
+            text = "[sta]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 3.9119999999999999 
+        intervals: size = 4
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.26676755033557048 
+            text = "0"
+        intervals [2]:
+            xmin = 0.26676755033557048 
+            xmax = 0.51359870065473234 
+            text = "[sta]"
+        intervals [3]:
+            xmin = 0.51359870065473234 
+            xmax = 2.0309688825023526 
+            text = "(u) b_<ONgani mbiza (/u)"
+        intervals [4]:
+            xmin = 2.0309688825023526 
+            xmax = 3.9119999999999999 
+            text = "[sta]"

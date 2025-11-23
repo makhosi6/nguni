@@ -1,0 +1,92 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 8.8680000000000003 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 8.8680000000000003 
+        intervals: size = 9
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.11740212914520486 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.11740212914520486 
+            xmax = 0.32133588682338415 
+            text = "[sta]" 
+        intervals [3]:
+            xmin = 0.32133588682338415 
+            xmax = 0.45090914162894769 
+            text = "[ext]" 
+        intervals [4]:
+            xmin = 0.45090914162894769 
+            xmax = 1.7433431577181211 
+            text = "(s) ndithetha [int] ndiseMthatha [/int] (/s)"
+        intervals [5]:
+            xmin = 1.7433431577181211 
+            xmax = 3.5122845976126298 
+            text = "[int]" 
+        intervals [6]:
+            xmin = 3.5122845976126298 
+            xmax = 4.267789025798999 
+            text = "0" 
+        intervals [7]:
+            xmin = 4.267789025798999 
+            xmax = 6.8969444358875629 
+            text = "[int]" 
+        intervals [8]:
+            xmin = 6.8969444358875629 
+            xmax = 8.4514950262601332 
+            text = "[sta]" 
+        intervals [9]:
+            xmin = 8.4514950262601332 
+            xmax = 8.8680000000000003 
+            text = "[int]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 8.8680000000000003 
+        intervals: size = 9
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.11740212914520486 
+            text = "0"
+        intervals [2]:
+            xmin = 0.11740212914520486 
+            xmax = 0.32133588682338415 
+            text = "[sta]"
+        intervals [3]:
+            xmin = 0.32133588682338415 
+            xmax = 0.45090914162894769 
+            text = "[ext]"
+        intervals [4]:
+            xmin = 0.45090914162894769 
+            xmax = 1.7433431577181211 
+            text = "(s) t_hEt_ha [int] ndisEm=t_hat_h [/int] (/s)"
+        intervals [5]:
+            xmin = 1.7433431577181211 
+            xmax = 3.5122845976126298 
+            text = "[int]"
+        intervals [6]:
+            xmin = 3.5122845976126298 
+            xmax = 4.267789025798999 
+            text = "0"
+        intervals [7]:
+            xmin = 4.267789025798999 
+            xmax = 6.8969444358875629 
+            text = "[int]"
+        intervals [8]:
+            xmin = 6.8969444358875629 
+            xmax = 8.4514950262601332 
+            text = "[sta]"
+        intervals [9]:
+            xmin = 8.4514950262601332 
+            xmax = 8.8680000000000003 
+            text = "[int]"

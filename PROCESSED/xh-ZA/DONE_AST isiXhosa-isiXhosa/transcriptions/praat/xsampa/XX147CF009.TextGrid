@@ -1,0 +1,68 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 6.024 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 6.024 
+        intervals: size = 6 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.071486642201834871 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.071486642201834871 
+            xmax = 0.5561146788990825 
+            text = "[int]" 
+        intervals [3]:
+            xmin = 0.5561146788990825 
+            xmax = 1.709277601779801 
+            text = "(u) [int] ibanga leshumi [/int] (/u)" 
+        intervals [4]:
+            xmin = 1.709277601779801 
+            xmax = 4.2123656383600414 
+            text = "[int]" 
+        intervals [5]:
+            xmin = 4.2123656383600414 
+            xmax = 5.8314634761480031 
+            text = "[sta]" 
+        intervals [6]:
+            xmin = 5.8314634761480031 
+            xmax = 6.024 
+            text = "[int]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 6.024 
+        intervals: size = 6 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.071486642201834871 
+            text = "0"
+        intervals [2]:
+            xmin = 0.071486642201834871 
+            xmax = 0.5561146788990825 
+            text = "[int]"
+        intervals [3]:
+            xmin = 0.5561146788990825 
+            xmax = 1.709277601779801 
+            text = "(u) [int] ib_<aNga leSum [/int] (/u)"
+        intervals [4]:
+            xmin = 1.709277601779801 
+            xmax = 4.2123656383600414 
+            text = "[int]"
+        intervals [5]:
+            xmin = 4.2123656383600414 
+            xmax = 5.8314634761480031 
+            text = "[sta]"
+        intervals [6]:
+            xmin = 5.8314634761480031 
+            xmax = 6.024 
+            text = "[int]"

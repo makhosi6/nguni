@@ -1,0 +1,60 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 10.944000000000001 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 10.944000000000001 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.1662000049847413 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.1662000049847413 
+            xmax = 1.3698125545139099 
+            text = "(u) [sta] isambuku semali [/sta] (/u)" 
+        intervals [3]:
+            xmin = 1.3698125545139099 
+            xmax = 2.5609628917515863 
+            text = "[int]" 
+        intervals [4]:
+            xmin = 2.5609628917515863 
+            xmax = 6.3127373720102424 
+            text = "(u) [int] ($)four thousand six hundred and fifty two 0 seventy one cents(/$) [/int] (/u)" 
+        intervals [5]:
+            xmin = 6.3127373720102424 
+            xmax = 10.944000000000001 
+            text = "[int]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 10.944000000000001 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.1662000049847413 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.1662000049847413 
+            xmax = 1.3698125545139099 
+            text = "(u) [sta] isambuk_>u sEmali [/sta] (/u)" 
+        intervals [3]:
+            xmin = 1.3698125545139099 
+            xmax = 2.5609628917515863 
+            text = "[int]" 
+        intervals [4]:
+            xmin = 2.5609628917515863 
+            xmax = 6.3127373720102424 
+            text = "(u) [int] ($)fO: Ta-\uz@n siks handrEt En fifti tu: 0 sEvEnt wan sEnts(/$) [/int] (/u)" 
+        intervals [5]:
+            xmin = 6.3127373720102424 
+            xmax = 10.944000000000001 
+            text = "[int]" 

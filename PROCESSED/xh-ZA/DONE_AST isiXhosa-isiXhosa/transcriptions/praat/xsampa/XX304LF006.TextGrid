@@ -1,0 +1,68 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 9.7799999999999994 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 9.7799999999999994 
+        intervals: size = 6 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.095386221531782708 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.095386221531782708 
+            xmax = 1.6328517091413919 
+            text = "[int]" 
+        intervals [3]:
+            xmin = 1.6328517091413919 
+            xmax = 3.3726805872483223 
+            text = "(s) ngumhla wesithandathu (/s)" 
+        intervals [4]:
+            xmin = 3.3726805872483223 
+            xmax = 6.2747084816558969 
+            text = "[int]" 
+        intervals [5]:
+            xmin = 6.2747084816558969 
+            xmax = 8.8992025007619784 
+            text = "0" 
+        intervals [6]:
+            xmin = 8.8992025007619784 
+            xmax = 9.7799999999999994 
+            text = "[int]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 9.7799999999999994 
+        intervals: size = 6 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.095386221531782708 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.095386221531782708 
+            xmax = 1.6328517091413919 
+            text = "[int]" 
+        intervals [3]:
+            xmin = 1.6328517091413919 
+            xmax = 3.3726805872483223 
+            text = "(s) NgumKa wesit_handat_hu (/s)" 
+        intervals [4]:
+            xmin = 3.3726805872483223 
+            xmax = 6.2747084816558969 
+            text = "[int]" 
+        intervals [5]:
+            xmin = 6.2747084816558969 
+            xmax = 8.8992025007619784 
+            text = "0" 
+        intervals [6]:
+            xmin = 8.8992025007619784 
+            xmax = 9.7799999999999994 
+            text = "[int]" 

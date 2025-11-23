@@ -1,0 +1,100 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 5.8200000000000003 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 5.8200000000000003 
+        intervals: size = 10
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.3655808936825885 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.3655808936825885 
+            xmax = 0.97012523152294194 
+            text = "[int]" 
+        intervals [3]:
+            xmin = 0.97012523152294194 
+            xmax = 1.8672639775855475 
+            text = "(u) [int] ($)seventy two(/$) [/int] (/u)" 
+        intervals [4]:
+            xmin = 1.8672639775855475 
+            xmax = 2.2650395134228187 
+            text = "[int]" 
+        intervals [5]:
+            xmin = 2.2650395134228187 
+            xmax = 2.4963356879194634 
+            text = "0" 
+        intervals [6]:
+            xmin = 2.4963356879194634 
+            xmax = 2.6119837751677855 
+            text = "[ext]" 
+        intervals [7]:
+            xmin = 2.6119837751677855 
+            xmax = 2.8698479543407647 
+            text = "[spk]" 
+        intervals [8]:
+            xmin = 2.8698479543407647 
+            xmax = 3.7862566610738257 
+            text = "[int]" 
+        intervals [9]:
+            xmin = 3.7862566610738257 
+            xmax = 5.3771201388396976 
+            text = "0" 
+        intervals [10]:
+            xmin = 5.3771201388396976 
+            xmax = 5.8200000000000003 
+            text = "[int]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 5.8200000000000003 
+        intervals: size = 10
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.3655808936825885 
+            text = "0"
+        intervals [2]:
+            xmin = 0.3655808936825885 
+            xmax = 0.97012523152294194 
+            text = "[int]"
+        intervals [3]:
+            xmin = 0.97012523152294194 
+            xmax = 1.8672639775855475 
+            text = "(u) [int] ($)sEv@nti tu(/$) [/int] (/u)"
+        intervals [4]:
+            xmin = 1.8672639775855475 
+            xmax = 2.2650395134228187 
+            text = "[int]"
+        intervals [5]:
+            xmin = 2.2650395134228187 
+            xmax = 2.4963356879194634 
+            text = "0"
+        intervals [6]:
+            xmin = 2.4963356879194634 
+            xmax = 2.6119837751677855 
+            text = "[ext]"
+        intervals [7]:
+            xmin = 2.6119837751677855 
+            xmax = 2.8698479543407647 
+            text = "[spk]"
+        intervals [8]:
+            xmin = 2.8698479543407647 
+            xmax = 3.7862566610738257 
+            text = "[int]"
+        intervals [9]:
+            xmin = 3.7862566610738257 
+            xmax = 5.3771201388396976 
+            text = "0"
+        intervals [10]:
+            xmin = 5.3771201388396976 
+            xmax = 5.8200000000000003 
+            text = "[int]"

@@ -1,0 +1,60 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 10.32 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 10.32 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.37424167791523399 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.37424167791523399 
+            xmax = 0.70620447484795434 
+            text = "[spk]" 
+        intervals [3]:
+            xmin = 0.70620447484795434 
+            xmax = 8.3801646422471059 
+            text = "(s) iphumelele i ($)B. 0 A. 0 in education(/$) 0 [spk] 0 kunye ne ($)B. A.(/$) 0 [spk] 0 xhosa ($)honours(/$) (/s)" 
+        intervals [4]:
+            xmin = 8.3801646422471059 
+            xmax = 9.3423623408083181 
+            text = "0" 
+        intervals [5]:
+            xmin = 9.3423623408083181 
+            xmax = 10.32 
+            text = "[sta]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 10.32 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.37424167791523399 
+            text = "0"
+        intervals [2]:
+            xmin = 0.37424167791523399 
+            xmax = 0.70620447484795434 
+            text = "[spk]"
+        intervals [3]:
+            xmin = 0.70620447484795434 
+            xmax = 8.3801646422471059 
+            text = "(s) ip_humElElE i ($)bi 0 Ei 0 in Ed-\ZukEiSEn(/$) 0 [spk] 0 k_>uJE nE ($)bi E(/$) 0 [spk] 0 |\|\_hOsa ($)?Onas(/$) (/s)"
+        intervals [4]:
+            xmin = 8.3801646422471059 
+            xmax = 9.3423623408083181 
+            text = "0"
+        intervals [5]:
+            xmin = 9.3423623408083181 
+            xmax = 10.32 
+            text = "[sta]"

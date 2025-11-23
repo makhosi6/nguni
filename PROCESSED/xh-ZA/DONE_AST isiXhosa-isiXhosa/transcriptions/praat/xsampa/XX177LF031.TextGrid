@@ -1,0 +1,60 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 5.0999999999999996 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 5.0999999999999996 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.19079187553249399 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.19079187553249399 
+            xmax = 0.80311597823673087 
+            text = "[spk]" 
+        intervals [3]:
+            xmin = 0.80311597823673087 
+            xmax = 3.0802306795469683 
+            text = "(s) ndifake 0 ku-opharetha (/s)" 
+        intervals [4]:
+            xmin = 3.0802306795469683 
+            xmax = 4.2309723315598706 
+            text = "0" 
+        intervals [5]:
+            xmin = 4.2309723315598706 
+            xmax = 5.0999999999999996 
+            text = "[sta]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 5.0999999999999996 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.19079187553249399 
+            text = "0"
+        intervals [2]:
+            xmin = 0.19079187553249399 
+            xmax = 0.80311597823673087 
+            text = "[spk]"
+        intervals [3]:
+            xmin = 0.80311597823673087 
+            xmax = 3.0802306795469683 
+            text = "(s) ndifak_>E 0 k_>uOp_harEt_ha (/s)"
+        intervals [4]:
+            xmin = 3.0802306795469683 
+            xmax = 4.2309723315598706 
+            text = "0"
+        intervals [5]:
+            xmin = 4.2309723315598706 
+            xmax = 5.0999999999999996 
+            text = "[sta]"

@@ -1,0 +1,60 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 7.0679999999999996 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 7.0679999999999996 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.81542320651964928 
+            text = "**" 
+        intervals [2]:
+            xmin = 0.81542320651964928 
+            xmax = 2.9850060337146274 
+            text = "[int]" 
+        intervals [3]:
+            xmin = 2.9850060337146274 
+            xmax = 4.9941265405530624 
+            text = "(u) [sta] i 0 ($)Port_Elizabeth(/$) 0 elokuqala [/sta] (/u)" 
+        intervals [4]:
+            xmin = 4.9941265405530624 
+            xmax = 6.6881210282100048 
+            text = "0" 
+        intervals [5]:
+            xmin = 6.6881210282100048 
+            xmax = 7.0679999999999996 
+            text = "[sta]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 7.0679999999999996 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.81542320651964928 
+            text = "**" 
+        intervals [2]:
+            xmin = 0.81542320651964928 
+            xmax = 2.9850060337146274 
+            text = "[int]" 
+        intervals [3]:
+            xmin = 2.9850060337146274 
+            xmax = 4.9941265405530624 
+            text = "(u) [sta] i 0 ($)pOtElizabEt(/$) 0 ElOk_>u!\ala [/sta] (/u)" 
+        intervals [4]:
+            xmin = 4.9941265405530624 
+            xmax = 6.6881210282100048 
+            text = "0" 
+        intervals [5]:
+            xmin = 6.6881210282100048 
+            xmax = 7.0679999999999996 
+            text = "[sta]" 

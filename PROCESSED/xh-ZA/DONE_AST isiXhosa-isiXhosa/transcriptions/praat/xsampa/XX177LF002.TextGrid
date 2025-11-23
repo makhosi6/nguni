@@ -1,0 +1,52 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 4.2000000000000002 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic"
+        xmin = 0 
+        xmax = 4.2000000000000002 
+        intervals: size = 4
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.22453358076808658 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.22453358076808658 
+            xmax = 0.55984066178103475 
+            text = "[spk]" 
+        intervals [3]:
+            xmin = 0.55984066178103475 
+            xmax = 2.1981640017765933 
+            text = "(u) Thembeka Mjoli (/u)" 
+        intervals [4]:
+            xmin = 2.1981640017765933 
+            xmax = 4.2000000000000002 
+            text = "0" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 4.2000000000000002 
+        intervals: size = 4
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.22453358076808658 
+            text = "0"
+        intervals [2]:
+            xmin = 0.22453358076808658 
+            xmax = 0.55984066178103475 
+            text = "[spk]"
+        intervals [3]:
+            xmin = 0.55984066178103475 
+            xmax = 2.1981640017765933 
+            text = "(u) t_hEmbEk_>a md-\Zoli (/u)"
+        intervals [4]:
+            xmin = 2.1981640017765933 
+            xmax = 4.2000000000000002 
+            text = "0"

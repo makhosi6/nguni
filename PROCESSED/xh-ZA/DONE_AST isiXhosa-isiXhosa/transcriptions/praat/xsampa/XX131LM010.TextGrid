@@ -1,0 +1,44 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 6.3600000000000003 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 6.3600000000000003 
+        intervals: size = 3 
+        intervals [1]:
+            xmin = 0 
+            xmax = 3.1989019231249793 
+            text = "(u) ~fimvaba 0 eCofimvaba e ($)Eastern_Cape(/$) (/u)" 
+        intervals [2]:
+            xmin = 3.1989019231249793 
+            xmax = 4.4810708409997444 
+            text = "0" 
+        intervals [3]:
+            xmin = 4.4810708409997444 
+            xmax = 6.3600000000000003 
+            text = "[int]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 6.3600000000000003 
+        intervals: size = 3 
+        intervals [1]:
+            xmin = 0 
+            xmax = 3.1989019231249793 
+            text = "(u) fimvab_<a 0 E|\ofimvab_<a E ($)istEnkE-\ip(/$) (/u)" 
+        intervals [2]:
+            xmin = 3.1989019231249793 
+            xmax = 4.4810708409997444 
+            text = "0" 
+        intervals [3]:
+            xmin = 4.4810708409997444 
+            xmax = 6.3600000000000003 
+            text = "[int]" 

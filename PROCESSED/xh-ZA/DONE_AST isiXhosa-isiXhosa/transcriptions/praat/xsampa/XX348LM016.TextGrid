@@ -1,0 +1,68 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 12.252000000000001 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 12.252000000000001 
+        intervals: size = 6
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.67580510354658341 
+            text = "[sta]" 
+        intervals [2]:
+            xmin = 0.67580510354658341 
+            xmax = 2.1058189431010708 
+            text = "(s) [int] ewe ndiyasiva isixhosa [/int] (/s)"
+        intervals [3]:
+            xmin = 2.1058189431010708 
+            xmax = 3.8625744543053466 
+            text = "[sta]" 
+        intervals [4]:
+            xmin = 3.8625744543053466 
+            xmax = 7.3563267489045634 
+            text = "[int]" 
+        intervals [5]:
+            xmin = 7.3563267489045634 
+            xmax = 7.994969641465711 
+            text = "0" 
+        intervals [6]:
+            xmin = 7.994969641465711 
+            xmax = 12.252000000000001 
+            text = "[int]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 12.252000000000001 
+        intervals: size = 6
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.67580510354658341 
+            text = "[sta]"
+        intervals [2]:
+            xmin = 0.67580510354658341 
+            xmax = 2.1058189431010708 
+            text = "(s) [int] EwE ndijasiva is|\|\_hO [/int] (/s)"
+        intervals [3]:
+            xmin = 2.1058189431010708 
+            xmax = 3.8625744543053466 
+            text = "[sta]"
+        intervals [4]:
+            xmin = 3.8625744543053466 
+            xmax = 7.3563267489045634 
+            text = "[int]"
+        intervals [5]:
+            xmin = 7.3563267489045634 
+            xmax = 7.994969641465711 
+            text = "0"
+        intervals [6]:
+            xmin = 7.994969641465711 
+            xmax = 12.252000000000001 
+            text = "[int]"

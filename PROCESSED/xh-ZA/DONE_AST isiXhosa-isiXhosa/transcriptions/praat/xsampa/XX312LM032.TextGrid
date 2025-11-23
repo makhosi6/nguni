@@ -1,0 +1,52 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 8.4359999999999999 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 8.4359999999999999 
+        intervals: size = 4 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.857676023841569 
+            text = "(u) ~vakalisi 0 isivakalisi (/u)" 
+        intervals [2]:
+            xmin = 1.857676023841569 
+            xmax = 2.5065681646661604 
+            text = "[sta]" 
+        intervals [3]:
+            xmin = 2.5065681646661604 
+            xmax = 6.3827095071419313 
+            text = "(s) [sta] iitumato 0 eziluhlaza zincinane [/sta] (/s)" 
+        intervals [4]:
+            xmin = 6.3827095071419313 
+            xmax = 8.4359999999999999 
+            text = "0" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 8.4359999999999999 
+        intervals: size = 4 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.857676023841569 
+            text = "(u) vak_>alisi 0 isivak_>alisi (/u)" 
+        intervals [2]:
+            xmin = 1.857676023841569 
+            xmax = 2.5065681646661604 
+            text = "[sta]" 
+        intervals [3]:
+            xmin = 2.5065681646661604 
+            xmax = 6.3827095071419313 
+            text = "(s) [sta] i:t_>umat_>O 0 eziluKaza zi|\~inanE [/sta] (/s)" 
+        intervals [4]:
+            xmin = 6.3827095071419313 
+            xmax = 8.4359999999999999 
+            text = "0" 

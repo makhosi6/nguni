@@ -1,0 +1,52 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 5.9039999999999999 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 5.9039999999999999 
+        intervals: size = 4 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.16564036985640362 
+            text = "[int]" 
+        intervals [2]:
+            xmin = 0.16564036985640362 
+            xmax = 2.8384203682576228 
+            text = "(s) [sta] hayi andikatshati 0 ndine ($)engagement(/$) [/sta] (/s)" 
+        intervals [3]:
+            xmin = 2.8384203682576228 
+            xmax = 4.6654346091259669 
+            text = "0" 
+        intervals [4]:
+            xmin = 4.6654346091259669 
+            xmax = 5.9039999999999999 
+            text = "[sta]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 5.9039999999999999 
+        intervals: size = 4 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.16564036985640362 
+            text = "[int]" 
+        intervals [2]:
+            xmin = 0.16564036985640362 
+            xmax = 2.8384203682576228 
+            text = "(s) [sta] hai ank_>at-\S_hat_>i 0 ndinE ($)iNgE-\id-\ZmEnt(/$) [/sta] (/s)" 
+        intervals [3]:
+            xmin = 2.8384203682576228 
+            xmax = 4.6654346091259669 
+            text = "0" 
+        intervals [4]:
+            xmin = 4.6654346091259669 
+            xmax = 5.9039999999999999 
+            text = "[sta]" 

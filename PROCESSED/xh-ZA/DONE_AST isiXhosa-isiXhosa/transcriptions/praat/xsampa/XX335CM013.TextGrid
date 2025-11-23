@@ -1,0 +1,60 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 6.8879999999999999 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 6.8879999999999999 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.95711199263299573 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.95711199263299573 
+            xmax = 1.1683126726641639 
+            text = "[spk]" 
+        intervals [3]:
+            xmin = 1.1683126726641639 
+            xmax = 4.5171381818181811 
+            text = "(s) azikho izitrato [spk] 0 kusezilalini (/s)" 
+        intervals [4]:
+            xmin = 4.5171381818181811 
+            xmax = 5.0205538612887368 
+            text = "[spk]" 
+        intervals [5]:
+            xmin = 5.0205538612887368 
+            xmax = 6.8879999999999999 
+            text = "0" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 6.8879999999999999 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.95711199263299573 
+            text = "0"
+        intervals [2]:
+            xmin = 0.95711199263299573 
+            xmax = 1.1683126726641639 
+            text = "[spk]"
+        intervals [3]:
+            xmin = 1.1683126726641639 
+            xmax = 4.5171381818181811 
+            text = "(s) azik_hO iztrat_>O [spk] 0 k_>usezlalin (/s)"
+        intervals [4]:
+            xmin = 4.5171381818181811 
+            xmax = 5.0205538612887368 
+            text = "[spk]"
+        intervals [5]:
+            xmin = 5.0205538612887368 
+            xmax = 6.8879999999999999 
+            text = "0"

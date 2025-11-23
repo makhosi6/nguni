@@ -1,0 +1,60 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 22.859999999999999 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic"
+        xmin = 0 
+        xmax = 22.859999999999999 
+        intervals: size = 5
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.28039563644663429 
+            text = "[sta]" 
+        intervals [2]:
+            xmin = 0.28039563644663429 
+            xmax = 1.2443821585710204 
+            text = "(u) [sta] inambari [/sta] (/u)"
+        intervals [3]:
+            xmin = 1.2443821585710204 
+            xmax = 1.7559779021343327 
+            text = "[int]" 
+        intervals [4]:
+            xmin = 1.7559779021343327 
+            xmax = 2.7624092857787614 
+            text = "(u) [int] ($)three 0 two 0 two(/$) [/int] (/u)" 
+        intervals [5]:
+            xmin = 2.7624092857787614 
+            xmax = 22.859999999999999 
+            text = "[int]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 22.859999999999999 
+        intervals: size = 5
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.28039563644663429 
+            text = "[sta]"
+        intervals [2]:
+            xmin = 0.28039563644663429 
+            xmax = 1.2443821585710204 
+            text = "(u) [sta] inambar [/sta] (/u)"
+        intervals [3]:
+            xmin = 1.2443821585710204 
+            xmax = 1.7559779021343327 
+            text = "[int]"
+        intervals [4]:
+            xmin = 1.7559779021343327 
+            xmax = 2.7624092857787614 
+            text = "(u) [int] ($)Tri 0 tu 0 tu(/$) [/int] (/u)"
+        intervals [5]:
+            xmin = 2.7624092857787614 
+            xmax = 22.859999999999999 
+            text = "[int]"

@@ -1,0 +1,76 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 8.6999999999999993 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 8.6999999999999993 
+        intervals: size = 7
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.29138732567402092 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.29138732567402092 
+            xmax = 0.69343678659883257 
+            text = "[sta]" 
+        intervals [3]:
+            xmin = 0.69343678659883257 
+            xmax = 1.936748449968656 
+            text = "(u) [sta] isivakalisi [/sta] (/u)"
+        intervals [4]:
+            xmin = 1.936748449968656 
+            xmax = 2.3102970288835083 
+            text = "0" 
+        intervals [5]:
+            xmin = 2.3102970288835083 
+            xmax = 5.8487430102934166 
+            text = "(s) [sta] indlela 0 *i+ 0 iqabela 0 eqhineni [/sta] (/s)" 
+        intervals [6]:
+            xmin = 5.8487430102934166 
+            xmax = 6.8251399021053949 
+            text = "0" 
+        intervals [7]:
+            xmin = 6.8251399021053949 
+            xmax = 8.6999999999999993 
+            text = "[sta]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 8.6999999999999993 
+        intervals: size = 7
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.29138732567402092 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.29138732567402092 
+            xmax = 0.69343678659883257 
+            text = "[sta]"
+        intervals [3]:
+            xmin = 0.69343678659883257 
+            xmax = 1.936748449968656 
+            text = "(u) [sta] isivak_>alisi [/sta] (/u)"
+        intervals [4]:
+            xmin = 1.936748449968656 
+            xmax = 2.3102970288835083 
+            text = "0" 
+        intervals [5]:
+            xmin = 2.3102970288835083 
+            xmax = 5.8487430102934166 
+            text = "(s) [sta] ind-\K\Ela 0 i: 0 i!\ab_<Ela 0 e!\_hineni [/sta] (/s)" 
+        intervals [6]:
+            xmin = 5.8487430102934166 
+            xmax = 6.8251399021053949 
+            text = "0" 
+        intervals [7]:
+            xmin = 6.8251399021053949 
+            xmax = 8.6999999999999993 
+            text = "[sta]" 

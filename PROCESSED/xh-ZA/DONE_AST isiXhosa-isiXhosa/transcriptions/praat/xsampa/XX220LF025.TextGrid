@@ -1,0 +1,76 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 23.244 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 23.244 
+        intervals: size = 7 
+        intervals [1]:
+            xmin = 0 
+            xmax = 2.5883968366407268 
+            text = "[int]" 
+        intervals [2]:
+            xmin = 2.5883968366407268 
+            xmax = 6.6957086476360823 
+            text = "(s) [int] inqaku ($)five(/$) *i+ 0 *nguL+ [/int] (/s)" 
+        intervals [3]:
+            xmin = 6.6957086476360823 
+            xmax = 10.913705833032129 
+            text = "[int]" 
+        intervals [4]:
+            xmin = 10.913705833032129 
+            xmax = 13.348531604790072 
+            text = "(u) [int] igama 0 elipelwayo [/int] (/u)" 
+        intervals [5]:
+            xmin = 13.348531604790072 
+            xmax = 13.928336400728705 
+            text = "[int]" 
+        intervals [6]:
+            xmin = 13.928336400728705 
+            xmax = 14.920478531602653 
+            text = "(u) [int] iqokobhe [/int] (/u)" 
+        intervals [7]:
+            xmin = 14.920478531602653 
+            xmax = 23.244 
+            text = "[int]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 23.244 
+        intervals: size = 7 
+        intervals [1]:
+            xmin = 0 
+            xmax = 2.5883968366407268 
+            text = "[int]" 
+        intervals [2]:
+            xmin = 2.5883968366407268 
+            xmax = 6.6957086476360823 
+            text = "(s) [int] i!\~ak_>u ($)fa-\if(/$) i 0 Ngul [/int] (/s)" 
+        intervals [3]:
+            xmin = 6.6957086476360823 
+            xmax = 10.913705833032129 
+            text = "[int]" 
+        intervals [4]:
+            xmin = 10.913705833032129 
+            xmax = 13.348531604790072 
+            text = "(u) [int] igama 0 elip_>ElwajO [/int] (/u)" 
+        intervals [5]:
+            xmin = 13.348531604790072 
+            xmax = 13.928336400728705 
+            text = "[int]" 
+        intervals [6]:
+            xmin = 13.928336400728705 
+            xmax = 14.920478531602653 
+            text = "(u) [int] i!\Ok_>Ob_0E [/int] (/u)" 
+        intervals [7]:
+            xmin = 14.920478531602653 
+            xmax = 23.244 
+            text = "[int]" 

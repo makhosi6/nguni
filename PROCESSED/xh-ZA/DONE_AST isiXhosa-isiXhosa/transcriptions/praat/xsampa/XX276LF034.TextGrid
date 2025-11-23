@@ -1,0 +1,68 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 3.3959999999999999 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 3.3959999999999999 
+        intervals: size = 6 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.24800982604559851 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.24800982604559851 
+            xmax = 0.68534977079306614 
+            text = "[int]" 
+        intervals [3]:
+            xmin = 0.68534977079306614 
+            xmax = 0.76039229516213014 
+            text = "[ext]" 
+        intervals [4]:
+            xmin = 0.76039229516213014 
+            xmax = 1.3407479712272785 
+            text = "(u) ($)two(/$) (/u)" 
+        intervals [5]:
+            xmin = 1.3407479712272785 
+            xmax = 1.5496168044606806 
+            text = "[int]" 
+        intervals [6]:
+            xmin = 1.5496168044606806 
+            xmax = 3.3959999999999999 
+            text = "0" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 3.3959999999999999 
+        intervals: size = 6 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.24800982604559851 
+            text = "0"
+        intervals [2]:
+            xmin = 0.24800982604559851 
+            xmax = 0.68534977079306614 
+            text = "[int]"
+        intervals [3]:
+            xmin = 0.68534977079306614 
+            xmax = 0.76039229516213014 
+            text = "[ext]"
+        intervals [4]:
+            xmin = 0.76039229516213014 
+            xmax = 1.3407479712272785 
+            text = "(u) ($)tu(/$) (/u)"
+        intervals [5]:
+            xmin = 1.3407479712272785 
+            xmax = 1.5496168044606806 
+            text = "[int]"
+        intervals [6]:
+            xmin = 1.5496168044606806 
+            xmax = 3.3959999999999999 
+            text = "0"

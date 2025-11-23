@@ -1,0 +1,60 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 6.0119999999999996 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 6.0119999999999996 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.094028461113736306 
+            text = "[sta]" 
+        intervals [2]:
+            xmin = 0.094028461113736306 
+            xmax = 1.2910581346588668 
+            text = "(u) ngentlazane (/u)" 
+        intervals [3]:
+            xmin = 1.2910581346588668 
+            xmax = 3.0198255497424582 
+            text = "[int]" 
+        intervals [4]:
+            xmin = 3.0198255497424582 
+            xmax = 5.0935639122766148 
+            text = "0" 
+        intervals [5]:
+            xmin = 5.0935639122766148 
+            xmax = 6.0119999999999996 
+            text = "[int]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 6.0119999999999996 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.094028461113736306 
+            text = "[sta]" 
+        intervals [2]:
+            xmin = 0.094028461113736306 
+            xmax = 1.2910581346588668 
+            text = "(u) NgEnt-\K_>azanE (/u)" 
+        intervals [3]:
+            xmin = 1.2910581346588668 
+            xmax = 3.0198255497424582 
+            text = "[int]" 
+        intervals [4]:
+            xmin = 3.0198255497424582 
+            xmax = 5.0935639122766148 
+            text = "0" 
+        intervals [5]:
+            xmin = 5.0935639122766148 
+            xmax = 6.0119999999999996 
+            text = "[int]" 

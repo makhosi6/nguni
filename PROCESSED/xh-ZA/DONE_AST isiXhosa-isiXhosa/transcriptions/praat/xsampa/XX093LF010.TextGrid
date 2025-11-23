@@ -1,0 +1,68 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 4.1399999999999997 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic"
+        xmin = 0 
+        xmax = 4.1399999999999997 
+        intervals: size = 6
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.14558416118651185 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.14558416118651185 
+            xmax = 1.1929924682395643 
+            text = "[int]" 
+        intervals [3]:
+            xmin = 1.1929924682395643 
+            xmax = 2.3148498185117967 
+            text = "(u) [int] e ($)Matatiele(/$) [/int] (/u)" 
+        intervals [4]:
+            xmin = 2.3148498185117967 
+            xmax = 3.0125382264544265 
+            text = "[int]" 
+        intervals [5]:
+            xmin = 3.0125382264544265 
+            xmax = 3.7805323368987747 
+            text = "[sta]" 
+        intervals [6]:
+            xmin = 3.7805323368987747 
+            xmax = 4.1399999999999997 
+            text = "[int]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 4.1399999999999997 
+        intervals: size = 6
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.14558416118651185 
+            text = "0"
+        intervals [2]:
+            xmin = 0.14558416118651185 
+            xmax = 1.1929924682395643 
+            text = "[int]"
+        intervals [3]:
+            xmin = 1.1929924682395643 
+            xmax = 2.3148498185117967 
+            text = "(u) [int] E ($)mat_>at_>iEla(/$) [/int] (/u)"
+        intervals [4]:
+            xmin = 2.3148498185117967 
+            xmax = 3.0125382264544265 
+            text = "[int]"
+        intervals [5]:
+            xmin = 3.0125382264544265 
+            xmax = 3.7805323368987747 
+            text = "[sta]"
+        intervals [6]:
+            xmin = 3.7805323368987747 
+            xmax = 4.1399999999999997 
+            text = "[int]"

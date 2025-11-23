@@ -1,0 +1,68 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 5.3040000000000003 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic"
+        xmin = 0 
+        xmax = 5.3040000000000003 
+        intervals: size = 6
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.30869496170332372 
+            text = "0"
+        intervals [2]:
+            xmin = 0.30869496170332372 
+            xmax = 0.74273353691275168 
+            text = "[spk]"
+        intervals [3]:
+            xmin = 0.74273353691275168 
+            xmax = 1.0345959261744966 
+            text = "[sta]"
+        intervals [4]:
+            xmin = 1.0345959261744966 
+            xmax = 3.4262460604026845 
+            text = "(u) X. 0 X. 0 [spk] ($)one 0 oh eight(/$) (/u)"
+        intervals [5]:
+            xmin = 3.4262460604026845 
+            xmax = 4.7801632550335578 
+            text = "0"
+        intervals [6]:
+            xmin = 4.7801632550335578 
+            xmax = 5.3040000000000003 
+            text = "[sta]"
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 5.3040000000000003 
+        intervals: size = 6
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.30869496170332372 
+            text = "0"
+        intervals [2]:
+            xmin = 0.30869496170332372 
+            xmax = 0.74273353691275168 
+            text = "[spk]"
+        intervals [3]:
+            xmin = 0.74273353691275168 
+            xmax = 1.0345959261744966 
+            text = "[sta]"
+        intervals [4]:
+            xmin = 1.0345959261744966 
+            xmax = 3.4262460604026845 
+            text = "(u) Eks 0 Eks 0 [spk] ($)wan 0 @U e-\It(/$) (/u)"
+        intervals [5]:
+            xmin = 3.4262460604026845 
+            xmax = 4.7801632550335578 
+            text = "0"
+        intervals [6]:
+            xmin = 4.7801632550335578 
+            xmax = 5.3040000000000003 
+            text = "[sta]"

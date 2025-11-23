@@ -1,0 +1,60 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 6.8639999999999999 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 6.8639999999999999 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.7651851635672603 
+            text = "(u) ~kalisa (/u)" 
+        intervals [2]:
+            xmin = 0.7651851635672603 
+            xmax = 1.2924771572135647 
+            text = "0" 
+        intervals [3]:
+            xmin = 1.2924771572135647 
+            xmax = 3.8273745231586092 
+            text = "(s) [sta] umfundi uncedisa *i+ 0 utitshala [/sta] (/s)" 
+        intervals [4]:
+            xmin = 3.8273745231586092 
+            xmax = 4.7111534810559137 
+            text = "0" 
+        intervals [5]:
+            xmin = 4.7111534810559137 
+            xmax = 6.8639999999999999 
+            text = "[sta]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 6.8639999999999999 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.7651851635672603 
+            text = "(u) k_>alisa (/u)" 
+        intervals [2]:
+            xmin = 0.7651851635672603 
+            xmax = 1.2924771572135647 
+            text = "0" 
+        intervals [3]:
+            xmin = 1.2924771572135647 
+            xmax = 3.8273745231586092 
+            text = "(s) [sta] umfundi u|\~edisa i 0 ut_>it-\S_hala [/sta] (/s)" 
+        intervals [4]:
+            xmin = 3.8273745231586092 
+            xmax = 4.7111534810559137 
+            text = "0" 
+        intervals [5]:
+            xmin = 4.7111534810559137 
+            xmax = 6.8639999999999999 
+            text = "[sta]" 

@@ -1,0 +1,68 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 8.7240000000000002 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 8.7240000000000002 
+        intervals: size = 6
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.95810917940881823 
+            text = "[sta]" 
+        intervals [2]:
+            xmin = 0.95810917940881823 
+            xmax = 1.7498129332920112 
+            text = "(u) [int] emini *ema+ [/int] (/u)" 
+        intervals [3]:
+            xmin = 1.7498129332920112 
+            xmax = 3.0847050162418159 
+            text = "[sta]" 
+        intervals [4]:
+            xmin = 3.0847050162418159 
+            xmax = 4.31154114864911 
+            text = "(u) [sta] emini [/sta] [int] emaqanda [/int] (/u)" 
+        intervals [5]:
+            xmin = 4.31154114864911 
+            xmax = 5.6221422785234898 
+            text = "[int]" 
+        intervals [6]:
+            xmin = 5.6221422785234898 
+            xmax = 8.7240000000000002 
+            text = "[sta]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 8.7240000000000002 
+        intervals: size = 6
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.95810917940881823 
+            text = "[sta]"
+        intervals [2]:
+            xmin = 0.95810917940881823 
+            xmax = 1.7498129332920112 
+            text = "(u) [int] emini Ema [/int] (/u)"
+        intervals [3]:
+            xmin = 1.7498129332920112 
+            xmax = 3.0847050162418159 
+            text = "[sta]"
+        intervals [4]:
+            xmin = 3.0847050162418159 
+            xmax = 4.31154114864911 
+            text = "(u) [sta] emini [/sta] [int] Ema!\anda [/int] (/u)"
+        intervals [5]:
+            xmin = 4.31154114864911 
+            xmax = 5.6221422785234898 
+            text = "[int]"
+        intervals [6]:
+            xmin = 5.6221422785234898 
+            xmax = 8.7240000000000002 
+            text = "[sta]"

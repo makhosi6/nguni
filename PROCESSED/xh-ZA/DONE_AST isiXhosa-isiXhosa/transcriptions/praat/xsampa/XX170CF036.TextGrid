@@ -1,0 +1,68 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 6.5519999999999996 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic"
+        xmin = 0 
+        xmax = 6.5519999999999996 
+        intervals: size = 6
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.3981331727704186 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.3981331727704186 
+            xmax = 0.67512751539129767 
+            text = "[sta]" 
+        intervals [3]:
+            xmin = 0.67512751539129767 
+            xmax = 3.0974309630501353 
+            text = "(u) [int] ($)seven five nine three six one(/$) [/int] (/u)" 
+        intervals [4]:
+            xmin = 3.0974309630501353 
+            xmax = 3.5592699726294734 
+            text = "**" 
+        intervals [5]:
+            xmin = 3.5592699726294734 
+            xmax = 4.6507478532110085 
+            text = "(u) [int] ($)eight 0 oh four(/$) [/int] (/u)" 
+        intervals [6]:
+            xmin = 4.6507478532110085 
+            xmax = 6.5519999999999996 
+            text = "[int]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 6.5519999999999996 
+        intervals: size = 6
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.3981331727704186 
+            text = "0"
+        intervals [2]:
+            xmin = 0.3981331727704186 
+            xmax = 0.67512751539129767 
+            text = "[sta]"
+        intervals [3]:
+            xmin = 0.67512751539129767 
+            xmax = 3.0974309630501353 
+            text = "(u) [int] ($)sEvEn fa-\if na-\in Tri siks wa:n(/$) [/int] (/u)"
+        intervals [4]:
+            xmin = 3.0974309630501353 
+            xmax = 3.5592699726294734 
+            text = "**"
+        intervals [5]:
+            xmin = 3.5592699726294734 
+            xmax = 4.6507478532110085 
+            text = "(u) [int] ($)E-\It 0 O-\u fO(/$) [/int] (/u)"
+        intervals [6]:
+            xmin = 4.6507478532110085 
+            xmax = 6.5519999999999996 
+            text = "[int]"

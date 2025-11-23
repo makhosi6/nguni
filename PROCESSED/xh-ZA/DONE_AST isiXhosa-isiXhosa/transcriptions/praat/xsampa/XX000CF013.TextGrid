@@ -1,0 +1,68 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 6.5640000000000001 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic"
+        xmin = 0 
+        xmax = 6.5640000000000001 
+        intervals: size = 6
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.90202773758082966 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.90202773758082966 
+            xmax = 1.3045600441210699 
+            text = "[sta]" 
+        intervals [3]:
+            xmin = 1.3045600441210699 
+            xmax = 2.4115238871067306 
+            text = "(u) eMkhonto ($)square(/$) (/u)" 
+        intervals [4]:
+            xmin = 2.4115238871067306 
+            xmax = 3.2367151155142233 
+            text = "[sta]" 
+        intervals [5]:
+            xmin = 3.2367151155142233 
+            xmax = 4.7462112650401247 
+            text = "[int]" 
+        intervals [6]:
+            xmin = 4.7462112650401247 
+            xmax = 6.5640000000000001 
+            text = "[sta]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 6.5640000000000001 
+        intervals: size = 6
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.90202773758082966 
+            text = "0"
+        intervals [2]:
+            xmin = 0.90202773758082966 
+            xmax = 1.3045600441210699 
+            text = "[sta]"
+        intervals [3]:
+            xmin = 1.3045600441210699 
+            xmax = 2.4115238871067306 
+            text = "(u) Emk_hOnt_>O ($)skwE(/$) (/u)"
+        intervals [4]:
+            xmin = 2.4115238871067306 
+            xmax = 3.2367151155142233 
+            text = "[sta]"
+        intervals [5]:
+            xmin = 3.2367151155142233 
+            xmax = 4.7462112650401247 
+            text = "[int]"
+        intervals [6]:
+            xmin = 4.7462112650401247 
+            xmax = 6.5640000000000001 
+            text = "[sta]"

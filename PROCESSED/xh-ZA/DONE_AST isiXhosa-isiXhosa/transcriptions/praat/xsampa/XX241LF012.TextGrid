@@ -1,0 +1,52 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 7.3319999999999998 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 7.3319999999999998 
+        intervals: size = 4 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.2071671808466159 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.2071671808466159 
+            xmax = 0.66005903166370628 
+            text = "[int]" 
+        intervals [3]:
+            xmin = 0.66005903166370628 
+            xmax = 5.3836477864814167 
+            text = "(u) ($)seventy six 0 Gerald_Spilkin(/$) 0 Ikhwezi 0 *uMthatha (/u)" 
+        intervals [4]:
+            xmin = 5.3836477864814167 
+            xmax = 7.3319999999999998 
+            text = "[int]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 7.3319999999999998 
+        intervals: size = 4 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.2071671808466159 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.2071671808466159 
+            xmax = 0.66005903166370628 
+            text = "[int]" 
+        intervals [3]:
+            xmin = 0.66005903166370628 
+            xmax = 5.3836477864814167 
+            text = "(u) ($)sEvEnti siks 0 d-\ZEraltspilkin(/$) 0 k_hwezi 0 mt_hat_ha (/u)" 
+        intervals [4]:
+            xmin = 5.3836477864814167 
+            xmax = 7.3319999999999998 
+            text = "[int]" 

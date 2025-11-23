@@ -1,0 +1,52 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 4.3559999999999999 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 4.3559999999999999 
+        intervals: size = 4 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.44209110458701861 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.44209110458701861 
+            xmax = 2.5192776905832406 
+            text = "(u) emva kwethuba namhlanje (/u)" 
+        intervals [3]:
+            xmin = 2.5192776905832406 
+            xmax = 3.208714034808696 
+            text = "0" 
+        intervals [4]:
+            xmin = 3.208714034808696 
+            xmax = 4.3559999999999999 
+            text = "[sta]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 4.3559999999999999 
+        intervals: size = 4 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.44209110458701861 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.44209110458701861 
+            xmax = 2.5192776905832406 
+            text = "(u) Emva k_>wet_hub_<a namKaJd-\ZE (/u)" 
+        intervals [3]:
+            xmin = 2.5192776905832406 
+            xmax = 3.208714034808696 
+            text = "0" 
+        intervals [4]:
+            xmin = 3.208714034808696 
+            xmax = 4.3559999999999999 
+            text = "[sta]" 

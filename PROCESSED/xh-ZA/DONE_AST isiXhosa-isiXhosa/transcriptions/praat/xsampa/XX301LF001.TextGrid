@@ -1,0 +1,84 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 18.216000000000001 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 18.216000000000001 
+        intervals: size = 8 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.34865631913127043 
+            text = "[int]" 
+        intervals [2]:
+            xmin = 0.34865631913127043 
+            xmax = 1.5669743166801617 
+            text = "(u) [int] ($)three oh one(/$) [/int] (/u)" 
+        intervals [3]:
+            xmin = 1.5669743166801617 
+            xmax = 2.1639204733498842 
+            text = "[spk]" 
+        intervals [4]:
+            xmin = 2.1639204733498842 
+            xmax = 3.8705282695597325 
+            text = "0" 
+        intervals [5]:
+            xmin = 3.8705282695597325 
+            xmax = 5.7469178777218888 
+            text = "(u) [sta] ($)three 0 oh one(/$) [/sta] (/u)" 
+        intervals [6]:
+            xmin = 5.7469178777218888 
+            xmax = 6.4889964165895915 
+            text = "0" 
+        intervals [7]:
+            xmin = 6.4889964165895915 
+            xmax = 7.9099002152670286 
+            text = "(u) [sta] ($)three zero one(/$) [/sta] (/u)" 
+        intervals [8]:
+            xmin = 7.9099002152670286 
+            xmax = 18.216000000000001 
+            text = "[int]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 18.216000000000001 
+        intervals: size = 8 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.34865631913127043 
+            text = "[int]" 
+        intervals [2]:
+            xmin = 0.34865631913127043 
+            xmax = 1.5669743166801617 
+            text = "(u) [int] ($)Tri: O-\u wan(/$) [/int] (/u)" 
+        intervals [3]:
+            xmin = 1.5669743166801617 
+            xmax = 2.1639204733498842 
+            text = "[spk]" 
+        intervals [4]:
+            xmin = 2.1639204733498842 
+            xmax = 3.8705282695597325 
+            text = "0" 
+        intervals [5]:
+            xmin = 3.8705282695597325 
+            xmax = 5.7469178777218888 
+            text = "(u) [sta] ($)Tri: 0 O-\u wan(/$) [/sta] (/u)" 
+        intervals [6]:
+            xmin = 5.7469178777218888 
+            xmax = 6.4889964165895915 
+            text = "0" 
+        intervals [7]:
+            xmin = 6.4889964165895915 
+            xmax = 7.9099002152670286 
+            text = "(u) [sta] ($)Tri zi:rO wan(/$) [/sta] (/u)" 
+        intervals [8]:
+            xmin = 7.9099002152670286 
+            xmax = 18.216000000000001 
+            text = "[int]" 

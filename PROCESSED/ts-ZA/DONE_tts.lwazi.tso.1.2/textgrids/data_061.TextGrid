@@ -1,0 +1,246 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0
+xmax = 3.260000
+tiers? <exists>
+size = 3
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "segment"
+		xmin = 0
+		xmax = 3.260000
+		intervals: size = 34
+		intervals [1]:
+			xmin = 0.000000
+			xmax = 0.295000
+			text = "#"
+		intervals [2]:
+			xmin = 0.295000
+			xmax = 0.415000
+			text = "s"
+		intervals [3]:
+			xmin = 0.415000
+			xmax = 0.555000
+			text = "E"
+		intervals [4]:
+			xmin = 0.555000
+			xmax = 0.665000
+			text = "B"
+		intervals [5]:
+			xmin = 0.665000
+			xmax = 0.755000
+			text = "a"
+		intervals [6]:
+			xmin = 0.755000
+			xmax = 0.810000
+			text = "n"
+		intervals [7]:
+			xmin = 0.810000
+			xmax = 0.865000
+			text = "#_cl"
+		intervals [8]:
+			xmin = 0.865000
+			xmax = 0.945000
+			text = "t_e"
+		intervals [9]:
+			xmin = 0.945000
+			xmax = 1.020000
+			text = "u"
+		intervals [10]:
+			xmin = 1.020000
+			xmax = 1.080000
+			text = "n"
+		intervals [11]:
+			xmin = 1.080000
+			xmax = 1.195000
+			text = "S"
+		intervals [12]:
+			xmin = 1.195000
+			xmax = 1.290000
+			text = "a"
+		intervals [13]:
+			xmin = 1.290000
+			xmax = 1.385000
+			text = "#_cl"
+		intervals [14]:
+			xmin = 1.385000
+			xmax = 1.410000
+			text = "t_e"
+		intervals [15]:
+			xmin = 1.410000
+			xmax = 1.510000
+			text = "i"
+		intervals [16]:
+			xmin = 1.510000
+			xmax = 1.665000
+			text = "m_h"
+		intervals [17]:
+			xmin = 1.665000
+			xmax = 1.770000
+			text = "O"
+		intervals [18]:
+			xmin = 1.770000
+			xmax = 1.855000
+			text = "n_"
+		intervals [19]:
+			xmin = 1.855000
+			xmax = 1.880000
+			text = "#_cl"
+		intervals [20]:
+			xmin = 1.880000
+			xmax = 1.940000
+			text = "dz_"
+		intervals [21]:
+			xmin = 1.940000
+			xmax = 2.035000
+			text = "O"
+		intervals [22]:
+			xmin = 2.035000
+			xmax = 2.130000
+			text = "#_cl"
+		intervals [23]:
+			xmin = 2.130000
+			xmax = 2.155000
+			text = "t_e"
+		intervals [24]:
+			xmin = 2.155000
+			xmax = 2.310000
+			text = "a"
+		intervals [25]:
+			xmin = 2.310000
+			xmax = 2.375000
+			text = "#_cl"
+		intervals [26]:
+			xmin = 2.375000
+			xmax = 2.405000
+			text = "b_E"
+		intervals [27]:
+			xmin = 2.405000
+			xmax = 2.500000
+			text = "a"
+		intervals [28]:
+			xmin = 2.500000
+			xmax = 2.590000
+			text = "n"
+		intervals [29]:
+			xmin = 2.590000
+			xmax = 2.650000
+			text = "#_cl"
+		intervals [30]:
+			xmin = 2.650000
+			xmax = 2.675000
+			text = "t_e"
+		intervals [31]:
+			xmin = 2.675000
+			xmax = 2.845000
+			text = "O"
+		intervals [32]:
+			xmin = 2.845000
+			xmax = 3.080000
+			text = "m"
+		intervals [33]:
+			xmin = 3.080000
+			xmax = 3.105000
+			text = "u"
+		intervals [34]:
+			xmin = 3.105000
+			xmax = 3.260000
+			text = "#"
+	item [2]:
+		class = "IntervalTier"
+		name = "syllable"
+		xmin = 0
+		xmax = 3.260000
+		intervals: size = 13
+		intervals [1]:
+			xmin = 0.000000
+			xmax = 0.295000
+			text = "NONE"
+		intervals [2]:
+			xmin = 0.295000
+			xmax = 0.555000
+			text = "syl"
+		intervals [3]:
+			xmin = 0.555000
+			xmax = 0.755000
+			text = "syl"
+		intervals [4]:
+			xmin = 0.755000
+			xmax = 1.080000
+			text = "syl"
+		intervals [5]:
+			xmin = 1.080000
+			xmax = 1.290000
+			text = "syl"
+		intervals [6]:
+			xmin = 1.290000
+			xmax = 1.510000
+			text = "syl"
+		intervals [7]:
+			xmin = 1.510000
+			xmax = 1.855000
+			text = "syl"
+		intervals [8]:
+			xmin = 1.855000
+			xmax = 2.035000
+			text = "syl"
+		intervals [9]:
+			xmin = 2.035000
+			xmax = 2.310000
+			text = "syl"
+		intervals [10]:
+			xmin = 2.310000
+			xmax = 2.590000
+			text = "syl"
+		intervals [11]:
+			xmin = 2.590000
+			xmax = 2.845000
+			text = "syl"
+		intervals [12]:
+			xmin = 2.845000
+			xmax = 3.105000
+			text = "syl"
+		intervals [13]:
+			xmin = 3.105000
+			xmax = 3.260000
+			text = "NONE"
+	item [3]:
+		class = "IntervalTier"
+		name = "word"
+		xmin = 0
+		xmax = 3.260000
+		intervals: size = 8
+		intervals [1]:
+			xmin = 0.000000
+			xmax = 0.295000
+			text = "NONE"
+		intervals [2]:
+			xmin = 0.295000
+			xmax = 0.555000
+			text = "Se"
+		intervals [3]:
+			xmin = 0.555000
+			xmax = 0.755000
+			text = "va"
+		intervals [4]:
+			xmin = 0.755000
+			xmax = 1.290000
+			text = "ntunxa"
+		intervals [5]:
+			xmin = 1.290000
+			xmax = 2.035000
+			text = "timhondzo"
+		intervals [6]:
+			xmin = 2.035000
+			xmax = 2.310000
+			text = "ta"
+		intervals [7]:
+			xmin = 2.310000
+			xmax = 3.105000
+			text = "bantomu"
+		intervals [8]:
+			xmin = 3.105000
+			xmax = 3.260000
+			text = "NONE"

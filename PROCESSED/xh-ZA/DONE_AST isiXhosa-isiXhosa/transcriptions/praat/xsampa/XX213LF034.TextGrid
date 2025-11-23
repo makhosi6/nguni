@@ -1,0 +1,60 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 3.9119999999999999 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic"
+        xmin = 0 
+        xmax = 3.9119999999999999 
+        intervals: size = 5
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.77149165646282603 
+            text = "(u) [sta] ~doloph [/sta] (/u)" 
+        intervals [2]:
+            xmin = 0.77149165646282603 
+            xmax = 1.1553323348748723 
+            text = "[spk]" 
+        intervals [3]:
+            xmin = 1.1553323348748723 
+            xmax = 1.8460883226220457 
+            text = "(u) [int] i ($)Rocklands(/$) [/int] (/u)"
+        intervals [4]:
+            xmin = 1.8460883226220457 
+            xmax = 2.5227647517177871 
+            text = "[int]" 
+        intervals [5]:
+            xmin = 2.5227647517177871 
+            xmax = 3.9119999999999999 
+            text = "0" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 3.9119999999999999 
+        intervals: size = 5
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.77149165646282603 
+            text = "(u) [sta] d_0Olop_h [/sta] (/u)"
+        intervals [2]:
+            xmin = 0.77149165646282603 
+            xmax = 1.1553323348748723 
+            text = "[spk]"
+        intervals [3]:
+            xmin = 1.1553323348748723 
+            xmax = 1.8460883226220457 
+            text = "(u) [int] i ($)rQkl{n(/$) [/int] (/u)"
+        intervals [4]:
+            xmin = 1.8460883226220457 
+            xmax = 2.5227647517177871 
+            text = "[int]"
+        intervals [5]:
+            xmin = 2.5227647517177871 
+            xmax = 3.9119999999999999 
+            text = "0"

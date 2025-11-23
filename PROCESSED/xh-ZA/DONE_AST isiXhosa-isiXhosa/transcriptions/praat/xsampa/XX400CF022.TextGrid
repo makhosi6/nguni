@@ -1,0 +1,60 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 11.220000000000001 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 11.220000000000001 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.275330013771627 
+            text = "(u) [int] *isambuku 0 semali [/int] (/u)" 
+        intervals [2]:
+            xmin = 1.275330013771627 
+            xmax = 2.085752521442259 
+            text = "[int]" 
+        intervals [3]:
+            xmin = 2.085752521442259 
+            xmax = 8.0268036005221664 
+            text = "(u) ($)seven 0 comma 0 two 0 eight 0 five 0 point 0 three 0 nine(/$) (/u)" 
+        intervals [4]:
+            xmin = 8.0268036005221664 
+            xmax = 9.9244755730480456 
+            text = "[int]" 
+        intervals [5]:
+            xmin = 9.9244755730480456 
+            xmax = 11.220000000000001 
+            text = "0" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 11.220000000000001 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.275330013771627 
+            text = "(u) [int] mbuk_>u 0 sEmali [/int] (/u)" 
+        intervals [2]:
+            xmin = 1.275330013771627 
+            xmax = 2.085752521442259 
+            text = "[int]" 
+        intervals [3]:
+            xmin = 2.085752521442259 
+            xmax = 8.0268036005221664 
+            text = "(u) ($)sEvEn 0 kOma 0 tu: 0 E-\it 0 fa-\if 0 pO-\in 0 Tri: 0 na-\in(/$) (/u)" 
+        intervals [4]:
+            xmin = 8.0268036005221664 
+            xmax = 9.9244755730480456 
+            text = "[int]" 
+        intervals [5]:
+            xmin = 9.9244755730480456 
+            xmax = 11.220000000000001 
+            text = "0" 

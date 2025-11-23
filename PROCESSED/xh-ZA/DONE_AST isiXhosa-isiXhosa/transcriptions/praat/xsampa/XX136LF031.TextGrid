@@ -1,0 +1,68 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 7.2720000000000002 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 7.2720000000000002 
+        intervals: size = 6
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.043191975697093828 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.043191975697093828 
+            xmax = 2.1478067378470649 
+            text = "(u) [sta] *i+ 0 igama ledolophu [/sta] (/u)"
+        intervals [3]:
+            xmin = 2.1478067378470649 
+            xmax = 2.7907086974315791 
+            text = "0" 
+        intervals [4]:
+            xmin = 2.7907086974315791 
+            xmax = 4.3792501369453412 
+            text = "(u) [sta] e ($)Port_Shepstone(/$) [/sta] (/u)" 
+        intervals [5]:
+            xmin = 4.3792501369453412 
+            xmax = 5.4173301457297587 
+            text = "0" 
+        intervals [6]:
+            xmin = 5.4173301457297587 
+            xmax = 7.2720000000000002 
+            text = "[int]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 7.2720000000000002 
+        intervals: size = 6
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.043191975697093828 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.043191975697093828 
+            xmax = 2.1478067378470649 
+            text = "(u) [sta] i 0 igama lEdOlop_hu [/sta] (/u)"
+        intervals [3]:
+            xmin = 2.1478067378470649 
+            xmax = 2.7907086974315791 
+            text = "0" 
+        intervals [4]:
+            xmin = 2.7907086974315791 
+            xmax = 4.3792501369453412 
+            text = "(u) [sta] E ($)p@tSEpst@n(/$) [/sta] (/u)" 
+        intervals [5]:
+            xmin = 4.3792501369453412 
+            xmax = 5.4173301457297587 
+            text = "0" 
+        intervals [6]:
+            xmin = 5.4173301457297587 
+            xmax = 7.2720000000000002 
+            text = "[int]" 

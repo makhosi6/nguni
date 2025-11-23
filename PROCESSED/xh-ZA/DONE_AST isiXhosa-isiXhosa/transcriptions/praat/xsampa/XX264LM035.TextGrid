@@ -1,0 +1,52 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 7.5599999999999996 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 7.5599999999999996 
+        intervals: size = 4 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.6564192108804987 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.6564192108804987 
+            xmax = 1.0019718428054754 
+            text = "[int]" 
+        intervals [3]:
+            xmin = 1.0019718428054754 
+            xmax = 5.519123456375838 
+            text = "(u) [int] i ($)Naboomspruit(/$) [/int] 0 [spk] [int] i ($)Naboomspruit(/$) [/int] (/u)" 
+        intervals [4]:
+            xmin = 5.519123456375838 
+            xmax = 7.5599999999999996 
+            text = "0" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 7.5599999999999996 
+        intervals: size = 4 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.6564192108804987 
+            text = "0"
+        intervals [2]:
+            xmin = 0.6564192108804987 
+            xmax = 1.0019718428054754 
+            text = "[int]"
+        intervals [3]:
+            xmin = 1.0019718428054754 
+            xmax = 5.519123456375838 
+            text = "(u) [int] i ($)nabumsprE-\It(/$) [/int] 0 [spk] [int] i ($)nabumsprE-\It(/$) [/int] (/u)"
+        intervals [4]:
+            xmin = 5.519123456375838 
+            xmax = 7.5599999999999996 
+            text = "0"

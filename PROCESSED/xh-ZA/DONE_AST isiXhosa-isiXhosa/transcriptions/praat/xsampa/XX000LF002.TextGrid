@@ -1,0 +1,60 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 6.2400000000000002 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic"
+        xmin = 0 
+        xmax = 6.2400000000000002 
+        intervals: size = 5
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.17827624242301582 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.17827624242301582 
+            xmax = 0.28904902787490738 
+            text = "[spk]" 
+        intervals [3]:
+            xmin = 0.28904902787490738 
+            xmax = 3.3830809864499742 
+            text = "(u) Lulama 0 ($)Grace(/$) 0 Dingiswayo (/u)" 
+        intervals [4]:
+            xmin = 3.3830809864499742 
+            xmax = 3.9666424473026445 
+            text = "0" 
+        intervals [5]:
+            xmin = 3.9666424473026445 
+            xmax = 6.2400000000000002 
+            text = "[sta]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 6.2400000000000002 
+        intervals: size = 5
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.17827624242301582 
+            text = "0"
+        intervals [2]:
+            xmin = 0.17827624242301582 
+            xmax = 0.28904902787490738 
+            text = "[spk]"
+        intervals [3]:
+            xmin = 0.28904902787490738 
+            xmax = 3.3830809864499742 
+            text = "(u) lulama 0 ($)gre-\Is(/$) 0 diNgiswaj (/u)"
+        intervals [4]:
+            xmin = 3.3830809864499742 
+            xmax = 3.9666424473026445 
+            text = "0"
+        intervals [5]:
+            xmin = 3.9666424473026445 
+            xmax = 6.2400000000000002 
+            text = "[sta]"

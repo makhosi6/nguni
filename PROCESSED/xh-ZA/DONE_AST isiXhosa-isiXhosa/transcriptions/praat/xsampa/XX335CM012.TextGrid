@@ -1,0 +1,60 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 6.7919999999999998 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic"
+        xmin = 0 
+        xmax = 6.7919999999999998 
+        intervals: size = 5
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.26693682389014256 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.26693682389014256 
+            xmax = 0.68117720134228177 
+            text = "[spk]" 
+        intervals [3]:
+            xmin = 0.68117720134228177 
+            xmax = 4.2823922946525217 
+            text = "(s) ndihlala 0 eXorana 0 eLibode idolophu (/s)"
+        intervals [4]:
+            xmin = 4.2823922946525217 
+            xmax = 4.8798319553931941 
+            text = "[spk]" 
+        intervals [5]:
+            xmin = 4.8798319553931941 
+            xmax = 6.7919999999999998 
+            text = "0" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 6.7919999999999998 
+        intervals: size = 5
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.26693682389014256 
+            text = "0"
+        intervals [2]:
+            xmin = 0.26693682389014256 
+            xmax = 0.68117720134228177 
+            text = "[spk]"
+        intervals [3]:
+            xmin = 0.68117720134228177 
+            xmax = 4.2823922946525217 
+            text = "(s) ndiKala 0 E|\|\Orana 0 elib_<Od_0E id_0Olop_h (/s)"
+        intervals [4]:
+            xmin = 4.2823922946525217 
+            xmax = 4.8798319553931941 
+            text = "[spk]"
+        intervals [5]:
+            xmin = 4.8798319553931941 
+            xmax = 6.7919999999999998 
+            text = "0"

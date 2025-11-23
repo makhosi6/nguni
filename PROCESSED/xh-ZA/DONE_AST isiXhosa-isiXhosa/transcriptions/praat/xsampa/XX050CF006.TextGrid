@@ -1,0 +1,60 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 7.3920000000000003 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 7.3920000000000003 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.15452518240419352 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.15452518240419352 
+            xmax = 1.3574492477064222 
+            text = "[int]" 
+        intervals [3]:
+            xmin = 1.3574492477064222 
+            xmax = 5.3608067045657659 
+            text = "(s) lishumi elinesine 0 kuMeyi 0 ngo ($)nineteen 0 seventy nine(/$) (/s)" 
+        intervals [4]:
+            xmin = 5.3608067045657659 
+            xmax = 6.0022084012183896 
+            text = "0" 
+        intervals [5]:
+            xmin = 6.0022084012183896 
+            xmax = 7.3920000000000003 
+            text = "[int]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 7.3920000000000003 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.15452518240419352 
+            text = "0"
+        intervals [2]:
+            xmin = 0.15452518240419352 
+            xmax = 1.3574492477064222 
+            text = "[int]"
+        intervals [3]:
+            xmin = 1.3574492477064222 
+            xmax = 5.3608067045657659 
+            text = "(s) liSumi elinesinE 0 k_>umeji 0 NgO ($)na-\intin 0 sEvEnti na-\in(/$) (/s)"
+        intervals [4]:
+            xmin = 5.3608067045657659 
+            xmax = 6.0022084012183896 
+            text = "0"
+        intervals [5]:
+            xmin = 6.0022084012183896 
+            xmax = 7.3920000000000003 
+            text = "[int]"

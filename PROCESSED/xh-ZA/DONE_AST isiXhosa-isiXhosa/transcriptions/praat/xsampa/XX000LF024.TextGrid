@@ -1,0 +1,52 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 4.6079999999999997 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic"
+        xmin = 0 
+        xmax = 4.6079999999999997 
+        intervals: size = 4
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.075133729343547284 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.075133729343547284 
+            xmax = 0.42836134751414201 
+            text = "[sta]" 
+        intervals [3]:
+            xmin = 0.42836134751414201 
+            xmax = 1.7183073374903901 
+            text = "(u) isivakalisi (/u)"
+        intervals [4]:
+            xmin = 1.7183073374903901 
+            xmax = 4.6079999999999997 
+            text = "[sta]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 4.6079999999999997 
+        intervals: size = 4
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.075133729343547284 
+            text = "0"
+        intervals [2]:
+            xmin = 0.075133729343547284 
+            xmax = 0.42836134751414201 
+            text = "[sta]"
+        intervals [3]:
+            xmin = 0.42836134751414201 
+            xmax = 1.7183073374903901 
+            text = "(u) isivak_>alis (/u)"
+        intervals [4]:
+            xmin = 1.7183073374903901 
+            xmax = 4.6079999999999997 
+            text = "[sta]"

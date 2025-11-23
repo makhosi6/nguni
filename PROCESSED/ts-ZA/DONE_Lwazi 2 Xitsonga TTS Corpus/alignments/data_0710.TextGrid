@@ -1,0 +1,222 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0
+xmax = 2.100000
+tiers? <exists>
+size = 5
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "segment"
+		xmin = 0
+		xmax = 2.100000
+		intervals: size = 23
+		intervals [1]:
+			xmin = 0.000000
+			xmax = 0.020000
+			text = "pau"
+		intervals [2]:
+			xmin = 0.020000
+			xmax = 0.075000
+			text = "tʼ"
+		intervals [3]:
+			xmin = 0.075000
+			xmax = 0.140000
+			text = "i"
+		intervals [4]:
+			xmin = 0.140000
+			xmax = 0.345000
+			text = "mɦ"
+		intervals [5]:
+			xmin = 0.345000
+			xmax = 0.505000
+			text = "u"
+		intervals [6]:
+			xmin = 0.505000
+			xmax = 0.610000
+			text = "tʼ"
+		intervals [7]:
+			xmin = 0.610000
+			xmax = 0.750000
+			text = "i"
+		intervals [8]:
+			xmin = 0.750000
+			xmax = 0.830000
+			text = "tʼ"
+		intervals [9]:
+			xmin = 0.830000
+			xmax = 0.880000
+			text = "i"
+		intervals [10]:
+			xmin = 0.880000
+			xmax = 1.015000
+			text = "s"
+		intervals [11]:
+			xmin = 1.015000
+			xmax = 1.060000
+			text = "u"
+		intervals [12]:
+			xmin = 1.060000
+			xmax = 1.090000
+			text = "ŋ"
+		intervals [13]:
+			xmin = 1.090000
+			xmax = 1.140000
+			text = "g"
+		intervals [14]:
+			xmin = 1.140000
+			xmax = 1.190000
+			text = "u"
+		intervals [15]:
+			xmin = 1.190000
+			xmax = 1.215000
+			text = "l"
+		intervals [16]:
+			xmin = 1.215000
+			xmax = 1.245000
+			text = "a"
+		intervals [17]:
+			xmin = 1.245000
+			xmax = 1.295000
+			text = "k"
+		intervals [18]:
+			xmin = 1.295000
+			xmax = 1.320000
+			text = "u"
+		intervals [19]:
+			xmin = 1.320000
+			xmax = 1.400000
+			text = "kʰ"
+		intervals [20]:
+			xmin = 1.400000
+			xmax = 1.665000
+			text = "a"
+		intervals [21]:
+			xmin = 1.665000
+			xmax = 1.755000
+			text = "n"
+		intervals [22]:
+			xmin = 1.755000
+			xmax = 1.905000
+			text = "a"
+		intervals [23]:
+			xmin = 1.905000
+			xmax = 2.100000
+			text = "pau"
+	item [2]:
+		class = "IntervalTier"
+		name = "syllable"
+		xmin = 0
+		xmax = 2.100000
+		intervals: size = 12
+		intervals [1]:
+			xmin = 0.000000
+			xmax = 0.020000
+			text = "NONE"
+		intervals [2]:
+			xmin = 0.020000
+			xmax = 0.140000
+			text = "syl"
+		intervals [3]:
+			xmin = 0.140000
+			xmax = 0.505000
+			text = "syl"
+		intervals [4]:
+			xmin = 0.505000
+			xmax = 0.750000
+			text = "syl"
+		intervals [5]:
+			xmin = 0.750000
+			xmax = 0.880000
+			text = "syl"
+		intervals [6]:
+			xmin = 0.880000
+			xmax = 1.090000
+			text = "syl"
+		intervals [7]:
+			xmin = 1.090000
+			xmax = 1.190000
+			text = "syl"
+		intervals [8]:
+			xmin = 1.190000
+			xmax = 1.245000
+			text = "syl"
+		intervals [9]:
+			xmin = 1.245000
+			xmax = 1.320000
+			text = "syl"
+		intervals [10]:
+			xmin = 1.320000
+			xmax = 1.665000
+			text = "syl"
+		intervals [11]:
+			xmin = 1.665000
+			xmax = 1.905000
+			text = "syl"
+		intervals [12]:
+			xmin = 1.905000
+			xmax = 2.100000
+			text = "NONE"
+	item [3]:
+		class = "IntervalTier"
+		name = "word"
+		xmin = 0
+		xmax = 2.100000
+		intervals: size = 7
+		intervals [1]:
+			xmin = 0.000000
+			xmax = 0.020000
+			text = "NONE"
+		intervals [2]:
+			xmin = 0.020000
+			xmax = 0.750000
+			text = "timhuti"
+		intervals [3]:
+			xmin = 0.750000
+			xmax = 0.880000
+			text = "ti"
+		intervals [4]:
+			xmin = 0.880000
+			xmax = 1.245000
+			text = "sungula"
+		intervals [5]:
+			xmin = 1.245000
+			xmax = 1.320000
+			text = "ku"
+		intervals [6]:
+			xmin = 1.320000
+			xmax = 1.905000
+			text = "khana"
+		intervals [7]:
+			xmin = 1.905000
+			xmax = 2.100000
+			text = "NONE"
+	item [4]:
+		class = "IntervalTier"
+		name = "phrase"
+		xmin = 0
+		xmax = 2.100000
+		intervals: size = 3
+		intervals [1]:
+			xmin = 0.000000
+			xmax = 0.020000
+			text = "NONE"
+		intervals [2]:
+			xmin = 0.020000
+			xmax = 1.905000
+			text = "BB"
+		intervals [3]:
+			xmin = 1.905000
+			xmax = 2.100000
+			text = "NONE"
+	item [5]:
+		class = "IntervalTier"
+		name = "text"
+		xmin = 0
+		xmax = 2.100000
+		intervals: size = 1
+		intervals [1]:
+			xmin = 0.000000
+			xmax = 2.100000
+			text = "Timhuti ti sungula ku khana."

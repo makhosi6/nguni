@@ -1,0 +1,60 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 4.9560000000000004 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic"
+        xmin = 0 
+        xmax = 4.9560000000000004 
+        intervals: size = 5
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.17958284338032157 
+            text = "0"
+        intervals [2]:
+            xmin = 0.17958284338032157 
+            xmax = 0.45820513611615243 
+            text = "[sta]"
+        intervals [3]:
+            xmin = 0.45820513611615243 
+            xmax = 3.0668506764893388 
+            text = "(s) [sta] undityhola ngento endingayenzanga [/sta] (/s)"
+        intervals [4]:
+            xmin = 3.0668506764893388 
+            xmax = 3.5607254374158814 
+            text = "0"
+        intervals [5]:
+            xmin = 3.5607254374158814 
+            xmax = 4.9560000000000004 
+            text = "[int]"
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 4.9560000000000004 
+        intervals: size = 5
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.17958284338032157 
+            text = "0"
+        intervals [2]:
+            xmin = 0.17958284338032157 
+            xmax = 0.45820513611615243 
+            text = "[sta]"
+        intervals [3]:
+            xmin = 0.45820513611615243 
+            xmax = 3.0668506764893388 
+            text = "(s) [sta] undic_hOla NgEnt_>O endiNgajEnd-\zaNg [/sta] (/s)"
+        intervals [4]:
+            xmin = 3.0668506764893388 
+            xmax = 3.5607254374158814 
+            text = "0"
+        intervals [5]:
+            xmin = 3.5607254374158814 
+            xmax = 4.9560000000000004 
+            text = "[int]"

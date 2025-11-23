@@ -1,0 +1,60 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 7.5119999999999996 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 7.5119999999999996 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.84142209155347125 
+            text = "(u) ~sivakalisi (/u)" 
+        intervals [2]:
+            xmin = 0.84142209155347125 
+            xmax = 1.1521676354925034 
+            text = "[spk]" 
+        intervals [3]:
+            xmin = 1.1521676354925034 
+            xmax = 1.2442763245021262 
+            text = "0" 
+        intervals [4]:
+            xmin = 1.2442763245021262 
+            xmax = 4.090906999041227 
+            text = "(s) [sta] usapho 0 luthanda 0 intlanzi [/sta] (/s)" 
+        intervals [5]:
+            xmin = 4.090906999041227 
+            xmax = 7.5119999999999996 
+            text = "0" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 7.5119999999999996 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.84142209155347125 
+            text = "(u) sivak_>alisi (/u)" 
+        intervals [2]:
+            xmin = 0.84142209155347125 
+            xmax = 1.1521676354925034 
+            text = "[spk]" 
+        intervals [3]:
+            xmin = 1.1521676354925034 
+            xmax = 1.2442763245021262 
+            text = "0" 
+        intervals [4]:
+            xmin = 1.2442763245021262 
+            xmax = 4.090906999041227 
+            text = "(s) [sta] usap_hO 0 lut_handa 0 int-\K_>and-\zi [/sta] (/s)" 
+        intervals [5]:
+            xmin = 4.090906999041227 
+            xmax = 7.5119999999999996 
+            text = "0" 

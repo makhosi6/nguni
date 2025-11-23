@@ -1,0 +1,76 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 5.2320000000000002 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 5.2320000000000002 
+        intervals: size = 7 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.66283524423440843 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.66283524423440843 
+            xmax = 0.99972608506461325 
+            text = "[int]" 
+        intervals [3]:
+            xmin = 0.99972608506461325 
+            xmax = 1.3606805573826897 
+            text = "[sta]" 
+        intervals [4]:
+            xmin = 1.3606805573826897 
+            xmax = 1.4891467405652967 
+            text = "[ext]" 
+        intervals [5]:
+            xmin = 1.4891467405652967 
+            xmax = 3.1150181715689449 
+            text = "(s) lumkela inja ingakulumi (/s)" 
+        intervals [6]:
+            xmin = 3.1150181715689449 
+            xmax = 3.4301116201780411 
+            text = "[spk]" 
+        intervals [7]:
+            xmin = 3.4301116201780411 
+            xmax = 5.2320000000000002 
+            text = "0" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 5.2320000000000002 
+        intervals: size = 7 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.66283524423440843 
+            text = "0"
+        intervals [2]:
+            xmin = 0.66283524423440843 
+            xmax = 0.99972608506461325 
+            text = "[int]"
+        intervals [3]:
+            xmin = 0.99972608506461325 
+            xmax = 1.3606805573826897 
+            text = "[sta]"
+        intervals [4]:
+            xmin = 1.3606805573826897 
+            xmax = 1.4891467405652967 
+            text = "[ext]"
+        intervals [5]:
+            xmin = 1.4891467405652967 
+            xmax = 3.1150181715689449 
+            text = "(s) lumk_>Ela iJd-\Za iNgak_>ulumi (/s)"
+        intervals [6]:
+            xmin = 3.1150181715689449 
+            xmax = 3.4301116201780411 
+            text = "[spk]"
+        intervals [7]:
+            xmin = 3.4301116201780411 
+            xmax = 5.2320000000000002 
+            text = "0"

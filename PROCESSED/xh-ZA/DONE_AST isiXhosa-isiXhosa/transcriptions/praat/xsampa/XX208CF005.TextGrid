@@ -1,0 +1,60 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 8.3640000000000008 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 8.3640000000000008 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.25178163106285228 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.25178163106285228 
+            xmax = 1.7870390540687195 
+            text = "(s) [sta] ndineminyaka eyi ($)eighteen(/$) [/sta] (/s)" 
+        intervals [3]:
+            xmin = 1.7870390540687195 
+            xmax = 2.0726332081887091 
+            text = "[sta]" 
+        intervals [4]:
+            xmin = 2.0726332081887091 
+            xmax = 2.7394239265728255 
+            text = "0" 
+        intervals [5]:
+            xmin = 2.7394239265728255 
+            xmax = 8.3640000000000008 
+            text = "[int]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 8.3640000000000008 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.25178163106285228 
+            text = "0"
+        intervals [2]:
+            xmin = 0.25178163106285228 
+            xmax = 1.7870390540687195 
+            text = "(s) [sta] ndinemiJak_>a eji ($)E-\itin(/$) [/sta] (/s)"
+        intervals [3]:
+            xmin = 1.7870390540687195 
+            xmax = 2.0726332081887091 
+            text = "[sta]"
+        intervals [4]:
+            xmin = 2.0726332081887091 
+            xmax = 2.7394239265728255 
+            text = "0"
+        intervals [5]:
+            xmin = 2.7394239265728255 
+            xmax = 8.3640000000000008 
+            text = "[int]"

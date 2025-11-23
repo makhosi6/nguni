@@ -1,0 +1,68 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 12.6 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 12.6 
+        intervals: size = 6 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.069005928705181976 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.069005928705181976 
+            xmax = 0.90403917543659873 
+            text = "(u) *ibinzana (/u)" 
+        intervals [3]:
+            xmin = 0.90403917543659873 
+            xmax = 1.4295844623456464 
+            text = "0" 
+        intervals [4]:
+            xmin = 1.4295844623456464 
+            xmax = 3.6123114350238077 
+            text = "(s) nceda yiya [ext] phambili (/s)" 
+        intervals [5]:
+            xmin = 3.6123114350238077 
+            xmax = 4.7101342460341247 
+            text = "0" 
+        intervals [6]:
+            xmin = 4.7101342460341247 
+            xmax = 12.6 
+            text = "[int]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 12.6 
+        intervals: size = 6 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.069005928705181976 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.069005928705181976 
+            xmax = 0.90403917543659873 
+            text = "(u) b_<ind-\zan (/u)" 
+        intervals [3]:
+            xmin = 0.90403917543659873 
+            xmax = 1.4295844623456464 
+            text = "0" 
+        intervals [4]:
+            xmin = 1.4295844623456464 
+            xmax = 3.6123114350238077 
+            text = "(s) |\~Eda jija [ext] p_hambili (/s)" 
+        intervals [5]:
+            xmin = 3.6123114350238077 
+            xmax = 4.7101342460341247 
+            text = "0" 
+        intervals [6]:
+            xmin = 4.7101342460341247 
+            xmax = 12.6 
+            text = "[int]" 

@@ -1,0 +1,68 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 15.384 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic"
+        xmin = 0 
+        xmax = 15.384 
+        intervals: size = 6
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.32159299325028584 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.32159299325028584 
+            xmax = 1.1234932755846547 
+            text = "[spk]" 
+        intervals [3]:
+            xmin = 1.1234932755846547 
+            xmax = 12.170003468569256 
+            text = "(s) amawaka mane eeranti 0 likhulu [int] linye 0 linamashumi asibhozo anethoba eeranti 0 libe namashumi amathathu ananye eesenti [/int] (/s)"
+        intervals [4]:
+            xmin = 12.170003468569256 
+            xmax = 12.868973881540999 
+            text = "[spk]" 
+        intervals [5]:
+            xmin = 12.868973881540999 
+            xmax = 14.123299268456378 
+            text = "0" 
+        intervals [6]:
+            xmin = 14.123299268456378 
+            xmax = 15.384 
+            text = "[sta]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 15.384 
+        intervals: size = 6
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.32159299325028584 
+            text = "0"
+        intervals [2]:
+            xmin = 0.32159299325028584 
+            xmax = 1.1234932755846547 
+            text = "[spk]"
+        intervals [3]:
+            xmin = 1.1234932755846547 
+            xmax = 12.170003468569256 
+            text = "(s) amawak_>a manE E:rant_>i 0 lik_hulu [int] liJE 0 namaSum asib_0OzO anEt_hOb_<a E:rant_>i 0 b_<E namaSum amat_hat_hu anaJE E:sent_> [/int] (/s)"
+        intervals [4]:
+            xmin = 12.170003468569256 
+            xmax = 12.868973881540999 
+            text = "[spk]"
+        intervals [5]:
+            xmin = 12.868973881540999 
+            xmax = 14.123299268456378 
+            text = "0"
+        intervals [6]:
+            xmin = 14.123299268456378 
+            xmax = 15.384 
+            text = "[sta]"

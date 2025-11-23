@@ -1,0 +1,60 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 11.327999999999999 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic"
+        xmin = 0 
+        xmax = 11.327999999999999 
+        intervals: size = 5
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.35837399690342947 
+            text = "[int]" 
+        intervals [2]:
+            xmin = 0.35837399690342947 
+            xmax = 1.427317632114308 
+            text = "(u) [int] ibinzana [/int] (/u)" 
+        intervals [3]:
+            xmin = 1.427317632114308 
+            xmax = 1.9434736051150392 
+            text = "[int]" 
+        intervals [4]:
+            xmin = 1.9434736051150392 
+            xmax = 5.3183395824275124 
+            text = "(s) [int] sendive ngokwaneleyo 0 ungayeka ngoku [/int] (/s)" 
+        intervals [5]:
+            xmin = 5.3183395824275124 
+            xmax = 11.327999999999999 
+            text = "[int]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 11.327999999999999 
+        intervals: size = 5
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.35837399690342947 
+            text = "[int]"
+        intervals [2]:
+            xmin = 0.35837399690342947 
+            xmax = 1.427317632114308 
+            text = "(u) [int] ib_<ind-\zana [/int] (/u)"
+        intervals [3]:
+            xmin = 1.427317632114308 
+            xmax = 1.9434736051150392 
+            text = "[int]"
+        intervals [4]:
+            xmin = 1.9434736051150392 
+            xmax = 5.3183395824275124 
+            text = "(s) [int] sendivE NgOk_>wanElE:jO 0 uNgajE:k_>a Ngok_>u [/int] (/s)"
+        intervals [5]:
+            xmin = 5.3183395824275124 
+            xmax = 11.327999999999999 
+            text = "[int]"

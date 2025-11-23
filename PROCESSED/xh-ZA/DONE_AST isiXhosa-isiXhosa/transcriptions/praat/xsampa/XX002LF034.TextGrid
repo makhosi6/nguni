@@ -1,0 +1,68 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 23.616 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 23.616 
+        intervals: size = 6 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.16961445609457221 
+            text = "[sta]" 
+        intervals [2]:
+            xmin = 0.16961445609457221 
+            xmax = 1.239564759037548 
+            text = "(u) [sta] *okanye ibinzana [/sta] (/u)" 
+        intervals [3]:
+            xmin = 1.239564759037548 
+            xmax = 1.5394247116603828 
+            text = "[spk]" 
+        intervals [4]:
+            xmin = 1.5394247116603828 
+            xmax = 4.0134355704946847 
+            text = "(u) [sta] izinto zokwenza ikofu [/sta] (/u)" 
+        intervals [5]:
+            xmin = 4.0134355704946847 
+            xmax = 4.7353729225051673 
+            text = "[sta]" 
+        intervals [6]:
+            xmin = 4.7353729225051673 
+            xmax = 23.616 
+            text = "0" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 23.616 
+        intervals: size = 6 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.16961445609457221 
+            text = "[sta]" 
+        intervals [2]:
+            xmin = 0.16961445609457221 
+            xmax = 1.239564759037548 
+            text = "(u) [sta] ik_>aJE ib_<ind-\zana [/sta] (/u)" 
+        intervals [3]:
+            xmin = 1.239564759037548 
+            xmax = 1.5394247116603828 
+            text = "[spk]" 
+        intervals [4]:
+            xmin = 1.5394247116603828 
+            xmax = 4.0134355704946847 
+            text = "(u) [sta] izint_>O zOk_>wEnd-\za ikof [/sta] (/u)" 
+        intervals [5]:
+            xmin = 4.0134355704946847 
+            xmax = 4.7353729225051673 
+            text = "[sta]" 
+        intervals [6]:
+            xmin = 4.7353729225051673 
+            xmax = 23.616 
+            text = "0" 

@@ -1,0 +1,68 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 4.7039999999999997 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 4.7039999999999997 
+        intervals: size = 6 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.086442826609561207 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.086442826609561207 
+            xmax = 0.64304078463158576 
+            text = "[int]" 
+        intervals [3]:
+            xmin = 0.64304078463158576 
+            xmax = 1.5212266352514248 
+            text = "(u) itshekhi (/u)" 
+        intervals [4]:
+            xmin = 1.5212266352514248 
+            xmax = 2.6656574379248918 
+            text = "[int]" 
+        intervals [5]:
+            xmin = 2.6656574379248918 
+            xmax = 4.1077692265728416 
+            text = "0" 
+        intervals [6]:
+            xmin = 4.1077692265728416 
+            xmax = 4.7039999999999997 
+            text = "[int]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 4.7039999999999997 
+        intervals: size = 6 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.086442826609561207 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.086442826609561207 
+            xmax = 0.64304078463158576 
+            text = "[int]" 
+        intervals [3]:
+            xmin = 0.64304078463158576 
+            xmax = 1.5212266352514248 
+            text = "(u) it-\S_hek_hi (/u)" 
+        intervals [4]:
+            xmin = 1.5212266352514248 
+            xmax = 2.6656574379248918 
+            text = "[int]" 
+        intervals [5]:
+            xmin = 2.6656574379248918 
+            xmax = 4.1077692265728416 
+            text = "0" 
+        intervals [6]:
+            xmin = 4.1077692265728416 
+            xmax = 4.7039999999999997 
+            text = "[int]" 

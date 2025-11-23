@@ -1,0 +1,44 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 5.6879999999999997 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 5.6879999999999997 
+        intervals: size = 3 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.55425044971099047 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.55425044971099047 
+            xmax = 3.663130243763042 
+            text = "(u) ($)Headman(/$) 0 Mkhontwana (/u)" 
+        intervals [3]:
+            xmin = 3.663130243763042 
+            xmax = 5.6879999999999997 
+            text = "0" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 5.6879999999999997 
+        intervals: size = 3 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.55425044971099047 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.55425044971099047 
+            xmax = 3.663130243763042 
+            text = "(u) ($)hEdm{n(/$) 0 mk_hOnt_>wana (/u)" 
+        intervals [3]:
+            xmin = 3.663130243763042 
+            xmax = 5.6879999999999997 
+            text = "0" 

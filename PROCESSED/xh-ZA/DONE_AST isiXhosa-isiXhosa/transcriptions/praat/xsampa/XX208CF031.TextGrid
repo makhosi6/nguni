@@ -1,0 +1,60 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 49.5 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 49.5 
+        intervals: size = 5
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.5573646142588764 
+            text = "[int]" 
+        intervals [2]:
+            xmin = 0.5573646142588764 
+            xmax = 2.2489901895249242 
+            text = "(u) [int] isambuku semali [/int] (/u)" 
+        intervals [3]:
+            xmin = 2.2489901895249242 
+            xmax = 3.1314352638501126 
+            text = "[int]" 
+        intervals [4]:
+            xmin = 3.1314352638501126 
+            xmax = 7.8786850098266932 
+            text = "(s) yi 0 ($)two hundred 0 [ext] and twelve 0 fifty nine [sta] cents [/sta](/$) (/s)"
+        intervals [5]:
+            xmin = 7.8786850098266932 
+            xmax = 49.5 
+            text = "[int]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 49.5 
+        intervals: size = 5
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.5573646142588764 
+            text = "[int]"
+        intervals [2]:
+            xmin = 0.5573646142588764 
+            xmax = 2.2489901895249242 
+            text = "(u) [int] isambuk_>u sEmali [/int] (/u)"
+        intervals [3]:
+            xmin = 2.2489901895249242 
+            xmax = 3.1314352638501126 
+            text = "[int]"
+        intervals [4]:
+            xmin = 3.1314352638501126 
+            xmax = 7.8786850098266932 
+            text = "(s) ji 0 ($)tu handr@t 0 [ext] {n t_>welf 0 fifti na-\in [sta] sEnt [/sta](/$) (/s)"
+        intervals [5]:
+            xmin = 7.8786850098266932 
+            xmax = 49.5 
+            text = "[int]"

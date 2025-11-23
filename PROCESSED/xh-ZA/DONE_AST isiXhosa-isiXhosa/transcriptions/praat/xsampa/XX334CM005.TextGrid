@@ -1,0 +1,52 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 4.2119999999999997 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic"
+        xmin = 0 
+        xmax = 4.2119999999999997 
+        intervals: size = 4
+        intervals [1]:
+            xmin = 0 
+            xmax = 2.1738031451441522 
+            text = "(u) ~minyaka 0 engamashumi mane (/u)"
+        intervals [2]:
+            xmin = 2.1738031451441522 
+            xmax = 2.7678878454548212 
+            text = "[spk]" 
+        intervals [3]:
+            xmin = 2.7678878454548212 
+            xmax = 3.3490576609761278 
+            text = "0" 
+        intervals [4]:
+            xmin = 3.3490576609761278 
+            xmax = 4.2119999999999997 
+            text = "[sta]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 4.2119999999999997 
+        intervals: size = 4
+        intervals [1]:
+            xmin = 0 
+            xmax = 2.1738031451441522 
+            text = "(u) miJak_>a 0 ENgamaSumi manE (/u)"
+        intervals [2]:
+            xmin = 2.1738031451441522 
+            xmax = 2.7678878454548212 
+            text = "[spk]"
+        intervals [3]:
+            xmin = 2.7678878454548212 
+            xmax = 3.3490576609761278 
+            text = "0"
+        intervals [4]:
+            xmin = 3.3490576609761278 
+            xmax = 4.2119999999999997 
+            text = "[sta]"

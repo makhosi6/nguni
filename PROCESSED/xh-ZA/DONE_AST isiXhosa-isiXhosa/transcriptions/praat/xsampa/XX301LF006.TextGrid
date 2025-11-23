@@ -1,0 +1,68 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 18.347999999999999 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 18.347999999999999 
+        intervals: size = 6 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.07455560102405577 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.07455560102405577 
+            xmax = 1.1169068170058203 
+            text = "[sta]" 
+        intervals [3]:
+            xmin = 1.1169068170058203 
+            xmax = 3.2998200087861136 
+            text = "(u) [int] ($)eleven oh one seven one(/$) [/int] (/u)" 
+        intervals [4]:
+            xmin = 3.2998200087861136 
+            xmax = 5.5362627946447907 
+            text = "[int]" 
+        intervals [5]:
+            xmin = 5.5362627946447907 
+            xmax = 10.262245267660084 
+            text = "(u) [int] umhla weshumi elinanye kwinyanga yokuqala 0 ngonyaka ka ($)nineteen seventy one(/$) [/int] (/u)" 
+        intervals [6]:
+            xmin = 10.262245267660084 
+            xmax = 18.347999999999999 
+            text = "[int]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 18.347999999999999 
+        intervals: size = 6 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.07455560102405577 
+            text = "0"
+        intervals [2]:
+            xmin = 0.07455560102405577 
+            xmax = 1.1169068170058203 
+            text = "[sta]"
+        intervals [3]:
+            xmin = 1.1169068170058203 
+            xmax = 3.2998200087861136 
+            text = "(u) [int] ($)lEvEn @-\U wan sEv@n wan(/$) [/int] (/u)"
+        intervals [4]:
+            xmin = 3.2998200087861136 
+            xmax = 5.5362627946447907 
+            text = "[int]"
+        intervals [5]:
+            xmin = 5.5362627946447907 
+            xmax = 10.262245267660084 
+            text = "(u) [int] m=Ka weSum elinaJE k_>wiJaNga jo!\ala 0 NgOJak_>a k_>a ($)na-\intin sEv@nt_> wan(/$) [/int] (/u)"
+        intervals [6]:
+            xmin = 10.262245267660084 
+            xmax = 18.347999999999999 
+            text = "[int]"

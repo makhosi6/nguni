@@ -1,0 +1,68 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 21.456 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 21.456 
+        intervals: size = 6 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.71167896861939495 
+            text = "[sta]" 
+        intervals [2]:
+            xmin = 0.71167896861939495 
+            xmax = 1.1064108319250345 
+            text = "[spk]" 
+        intervals [3]:
+            xmin = 1.1064108319250345 
+            xmax = 16.47293161524501 
+            text = "(u) [sta] inombolo yesazisi sam 0 ($)six 0 eight 0 oh 0 five 0 sixteen 0 oh 0 two six nine [spk] oh eight six(/$) [/sta] (/u)" 
+        intervals [4]:
+            xmin = 16.47293161524501 
+            xmax = 18.639084427083858 
+            text = "[sta]" 
+        intervals [5]:
+            xmin = 18.639084427083858 
+            xmax = 20.448272133901373 
+            text = "0" 
+        intervals [6]:
+            xmin = 20.448272133901373 
+            xmax = 21.456 
+            text = "[int]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 21.456 
+        intervals: size = 6 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.71167896861939495 
+            text = "[sta]"
+        intervals [2]:
+            xmin = 0.71167896861939495 
+            xmax = 1.1064108319250345 
+            text = "[spk]"
+        intervals [3]:
+            xmin = 1.1064108319250345 
+            xmax = 16.47293161524501 
+            text = "(u) [sta] inOmbOlO jEsazisi sam= 0 ($)siks 0 e-\It 0 O-\u 0 fa-\If 0 siksti:n 0 O: 0 tu siks na-\In [spk] O-\u Et siks(/$) [/sta] (/u)"
+        intervals [4]:
+            xmin = 16.47293161524501 
+            xmax = 18.639084427083858 
+            text = "[sta]"
+        intervals [5]:
+            xmin = 18.639084427083858 
+            xmax = 20.448272133901373 
+            text = "0"
+        intervals [6]:
+            xmin = 20.448272133901373 
+            xmax = 21.456 
+            text = "[int]"

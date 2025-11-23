@@ -1,0 +1,134 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0
+xmax = 1.505000
+tiers? <exists>
+size = 5
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "segment"
+		xmin = 0
+		xmax = 1.505000
+		intervals: size = 10
+		intervals [1]:
+			xmin = 0.000000
+			xmax = 0.125000
+			text = "pau"
+		intervals [2]:
+			xmin = 0.125000
+			xmax = 0.340000
+			text = "ɦ"
+		intervals [3]:
+			xmin = 0.340000
+			xmax = 0.455000
+			text = "ɔ"
+		intervals [4]:
+			xmin = 0.455000
+			xmax = 0.490000
+			text = "ɦ"
+		intervals [5]:
+			xmin = 0.490000
+			xmax = 0.610000
+			text = "a"
+		intervals [6]:
+			xmin = 0.610000
+			xmax = 0.695000
+			text = "n"
+		intervals [7]:
+			xmin = 0.695000
+			xmax = 0.985000
+			text = "ɛ"
+		intervals [8]:
+			xmin = 0.985000
+			xmax = 1.060000
+			text = "l"
+		intervals [9]:
+			xmin = 1.060000
+			xmax = 1.145000
+			text = "a"
+		intervals [10]:
+			xmin = 1.145000
+			xmax = 1.505000
+			text = "pau"
+	item [2]:
+		class = "IntervalTier"
+		name = "syllable"
+		xmin = 0
+		xmax = 1.505000
+		intervals: size = 6
+		intervals [1]:
+			xmin = 0.000000
+			xmax = 0.125000
+			text = "NONE"
+		intervals [2]:
+			xmin = 0.125000
+			xmax = 0.455000
+			text = "syl"
+		intervals [3]:
+			xmin = 0.455000
+			xmax = 0.610000
+			text = "syl"
+		intervals [4]:
+			xmin = 0.610000
+			xmax = 0.985000
+			text = "syl"
+		intervals [5]:
+			xmin = 0.985000
+			xmax = 1.145000
+			text = "syl"
+		intervals [6]:
+			xmin = 1.145000
+			xmax = 1.505000
+			text = "NONE"
+	item [3]:
+		class = "IntervalTier"
+		name = "word"
+		xmin = 0
+		xmax = 1.505000
+		intervals: size = 4
+		intervals [1]:
+			xmin = 0.000000
+			xmax = 0.125000
+			text = "NONE"
+		intervals [2]:
+			xmin = 0.125000
+			xmax = 0.455000
+			text = "ho"
+		intervals [3]:
+			xmin = 0.455000
+			xmax = 1.145000
+			text = "hanela"
+		intervals [4]:
+			xmin = 1.145000
+			xmax = 1.505000
+			text = "NONE"
+	item [4]:
+		class = "IntervalTier"
+		name = "phrase"
+		xmin = 0
+		xmax = 1.505000
+		intervals: size = 3
+		intervals [1]:
+			xmin = 0.000000
+			xmax = 0.125000
+			text = "NONE"
+		intervals [2]:
+			xmin = 0.125000
+			xmax = 1.145000
+			text = "BB"
+		intervals [3]:
+			xmin = 1.145000
+			xmax = 1.505000
+			text = "NONE"
+	item [5]:
+		class = "IntervalTier"
+		name = "text"
+		xmin = 0
+		xmax = 1.505000
+		intervals: size = 1
+		intervals [1]:
+			xmin = 0.000000
+			xmax = 1.505000
+			text = "Ho hanela"

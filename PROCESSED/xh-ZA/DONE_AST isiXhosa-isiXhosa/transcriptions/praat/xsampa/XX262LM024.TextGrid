@@ -1,0 +1,52 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 8.0399999999999991 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 8.0399999999999991 
+        intervals: size = 4
+        intervals [1]:
+            xmin = 0 
+            xmax = 3.2003095558546431 
+            text = "(u) ~ine ngomhla wesixhenxe kweyeKhala ($)two [int] oh [/int] oh three(/$) (/u)"
+        intervals [2]:
+            xmin = 3.2003095558546431 
+            xmax = 4.3466435604489009 
+            text = "[int]" 
+        intervals [3]:
+            xmin = 4.3466435604489009 
+            xmax = 5.8500400890868596 
+            text = "(u) [sta] ($)thirty five rand fifty one(/$) [/sta] (/u)" 
+        intervals [4]:
+            xmin = 5.8500400890868596 
+            xmax = 8.0399999999999991 
+            text = "[int]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 8.0399999999999991 
+        intervals: size = 4
+        intervals [1]:
+            xmin = 0 
+            xmax = 3.2003095558546431 
+            text = "(u) inE NgOm=Ka wes|\|\_hE|\|\~E k_>wEjEk_hala ($)tu [int] @-\U [/int] @-\U tri(/$) (/u)"
+        intervals [2]:
+            xmin = 3.2003095558546431 
+            xmax = 4.3466435604489009 
+            text = "[int]"
+        intervals [3]:
+            xmin = 4.3466435604489009 
+            xmax = 5.8500400890868596 
+            text = "(u) [sta] ($)Teti fa-\if rant fifti wan(/$) [/sta] (/u)"
+        intervals [4]:
+            xmin = 5.8500400890868596 
+            xmax = 8.0399999999999991 
+            text = "[int]"

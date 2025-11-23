@@ -1,0 +1,68 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 3.7440000000000002 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 3.7440000000000002 
+        intervals: size = 6 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.2791642093119745 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.2791642093119745 
+            xmax = 0.88759878161082406 
+            text = "[spk]" 
+        intervals [3]:
+            xmin = 0.88759878161082406 
+            xmax = 1.7543310496969211 
+            text = "(u) emalanga (/u)" 
+        intervals [4]:
+            xmin = 1.7543310496969211 
+            xmax = 2.1044679262085233 
+            text = "[int]" 
+        intervals [5]:
+            xmin = 2.1044679262085233 
+            xmax = 3.3442968659873107 
+            text = "0" 
+        intervals [6]:
+            xmin = 3.3442968659873107 
+            xmax = 3.7440000000000002 
+            text = "[spk]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 3.7440000000000002 
+        intervals: size = 6 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.2791642093119745 
+            text = "0"
+        intervals [2]:
+            xmin = 0.2791642093119745 
+            xmax = 0.88759878161082406 
+            text = "[spk]"
+        intervals [3]:
+            xmin = 0.88759878161082406 
+            xmax = 1.7543310496969211 
+            text = "(u) Emala:Nga (/u)"
+        intervals [4]:
+            xmin = 1.7543310496969211 
+            xmax = 2.1044679262085233 
+            text = "[int]"
+        intervals [5]:
+            xmin = 2.1044679262085233 
+            xmax = 3.3442968659873107 
+            text = "0"
+        intervals [6]:
+            xmin = 3.3442968659873107 
+            xmax = 3.7440000000000002 
+            text = "[spk]"

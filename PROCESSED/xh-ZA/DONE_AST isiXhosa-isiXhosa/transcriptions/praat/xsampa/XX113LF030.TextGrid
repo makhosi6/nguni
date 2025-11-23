@@ -1,0 +1,60 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 3.4079999999999999 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic"
+        xmin = 0 
+        xmax = 3.4079999999999999 
+        intervals: size = 5
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.28545996215302727 
+            text = "0"
+        intervals [2]:
+            xmin = 0.28545996215302727 
+            xmax = 0.89917735570469792 
+            text = "(s) bhukisha (/s)"
+        intervals [3]:
+            xmin = 0.89917735570469792 
+            xmax = 1.5185187059168783 
+            text = "[spk]"
+        intervals [4]:
+            xmin = 1.5185187059168783 
+            xmax = 3.1443460268456378 
+            text = "[sta]"
+        intervals [5]:
+            xmin = 3.1443460268456378 
+            xmax = 3.4079999999999999 
+            text = "[spk]"
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 3.4079999999999999 
+        intervals: size = 5
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.28545996215302727 
+            text = "0"
+        intervals [2]:
+            xmin = 0.28545996215302727 
+            xmax = 0.89917735570469792 
+            text = "(s) b_0uk_>iSa (/s)"
+        intervals [3]:
+            xmin = 0.89917735570469792 
+            xmax = 1.5185187059168783 
+            text = "[spk]"
+        intervals [4]:
+            xmin = 1.5185187059168783 
+            xmax = 3.1443460268456378 
+            text = "[sta]"
+        intervals [5]:
+            xmin = 3.1443460268456378 
+            xmax = 3.4079999999999999 
+            text = "[spk]"

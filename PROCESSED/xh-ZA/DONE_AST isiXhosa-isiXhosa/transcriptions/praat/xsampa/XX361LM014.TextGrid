@@ -1,0 +1,52 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 409.38 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 409.38 
+        intervals: size = 4
+        intervals [1]:
+            xmin = 0 
+            xmax = 10.791624080389399 
+            text = "(s) namhlanje ngumhla wamashumi amabini anesine 0 kaNovemba ($)two 0 thousand and one(/$) (/s)" 
+        intervals [2]:
+            xmin = 10.791624080389399 
+            xmax = 12.079433104969693 
+            text = "[int]" 
+        intervals [3]:
+            xmin = 12.079433104969693 
+            xmax = 14.864767795328406 
+            text = "(u) [fil]yho ($)two thousand 0 sorry(/$) (/u)" 
+        intervals [4]:
+            xmin = 14.864767795328406 
+            xmax = 409.38 
+            text = "[int]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 409.38 
+        intervals: size = 4
+        intervals [1]:
+            xmin = 0 
+            xmax = 10.791624080389399 
+            text = "(s) namKaJd-\ZE NgumKa wamaSumi amab_<ini anesi:nE 0 k_>anOvE:mba ($)tu: 0 Ta-\Uz@nt {nt wan(/$) (/s)"
+        intervals [2]:
+            xmin = 10.791624080389399 
+            xmax = 12.079433104969693 
+            text = "[int]"
+        intervals [3]:
+            xmin = 12.079433104969693 
+            xmax = 14.864767795328406 
+            text = "(u) jO ($)tu: Ta-\uUz@nt 0 sOri(/$) (/u)"
+        intervals [4]:
+            xmin = 14.864767795328406 
+            xmax = 409.38 
+            text = "[int]"

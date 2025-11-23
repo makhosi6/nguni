@@ -1,0 +1,76 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 12.936 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 12.936 
+        intervals: size = 7 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.15151759727772371 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.15151759727772371 
+            xmax = 1.5369708414065904 
+            text = "(u) uthotho lwamanani (/u)" 
+        intervals [3]:
+            xmin = 1.5369708414065904 
+            xmax = 2.623008502057075 
+            text = "0" 
+        intervals [4]:
+            xmin = 2.623008502057075 
+            xmax = 3.3715096037304262 
+            text = "[spk]" 
+        intervals [5]:
+            xmin = 3.3715096037304262 
+            xmax = 10.874076670745405 
+            text = "(u) ngu 0 ($)two(/$) 0 no ($)five(/$) 0 no ($)nought(/$) 0 no ($)six(/$) no ($)nine(/$) no 0 ($)eight(/$) 0 no ($)seven(/$) 0 [spk] no ($)one(/$) 0 no 0 ($)three(/$) 0 no ($)four(/$) (/u)" 
+        intervals [6]:
+            xmin = 10.874076670745405 
+            xmax = 12.344010515707115 
+            text = "0" 
+        intervals [7]:
+            xmin = 12.344010515707115 
+            xmax = 12.936 
+            text = "[sta]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 12.936 
+        intervals: size = 7 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.15151759727772371 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.15151759727772371 
+            xmax = 1.5369708414065904 
+            text = "(u) ut_hOt_hO lwamanani (/u)" 
+        intervals [3]:
+            xmin = 1.5369708414065904 
+            xmax = 2.623008502057075 
+            text = "0" 
+        intervals [4]:
+            xmin = 2.623008502057075 
+            xmax = 3.3715096037304262 
+            text = "[spk]" 
+        intervals [5]:
+            xmin = 3.3715096037304262 
+            xmax = 10.874076670745405 
+            text = "(u) Ngu 0 ($)tu:(/$) 0 nO ($)fa-\if(/$) 0 nO ($)nOt(/$) 0 nO ($)siks(/$) nO ($)na-\in(/$) nO 0 ($)E-\it(/$) 0 nO ($)sEvEn(/$) 0 [spk] nO ($)wan(/$) 0 nO 0 ($)Tri:(/$) 0 nO ($)fO:(/$) (/u)" 
+        intervals [6]:
+            xmin = 10.874076670745405 
+            xmax = 12.344010515707115 
+            text = "0" 
+        intervals [7]:
+            xmin = 12.344010515707115 
+            xmax = 12.936 
+            text = "[sta]" 

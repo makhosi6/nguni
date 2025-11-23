@@ -1,0 +1,60 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 8.6400000000000006 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 8.6400000000000006 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.2896384508895209 
+            text = "(u) [sta] isixhosa [/sta] (/u)" 
+        intervals [2]:
+            xmin = 1.2896384508895209 
+            xmax = 2.3662097369938979 
+            text = "0" 
+        intervals [3]:
+            xmin = 2.3662097369938979 
+            xmax = 4.0060644194079655 
+            text = "[int]" 
+        intervals [4]:
+            xmin = 4.0060644194079655 
+            xmax = 5.2577865625625799 
+            text = "(u) [sta] ulwumi lwam lwenkobe [/sta] (/u)" 
+        intervals [5]:
+            xmin = 5.2577865625625799 
+            xmax = 8.6400000000000006 
+            text = "0" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 8.6400000000000006 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.2896384508895209 
+            text = "(u) [sta] isi|\|\_hOsa [/sta] (/u)" 
+        intervals [2]:
+            xmin = 1.2896384508895209 
+            xmax = 2.3662097369938979 
+            text = "0" 
+        intervals [3]:
+            xmin = 2.3662097369938979 
+            xmax = 4.0060644194079655 
+            text = "[int]" 
+        intervals [4]:
+            xmin = 4.0060644194079655 
+            xmax = 5.2577865625625799 
+            text = "(u) [sta] ulwumi lwam lwENk_>Ob_<E [/sta] (/u)" 
+        intervals [5]:
+            xmin = 5.2577865625625799 
+            xmax = 8.6400000000000006 
+            text = "0" 

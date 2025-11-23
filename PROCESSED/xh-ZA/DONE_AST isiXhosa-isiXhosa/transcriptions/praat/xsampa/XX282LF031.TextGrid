@@ -1,0 +1,60 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 4.5720000000000001 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 4.5720000000000001 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.54145698293126876 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.54145698293126876 
+            xmax = 2.1423081087645088 
+            text = "(u) i ($)Vanderbylpark(/$) (/u)" 
+        intervals [3]:
+            xmin = 2.1423081087645088 
+            xmax = 2.5298198203636972 
+            text = "[spk]" 
+        intervals [4]:
+            xmin = 2.5298198203636972 
+            xmax = 3.9869418100158525 
+            text = "0" 
+        intervals [5]:
+            xmin = 3.9869418100158525 
+            xmax = 4.5720000000000001 
+            text = "[sta]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 4.5720000000000001 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.54145698293126876 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.54145698293126876 
+            xmax = 2.1423081087645088 
+            text = "(u) i ($)fand@bE-\ilpak(/$) (/u)" 
+        intervals [3]:
+            xmin = 2.1423081087645088 
+            xmax = 2.5298198203636972 
+            text = "[spk]" 
+        intervals [4]:
+            xmin = 2.5298198203636972 
+            xmax = 3.9869418100158525 
+            text = "0" 
+        intervals [5]:
+            xmin = 3.9869418100158525 
+            xmax = 4.5720000000000001 
+            text = "[sta]" 

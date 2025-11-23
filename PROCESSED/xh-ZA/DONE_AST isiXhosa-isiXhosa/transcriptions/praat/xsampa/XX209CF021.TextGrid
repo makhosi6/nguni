@@ -1,0 +1,68 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 10.308 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic"
+        xmin = 0 
+        xmax = 10.308 
+        intervals: size = 6
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.39127844036697251 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.39127844036697251 
+            xmax = 2.0606741267649529 
+            text = "[int]" 
+        intervals [3]:
+            xmin = 2.0606741267649529 
+            xmax = 5.3982183120805374 
+            text = "(s) umfazi usika 0 ngemela yakhe (/s)" 
+        intervals [4]:
+            xmin = 5.3982183120805374 
+            xmax = 7.1531119420354381 
+            text = "0" 
+        intervals [5]:
+            xmin = 7.1531119420354381 
+            xmax = 7.927471508515568 
+            text = "[int]" 
+        intervals [6]:
+            xmin = 7.927471508515568 
+            xmax = 10.308 
+            text = "[sta]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 10.308 
+        intervals: size = 6
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.39127844036697251 
+            text = "0"
+        intervals [2]:
+            xmin = 0.39127844036697251 
+            xmax = 2.0606741267649529 
+            text = "[int]"
+        intervals [3]:
+            xmin = 2.0606741267649529 
+            xmax = 5.3982183120805374 
+            text = "(s) um=fazi usik_>a 0 NgEmEla jak_hE (/s)"
+        intervals [4]:
+            xmin = 5.3982183120805374 
+            xmax = 7.1531119420354381 
+            text = "0"
+        intervals [5]:
+            xmin = 7.1531119420354381 
+            xmax = 7.927471508515568 
+            text = "[int]"
+        intervals [6]:
+            xmin = 7.927471508515568 
+            xmax = 10.308 
+            text = "[sta]"

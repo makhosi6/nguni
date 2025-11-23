@@ -1,0 +1,68 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 4.2611249999999998 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 4.2611249999999998 
+        intervals: size = 6 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.18706752275625132 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.18706752275625132 
+            xmax = 1.2127102502428682 
+            text = "[int]" 
+        intervals [3]:
+            xmin = 1.2127102502428682 
+            xmax = 2.275368259747383 
+            text = "(u) [sta] ($)ten to seven(/$) [/sta] (/u)" 
+        intervals [4]:
+            xmin = 2.275368259747383 
+            xmax = 2.8809196186909851 
+            text = "[int]" 
+        intervals [5]:
+            xmin = 2.8809196186909851 
+            xmax = 4.1183506565322592 
+            text = "(u) [sta] ($)ten to seven(/$) [/sta] (/u)" 
+        intervals [6]:
+            xmin = 4.1183506565322592 
+            xmax = 4.2611249999999998 
+            text = "0" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 4.2611249999999998 
+        intervals: size = 6 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.18706752275625132 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.18706752275625132 
+            xmax = 1.2127102502428682 
+            text = "[int]" 
+        intervals [3]:
+            xmin = 1.2127102502428682 
+            xmax = 2.275368259747383 
+            text = "(u) [sta] ($)tEn tu: sEvEn(/$) [/sta] (/u)" 
+        intervals [4]:
+            xmin = 2.275368259747383 
+            xmax = 2.8809196186909851 
+            text = "[int]" 
+        intervals [5]:
+            xmin = 2.8809196186909851 
+            xmax = 4.1183506565322592 
+            text = "(u) [sta] ($)tEn tu: sEvEn(/$) [/sta] (/u)" 
+        intervals [6]:
+            xmin = 4.1183506565322592 
+            xmax = 4.2611249999999998 
+            text = "0" 

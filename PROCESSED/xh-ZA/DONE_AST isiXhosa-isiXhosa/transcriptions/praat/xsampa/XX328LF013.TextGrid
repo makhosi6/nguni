@@ -1,0 +1,76 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 4.2960000000000003 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 4.2960000000000003 
+        intervals: size = 7
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.22411483933165616 
+            text = "[spk]" 
+        intervals [2]:
+            xmin = 0.22411483933165616 
+            xmax = 0.32440600214047555 
+            text = "[ext]" 
+        intervals [3]:
+            xmin = 0.32440600214047555 
+            xmax = 1.6051304114654636 
+            text = "(s) [int] ndihlala e ($)female barracks(/$) [/int] (/s)" 
+        intervals [4]:
+            xmin = 1.6051304114654636 
+            xmax = 1.9338227223959645 
+            text = "**" 
+        intervals [5]:
+            xmin = 1.9338227223959645 
+            xmax = 2.5058762617449664 
+            text = "[spk]" 
+        intervals [6]:
+            xmin = 2.5058762617449664 
+            xmax = 3.2675945436241611 
+            text = "0" 
+        intervals [7]:
+            xmin = 3.2675945436241611 
+            xmax = 4.2960000000000003 
+            text = "[int]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 4.2960000000000003 
+        intervals: size = 7
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.22411483933165616 
+            text = "[spk]"
+        intervals [2]:
+            xmin = 0.22411483933165616 
+            xmax = 0.32440600214047555 
+            text = "[ext]"
+        intervals [3]:
+            xmin = 0.32440600214047555 
+            xmax = 1.6051304114654636 
+            text = "(s) [int] ndiKala E ($)fimE-\Il baraks(/$) [/int] (/s)"
+        intervals [4]:
+            xmin = 1.6051304114654636 
+            xmax = 1.9338227223959645 
+            text = "**"
+        intervals [5]:
+            xmin = 1.9338227223959645 
+            xmax = 2.5058762617449664 
+            text = "[spk]"
+        intervals [6]:
+            xmin = 2.5058762617449664 
+            xmax = 3.2675945436241611 
+            text = "0"
+        intervals [7]:
+            xmin = 3.2675945436241611 
+            xmax = 4.2960000000000003 
+            text = "[int]"

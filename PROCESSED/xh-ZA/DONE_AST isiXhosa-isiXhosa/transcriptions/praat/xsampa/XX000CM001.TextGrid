@@ -1,0 +1,68 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 9.9000000000000004 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 9.9000000000000004 
+        intervals: size = 6 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.1348259478439176 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.1348259478439176 
+            xmax = 0.81406333802204034 
+            text = "[sta]" 
+        intervals [3]:
+            xmin = 0.81406333802204034 
+            xmax = 4.1441033548091681 
+            text = "(s) [sta] ($)hello(/$) 0 ngubani othethayo 0 thetha i ($)English(/$) [/sta] (/s)" 
+        intervals [4]:
+            xmin = 4.1441033548091681 
+            xmax = 6.3755462968773919 
+            text = "[sta]" 
+        intervals [5]:
+            xmin = 6.3755462968773919 
+            xmax = 6.8793787751677851 
+            text = "(s) ndigqibile (/s)" 
+        intervals [6]:
+            xmin = 6.8793787751677851 
+            xmax = 9.9000000000000004 
+            text = "[sta]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 9.9000000000000004 
+        intervals: size = 6 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.1348259478439176 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.1348259478439176 
+            xmax = 0.81406333802204034 
+            text = "[sta]" 
+        intervals [3]:
+            xmin = 0.81406333802204034 
+            xmax = 4.1441033548091681 
+            text = "(s) [sta] ($)halO(/$) 0 Nb_<an ut_hEt_haj 0 t_hEt_ha i ($)iNgliS(/$) [/sta] (/s)" 
+        intervals [4]:
+            xmin = 4.1441033548091681 
+            xmax = 6.3755462968773919 
+            text = "[sta]" 
+        intervals [5]:
+            xmin = 6.3755462968773919 
+            xmax = 6.8793787751677851 
+            text = "(s) !\_vib_<il (/s)" 
+        intervals [6]:
+            xmin = 6.8793787751677851 
+            xmax = 9.9000000000000004 
+            text = "[sta]" 

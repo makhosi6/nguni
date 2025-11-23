@@ -1,0 +1,100 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 9.8040000000000003 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 9.8040000000000003 
+        intervals: size = 10
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.26941582171364792 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.26941582171364792 
+            xmax = 1.4073922322630261 
+            text = "(s) [sta] [fil]u ngumhla wesingaphi namhlanje [/sta] (/s)" 
+        intervals [3]:
+            xmin = 1.4073922322630261 
+            xmax = 2.8164824664343704 
+            text = "[int]" 
+        intervals [4]:
+            xmin = 2.8164824664343704 
+            xmax = 3.157630118852186 
+            text = "(u) [sta] ($)date(/$) [/sta] (/u)" 
+        intervals [5]:
+            xmin = 3.157630118852186 
+            xmax = 3.6364082110509202 
+            text = "[sta]" 
+        intervals [6]:
+            xmin = 3.6364082110509202 
+            xmax = 4.7742401461257442 
+            text = "(u) [sta] yi *t+ yi ($)thirty(/$) [/sta] (/u)"
+        intervals [7]:
+            xmin = 4.7742401461257442 
+            xmax = 5.5528458646577619 
+            text = "**" 
+        intervals [8]:
+            xmin = 5.5528458646577619 
+            xmax = 5.7965304369746082 
+            text = "0" 
+        intervals [9]:
+            xmin = 5.7965304369746082 
+            xmax = 6.225415284252259 
+            text = "[int]" 
+        intervals [10]:
+            xmin = 6.225415284252259 
+            xmax = 9.8040000000000003 
+            text = "0" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 9.8040000000000003 
+        intervals: size = 10
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.26941582171364792 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.26941582171364792 
+            xmax = 1.4073922322630261 
+            text = "(s) [sta] u NgumKa wEsNgaph namKand-\ZE [/sta] (/s)" 
+        intervals [3]:
+            xmin = 1.4073922322630261 
+            xmax = 2.8164824664343704 
+            text = "[int]" 
+        intervals [4]:
+            xmin = 2.8164824664343704 
+            xmax = 3.157630118852186 
+            text = "(u) [sta] ($)dE-\it(/$) [/sta] (/u)" 
+        intervals [5]:
+            xmin = 3.157630118852186 
+            xmax = 3.6364082110509202 
+            text = "[sta]" 
+        intervals [6]:
+            xmin = 3.6364082110509202 
+            xmax = 4.7742401461257442 
+            text = "(u) [sta] ji t ji ($)TEti(/$) [/sta] (/u)" 
+        intervals [7]:
+            xmin = 4.7742401461257442 
+            xmax = 5.5528458646577619 
+            text = "**" 
+        intervals [8]:
+            xmin = 5.5528458646577619 
+            xmax = 5.7965304369746082 
+            text = "0" 
+        intervals [9]:
+            xmin = 5.7965304369746082 
+            xmax = 6.225415284252259 
+            text = "[int]" 
+        intervals [10]:
+            xmin = 6.225415284252259 
+            xmax = 9.8040000000000003 
+            text = "0" 

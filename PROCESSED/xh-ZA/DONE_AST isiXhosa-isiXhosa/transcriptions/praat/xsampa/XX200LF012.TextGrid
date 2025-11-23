@@ -1,0 +1,68 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 8.1240000000000006 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 8.1240000000000006 
+        intervals: size = 6 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.3779576296056426 
+            text = "[int]" 
+        intervals [2]:
+            xmin = 1.3779576296056426 
+            xmax = 2.4241736811746728 
+            text = "(u) [sta] e 0 ($)Peddie(/$) [/sta] (/u)" 
+        intervals [3]:
+            xmin = 2.4241736811746728 
+            xmax = 3.3832050617796172 
+            text = "[int]" 
+        intervals [4]:
+            xmin = 3.3832050617796172 
+            xmax = 3.74439869863083 
+            text = "0" 
+        intervals [5]:
+            xmin = 3.74439869863083 
+            xmax = 6.5592180754713167 
+            text = "[int]" 
+        intervals [6]:
+            xmin = 6.5592180754713167 
+            xmax = 8.1240000000000006 
+            text = "[sta]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 8.1240000000000006 
+        intervals: size = 6 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.3779576296056426 
+            text = "[int]"
+        intervals [2]:
+            xmin = 1.3779576296056426 
+            xmax = 2.4241736811746728 
+            text = "(u) [sta] E 0 ($)pEdi(/$) [/sta] (/u)"
+        intervals [3]:
+            xmin = 2.4241736811746728 
+            xmax = 3.3832050617796172 
+            text = "[int]"
+        intervals [4]:
+            xmin = 3.3832050617796172 
+            xmax = 3.74439869863083 
+            text = "0"
+        intervals [5]:
+            xmin = 3.74439869863083 
+            xmax = 6.5592180754713167 
+            text = "[int]"
+        intervals [6]:
+            xmin = 6.5592180754713167 
+            xmax = 8.1240000000000006 
+            text = "[sta]"

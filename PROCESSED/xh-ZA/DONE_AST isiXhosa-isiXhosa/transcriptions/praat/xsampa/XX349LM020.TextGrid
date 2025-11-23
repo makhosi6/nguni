@@ -1,0 +1,84 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 8.9039999999999999 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 8.9039999999999999 
+        intervals: size = 8
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.1544437619961612 
+            text = "[sta]" 
+        intervals [2]:
+            xmin = 1.1544437619961612 
+            xmax = 1.4198817254268108 
+            text = "[ext]" 
+        intervals [3]:
+            xmin = 1.4198817254268108 
+            xmax = 3.0569777516778522 
+            text = "[sta]" 
+        intervals [4]:
+            xmin = 3.0569777516778522 
+            xmax = 3.318636073619555 
+            text = "[spk]" 
+        intervals [5]:
+            xmin = 3.318636073619555 
+            xmax = 3.6966464899328857 
+            text = "[sta]" 
+        intervals [6]:
+            xmin = 3.6966464899328857 
+            xmax = 3.7884050914233764 
+            text = "[ext]" 
+        intervals [7]:
+            xmin = 3.7884050914233764 
+            xmax = 6.9070072105509199 
+            text = "(s) [int] umqhubi walahlekelwa yindlela yakhe [/int] (/s)"
+        intervals [8]:
+            xmin = 6.9070072105509199 
+            xmax = 8.9039999999999999 
+            text = "0" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 8.9039999999999999 
+        intervals: size = 8
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.1544437619961612 
+            text = "[sta]"
+        intervals [2]:
+            xmin = 1.1544437619961612 
+            xmax = 1.4198817254268108 
+            text = "[ext]"
+        intervals [3]:
+            xmin = 1.4198817254268108 
+            xmax = 3.0569777516778522 
+            text = "[sta]"
+        intervals [4]:
+            xmin = 3.0569777516778522 
+            xmax = 3.318636073619555 
+            text = "[spk]"
+        intervals [5]:
+            xmin = 3.318636073619555 
+            xmax = 3.6966464899328857 
+            text = "[sta]"
+        intervals [6]:
+            xmin = 3.6966464899328857 
+            xmax = 3.7884050914233764 
+            text = "[ext]"
+        intervals [7]:
+            xmin = 3.7884050914233764 
+            xmax = 6.9070072105509199 
+            text = "(s) [int] m=!\_hub_<i walaKEk_>wa jind-\K\Ela ja:k_hE [/int] (/s)"
+        intervals [8]:
+            xmin = 6.9070072105509199 
+            xmax = 8.9039999999999999 
+            text = "0"

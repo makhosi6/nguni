@@ -1,0 +1,60 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 8.5440000000000005 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 8.5440000000000005 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.50101680583433705 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.50101680583433705 
+            xmax = 3.2352922804786135 
+            text = "(u) [int] ibinzana elichaza umhla [/int] (/u)" 
+        intervals [3]:
+            xmin = 3.2352922804786135 
+            xmax = 4.1455854715661173 
+            text = "[int]" 
+        intervals [4]:
+            xmin = 4.1455854715661173 
+            xmax = 6.9143017547672994 
+            text = "(u) kwiveki ezayo ngomvulo (/u)" 
+        intervals [5]:
+            xmin = 6.9143017547672994 
+            xmax = 8.5440000000000005 
+            text = "[int]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 8.5440000000000005 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.50101680583433705 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.50101680583433705 
+            xmax = 3.2352922804786135 
+            text = "(u) [int] ib_<ind-\zana eli|\_haza umKa [/int] (/u)" 
+        intervals [3]:
+            xmin = 3.2352922804786135 
+            xmax = 4.1455854715661173 
+            text = "[int]" 
+        intervals [4]:
+            xmin = 4.1455854715661173 
+            xmax = 6.9143017547672994 
+            text = "(u) k_>wivek_>i EzajO Ngomvu:lO (/u)" 
+        intervals [5]:
+            xmin = 6.9143017547672994 
+            xmax = 8.5440000000000005 
+            text = "[int]" 

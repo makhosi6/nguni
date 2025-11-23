@@ -1,0 +1,60 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 6.6719999999999997 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 6.6719999999999997 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.043746516781114603 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.043746516781114603 
+            xmax = 0.61733089693669219 
+            text = "(u) [sta] igama [/sta] (/u)" 
+        intervals [3]:
+            xmin = 0.61733089693669219 
+            xmax = 1.158009756741839 
+            text = "[sta]" 
+        intervals [4]:
+            xmin = 1.158009756741839 
+            xmax = 4.7583344653284163 
+            text = "(u) [sta] ibinzana inkonzo 0 *yakus+ 0 yokuvusa [/sta] (/u)" 
+        intervals [5]:
+            xmin = 4.7583344653284163 
+            xmax = 6.6719999999999997 
+            text = "[sta]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 6.6719999999999997 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.043746516781114603 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.043746516781114603 
+            xmax = 0.61733089693669219 
+            text = "(u) [sta] igama [/sta] (/u)" 
+        intervals [3]:
+            xmin = 0.61733089693669219 
+            xmax = 1.158009756741839 
+            text = "[sta]" 
+        intervals [4]:
+            xmin = 1.158009756741839 
+            xmax = 4.7583344653284163 
+            text = "(u) [sta] ib_<ind-\zana iNk_>Ond-\zO 0 jak_>us 0 jok_>uvusa [/sta] (/u)" 
+        intervals [5]:
+            xmin = 4.7583344653284163 
+            xmax = 6.6719999999999997 
+            text = "[sta]" 

@@ -1,0 +1,84 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 11.82 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic"
+        xmin = 0 
+        xmax = 11.82 
+        intervals: size = 8
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.65622492263376364 
+            text = "(u) inqaku (/u)" 
+        intervals [2]:
+            xmin = 0.65622492263376364 
+            xmax = 0.92810923947199653 
+            text = "[sta]" 
+        intervals [3]:
+            xmin = 0.92810923947199653 
+            xmax = 1.838021170323817 
+            text = "(u) inqaku 0 [int] ($)eight(/$) [/int] (/u)"
+        intervals [4]:
+            xmin = 1.838021170323817 
+            xmax = 2.0966154224236999 
+            text = "[sta]" 
+        intervals [5]:
+            xmin = 2.0966154224236999 
+            xmax = 3.4023742072566954 
+            text = "(u) [int] isambuku semali [/int] (/u)"
+        intervals [6]:
+            xmin = 3.4023742072566954 
+            xmax = 4.0803459412999556 
+            text = "[sta]" 
+        intervals [7]:
+            xmin = 4.0803459412999556 
+            xmax = 6.6950997037082605 
+            text = "(u) [int] ($)three forty 0 eight rand 0 fifty six cent(/$) [/int] (/u)" 
+        intervals [8]:
+            xmin = 6.6950997037082605 
+            xmax = 11.82 
+            text = "[int]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 11.82 
+        intervals: size = 8
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.65622492263376364 
+            text = "(u) i!\~ak_>u (/u)"
+        intervals [2]:
+            xmin = 0.65622492263376364 
+            xmax = 0.92810923947199653 
+            text = "[sta]"
+        intervals [3]:
+            xmin = 0.92810923947199653 
+            xmax = 1.838021170323817 
+            text = "(u) i!\~ak_>u 0 [int] ($)e-\It(/$) [/int] (/u)"
+        intervals [4]:
+            xmin = 1.838021170323817 
+            xmax = 2.0966154224236999 
+            text = "[sta]"
+        intervals [5]:
+            xmin = 2.0966154224236999 
+            xmax = 3.4023742072566954 
+            text = "(u) [int] isambuk_>u sEmal [/int] (/u)"
+        intervals [6]:
+            xmin = 3.4023742072566954 
+            xmax = 4.0803459412999556 
+            text = "[sta]"
+        intervals [7]:
+            xmin = 4.0803459412999556 
+            xmax = 6.6950997037082605 
+            text = "(u) [int] ($)tri fOti 0 e-\It rant 0 fifti siks sEnt(/$) [/int] (/u)"
+        intervals [8]:
+            xmin = 6.6950997037082605 
+            xmax = 11.82 
+            text = "[int]"

@@ -1,0 +1,68 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 4.4400000000000004 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 4.4400000000000004 
+        intervals: size = 6 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.43027078823518311 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.43027078823518311 
+            xmax = 1.3840267733671952 
+            text = "(u) nceda (/u)" 
+        intervals [3]:
+            xmin = 1.3840267733671952 
+            xmax = 2.9245235228043192 
+            text = "0" 
+        intervals [4]:
+            xmin = 2.9245235228043192 
+            xmax = 4.0499027151948717 
+            text = "[sta]" 
+        intervals [5]:
+            xmin = 4.0499027151948717 
+            xmax = 4.1470529432902072 
+            text = "[ext]" 
+        intervals [6]:
+            xmin = 4.1470529432902072 
+            xmax = 4.4400000000000004 
+            text = "[sta]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 4.4400000000000004 
+        intervals: size = 6 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.43027078823518311 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.43027078823518311 
+            xmax = 1.3840267733671952 
+            text = "(u) |\~Eda (/u)" 
+        intervals [3]:
+            xmin = 1.3840267733671952 
+            xmax = 2.9245235228043192 
+            text = "0" 
+        intervals [4]:
+            xmin = 2.9245235228043192 
+            xmax = 4.0499027151948717 
+            text = "[sta]" 
+        intervals [5]:
+            xmin = 4.0499027151948717 
+            xmax = 4.1470529432902072 
+            text = "[ext]" 
+        intervals [6]:
+            xmin = 4.1470529432902072 
+            xmax = 4.4400000000000004 
+            text = "[sta]" 

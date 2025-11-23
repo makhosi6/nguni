@@ -1,0 +1,68 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 4.8360000000000003 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 4.8360000000000003 
+        intervals: size = 6
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.65279987624755065 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.65279987624755065 
+            xmax = 0.78068537919463088 
+            text = "[ext]" 
+        intervals [3]:
+            xmin = 0.78068537919463088 
+            xmax = 1.0577564179435932 
+            text = "[sta]" 
+        intervals [4]:
+            xmin = 1.0577564179435932 
+            xmax = 3.0514206200623044 
+            text = "(u) [int] ($)three ten seventy eight cents(/$) [/int] (/u)" 
+        intervals [5]:
+            xmin = 3.0514206200623044 
+            xmax = 4.3509922046979872 
+            text = "[int]" 
+        intervals [6]:
+            xmin = 4.3509922046979872 
+            xmax = 4.8360000000000003 
+            text = "[sta]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 4.8360000000000003 
+        intervals: size = 6
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.65279987624755065 
+            text = "0"
+        intervals [2]:
+            xmin = 0.65279987624755065 
+            xmax = 0.78068537919463088 
+            text = "[ext]"
+        intervals [3]:
+            xmin = 0.78068537919463088 
+            xmax = 1.0577564179435932 
+            text = "[sta]"
+        intervals [4]:
+            xmin = 1.0577564179435932 
+            xmax = 3.0514206200623044 
+            text = "(u) [int] ($)tri t_>En sEv@nti E-\It sEns(/$) [/int] (/u)"
+        intervals [5]:
+            xmin = 3.0514206200623044 
+            xmax = 4.3509922046979872 
+            text = "[int]"
+        intervals [6]:
+            xmin = 4.3509922046979872 
+            xmax = 4.8360000000000003 
+            text = "[sta]"

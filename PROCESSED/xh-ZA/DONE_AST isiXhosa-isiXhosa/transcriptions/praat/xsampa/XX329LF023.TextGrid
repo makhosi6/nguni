@@ -1,0 +1,52 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 3.3119999999999998 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 3.3119999999999998 
+        intervals: size = 4 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.0986525385093675 
+            text = "(s) ~ti yabamba impuku (/s)" 
+        intervals [2]:
+            xmin = 1.0986525385093675 
+            xmax = 1.323078725767765 
+            text = "[spk]" 
+        intervals [3]:
+            xmin = 1.323078725767765 
+            xmax = 2.4608070512755642 
+            text = "0" 
+        intervals [4]:
+            xmin = 2.4608070512755642 
+            xmax = 3.3119999999999998 
+            text = "[int]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 3.3119999999999998 
+        intervals: size = 4 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.0986525385093675 
+            text = "(s) t_>i jab_<amba imp_>uk_> (/s)"
+        intervals [2]:
+            xmin = 1.0986525385093675 
+            xmax = 1.323078725767765 
+            text = "[spk]"
+        intervals [3]:
+            xmin = 1.323078725767765 
+            xmax = 2.4608070512755642 
+            text = "0"
+        intervals [4]:
+            xmin = 2.4608070512755642 
+            xmax = 3.3119999999999998 
+            text = "[int]"

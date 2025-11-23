@@ -1,0 +1,70 @@
+LWAZI II TEXT-TO-SPEECH SPEECH CORPORA
+======================================
+
+This folder contains the "speech corpora" of the
+text-to-speech deliverables described in the Lwazi II final report.
+
+This folder containing the following subdirectories and files:
+
+alignments - a directory containing multi-tier (phone, syllable, word
+             and phrase/breath group) transcriptions in Praat [1]
+             textgrid format (UTF-8). Phone symbols are standard IPA
+             based on the standard Lwazi phonesets.
+
+recordings - a directory containing audio files in WAVE-RIFF format.
+
+metadata - a directory containing background information and
+           agreements with voice artists.
+
+transcriptions - a text file containing orthographic transcriptions
+                 corresponding to each audio file.
+
+
+Notes on alignments
+-------------------
+
+ - Phone alignments were done automatically using forced-alignment
+   with orthographic transcriptions (as described in [2]) based on the
+   pronunciation prediction (G2P rules) developed for each language
+   during the Lwazi I project. In the case of English recordings in
+   non-English languages, the Lwazi English G2P rules were used with
+   no attempt to map phone symbols to speakers' actual pronunciations.
+
+ - Word and syllable levels are based on the automatic text analysis
+   performed by the Speect system.
+
+ - Phrase/breath group information is based on punctuation and
+   automatic insertion of HMM silence models during alignment. The
+   system was given the option of inserting silences between words and
+   post-processing of the results were done to keep silence candidates
+   >= 100ms.
+
+ - Manual verification/correction of orthographic transcriptions was
+   done where cepstral distance scores calculated for each corpus
+   indicated potentially problems (see [3]).
+
+
+Notes on transcriptions
+-----------------------
+
+ - Transcriptions are in UTF-8 text.
+
+ - Words prefixed with a "|" character are considered English words by
+   the text-to-speech front-end when predicting pronunciations.
+
+
+References
+----------
+
+[1] P. Boersma, Praat, a system for doing phonetics by
+computer. Amsterdam: Glott International, 2001.
+
+[2] D.R. van Niekerk and E. Barnard, "Phonetic alignment for speech
+synthesis in under-resourced languages," in Proceedings of
+Interspeech, Brighton, UK, September 2009, pp. 880–883.
+
+[3] D.R. van Niekerk, "Experiments in rapid development of accurate
+phonetic alignments for TTS in Afrikaans," in Proceedings of the 22nd
+Annual Symposium of the Pattern Recognition Association of South
+Africa (PRASA 2011), Vanderbijlpark, South Africa, November 2011,
+pp. 144-149.

@@ -1,0 +1,60 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 4.0439999999999996 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 4.0439999999999996 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.47436446128522819 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.47436446128522819 
+            xmax = 2.065079225323962 
+            text = "(s) [sta] ndicela uncedo [/sta] (/s)" 
+        intervals [3]:
+            xmin = 2.065079225323962 
+            xmax = 2.3536936115524343 
+            text = "[sta]" 
+        intervals [4]:
+            xmin = 2.3536936115524343 
+            xmax = 2.5319612919463088 
+            text = "[ext]" 
+        intervals [5]:
+            xmin = 2.5319612919463088 
+            xmax = 4.0439999999999996 
+            text = "0" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 4.0439999999999996 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.47436446128522819 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.47436446128522819 
+            xmax = 2.065079225323962 
+            text = "(s) [sta] ndi|\Ela u|\~EdO [/sta] (/s)" 
+        intervals [3]:
+            xmin = 2.065079225323962 
+            xmax = 2.3536936115524343 
+            text = "[sta]" 
+        intervals [4]:
+            xmin = 2.3536936115524343 
+            xmax = 2.5319612919463088 
+            text = "[ext]" 
+        intervals [5]:
+            xmin = 2.5319612919463088 
+            xmax = 4.0439999999999996 
+            text = "0" 

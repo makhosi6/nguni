@@ -1,0 +1,60 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 13.584 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic"
+        xmin = 0 
+        xmax = 13.584 
+        intervals: size = 5
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.21981786576631626 
+            text = "[sta]" 
+        intervals [2]:
+            xmin = 0.21981786576631626 
+            xmax = 1.4297192507149619 
+            text = "(u) [sta] uthotho lwamanani [/sta] (/u)"
+        intervals [3]:
+            xmin = 1.4297192507149619 
+            xmax = 1.9252343258147979 
+            text = "[int]" 
+        intervals [4]:
+            xmin = 1.9252343258147979 
+            xmax = 8.0311298434511578 
+            text = "(u) ($)[sta] nine zero 0 five 0 three six [/sta] [int] two 0 eight four seven one [/int](/$) (/u)" 
+        intervals [5]:
+            xmin = 8.0311298434511578 
+            xmax = 13.584 
+            text = "[int]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 13.584 
+        intervals: size = 5
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.21981786576631626 
+            text = "[sta]"
+        intervals [2]:
+            xmin = 0.21981786576631626 
+            xmax = 1.4297192507149619 
+            text = "(u) [sta] ut_hOt_hO lwamanan [/sta] (/u)"
+        intervals [3]:
+            xmin = 1.4297192507149619 
+            xmax = 1.9252343258147979 
+            text = "[int]"
+        intervals [4]:
+            xmin = 1.9252343258147979 
+            xmax = 8.0311298434511578 
+            text = "(u) ($)[sta] na-\in zirO 0 fa-\if 0 Tri siks [/sta] [int] tu 0 E-\It fO sEv@n wan [/int](/$) (/u)"
+        intervals [5]:
+            xmin = 8.0311298434511578 
+            xmax = 13.584 
+            text = "[int]"

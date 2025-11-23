@@ -1,0 +1,60 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 6.6959999999999997 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 6.6959999999999997 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.65686691232444183 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.65686691232444183 
+            xmax = 4.4310289924002468 
+            text = "(s) ibanga eliphezulu;endiliphumeleleyo libanga *lobutitshala (/s)" 
+        intervals [3]:
+            xmin = 4.4310289924002468 
+            xmax = 5.3549399811777088 
+            text = "[sta]" 
+        intervals [4]:
+            xmin = 5.3549399811777088 
+            xmax = 6.1659285157712587 
+            text = "0" 
+        intervals [5]:
+            xmin = 6.1659285157712587 
+            xmax = 6.6959999999999997 
+            text = "[sta]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 6.6959999999999997 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.65686691232444183 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.65686691232444183 
+            xmax = 4.4310289924002468 
+            text = "(s) ib_<aNga elip_hezulendilip_humElElEjO lib_<aNga lob_<t_>iSala (/s)" 
+        intervals [3]:
+            xmin = 4.4310289924002468 
+            xmax = 5.3549399811777088 
+            text = "[sta]" 
+        intervals [4]:
+            xmin = 5.3549399811777088 
+            xmax = 6.1659285157712587 
+            text = "0" 
+        intervals [5]:
+            xmin = 6.1659285157712587 
+            xmax = 6.6959999999999997 
+            text = "[sta]" 

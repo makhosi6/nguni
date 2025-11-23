@@ -1,0 +1,60 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 4.5119999999999996 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 4.5119999999999996 
+        intervals: size = 5
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.23266804966656204 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.23266804966656204 
+            xmax = 0.53703251399022445 
+            text = "[int]" 
+        intervals [3]:
+            xmin = 0.53703251399022445 
+            xmax = 2.4898428662158625 
+            text = "(s) [int] ndisebenzisa enomnxeba u ($)Telkom(/$) [/int] (/s)"
+        intervals [4]:
+            xmin = 2.4898428662158625 
+            xmax = 2.8456676778523491 
+            text = "[sta]" 
+        intervals [5]:
+            xmin = 2.8456676778523491 
+            xmax = 4.5119999999999996 
+            text = "[int]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 4.5119999999999996 
+        intervals: size = 5
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.23266804966656204 
+            text = "0"
+        intervals [2]:
+            xmin = 0.23266804966656204 
+            xmax = 0.53703251399022445 
+            text = "[int]"
+        intervals [3]:
+            xmin = 0.53703251399022445 
+            xmax = 2.4898428662158625 
+            text = "(s) [int] ndisEb_<ensa EnOm=|\|\~Eb_<a u ($)tElkQm(/$) [/int] (/s)"
+        intervals [4]:
+            xmin = 2.4898428662158625 
+            xmax = 2.8456676778523491 
+            text = "[sta]"
+        intervals [5]:
+            xmin = 2.8456676778523491 
+            xmax = 4.5119999999999996 
+            text = "[int]"

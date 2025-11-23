@@ -1,0 +1,60 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 4.9199999999999999 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic"
+        xmin = 0 
+        xmax = 4.9199999999999999 
+        intervals: size = 5
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.58430492653414001 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.58430492653414001 
+            xmax = 0.88378565254969754 
+            text = "[spk]" 
+        intervals [3]:
+            xmin = 0.88378565254969754 
+            xmax = 2.9171021607605878 
+            text = "(u) Sandiswa 0 Tshatshelo (/u)" 
+        intervals [4]:
+            xmin = 2.9171021607605878 
+            xmax = 4.0703628953104092 
+            text = "0" 
+        intervals [5]:
+            xmin = 4.0703628953104092 
+            xmax = 4.9199999999999999 
+            text = "[sta]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 4.9199999999999999 
+        intervals: size = 5
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.58430492653414001 
+            text = "0"
+        intervals [2]:
+            xmin = 0.58430492653414001 
+            xmax = 0.88378565254969754 
+            text = "[spk]"
+        intervals [3]:
+            xmin = 0.88378565254969754 
+            xmax = 2.9171021607605878 
+            text = "(u) sandiswa 0 t-\S_hat-\S_hElO (/u)"
+        intervals [4]:
+            xmin = 2.9171021607605878 
+            xmax = 4.0703628953104092 
+            text = "0"
+        intervals [5]:
+            xmin = 4.0703628953104092 
+            xmax = 4.9199999999999999 
+            text = "[sta]"

@@ -1,0 +1,68 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 7.3799999999999999 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 7.3799999999999999 
+        intervals: size = 6
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.19953161841346298 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.19953161841346298 
+            xmax = 1.1725633228427732 
+            text = "[spk]" 
+        intervals [3]:
+            xmin = 1.1725633228427732 
+            xmax = 3.9225711596747015 
+            text = "(u) [sta] ($)twenty eight March nineteen sixty three(/$) [/sta] (/u)" 
+        intervals [4]:
+            xmin = 3.9225711596747015 
+            xmax = 4.148230046853338 
+            text = "[sta]" 
+        intervals [5]:
+            xmin = 4.148230046853338 
+            xmax = 4.6234315769234664 
+            text = "0" 
+        intervals [6]:
+            xmin = 4.6234315769234664 
+            xmax = 7.3799999999999999 
+            text = "[int]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 7.3799999999999999 
+        intervals: size = 6
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.19953161841346298 
+            text = "0"
+        intervals [2]:
+            xmin = 0.19953161841346298 
+            xmax = 1.1725633228427732 
+            text = "[spk]"
+        intervals [3]:
+            xmin = 1.1725633228427732 
+            xmax = 3.9225711596747015 
+            text = "(u) [sta] ($)twEnti E-\It ma:t-\S na-\intin siksti tri(/$) [/sta] (/u)"
+        intervals [4]:
+            xmin = 3.9225711596747015 
+            xmax = 4.148230046853338 
+            text = "[sta]"
+        intervals [5]:
+            xmin = 4.148230046853338 
+            xmax = 4.6234315769234664 
+            text = "0"
+        intervals [6]:
+            xmin = 4.6234315769234664 
+            xmax = 7.3799999999999999 
+            text = "[int]"

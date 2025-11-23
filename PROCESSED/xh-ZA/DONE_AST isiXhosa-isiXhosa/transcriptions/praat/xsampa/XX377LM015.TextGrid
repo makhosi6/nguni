@@ -1,0 +1,68 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 3.3119999999999998 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 3.3119999999999998 
+        intervals: size = 6 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.1665910518248348 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.1665910518248348 
+            xmax = 0.28676350171737741 
+            text = "[sta]" 
+        intervals [3]:
+            xmin = 0.28676350171737741 
+            xmax = 1.2467212499615539 
+            text = "(s) ngu ($)five 0 to nine(/$) (/s)" 
+        intervals [4]:
+            xmin = 1.2467212499615539 
+            xmax = 1.5383323593639466 
+            text = "[sta]" 
+        intervals [5]:
+            xmin = 1.5383323593639466 
+            xmax = 2.6506901642535223 
+            text = "0" 
+        intervals [6]:
+            xmin = 2.6506901642535223 
+            xmax = 3.3119999999999998 
+            text = "[int]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 3.3119999999999998 
+        intervals: size = 6 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.1665910518248348 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.1665910518248348 
+            xmax = 0.28676350171737741 
+            text = "[sta]" 
+        intervals [3]:
+            xmin = 0.28676350171737741 
+            xmax = 1.2467212499615539 
+            text = "(s) Ngu ($)fa-\if 0 tu: na-\in(/$) (/s)" 
+        intervals [4]:
+            xmin = 1.2467212499615539 
+            xmax = 1.5383323593639466 
+            text = "[sta]" 
+        intervals [5]:
+            xmin = 1.5383323593639466 
+            xmax = 2.6506901642535223 
+            text = "0" 
+        intervals [6]:
+            xmin = 2.6506901642535223 
+            xmax = 3.3119999999999998 
+            text = "[int]" 

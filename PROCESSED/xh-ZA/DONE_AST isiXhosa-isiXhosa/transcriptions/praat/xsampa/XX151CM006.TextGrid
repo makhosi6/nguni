@@ -1,0 +1,60 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 17.244 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 17.244 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.089150927254079818 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.089150927254079818 
+            xmax = 13.147380384610047 
+            text = "(s) umhla wam wokuzalwa 0 lishumi *elinesithathu 0 kwinyanga yokuqala 0 ngomnyaka wewaka linamakhulu asithoba 0 anamashumi amahlanu *anesithandathu (/s)" 
+        intervals [3]:
+            xmin = 13.147380384610047 
+            xmax = 13.665561689058915 
+            text = "0" 
+        intervals [4]:
+            xmin = 13.665561689058915 
+            xmax = 15.270875206185044 
+            text = "[int]" 
+        intervals [5]:
+            xmin = 15.270875206185044 
+            xmax = 17.244 
+            text = "[sta]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 17.244 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.089150927254079818 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.089150927254079818 
+            xmax = 13.147380384610047 
+            text = "(s) umKa wam wok_>uzalwa 0 liSum elnest_hat_hu 0 k_>wiJaNga jok_>u!\ala 0 NgOmJak_>a wEwak_>a linamak_hulu asit_hOb_<a 0 anamaSumi amaKanu anest_handat_h (/s)" 
+        intervals [3]:
+            xmin = 13.147380384610047 
+            xmax = 13.665561689058915 
+            text = "0" 
+        intervals [4]:
+            xmin = 13.665561689058915 
+            xmax = 15.270875206185044 
+            text = "[int]" 
+        intervals [5]:
+            xmin = 15.270875206185044 
+            xmax = 17.244 
+            text = "[sta]" 

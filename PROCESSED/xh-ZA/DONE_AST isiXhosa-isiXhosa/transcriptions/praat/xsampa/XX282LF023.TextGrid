@@ -1,0 +1,68 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 10.368 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 10.368 
+        intervals: size = 6 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.13726040538762788 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.13726040538762788 
+            xmax = 0.9002320606361125 
+            text = "[spk]" 
+        intervals [3]:
+            xmin = 0.9002320606361125 
+            xmax = 3.4116804258290414 
+            text = "(s) kuphela kolwazi esinalo olo (/s)" 
+        intervals [4]:
+            xmin = 3.4116804258290414 
+            xmax = 4.1269663526244953 
+            text = "[spk]" 
+        intervals [5]:
+            xmin = 4.1269663526244953 
+            xmax = 5.0488904360497475 
+            text = "0" 
+        intervals [6]:
+            xmin = 5.0488904360497475 
+            xmax = 10.368 
+            text = "[int]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 10.368 
+        intervals: size = 6 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.13726040538762788 
+            text = "0"
+        intervals [2]:
+            xmin = 0.13726040538762788 
+            xmax = 0.9002320606361125 
+            text = "[spk]"
+        intervals [3]:
+            xmin = 0.9002320606361125 
+            xmax = 3.4116804258290414 
+            text = "(s) k_>up_hEla k_>Olwazi esinalO OlO (/s)"
+        intervals [4]:
+            xmin = 3.4116804258290414 
+            xmax = 4.1269663526244953 
+            text = "[spk]"
+        intervals [5]:
+            xmin = 4.1269663526244953 
+            xmax = 5.0488904360497475 
+            text = "0"
+        intervals [6]:
+            xmin = 5.0488904360497475 
+            xmax = 10.368 
+            text = "[int]"

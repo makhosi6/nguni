@@ -1,0 +1,76 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 6.4560000000000004 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 6.4560000000000004 
+        intervals: size = 7 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.43842948801190329 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.43842948801190329 
+            xmax = 0.74861807951912085 
+            text = "[sta]" 
+        intervals [3]:
+            xmin = 0.74861807951912085 
+            xmax = 4.4286799339712637 
+            text = "(u) [sta] N. 0 D. Z. 0 O. 0 B. 0 O. 0 N. G. O. [/sta] (/u)" 
+        intervals [4]:
+            xmin = 4.4286799339712637 
+            xmax = 4.9227542455076696 
+            text = "[spk]" 
+        intervals [5]:
+            xmin = 4.9227542455076696 
+            xmax = 5.0195661038492627 
+            text = "[ext]" 
+        intervals [6]:
+            xmin = 5.0195661038492627 
+            xmax = 5.6776887238284139 
+            text = "0" 
+        intervals [7]:
+            xmin = 5.6776887238284139 
+            xmax = 6.4560000000000004 
+            text = "[sta]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 6.4560000000000004 
+        intervals: size = 7 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.43842948801190329 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.43842948801190329 
+            xmax = 0.74861807951912085 
+            text = "[sta]" 
+        intervals [3]:
+            xmin = 0.74861807951912085 
+            xmax = 4.4286799339712637 
+            text = "(u) [sta] En 0 di zEt 0 O-\u 0 bi 0 O-\u 0 En d-\Zi O-\u [/sta] (/u)" 
+        intervals [4]:
+            xmin = 4.4286799339712637 
+            xmax = 4.9227542455076696 
+            text = "[spk]" 
+        intervals [5]:
+            xmin = 4.9227542455076696 
+            xmax = 5.0195661038492627 
+            text = "[ext]" 
+        intervals [6]:
+            xmin = 5.0195661038492627 
+            xmax = 5.6776887238284139 
+            text = "0" 
+        intervals [7]:
+            xmin = 5.6776887238284139 
+            xmax = 6.4560000000000004 
+            text = "[sta]" 

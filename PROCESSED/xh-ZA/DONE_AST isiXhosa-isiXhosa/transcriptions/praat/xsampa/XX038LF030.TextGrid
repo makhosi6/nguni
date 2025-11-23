@@ -1,0 +1,68 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 5.8920000000000004 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 5.8920000000000004 
+        intervals: size = 6 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.23983143618105823 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.23983143618105823 
+            xmax = 1.1549661989869346 
+            text = "[spk]" 
+        intervals [3]:
+            xmin = 1.1549661989869346 
+            xmax = 1.8491252185833174 
+            text = "(u) [sta] ($)seven(/$) [/sta] (/u)" 
+        intervals [4]:
+            xmin = 1.8491252185833174 
+            xmax = 2.4108866846213828 
+            text = "0" 
+        intervals [5]:
+            xmin = 2.4108866846213828 
+            xmax = 2.8872851071150283 
+            text = "[sta]" 
+        intervals [6]:
+            xmin = 2.8872851071150283 
+            xmax = 5.8920000000000004 
+            text = "0" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 5.8920000000000004 
+        intervals: size = 6 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.23983143618105823 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.23983143618105823 
+            xmax = 1.1549661989869346 
+            text = "[spk]" 
+        intervals [3]:
+            xmin = 1.1549661989869346 
+            xmax = 1.8491252185833174 
+            text = "(u) [sta] ($)sEvEn(/$) [/sta] (/u)" 
+        intervals [4]:
+            xmin = 1.8491252185833174 
+            xmax = 2.4108866846213828 
+            text = "0" 
+        intervals [5]:
+            xmin = 2.4108866846213828 
+            xmax = 2.8872851071150283 
+            text = "[sta]" 
+        intervals [6]:
+            xmin = 2.8872851071150283 
+            xmax = 5.8920000000000004 
+            text = "0" 

@@ -1,0 +1,84 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 8.7119999999999997 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic"
+        xmin = 0 
+        xmax = 8.7119999999999997 
+        intervals: size = 8
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.30536376218743272 
+            text = "(u) [int] ~aku [/int] (/u)" 
+        intervals [2]:
+            xmin = 0.30536376218743272 
+            xmax = 0.73599618614092821 
+            text = "[int]" 
+        intervals [3]:
+            xmin = 0.73599618614092821 
+            xmax = 2.0413507212499615 
+            text = "(u) inqaku [int] ($)fifteen(/$) [/int] (/u)"
+        intervals [4]:
+            xmin = 2.0413507212499615 
+            xmax = 2.5661839879432842 
+            text = "[int]" 
+        intervals [5]:
+            xmin = 2.5661839879432842 
+            xmax = 3.1731820091862066 
+            text = "(u) [int] inambari [/int] (/u)"
+        intervals [6]:
+            xmin = 3.1731820091862066 
+            xmax = 3.2768988869385645 
+            text = "[spk]" 
+        intervals [7]:
+            xmin = 3.2768988869385645 
+            xmax = 4.9709851412826449 
+            text = "(u) ($)*eigh+ 0 eighty five 0 [int] twenty five [/int](/$) (/u)" 
+        intervals [8]:
+            xmin = 4.9709851412826449 
+            xmax = 8.7119999999999997 
+            text = "[int]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 8.7119999999999997 
+        intervals: size = 8
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.30536376218743272 
+            text = "(u) [int] ak_>u [/int] (/u)"
+        intervals [2]:
+            xmin = 0.30536376218743272 
+            xmax = 0.73599618614092821 
+            text = "[int]"
+        intervals [3]:
+            xmin = 0.73599618614092821 
+            xmax = 2.0413507212499615 
+            text = "(u) i!\~ak_>u [int] ($)fiftin(/$) [/int] (/u)"
+        intervals [4]:
+            xmin = 2.0413507212499615 
+            xmax = 2.5661839879432842 
+            text = "[int]"
+        intervals [5]:
+            xmin = 2.5661839879432842 
+            xmax = 3.1731820091862066 
+            text = "(u) [int] inambar [/int] (/u)"
+        intervals [6]:
+            xmin = 3.1731820091862066 
+            xmax = 3.2768988869385645 
+            text = "[spk]"
+        intervals [7]:
+            xmin = 3.2768988869385645 
+            xmax = 4.9709851412826449 
+            text = "(u) ($)e-\I 0 e-\Iti fa-\if 0 [int] twEnti fa-\if [/int](/$) (/u)"
+        intervals [8]:
+            xmin = 4.9709851412826449 
+            xmax = 8.7119999999999997 
+            text = "[int]"

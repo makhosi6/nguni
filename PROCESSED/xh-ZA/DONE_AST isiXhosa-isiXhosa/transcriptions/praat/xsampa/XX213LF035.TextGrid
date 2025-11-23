@@ -1,0 +1,60 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 4.7160000000000002 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic"
+        xmin = 0 
+        xmax = 4.7160000000000002 
+        intervals: size = 5
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.27933825478905883 
+            text = "(u) [sta] ~lis [/sta] (/u)" 
+        intervals [2]:
+            xmin = 0.27933825478905883 
+            xmax = 0.56131323935680388 
+            text = "[int]" 
+        intervals [3]:
+            xmin = 0.56131323935680388 
+            xmax = 0.94451001325656014 
+            text = "[spk]" 
+        intervals [4]:
+            xmin = 0.94451001325656014 
+            xmax = 2.8026528602799061 
+            text = "(s) ndifuna ukuqonda izibalo (/s)" 
+        intervals [5]:
+            xmin = 2.8026528602799061 
+            xmax = 4.7160000000000002 
+            text = "0" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 4.7160000000000002 
+        intervals: size = 5
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.27933825478905883 
+            text = "(u) [sta] lis [/sta] (/u)"
+        intervals [2]:
+            xmin = 0.27933825478905883 
+            xmax = 0.56131323935680388 
+            text = "[int]"
+        intervals [3]:
+            xmin = 0.56131323935680388 
+            xmax = 0.94451001325656014 
+            text = "[spk]"
+        intervals [4]:
+            xmin = 0.94451001325656014 
+            xmax = 2.8026528602799061 
+            text = "(s) ndifuna uk_>u!\Onda izib_<alO (/s)"
+        intervals [5]:
+            xmin = 2.8026528602799061 
+            xmax = 4.7160000000000002 
+            text = "0"

@@ -1,0 +1,68 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 7.0800000000000001 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 7.0800000000000001 
+        intervals: size = 6 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.24887023593375357 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.24887023593375357 
+            xmax = 1.0076010803390276 
+            text = "[spk]" 
+        intervals [3]:
+            xmin = 1.0076010803390276 
+            xmax = 2.7329303367224909 
+            text = "(u) [sta] *i+ 0 [spk] 0 isivakalisi [/sta] (/u)" 
+        intervals [4]:
+            xmin = 2.7329303367224909 
+            xmax = 2.7581985927290185 
+            text = "0" 
+        intervals [5]:
+            xmin = 2.7581985927290185 
+            xmax = 4.9213357480817344 
+            text = "(s) umalume uqhula usisi (/s)" 
+        intervals [6]:
+            xmin = 4.9213357480817344 
+            xmax = 7.0800000000000001 
+            text = "0" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 7.0800000000000001 
+        intervals: size = 6 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.24887023593375357 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.24887023593375357 
+            xmax = 1.0076010803390276 
+            text = "[spk]" 
+        intervals [3]:
+            xmin = 1.0076010803390276 
+            xmax = 2.7329303367224909 
+            text = "(u) [sta] i 0 [spk] 0 isivak_>alisi [/sta] (/u)" 
+        intervals [4]:
+            xmin = 2.7329303367224909 
+            xmax = 2.7581985927290185 
+            text = "0" 
+        intervals [5]:
+            xmin = 2.7581985927290185 
+            xmax = 4.9213357480817344 
+            text = "(s) umalumE u!\_hula usisi (/s)" 
+        intervals [6]:
+            xmin = 4.9213357480817344 
+            xmax = 7.0800000000000001 
+            text = "0" 

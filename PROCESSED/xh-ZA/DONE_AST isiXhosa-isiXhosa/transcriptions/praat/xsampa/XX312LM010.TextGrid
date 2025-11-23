@@ -1,0 +1,68 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 17.436 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic"
+        xmin = 0 
+        xmax = 17.436 
+        intervals: size = 6
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.9525759722320607 
+            text = "[sta]" 
+        intervals [2]:
+            xmin = 0.9525759722320607 
+            xmax = 4.8553364130379792 
+            text = "(u) [sta] ($)Clydesdale 0 senior secondary school(/$) 0 eMzimkhulu [/sta] (/u)"
+        intervals [3]:
+            xmin = 4.8553364130379792 
+            xmax = 10.335239771703824 
+            text = "[sta]" 
+        intervals [4]:
+            xmin = 10.335239771703824 
+            xmax = 11.404489207541062 
+            text = "[spk]" 
+        intervals [5]:
+            xmin = 11.404489207541062 
+            xmax = 15.227055940659186 
+            text = "[int]" 
+        intervals [6]:
+            xmin = 15.227055940659186 
+            xmax = 17.436 
+            text = "[sta]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 17.436 
+        intervals: size = 6
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.9525759722320607 
+            text = "[sta]"
+        intervals [2]:
+            xmin = 0.9525759722320607 
+            xmax = 4.8553364130379792 
+            text = "(u) [sta] ($)kla-\idsde-\Il 0 sinija sEk@ndari skul(/$) 0 emzimk_hul [/sta] (/u)"
+        intervals [3]:
+            xmin = 4.8553364130379792 
+            xmax = 10.335239771703824 
+            text = "[sta]"
+        intervals [4]:
+            xmin = 10.335239771703824 
+            xmax = 11.404489207541062 
+            text = "[spk]"
+        intervals [5]:
+            xmin = 11.404489207541062 
+            xmax = 15.227055940659186 
+            text = "[int]"
+        intervals [6]:
+            xmin = 15.227055940659186 
+            xmax = 17.436 
+            text = "[sta]"

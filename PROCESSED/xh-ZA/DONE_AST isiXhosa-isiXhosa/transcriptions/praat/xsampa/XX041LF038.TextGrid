@@ -1,0 +1,44 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 18.876000000000001 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 18.876000000000001 
+        intervals: size = 3 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.35435897746208656 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.35435897746208656 
+            xmax = 16.08175837587499 
+            text = "(u) isibhozo 0 isixhenxe 0 isithandathu 0 isine 0 isithathu 0 isinye 0 isihlanu 0 iqanda 0 isithoba 0 isibini (/u)" 
+        intervals [3]:
+            xmin = 16.08175837587499 
+            xmax = 18.876000000000001 
+            text = "[sta]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 18.876000000000001 
+        intervals: size = 3 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.35435897746208656 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.35435897746208656 
+            xmax = 16.08175837587499 
+            text = "(u) isib_0OzO 0 isi|\|\_hE|\|\~E 0 isit_handat_hu 0 isinE 0 isit_hat_hu 0 isiJE 0 isiKanu 0 i!\anda 0 isit_hOb_<a 0 isib_<ini (/u)" 
+        intervals [3]:
+            xmin = 16.08175837587499 
+            xmax = 18.876000000000001 
+            text = "[sta]" 

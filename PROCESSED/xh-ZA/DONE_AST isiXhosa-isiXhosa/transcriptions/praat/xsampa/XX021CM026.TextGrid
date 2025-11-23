@@ -1,0 +1,44 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 11.976000000000001 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 11.976000000000001 
+        intervals: size = 3
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.41559515882573189 
+            text = "[sta]" 
+        intervals [2]:
+            xmin = 0.41559515882573189 
+            xmax = 8.9164961191673662 
+            text = "(u) [sta] zine zintlanu zimbini 0 iqanda 0 zisixhenxe zintathu lithoba zintandathu inye 0 zisibhozo [/sta] (/u)"
+        intervals [3]:
+            xmin = 8.9164961191673662 
+            xmax = 11.976000000000001 
+            text = "[sta]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 11.976000000000001 
+        intervals: size = 3
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.41559515882573189 
+            text = "[sta]"
+        intervals [2]:
+            xmin = 0.41559515882573189 
+            xmax = 8.9164961191673662 
+            text = "(u) [sta] zinE z@nt-\K_>anu zimbini 0 i!\anda 0 z@s|\|\_hE|\|\~E zint_>at_hu lit_hOb_<a zint_>andat_hu iJE 0 zisb_0OzO [/sta] (/u)"
+        intervals [3]:
+            xmin = 8.9164961191673662 
+            xmax = 11.976000000000001 
+            text = "[sta]"

@@ -1,0 +1,92 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 4.9199999999999999 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 4.9199999999999999 
+        intervals: size = 9
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.28387870753600014 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.28387870753600014 
+            xmax = 0.53855426174496634 
+            text = "[spk]" 
+        intervals [3]:
+            xmin = 0.53855426174496634 
+            xmax = 0.97782379906698114 
+            text = "[sta]" 
+        intervals [4]:
+            xmin = 0.97782379906698114 
+            xmax = 2.0522117261073074 
+            text = "(u) [int] umhla [/int] we ($)twenty four(/$) (/u)"
+        intervals [5]:
+            xmin = 2.0522117261073074 
+            xmax = 2.4939429664335808 
+            text = "[spk]" 
+        intervals [6]:
+            xmin = 2.4939429664335808 
+            xmax = 3.6706324694643744 
+            text = "0" 
+        intervals [7]:
+            xmin = 3.6706324694643744 
+            xmax = 3.7988614537690122 
+            text = "[spk]" 
+        intervals [8]:
+            xmin = 3.7988614537690122 
+            xmax = 4.5003494267296773 
+            text = "0" 
+        intervals [9]:
+            xmin = 4.5003494267296773 
+            xmax = 4.9199999999999999 
+            text = "[int]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 4.9199999999999999 
+        intervals: size = 9
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.28387870753600014 
+            text = "0"
+        intervals [2]:
+            xmin = 0.28387870753600014 
+            xmax = 0.53855426174496634 
+            text = "[spk]"
+        intervals [3]:
+            xmin = 0.53855426174496634 
+            xmax = 0.97782379906698114 
+            text = "[sta]"
+        intervals [4]:
+            xmin = 0.97782379906698114 
+            xmax = 2.0522117261073074 
+            text = "(u) [int] m=Ka [/int] wE ($)twEnti fO(/$) (/u)"
+        intervals [5]:
+            xmin = 2.0522117261073074 
+            xmax = 2.4939429664335808 
+            text = "[spk]"
+        intervals [6]:
+            xmin = 2.4939429664335808 
+            xmax = 3.6706324694643744 
+            text = "0"
+        intervals [7]:
+            xmin = 3.6706324694643744 
+            xmax = 3.7988614537690122 
+            text = "[spk]"
+        intervals [8]:
+            xmin = 3.7988614537690122 
+            xmax = 4.5003494267296773 
+            text = "0"
+        intervals [9]:
+            xmin = 4.5003494267296773 
+            xmax = 4.9199999999999999 
+            text = "[int]"

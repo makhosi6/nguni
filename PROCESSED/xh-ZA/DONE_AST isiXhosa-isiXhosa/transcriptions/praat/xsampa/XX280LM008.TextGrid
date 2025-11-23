@@ -1,0 +1,76 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 3.3599999999999999 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 3.3599999999999999 
+        intervals: size = 7 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.28152275023765827 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.28152275023765827 
+            xmax = 0.54281639562934703 
+            text = "[sta]" 
+        intervals [3]:
+            xmin = 0.54281639562934703 
+            xmax = 1.2992231733524084 
+            text = "(u) Xhosa (/u)" 
+        intervals [4]:
+            xmin = 1.2992231733524084 
+            xmax = 2.2286066444712049 
+            text = "0" 
+        intervals [5]:
+            xmin = 2.2286066444712049 
+            xmax = 2.7282765460083587 
+            text = "[sta]" 
+        intervals [6]:
+            xmin = 2.7282765460083587 
+            xmax = 2.8158475596798187 
+            text = "[spk]" 
+        intervals [7]:
+            xmin = 2.8158475596798187 
+            xmax = 3.3599999999999999 
+            text = "[sta]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 3.3599999999999999 
+        intervals: size = 7 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.28152275023765827 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.28152275023765827 
+            xmax = 0.54281639562934703 
+            text = "[sta]" 
+        intervals [3]:
+            xmin = 0.54281639562934703 
+            xmax = 1.2992231733524084 
+            text = "(u) |\|\_hOsa (/u)" 
+        intervals [4]:
+            xmin = 1.2992231733524084 
+            xmax = 2.2286066444712049 
+            text = "0" 
+        intervals [5]:
+            xmin = 2.2286066444712049 
+            xmax = 2.7282765460083587 
+            text = "[sta]" 
+        intervals [6]:
+            xmin = 2.7282765460083587 
+            xmax = 2.8158475596798187 
+            text = "[spk]" 
+        intervals [7]:
+            xmin = 2.8158475596798187 
+            xmax = 3.3599999999999999 
+            text = "[sta]" 

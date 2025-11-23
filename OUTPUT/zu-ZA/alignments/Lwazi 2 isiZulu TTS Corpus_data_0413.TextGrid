@@ -1,0 +1,222 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0
+xmax = 2.385000
+tiers? <exists>
+size = 5
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "segment"
+		xmin = 0
+		xmax = 2.385000
+		intervals: size = 24
+		intervals [1]:
+			xmin = 0.000000
+			xmax = 0.035000
+			text = "pau"
+		intervals [2]:
+			xmin = 0.035000
+			xmax = 0.130000
+			text = "u"
+		intervals [3]:
+			xmin = 0.130000
+			xmax = 0.235000
+			text = "z"
+		intervals [4]:
+			xmin = 0.235000
+			xmax = 0.365000
+			text = "ɔ"
+		intervals [5]:
+			xmin = 0.365000
+			xmax = 0.465000
+			text = "k"
+		intervals [6]:
+			xmin = 0.465000
+			xmax = 0.495000
+			text = "w"
+		intervals [7]:
+			xmin = 0.495000
+			xmax = 0.665000
+			text = "a"
+		intervals [8]:
+			xmin = 0.665000
+			xmax = 0.810000
+			text = "z"
+		intervals [9]:
+			xmin = 0.810000
+			xmax = 0.920000
+			text = "i"
+		intervals [10]:
+			xmin = 0.920000
+			xmax = 0.965000
+			text = "u"
+		intervals [11]:
+			xmin = 0.965000
+			xmax = 1.015000
+			text = "k"
+		intervals [12]:
+			xmin = 1.015000
+			xmax = 1.040000
+			text = "u"
+		intervals [13]:
+			xmin = 1.040000
+			xmax = 1.235000
+			text = "ɬ"
+		intervals [14]:
+			xmin = 1.235000
+			xmax = 1.370000
+			text = "ɛ"
+		intervals [15]:
+			xmin = 1.370000
+			xmax = 1.430000
+			text = "l"
+		intervals [16]:
+			xmin = 1.430000
+			xmax = 1.530000
+			text = "a"
+		intervals [17]:
+			xmin = 1.530000
+			xmax = 1.605000
+			text = "k"
+		intervals [18]:
+			xmin = 1.605000
+			xmax = 1.690000
+			text = "a"
+		intervals [19]:
+			xmin = 1.690000
+			xmax = 1.785000
+			text = "ŋ"
+		intervals [20]:
+			xmin = 1.785000
+			xmax = 1.850000
+			text = "ǀ̬"
+		intervals [21]:
+			xmin = 1.850000
+			xmax = 2.100000
+			text = "ɔ"
+		intervals [22]:
+			xmin = 2.100000
+			xmax = 2.180000
+			text = "n"
+		intervals [23]:
+			xmin = 2.180000
+			xmax = 2.210000
+			text = "ɔ"
+		intervals [24]:
+			xmin = 2.210000
+			xmax = 2.385000
+			text = "pau"
+	item [2]:
+		class = "IntervalTier"
+		name = "syllable"
+		xmin = 0
+		xmax = 2.385000
+		intervals: size = 13
+		intervals [1]:
+			xmin = 0.000000
+			xmax = 0.035000
+			text = "NONE"
+		intervals [2]:
+			xmin = 0.035000
+			xmax = 0.130000
+			text = "syl"
+		intervals [3]:
+			xmin = 0.130000
+			xmax = 0.465000
+			text = "syl"
+		intervals [4]:
+			xmin = 0.465000
+			xmax = 0.665000
+			text = "syl"
+		intervals [5]:
+			xmin = 0.665000
+			xmax = 0.920000
+			text = "syl"
+		intervals [6]:
+			xmin = 0.920000
+			xmax = 0.965000
+			text = "syl"
+		intervals [7]:
+			xmin = 0.965000
+			xmax = 1.040000
+			text = "syl"
+		intervals [8]:
+			xmin = 1.040000
+			xmax = 1.370000
+			text = "syl"
+		intervals [9]:
+			xmin = 1.370000
+			xmax = 1.530000
+			text = "syl"
+		intervals [10]:
+			xmin = 1.530000
+			xmax = 1.785000
+			text = "syl"
+		intervals [11]:
+			xmin = 1.785000
+			xmax = 2.100000
+			text = "syl"
+		intervals [12]:
+			xmin = 2.100000
+			xmax = 2.210000
+			text = "syl"
+		intervals [13]:
+			xmin = 2.210000
+			xmax = 2.385000
+			text = "NONE"
+	item [3]:
+		class = "IntervalTier"
+		name = "word"
+		xmin = 0
+		xmax = 2.385000
+		intervals: size = 5
+		intervals [1]:
+			xmin = 0.000000
+			xmax = 0.035000
+			text = "NONE"
+		intervals [2]:
+			xmin = 0.035000
+			xmax = 0.920000
+			text = "uzokwazi"
+		intervals [3]:
+			xmin = 0.920000
+			xmax = 1.530000
+			text = "ukuhlela"
+		intervals [4]:
+			xmin = 1.530000
+			xmax = 2.210000
+			text = "kangcono"
+		intervals [5]:
+			xmin = 2.210000
+			xmax = 2.385000
+			text = "NONE"
+	item [4]:
+		class = "IntervalTier"
+		name = "phrase"
+		xmin = 0
+		xmax = 2.385000
+		intervals: size = 3
+		intervals [1]:
+			xmin = 0.000000
+			xmax = 0.035000
+			text = "NONE"
+		intervals [2]:
+			xmin = 0.035000
+			xmax = 2.210000
+			text = "BB"
+		intervals [3]:
+			xmin = 2.210000
+			xmax = 2.385000
+			text = "NONE"
+	item [5]:
+		class = "IntervalTier"
+		name = "text"
+		xmin = 0
+		xmax = 2.385000
+		intervals: size = 1
+		intervals [1]:
+			xmin = 0.000000
+			xmax = 2.385000
+			text = "Uzokwazi ukuhlela kangcono."

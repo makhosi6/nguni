@@ -1,0 +1,76 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 6.7919999999999998 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic"
+        xmin = 0 
+        xmax = 6.7919999999999998 
+        intervals: size = 7
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.36065252633602851 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.36065252633602851 
+            xmax = 1.3559897516778523 
+            text = "[int]" 
+        intervals [3]:
+            xmin = 1.3559897516778523 
+            xmax = 2.1034744228187918 
+            text = "**" 
+        intervals [4]:
+            xmin = 2.1034744228187918 
+            xmax = 2.7035450874831763 
+            text = "[int]" 
+        intervals [5]:
+            xmin = 2.7035450874831763 
+            xmax = 4.7861162529473082 
+            text = "(s) [int] andinalo ixesha apha kum ngoku [/int] (/s)"
+        intervals [6]:
+            xmin = 4.7861162529473082 
+            xmax = 6.2439160687722 
+            text = "0" 
+        intervals [7]:
+            xmin = 6.2439160687722 
+            xmax = 6.7919999999999998 
+            text = "[int]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 6.7919999999999998 
+        intervals: size = 7
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.36065252633602851 
+            text = "0"
+        intervals [2]:
+            xmin = 0.36065252633602851 
+            xmax = 1.3559897516778523 
+            text = "[int]"
+        intervals [3]:
+            xmin = 1.3559897516778523 
+            xmax = 2.1034744228187918 
+            text = "**"
+        intervals [4]:
+            xmin = 2.1034744228187918 
+            xmax = 2.7035450874831763 
+            text = "[int]"
+        intervals [5]:
+            xmin = 2.7035450874831763 
+            xmax = 4.7861162529473082 
+            text = "(s) [int] andinal i|\|\ES ap_ha k_>um Ngok_> [/int] (/s)"
+        intervals [6]:
+            xmin = 4.7861162529473082 
+            xmax = 6.2439160687722 
+            text = "0"
+        intervals [7]:
+            xmin = 6.2439160687722 
+            xmax = 6.7919999999999998 
+            text = "[int]"

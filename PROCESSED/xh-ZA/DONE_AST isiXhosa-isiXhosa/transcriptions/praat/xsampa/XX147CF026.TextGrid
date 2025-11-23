@@ -1,0 +1,76 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 22.98 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 22.98 
+        intervals: size = 7 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.30851567065481506 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.30851567065481506 
+            xmax = 0.69585139365383031 
+            text = "[int]" 
+        intervals [3]:
+            xmin = 0.69585139365383031 
+            xmax = 1.973749326198615 
+            text = "(u) [int] uthotho lwamanani [/int] (/u)" 
+        intervals [4]:
+            xmin = 1.973749326198615 
+            xmax = 2.8379825406453718 
+            text = "[int]" 
+        intervals [5]:
+            xmin = 2.8379825406453718 
+            xmax = 9.0956221650956692 
+            text = "(u) [int] ($)four 0 nine 0 three 0 eight 0 six one 0 zero 0 five 0 two 0 seven(/$) [/int] (/u)" 
+        intervals [6]:
+            xmin = 9.0956221650956692 
+            xmax = 21.074129425153018 
+            text = "[int]" 
+        intervals [7]:
+            xmin = 21.074129425153018 
+            xmax = 22.98 
+            text = "[sta]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 22.98 
+        intervals: size = 7 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.30851567065481506 
+            text = "0"
+        intervals [2]:
+            xmin = 0.30851567065481506 
+            xmax = 0.69585139365383031 
+            text = "[int]"
+        intervals [3]:
+            xmin = 0.69585139365383031 
+            xmax = 1.973749326198615 
+            text = "(u) [int] ut_hOt_hO lwamanan [/int] (/u)"
+        intervals [4]:
+            xmin = 1.973749326198615 
+            xmax = 2.8379825406453718 
+            text = "[int]"
+        intervals [5]:
+            xmin = 2.8379825406453718 
+            xmax = 9.0956221650956692 
+            text = "(u) [int] ($)fO 0 na-\in 0 tri 0 Et 0 siks wan 0 zirO 0 fa-\if 0 tu 0 sEvEn(/$) [/int] (/u)"
+        intervals [6]:
+            xmin = 9.0956221650956692 
+            xmax = 21.074129425153018 
+            text = "[int]"
+        intervals [7]:
+            xmin = 21.074129425153018 
+            xmax = 22.98 
+            text = "[sta]"

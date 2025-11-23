@@ -1,0 +1,52 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 5.9039999999999999 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 5.9039999999999999 
+        intervals: size = 4 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.54497117490381763 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.54497117490381763 
+            xmax = 1.1295732178547635 
+            text = "[int]" 
+        intervals [3]:
+            xmin = 1.1295732178547635 
+            xmax = 2.9474742711421893 
+            text = "(u) [int] i ($)Gerald(/$) sitrato [/int] (/u)" 
+        intervals [4]:
+            xmin = 2.9474742711421893 
+            xmax = 5.9039999999999999 
+            text = "[int]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 5.9039999999999999 
+        intervals: size = 4 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.54497117490381763 
+            text = "0"
+        intervals [2]:
+            xmin = 0.54497117490381763 
+            xmax = 1.1295732178547635 
+            text = "[int]"
+        intervals [3]:
+            xmin = 1.1295732178547635 
+            xmax = 2.9474742711421893 
+            text = "(u) [int] i ($)d-\zhEralt(/$) strat_>O [/int] (/u)"
+        intervals [4]:
+            xmin = 2.9474742711421893 
+            xmax = 5.9039999999999999 
+            text = "[int]"

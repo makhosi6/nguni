@@ -1,0 +1,92 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 7.0800000000000001 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic"
+        xmin = 0 
+        xmax = 7.0800000000000001 
+        intervals: size = 9
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.72328570416620286 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.72328570416620286 
+            xmax = 1.1248981471174571 
+            text = "[spk]" 
+        intervals [3]:
+            xmin = 1.1248981471174571 
+            xmax = 2.4382793794715591 
+            text = "(u) [int] ($)Nahoon location(/$) [/int] (/u)" 
+        intervals [4]:
+            xmin = 2.4382793794715591 
+            xmax = 3.3283393881743391 
+            text = "[int]" 
+        intervals [5]:
+            xmin = 3.3283393881743391 
+            xmax = 3.9687484188263391 
+            text = "0" 
+        intervals [6]:
+            xmin = 3.9687484188263391 
+            xmax = 4.5114679363280343 
+            text = "[int]" 
+        intervals [7]:
+            xmin = 4.5114679363280343 
+            xmax = 5.0433330634796949 
+            text = "(u) hayi (/u)" 
+        intervals [8]:
+            xmin = 5.0433330634796949 
+            xmax = 6.1070633177830178 
+            text = "[int]" 
+        intervals [9]:
+            xmin = 6.1070633177830178 
+            xmax = 7.0800000000000001 
+            text = "0" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 7.0800000000000001 
+        intervals: size = 9
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.72328570416620286 
+            text = "0"
+        intervals [2]:
+            xmin = 0.72328570416620286 
+            xmax = 1.1248981471174571 
+            text = "[spk]"
+        intervals [3]:
+            xmin = 1.1248981471174571 
+            xmax = 2.4382793794715591 
+            text = "(u) [int] ($)nahun l@-\Uke-\ISan(/$) [/int] (/u)"
+        intervals [4]:
+            xmin = 2.4382793794715591 
+            xmax = 3.3283393881743391 
+            text = "[int]"
+        intervals [5]:
+            xmin = 3.3283393881743391 
+            xmax = 3.9687484188263391 
+            text = "0"
+        intervals [6]:
+            xmin = 3.9687484188263391 
+            xmax = 4.5114679363280343 
+            text = "[int]"
+        intervals [7]:
+            xmin = 4.5114679363280343 
+            xmax = 5.0433330634796949 
+            text = "(u) hai (/u)"
+        intervals [8]:
+            xmin = 5.0433330634796949 
+            xmax = 6.1070633177830178 
+            text = "[int]"
+        intervals [9]:
+            xmin = 6.1070633177830178 
+            xmax = 7.0800000000000001 
+            text = "0"

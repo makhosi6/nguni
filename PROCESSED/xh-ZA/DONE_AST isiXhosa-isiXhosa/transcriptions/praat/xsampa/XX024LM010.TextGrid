@@ -1,0 +1,60 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 11.472 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 11.472 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.67211122456189487 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.67211122456189487 
+            xmax = 1.2071436059867031 
+            text = "[spk]" 
+        intervals [3]:
+            xmin = 1.2071436059867031 
+            xmax = 3.6473126099204798 
+            text = "(u) Sulenkama ($)senior secondary school(/$) (/u)" 
+        intervals [4]:
+            xmin = 3.6473126099204798 
+            xmax = 5.1819845576255581 
+            text = "0" 
+        intervals [5]:
+            xmin = 5.1819845576255581 
+            xmax = 11.472 
+            text = "[int]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 11.472 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.67211122456189487 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.67211122456189487 
+            xmax = 1.2071436059867031 
+            text = "[spk]" 
+        intervals [3]:
+            xmin = 1.2071436059867031 
+            xmax = 3.6473126099204798 
+            text = "(u) sulENk_>ama ($)sinIj@ sEkOnd@ri skul(/$) (/u)" 
+        intervals [4]:
+            xmin = 3.6473126099204798 
+            xmax = 5.1819845576255581 
+            text = "0" 
+        intervals [5]:
+            xmin = 5.1819845576255581 
+            xmax = 11.472 
+            text = "[int]" 

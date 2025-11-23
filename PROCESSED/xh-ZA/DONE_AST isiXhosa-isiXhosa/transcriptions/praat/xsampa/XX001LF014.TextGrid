@@ -1,0 +1,68 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 11.724 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 11.724 
+        intervals: size = 6 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.18514292318622838 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.18514292318622838 
+            xmax = 1.4673241077120798 
+            text = "[int]" 
+        intervals [3]:
+            xmin = 1.4673241077120798 
+            xmax = 2.0538276948363241 
+            text = "[spk]" 
+        intervals [4]:
+            xmin = 2.0538276948363241 
+            xmax = 7.7126521876763858 
+            text = "(s) umhla weshumi elinesibini elinanye 0 ($)twenty one(/$) 0 [spk] kaMeyi [int] ($)two thousand and one(/$) [/int] (/s)" 
+        intervals [5]:
+            xmin = 7.7126521876763858 
+            xmax = 8.064766333378989 
+            text = "[spk]" 
+        intervals [6]:
+            xmin = 8.064766333378989 
+            xmax = 11.724 
+            text = "[int]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 11.724 
+        intervals: size = 6 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.18514292318622838 
+            text = "0"
+        intervals [2]:
+            xmin = 0.18514292318622838 
+            xmax = 1.4673241077120798 
+            text = "[int]"
+        intervals [3]:
+            xmin = 1.4673241077120798 
+            xmax = 2.0538276948363241 
+            text = "[spk]"
+        intervals [4]:
+            xmin = 2.0538276948363241 
+            xmax = 7.7126521876763858 
+            text = "(s) umSla weSum Elnesb_<in elnaJE 0 ($)twEnti wan(/$) 0 [spk] k_>ameji [int] ($)tu TaUz@n {n wan(/$) [/int] (/s)"
+        intervals [5]:
+            xmin = 7.7126521876763858 
+            xmax = 8.064766333378989 
+            text = "[spk]"
+        intervals [6]:
+            xmin = 8.064766333378989 
+            xmax = 11.724 
+            text = "[int]"

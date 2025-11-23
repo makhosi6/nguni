@@ -1,0 +1,68 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 7.008 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 7.008 
+        intervals: size = 6 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.098367274788857636 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.098367274788857636 
+            xmax = 0.52463073237311653 
+            text = "[sta]" 
+        intervals [3]:
+            xmin = 0.52463073237311653 
+            xmax = 2.2787858069124853 
+            text = "(u) igama 0 ibinzana (/u)" 
+        intervals [4]:
+            xmin = 2.2787858069124853 
+            xmax = 3.2002155003262574 
+            text = "0" 
+        intervals [5]:
+            xmin = 3.2002155003262574 
+            xmax = 5.0628900472425968 
+            text = "(u) [sta] idama lokuqubha [/sta] (/u)" 
+        intervals [6]:
+            xmin = 5.0628900472425968 
+            xmax = 7.008 
+            text = "0" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 7.008 
+        intervals: size = 6 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.098367274788857636 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.098367274788857636 
+            xmax = 0.52463073237311653 
+            text = "[sta]" 
+        intervals [3]:
+            xmin = 0.52463073237311653 
+            xmax = 2.2787858069124853 
+            text = "(u) igama 0 ib_<ind-\zana (/u)" 
+        intervals [4]:
+            xmin = 2.2787858069124853 
+            xmax = 3.2002155003262574 
+            text = "0" 
+        intervals [5]:
+            xmin = 3.2002155003262574 
+            xmax = 5.0628900472425968 
+            text = "(u) [sta] idama lok_>u!\ub_0a [/sta] (/u)" 
+        intervals [6]:
+            xmin = 5.0628900472425968 
+            xmax = 7.008 
+            text = "0" 

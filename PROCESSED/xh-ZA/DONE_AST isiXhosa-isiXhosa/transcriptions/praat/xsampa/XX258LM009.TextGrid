@@ -1,0 +1,68 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 11.087999999999999 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 11.087999999999999 
+        intervals: size = 6
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.98150859643928257 
+            text = "(u) ~banga leshumi (/u)" 
+        intervals [2]:
+            xmin = 0.98150859643928257 
+            xmax = 2.4734644403304724 
+            text = "[int]" 
+        intervals [3]:
+            xmin = 2.4734644403304724 
+            xmax = 2.9476029500416558 
+            text = "0" 
+        intervals [4]:
+            xmin = 2.9476029500416558 
+            xmax = 3.0930054263530851 
+            text = "[int]" 
+        intervals [5]:
+            xmin = 3.0930054263530851 
+            xmax = 4.0487208187066237 
+            text = "(s) ($)that is standard ten(/$) (/s)" 
+        intervals [6]:
+            xmin = 4.0487208187066237 
+            xmax = 11.087999999999999 
+            text = "[int]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 11.087999999999999 
+        intervals: size = 6
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.98150859643928257 
+            text = "(u) b_<aNga leSumi (/u)"
+        intervals [2]:
+            xmin = 0.98150859643928257 
+            xmax = 2.4734644403304724 
+            text = "[int]"
+        intervals [3]:
+            xmin = 2.4734644403304724 
+            xmax = 2.9476029500416558 
+            text = "0"
+        intervals [4]:
+            xmin = 2.9476029500416558 
+            xmax = 3.0930054263530851 
+            text = "[int]"
+        intervals [5]:
+            xmin = 3.0930054263530851 
+            xmax = 4.0487208187066237 
+            text = "(s) ($)Dat iz stana? tEn(/$) (/s)"
+        intervals [6]:
+            xmin = 4.0487208187066237 
+            xmax = 11.087999999999999 
+            text = "[int]"

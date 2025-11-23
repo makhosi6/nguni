@@ -1,0 +1,52 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 6.984 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 6.984 
+        intervals: size = 4 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.42508874686244036 
+            text = "(u) [sta] ~nzana [/sta] (/u)" 
+        intervals [2]:
+            xmin = 0.42508874686244036 
+            xmax = 0.5162680781704998 
+            text = "[sta]" 
+        intervals [3]:
+            xmin = 0.5162680781704998 
+            xmax = 3.9684709418229289 
+            text = "(s) [sta] susa idilesi kwi0bhukhingi [/sta] (/s)" 
+        intervals [4]:
+            xmin = 3.9684709418229289 
+            xmax = 6.984 
+            text = "[sta]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 6.984 
+        intervals: size = 4 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.42508874686244036 
+            text = "(u) [sta] nd-\zana [/sta] (/u)" 
+        intervals [2]:
+            xmin = 0.42508874686244036 
+            xmax = 0.5162680781704998 
+            text = "[sta]" 
+        intervals [3]:
+            xmin = 0.5162680781704998 
+            xmax = 3.9684709418229289 
+            text = "(s) [sta] susa id_0ilesi k_>wi0b_0uk_hiNg [/sta] (/s)" 
+        intervals [4]:
+            xmin = 3.9684709418229289 
+            xmax = 6.984 
+            text = "[sta]" 

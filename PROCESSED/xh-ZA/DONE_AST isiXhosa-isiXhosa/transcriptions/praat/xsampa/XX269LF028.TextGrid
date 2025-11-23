@@ -1,0 +1,60 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 174.108 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic"
+        xmin = 0 
+        xmax = 174.108 
+        intervals: size = 5
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.7115043120823783 
+            text = "(u) [sta] igama [/sta] (/u)" 
+        intervals [2]:
+            xmin = 0.7115043120823783 
+            xmax = 0.94164566338087297 
+            text = "[sta]" 
+        intervals [3]:
+            xmin = 0.94164566338087297 
+            xmax = 4.0943969215259743 
+            text = "(u) [int] *no+ unobhala *we+ 0 wasebusuku [/int] (/u)" 
+        intervals [4]:
+            xmin = 4.0943969215259743 
+            xmax = 173.94484678187922 
+            text = "[int]" 
+        intervals [5]:
+            xmin = 173.94484678187922 
+            xmax = 174.108 
+            text = "0"
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 174.108 
+        intervals: size = 5
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.7115043120823783 
+            text = "(u) [sta] igama [/sta] (/u)"
+        intervals [2]:
+            xmin = 0.7115043120823783 
+            xmax = 0.94164566338087297 
+            text = "[sta]"
+        intervals [3]:
+            xmin = 0.94164566338087297 
+            xmax = 4.0943969215259743 
+            text = "(u) [int] nO unOb_0ala wE 0 waseb_<usuk_>u [/int] (/u)"
+        intervals [4]:
+            xmin = 4.0943969215259743 
+            xmax = 173.94484678187922 
+            text = "[int]"
+        intervals [5]:
+            xmin = 173.94484678187922 
+            xmax = 174.108 
+            text = "0"

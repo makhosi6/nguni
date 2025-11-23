@@ -1,0 +1,60 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 60.228000000000002 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 60.228000000000002 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.6644253243967635 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.6644253243967635 
+            xmax = 5.5161178715060126 
+            text = "(s) [int] yi ($)B. A. 0 General(/$) e ($)university of Transkei(/$) [/int] (/s)" 
+        intervals [3]:
+            xmin = 5.5161178715060126 
+            xmax = 6.5670150494553674 
+            text = "[int]" 
+        intervals [4]:
+            xmin = 6.5670150494553674 
+            xmax = 11.662392777004733 
+            text = "(s) [int] B. A. ($)General(/$) kwidyunivesiti yaseTranskei [/int] (/s)" 
+        intervals [5]:
+            xmin = 11.662392777004733 
+            xmax = 60.228000000000002 
+            text = "[int]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 60.228000000000002 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.6644253243967635 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.6644253243967635 
+            xmax = 5.5161178715060126 
+            text = "(s) [int] ji ($)bi: E-\ini 0 d-\ZEnEral(/$) E ($)junivEsiti Of transka-\i(/$) [/int] (/s)" 
+        intervals [3]:
+            xmin = 5.5161178715060126 
+            xmax = 6.5670150494553674 
+            text = "[int]" 
+        intervals [4]:
+            xmin = 6.5670150494553674 
+            xmax = 11.662392777004733 
+            text = "(s) [int] bi: E ($)d-\ZEnral(/$) k_>wiJ\univEsiti jasEt_>ransk_>aj [/int] (/s)" 
+        intervals [5]:
+            xmin = 11.662392777004733 
+            xmax = 60.228000000000002 
+            text = "[int]" 

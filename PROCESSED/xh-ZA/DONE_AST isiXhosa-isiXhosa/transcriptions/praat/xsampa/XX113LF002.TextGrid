@@ -1,0 +1,68 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 4.3799999999999999 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic"
+        xmin = 0 
+        xmax = 4.3799999999999999 
+        intervals: size = 6
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.21914626741820906 
+            text = "0"
+        intervals [2]:
+            xmin = 0.21914626741820906 
+            xmax = 0.66870517241379313 
+            text = "[sta]"
+        intervals [3]:
+            xmin = 0.66870517241379313 
+            xmax = 1.8204321969552244 
+            text = "(u) [sta] Ntombikayise Ntintili [/sta] (/u)"
+        intervals [4]:
+            xmin = 1.8204321969552244 
+            xmax = 2.4686726742832859 
+            text = "[spk]"
+        intervals [5]:
+            xmin = 2.4686726742832859 
+            xmax = 3.7109484512087758 
+            text = "0"
+        intervals [6]:
+            xmin = 3.7109484512087758 
+            xmax = 4.3799999999999999 
+            text = "[spk]"
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 4.3799999999999999 
+        intervals: size = 6
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.21914626741820906 
+            text = "0"
+        intervals [2]:
+            xmin = 0.21914626741820906 
+            xmax = 0.66870517241379313 
+            text = "[sta]"
+        intervals [3]:
+            xmin = 0.66870517241379313 
+            xmax = 1.8204321969552244 
+            text = "(u) [sta] nt_>ombk_>ajisE nt_>int_>il [/sta] (/u)"
+        intervals [4]:
+            xmin = 1.8204321969552244 
+            xmax = 2.4686726742832859 
+            text = "[spk]"
+        intervals [5]:
+            xmin = 2.4686726742832859 
+            xmax = 3.7109484512087758 
+            text = "0"
+        intervals [6]:
+            xmin = 3.7109484512087758 
+            xmax = 4.3799999999999999 
+            text = "[spk]"

@@ -1,0 +1,230 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0
+xmax = 2.730000
+tiers? <exists>
+size = 5
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "segment"
+		xmin = 0
+		xmax = 2.730000
+		intervals: size = 24
+		intervals [1]:
+			xmin = 0.000000
+			xmax = 0.035000
+			text = "pau"
+		intervals [2]:
+			xmin = 0.035000
+			xmax = 0.175000
+			text = "eng_aɪ"
+		intervals [3]:
+			xmin = 0.175000
+			xmax = 0.260000
+			text = "eng_w"
+		intervals [4]:
+			xmin = 0.260000
+			xmax = 0.300000
+			text = "eng_ə"
+		intervals [5]:
+			xmin = 0.300000
+			xmax = 0.380000
+			text = "eng_l"
+		intervals [6]:
+			xmin = 0.380000
+			xmax = 0.405000
+			text = "eng_h"
+		intervals [7]:
+			xmin = 0.405000
+			xmax = 0.605000
+			text = "eng_a"
+		intervals [8]:
+			xmin = 0.605000
+			xmax = 0.670000
+			text = "eng_v"
+		intervals [9]:
+			xmin = 0.670000
+			xmax = 0.755000
+			text = "eng_m"
+		intervals [10]:
+			xmin = 0.755000
+			xmax = 0.885000
+			text = "eng_aɪ"
+		intervals [11]:
+			xmin = 0.885000
+			xmax = 1.040000
+			text = "eng_s"
+		intervals [12]:
+			xmin = 1.040000
+			xmax = 1.090000
+			text = "eng_k"
+		intervals [13]:
+			xmin = 1.090000
+			xmax = 1.285000
+			text = "eng_ɒ"
+		intervals [14]:
+			xmin = 1.285000
+			xmax = 1.395000
+			text = "eng_tʃ"
+		intervals [15]:
+			xmin = 1.395000
+			xmax = 1.515000
+			text = "eng_w"
+		intervals [16]:
+			xmin = 1.515000
+			xmax = 1.585000
+			text = "eng_ə"
+		intervals [17]:
+			xmin = 1.585000
+			xmax = 1.650000
+			text = "eng_ð"
+		intervals [18]:
+			xmin = 1.650000
+			xmax = 1.975000
+			text = "eng_aɪ"
+		intervals [19]:
+			xmin = 1.975000
+			xmax = 2.100000
+			text = "eng_s"
+		intervals [20]:
+			xmin = 2.100000
+			xmax = 2.180000
+			text = "eng_p"
+		intervals [21]:
+			xmin = 2.180000
+			xmax = 2.220000
+			text = "eng_l"
+		intervals [22]:
+			xmin = 2.220000
+			xmax = 2.345000
+			text = "eng_i"
+		intervals [23]:
+			xmin = 2.345000
+			xmax = 2.370000
+			text = "eng_z"
+		intervals [24]:
+			xmin = 2.370000
+			xmax = 2.730000
+			text = "pau"
+	item [2]:
+		class = "IntervalTier"
+		name = "syllable"
+		xmin = 0
+		xmax = 2.730000
+		intervals: size = 10
+		intervals [1]:
+			xmin = 0.000000
+			xmax = 0.035000
+			text = "NONE"
+		intervals [2]:
+			xmin = 0.035000
+			xmax = 0.175000
+			text = "syl"
+		intervals [3]:
+			xmin = 0.175000
+			xmax = 0.380000
+			text = "syl"
+		intervals [4]:
+			xmin = 0.380000
+			xmax = 0.670000
+			text = "syl"
+		intervals [5]:
+			xmin = 0.670000
+			xmax = 0.885000
+			text = "syl"
+		intervals [6]:
+			xmin = 0.885000
+			xmax = 1.395000
+			text = "syl"
+		intervals [7]:
+			xmin = 1.395000
+			xmax = 1.650000
+			text = "syl"
+		intervals [8]:
+			xmin = 1.650000
+			xmax = 2.100000
+			text = "syl"
+		intervals [9]:
+			xmin = 2.100000
+			xmax = 2.370000
+			text = "syl"
+		intervals [10]:
+			xmin = 2.370000
+			xmax = 2.730000
+			text = "NONE"
+	item [3]:
+		class = "IntervalTier"
+		name = "word"
+		xmin = 0
+		xmax = 2.730000
+		intervals: size = 10
+		intervals [1]:
+			xmin = 0.000000
+			xmax = 0.035000
+			text = "NONE"
+		intervals [2]:
+			xmin = 0.035000
+			xmax = 0.175000
+			text = "i"
+		intervals [3]:
+			xmin = 0.175000
+			xmax = 0.380000
+			text = "will"
+		intervals [4]:
+			xmin = 0.380000
+			xmax = 0.670000
+			text = "have"
+		intervals [5]:
+			xmin = 0.670000
+			xmax = 0.885000
+			text = "my"
+		intervals [6]:
+			xmin = 0.885000
+			xmax = 1.395000
+			text = "scotch"
+		intervals [7]:
+			xmin = 1.395000
+			xmax = 1.650000
+			text = "with"
+		intervals [8]:
+			xmin = 1.650000
+			xmax = 2.100000
+			text = "ice"
+		intervals [9]:
+			xmin = 2.100000
+			xmax = 2.370000
+			text = "please"
+		intervals [10]:
+			xmin = 2.370000
+			xmax = 2.730000
+			text = "NONE"
+	item [4]:
+		class = "IntervalTier"
+		name = "phrase"
+		xmin = 0
+		xmax = 2.730000
+		intervals: size = 3
+		intervals [1]:
+			xmin = 0.000000
+			xmax = 0.035000
+			text = "NONE"
+		intervals [2]:
+			xmin = 0.035000
+			xmax = 2.370000
+			text = "BB"
+		intervals [3]:
+			xmin = 2.370000
+			xmax = 2.730000
+			text = "NONE"
+	item [5]:
+		class = "IntervalTier"
+		name = "text"
+		xmin = 0
+		xmax = 2.730000
+		intervals: size = 1
+		intervals [1]:
+			xmin = 0.000000
+			xmax = 2.730000
+			text = "|i |will |have |my |scotch |with |ice, |please."

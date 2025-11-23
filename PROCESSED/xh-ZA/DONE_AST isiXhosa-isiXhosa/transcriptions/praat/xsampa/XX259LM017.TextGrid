@@ -1,0 +1,52 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 4.5119999999999996 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 4.5119999999999996 
+        intervals: size = 4 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.58657533047681099 
+            text = "[int]" 
+        intervals [2]:
+            xmin = 0.58657533047681099 
+            xmax = 2.508484157904856 
+            text = "(s) [int] andisiva 0 konke konke [/int] (/s)" 
+        intervals [3]:
+            xmin = 2.508484157904856 
+            xmax = 3.0065350995253945 
+            text = "0" 
+        intervals [4]:
+            xmin = 3.0065350995253945 
+            xmax = 4.5119999999999996 
+            text = "[int]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 4.5119999999999996 
+        intervals: size = 4 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.58657533047681099 
+            text = "[int]"
+        intervals [2]:
+            xmin = 0.58657533047681099 
+            xmax = 2.508484157904856 
+            text = "(s) [int] andisiva 0 k_>ONk_>E k_>ONk_>E [/int] (/s)"
+        intervals [3]:
+            xmin = 2.508484157904856 
+            xmax = 3.0065350995253945 
+            text = "0"
+        intervals [4]:
+            xmin = 3.0065350995253945 
+            xmax = 4.5119999999999996 
+            text = "[int]"

@@ -1,0 +1,60 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 30.288 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 30.288 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 12.907310335057025 
+            text = "[int]" 
+        intervals [2]:
+            xmin = 12.907310335057025 
+            xmax = 13.92090319645343 
+            text = "(u) ($)page two of two(/$) (/u)" 
+        intervals [3]:
+            xmin = 13.92090319645343 
+            xmax = 24.451598376830368 
+            text = "[int]" 
+        intervals [4]:
+            xmin = 24.451598376830368 
+            xmax = 26.183321945182978 
+            text = "(u) X. X. ($)oh two oh(/$) (/u)" 
+        intervals [5]:
+            xmin = 26.183321945182978 
+            xmax = 30.288 
+            text = "[int]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 30.288 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 12.907310335057025 
+            text = "[int]"
+        intervals [2]:
+            xmin = 12.907310335057025 
+            xmax = 13.92090319645343 
+            text = "(u) ($)pe-\Id-\Z tu: Ov tu(/$) (/u)"
+        intervals [3]:
+            xmin = 13.92090319645343 
+            xmax = 24.451598376830368 
+            text = "[int]"
+        intervals [4]:
+            xmin = 24.451598376830368 
+            xmax = 26.183321945182978 
+            text = "(u) Eks Eks ($)@-\U tu @-\U(/$) (/u)"
+        intervals [5]:
+            xmin = 26.183321945182978 
+            xmax = 30.288 
+            text = "[int]"

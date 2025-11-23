@@ -1,0 +1,60 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 18.611999999999998 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 18.611999999999998 
+        intervals: size = 5
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.22667121862844844 
+            text = "[sta]" 
+        intervals [2]:
+            xmin = 0.22667121862844844 
+            xmax = 2.4742242216166681 
+            text = "(u) [int] L. I. L. A. N. E. [/int] (/u)"
+        intervals [3]:
+            xmin = 2.4742242216166681 
+            xmax = 12.37342311701191 
+            text = "[int]" 
+        intervals [4]:
+            xmin = 12.37342311701191 
+            xmax = 14.460298736912806 
+            text = "(u) [int] L. I. L. A. N. E. [/int] (/u)"
+        intervals [5]:
+            xmin = 14.460298736912806 
+            xmax = 18.611999999999998 
+            text = "[int]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 18.611999999999998 
+        intervals: size = 5
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.22667121862844844 
+            text = "[sta]"
+        intervals [2]:
+            xmin = 0.22667121862844844 
+            xmax = 2.4742242216166681 
+            text = "(u) [int] El a-\i El E-\I En i: [/int] (/u)"
+        intervals [3]:
+            xmin = 2.4742242216166681 
+            xmax = 12.37342311701191 
+            text = "[int]"
+        intervals [4]:
+            xmin = 12.37342311701191 
+            xmax = 14.460298736912806 
+            text = "(u) [int] El a-\i El E-\I En i: [/int] (/u)"
+        intervals [5]:
+            xmin = 14.460298736912806 
+            xmax = 18.611999999999998 
+            text = "[int]"

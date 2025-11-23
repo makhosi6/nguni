@@ -1,0 +1,60 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 11.58 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 11.58 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.23456391477763891 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.23456391477763891 
+            xmax = 4.5422951414170871 
+            text = "(u) [sta] e ($)forty nine(/$) kwa ($)number thirty five(/$) apha eGugulethu 0 N. Y. ($)forty nine(/$) [/sta] (/u)" 
+        intervals [3]:
+            xmin = 4.5422951414170871 
+            xmax = 5.6429679152955314 
+            text = "0" 
+        intervals [4]:
+            xmin = 5.6429679152955314 
+            xmax = 6.0202675068884526 
+            text = "[sta]" 
+        intervals [5]:
+            xmin = 6.0202675068884526 
+            xmax = 11.58 
+            text = "0" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 11.58 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.23456391477763891 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.23456391477763891 
+            xmax = 4.5422951414170871 
+            text = "(u) [sta] E ($)fOti ninE(/$) kwa ($)namba TEti fa-\if(/$) aph EgugulEt_hu 0 En wa-\i ($)fOti na-\in(/$) [/sta] (/u)" 
+        intervals [3]:
+            xmin = 4.5422951414170871 
+            xmax = 5.6429679152955314 
+            text = "0" 
+        intervals [4]:
+            xmin = 5.6429679152955314 
+            xmax = 6.0202675068884526 
+            text = "[sta]" 
+        intervals [5]:
+            xmin = 6.0202675068884526 
+            xmax = 11.58 
+            text = "0" 

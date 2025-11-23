@@ -1,0 +1,68 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 9.5280000000000005 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic"
+        xmin = 0 
+        xmax = 9.5280000000000005 
+        intervals: size = 6
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.393189001814882 
+            text = "(s) [int] *e+ ewe nditshatile [/int] (/s)"
+        intervals [2]:
+            xmin = 1.393189001814882 
+            xmax = 3.485849543104059 
+            text = "[int]" 
+        intervals [3]:
+            xmin = 3.485849543104059 
+            xmax = 3.6611387486212164 
+            text = "0" 
+        intervals [4]:
+            xmin = 3.6611387486212164 
+            xmax = 5.7792166486202046 
+            text = "[int]" 
+        intervals [5]:
+            xmin = 5.7792166486202046 
+            xmax = 6.1151876258614228 
+            text = "0" 
+        intervals [6]:
+            xmin = 6.1151876258614228 
+            xmax = 9.5280000000000005 
+            text = "[int]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 9.5280000000000005 
+        intervals: size = 6
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.393189001814882 
+            text = "(s) [int] E EwE ndit-\S_hat_>il [/int] (/s)"
+        intervals [2]:
+            xmin = 1.393189001814882 
+            xmax = 3.485849543104059 
+            text = "[int]"
+        intervals [3]:
+            xmin = 3.485849543104059 
+            xmax = 3.6611387486212164 
+            text = "0"
+        intervals [4]:
+            xmin = 3.6611387486212164 
+            xmax = 5.7792166486202046 
+            text = "[int]"
+        intervals [5]:
+            xmin = 5.7792166486202046 
+            xmax = 6.1151876258614228 
+            text = "0"
+        intervals [6]:
+            xmin = 6.1151876258614228 
+            xmax = 9.5280000000000005 
+            text = "[int]"

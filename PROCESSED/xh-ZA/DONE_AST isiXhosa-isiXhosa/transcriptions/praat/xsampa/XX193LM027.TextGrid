@@ -1,0 +1,68 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 7.1879999999999997 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic"
+        xmin = 0 
+        xmax = 7.1879999999999997 
+        intervals: size = 6
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.12822075714184517 
+            text = "[int]" 
+        intervals [2]:
+            xmin = 0.12822075714184517 
+            xmax = 3.2312310464379621 
+            text = "(u) [int] igama 0 igama ibinzana [/int] (/u)"
+        intervals [3]:
+            xmin = 3.2312310464379621 
+            xmax = 4.0589587974573673 
+            text = "[int]" 
+        intervals [4]:
+            xmin = 4.0589587974573673 
+            xmax = 4.7566063914834187 
+            text = "(u) [int] ikhawuntala [/int] (/u)"
+        intervals [5]:
+            xmin = 4.7566063914834187 
+            xmax = 7.0604069697986578 
+            text = "[int]" 
+        intervals [6]:
+            xmin = 7.0604069697986578 
+            xmax = 7.1879999999999997 
+            text = "0" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 7.1879999999999997 
+        intervals: size = 6
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.12822075714184517 
+            text = "[int]"
+        intervals [2]:
+            xmin = 0.12822075714184517 
+            xmax = 3.2312310464379621 
+            text = "(u) [int] igama 0 igama ib_<ind-\zan [/int] (/u)"
+        intervals [3]:
+            xmin = 3.2312310464379621 
+            xmax = 4.0589587974573673 
+            text = "[int]"
+        intervals [4]:
+            xmin = 4.0589587974573673 
+            xmax = 4.7566063914834187 
+            text = "(u) [int] ik_haunt_>al [/int] (/u)"
+        intervals [5]:
+            xmin = 4.7566063914834187 
+            xmax = 7.0604069697986578 
+            text = "[int]"
+        intervals [6]:
+            xmin = 7.0604069697986578 
+            xmax = 7.1879999999999997 
+            text = "0"

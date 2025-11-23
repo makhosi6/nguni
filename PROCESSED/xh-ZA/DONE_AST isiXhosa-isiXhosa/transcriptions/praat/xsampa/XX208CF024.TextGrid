@@ -1,0 +1,60 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 56.399999999999999 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 56.399999999999999 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.19789215377316913 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.19789215377316913 
+            xmax = 1.0300972539723863 
+            text = "(u) [int] umhla *ng+ [/int] (/u)" 
+        intervals [3]:
+            xmin = 1.0300972539723863 
+            xmax = 1.2592860191604689 
+            text = "[int]" 
+        intervals [4]:
+            xmin = 1.2592860191604689 
+            xmax = 7.2736065256152207 
+            text = "(s) [int] ngomhla wesithathu 0 kweyeThupha 0 ($)nineteen ninety eight(/$) [/int] (/s)" 
+        intervals [5]:
+            xmin = 7.2736065256152207 
+            xmax = 56.399999999999999 
+            text = "[int]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 56.399999999999999 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.19789215377316913 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.19789215377316913 
+            xmax = 1.0300972539723863 
+            text = "(u) [int] umKa N [/int] (/u)" 
+        intervals [3]:
+            xmin = 1.0300972539723863 
+            xmax = 1.2592860191604689 
+            text = "[int]" 
+        intervals [4]:
+            xmin = 1.2592860191604689 
+            xmax = 7.2736065256152207 
+            text = "(s) [int] NgOmKa wesit_hat_hu 0 k_>wEjet_hup_ha 0 ($)na-\intin na-\inti E-\It(/$) [/int] (/s)" 
+        intervals [5]:
+            xmin = 7.2736065256152207 
+            xmax = 56.399999999999999 
+            text = "[int]" 

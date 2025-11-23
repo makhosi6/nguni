@@ -1,0 +1,44 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 21.611999999999998 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 21.611999999999998 
+        intervals: size = 3 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.14225000551262815 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.14225000551262815 
+            xmax = 6.8039103578804996 
+            text = "(u) [sta] ($)ten(/$) Mc0Glory 0 [/sta] [int] Siyongwana [/int] [sta] ($)Street(/$) 0 Mbuqe_Park uMthatha [/sta] (/u)" 
+        intervals [3]:
+            xmin = 6.8039103578804996 
+            xmax = 21.611999999999998 
+            text = "[int]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 21.611999999999998 
+        intervals: size = 3 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.14225000551262815 
+            text = "0"
+        intervals [2]:
+            xmin = 0.14225000551262815 
+            xmax = 6.8039103578804996 
+            text = "(u) [sta] ($)t_>En(/$) mak0glori 0 [/sta] [int] sijONgwana [/int] [sta] ($)strit(/$) 0 m=bu!\Epak um=t_hat_h [/sta] (/u)"
+        intervals [3]:
+            xmin = 6.8039103578804996 
+            xmax = 21.611999999999998 
+            text = "[int]"

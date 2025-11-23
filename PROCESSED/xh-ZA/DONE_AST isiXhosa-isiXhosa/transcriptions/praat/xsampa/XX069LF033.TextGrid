@@ -1,0 +1,60 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 11.244 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic"
+        xmin = 0 
+        xmax = 11.244 
+        intervals: size = 5
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.14370961755976022 
+            text = "[sta]" 
+        intervals [2]:
+            xmin = 0.14370961755976022 
+            xmax = 1.771676617343539 
+            text = "(u) igama elipelwayo (/u)" 
+        intervals [3]:
+            xmin = 1.771676617343539 
+            xmax = 2.5739741497080519 
+            text = "[sta]" 
+        intervals [4]:
+            xmin = 2.5739741497080519 
+            xmax = 9.2519948123314784 
+            text = "(u) U. 0 K. 0 U. 0 R. 0 H. 0 O. 0 L. 0 A. (/u)" 
+        intervals [5]:
+            xmin = 9.2519948123314784 
+            xmax = 11.244 
+            text = "[sta]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 11.244 
+        intervals: size = 5
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.14370961755976022 
+            text = "[sta]"
+        intervals [2]:
+            xmin = 0.14370961755976022 
+            xmax = 1.771676617343539 
+            text = "(u) igama elip_>ElwajO (/u)"
+        intervals [3]:
+            xmin = 1.771676617343539 
+            xmax = 2.5739741497080519 
+            text = "[sta]"
+        intervals [4]:
+            xmin = 2.5739741497080519 
+            xmax = 9.2519948123314784 
+            text = "(u) ju 0 ke-\I 0 ju 0 ar 0 e-\IS 0 @U 0 el 0 e-\I (/u)"
+        intervals [5]:
+            xmin = 9.2519948123314784 
+            xmax = 11.244 
+            text = "[sta]"

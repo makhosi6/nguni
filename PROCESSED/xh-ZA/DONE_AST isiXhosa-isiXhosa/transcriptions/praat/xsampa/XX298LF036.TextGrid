@@ -1,0 +1,60 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 7.524 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 7.524 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.19371305044199577 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.19371305044199577 
+            xmax = 0.78174861783178673 
+            text = "[spk]" 
+        intervals [3]:
+            xmin = 0.78174861783178673 
+            xmax = 5.4692792267165276 
+            text = "(s) [int] amabhanana 0 amthubi 0 anencasa 0 emnandi [/int] (/s)" 
+        intervals [4]:
+            xmin = 5.4692792267165276 
+            xmax = 6.8933148845515211 
+            text = "0" 
+        intervals [5]:
+            xmin = 6.8933148845515211 
+            xmax = 7.524 
+            text = "[sta]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 7.524 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.19371305044199577 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.19371305044199577 
+            xmax = 0.78174861783178673 
+            text = "[spk]" 
+        intervals [3]:
+            xmin = 0.78174861783178673 
+            xmax = 5.4692792267165276 
+            text = "(s) [int] amab_0anana 0 amt_hub_<i 0 anE|\~asa 0 Emnandi [/int] (/s)" 
+        intervals [4]:
+            xmin = 5.4692792267165276 
+            xmax = 6.8933148845515211 
+            text = "0" 
+        intervals [5]:
+            xmin = 6.8933148845515211 
+            xmax = 7.524 
+            text = "[sta]" 

@@ -1,0 +1,60 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 15.9 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 15.9 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.5721750684525978 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.5721750684525978 
+            xmax = 1.419940543718835 
+            text = "[sta]" 
+        intervals [3]:
+            xmin = 1.419940543718835 
+            xmax = 12.948781707648019 
+            text = "(s) [int] ngu ($)zero(/$) 0 *sisihla+ 0 sisihlanu 0 *ngufo+ 0 sisine 0 sisihlanu 0 sisibhozo 0 sisibini 0 ngu 0 ($)zero(/$) 0 *sili+ 0 linye 0 zintlanu [/int] (/s)" 
+        intervals [4]:
+            xmin = 12.948781707648019 
+            xmax = 13.659470388468508 
+            text = "0" 
+        intervals [5]:
+            xmin = 13.659470388468508 
+            xmax = 15.9 
+            text = "[int]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 15.9 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.5721750684525978 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.5721750684525978 
+            xmax = 1.419940543718835 
+            text = "[sta]" 
+        intervals [3]:
+            xmin = 1.419940543718835 
+            xmax = 12.948781707648019 
+            text = "(s) [int] Ngu ($)zi:rO(/$) 0 sisihla 0 sisihlanu 0 Ngufo 0 sisine 0 sisihlanu 0 sisibhozo 0 sisibini 0 Ngu 0 ($)zErO(/$) 0 sili 0 linye 0 zintlanu [/int] (/s)" 
+        intervals [4]:
+            xmin = 12.948781707648019 
+            xmax = 13.659470388468508 
+            text = "0" 
+        intervals [5]:
+            xmin = 13.659470388468508 
+            xmax = 15.9 
+            text = "[int]" 

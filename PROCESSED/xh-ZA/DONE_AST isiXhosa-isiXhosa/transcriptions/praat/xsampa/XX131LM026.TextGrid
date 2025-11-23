@@ -1,0 +1,76 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 10.5 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 10.5 
+        intervals: size = 7
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.5623137870361135 
+            text = "0" 
+        intervals [2]:
+            xmin = 1.5623137870361135 
+            xmax = 1.9580381809166254 
+            text = "[int]" 
+        intervals [3]:
+            xmin = 1.9580381809166254 
+            xmax = 2.6236231319722809 
+            text = "(u) inambari (/u)" 
+        intervals [4]:
+            xmin = 2.6236231319722809 
+            xmax = 3.1779644678588563 
+            text = "0" 
+        intervals [5]:
+            xmin = 3.1779644678588563 
+            xmax = 5.4500136696633224 
+            text = "(u) [sta] ($)three 0 six 0 five 0 two(/$) [/sta] (/u)" 
+        intervals [6]:
+            xmin = 5.4500136696633224 
+            xmax = 6.598593429700732 
+            text = "0" 
+        intervals [7]:
+            xmin = 6.598593429700732 
+            xmax = 10.5 
+            text = "[int]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 10.5 
+        intervals: size = 7
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.5623137870361135 
+            text = "0" 
+        intervals [2]:
+            xmin = 1.5623137870361135 
+            xmax = 1.9580381809166254 
+            text = "[int]" 
+        intervals [3]:
+            xmin = 1.9580381809166254 
+            xmax = 2.6236231319722809 
+            text = "(u) inambari (/u)" 
+        intervals [4]:
+            xmin = 2.6236231319722809 
+            xmax = 3.1779644678588563 
+            text = "0" 
+        intervals [5]:
+            xmin = 3.1779644678588563 
+            xmax = 5.4500136696633224 
+            text = "(u) [sta] ($)Tri: 0 siks 0 fa-\if 0 tu:(/$) [/sta] (/u)"
+        intervals [6]:
+            xmin = 5.4500136696633224 
+            xmax = 6.598593429700732 
+            text = "0" 
+        intervals [7]:
+            xmin = 6.598593429700732 
+            xmax = 10.5 
+            text = "[int]" 

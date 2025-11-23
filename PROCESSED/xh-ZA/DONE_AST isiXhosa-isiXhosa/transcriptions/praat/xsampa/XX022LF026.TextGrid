@@ -1,0 +1,68 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 10.861375000000001 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic"
+        xmin = 0 
+        xmax = 10.861375000000001 
+        intervals: size = 6
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.94194500216076082 
+            text = "[int]" 
+        intervals [2]:
+            xmin = 0.94194500216076082 
+            xmax = 2.317837471161913 
+            text = "(u) ngaloo veki (/u)" 
+        intervals [3]:
+            xmin = 2.317837471161913 
+            xmax = 3.5348455308047724 
+            text = "[int]" 
+        intervals [4]:
+            xmin = 3.5348455308047724 
+            xmax = 5.0112534360187553 
+            text = "(u) ngaloo [int] veki [/int] (/u)" 
+        intervals [5]:
+            xmin = 5.0112534360187553 
+            xmax = 9.7256923151679509 
+            text = "[int]" 
+        intervals [6]:
+            xmin = 9.7256923151679509 
+            xmax = 10.861375000000001 
+            text = "[sta]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 10.861375000000001 
+        intervals: size = 6
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.94194500216076082 
+            text = "[int]"
+        intervals [2]:
+            xmin = 0.94194500216076082 
+            xmax = 2.317837471161913 
+            text = "(u) NgalO: vek_>i (/u)"
+        intervals [3]:
+            xmin = 2.317837471161913 
+            xmax = 3.5348455308047724 
+            text = "[int]"
+        intervals [4]:
+            xmin = 3.5348455308047724 
+            xmax = 5.0112534360187553 
+            text = "(u) NgalO: [int] vek_>i [/int] (/u)"
+        intervals [5]:
+            xmin = 5.0112534360187553 
+            xmax = 9.7256923151679509 
+            text = "[int]"
+        intervals [6]:
+            xmin = 9.7256923151679509 
+            xmax = 10.861375000000001 
+            text = "[sta]"

@@ -1,0 +1,60 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 5.2080000000000002 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic"
+        xmin = 0 
+        xmax = 5.2080000000000002 
+        intervals: size = 5
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.20901280733944955 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.20901280733944955 
+            xmax = 0.7865274495412844 
+            text = "[int]" 
+        intervals [3]:
+            xmin = 0.7865274495412844 
+            xmax = 3.2307766522632289 
+            text = "(s) igama nguThenjiwe 0 Tyhobile (/s)" 
+        intervals [4]:
+            xmin = 3.2307766522632289 
+            xmax = 4.1889065665509673 
+            text = "0" 
+        intervals [5]:
+            xmin = 4.1889065665509673 
+            xmax = 5.2080000000000002 
+            text = "[sta]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 5.2080000000000002 
+        intervals: size = 5
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.20901280733944955 
+            text = "0"
+        intervals [2]:
+            xmin = 0.20901280733944955 
+            xmax = 0.7865274495412844 
+            text = "[int]"
+        intervals [3]:
+            xmin = 0.7865274495412844 
+            xmax = 3.2307766522632289 
+            text = "(s) igama Ngut_heJd-\ZiwE 0 c_hob_<ilE (/s)"
+        intervals [4]:
+            xmin = 3.2307766522632289 
+            xmax = 4.1889065665509673 
+            text = "0"
+        intervals [5]:
+            xmin = 4.1889065665509673 
+            xmax = 5.2080000000000002 
+            text = "[sta]"

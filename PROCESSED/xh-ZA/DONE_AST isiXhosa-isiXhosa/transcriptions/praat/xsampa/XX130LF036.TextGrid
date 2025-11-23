@@ -1,0 +1,76 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 7.1040000000000001 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 7.1040000000000001 
+        intervals: size = 7
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.20348632568663483 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.20348632568663483 
+            xmax = 0.39716662263739994 
+            text = "[sta]" 
+        intervals [3]:
+            xmin = 0.39716662263739994 
+            xmax = 1.5020732452156336 
+            text = "(u) ibinzana (/u)"
+        intervals [4]:
+            xmin = 1.5020732452156336 
+            xmax = 1.9436425526770329 
+            text = "[int]" 
+        intervals [5]:
+            xmin = 1.9436425526770329 
+            xmax = 2.1068055858943655 
+            text = "0" 
+        intervals [6]:
+            xmin = 2.1068055858943655 
+            xmax = 4.0818106727971841 
+            text = "(s) [sta] ndingayicima *na+ *i+ nini [/sta] (/s)" 
+        intervals [7]:
+            xmin = 4.0818106727971841 
+            xmax = 7.1040000000000001 
+            text = "[int]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 7.1040000000000001 
+        intervals: size = 7
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.20348632568663483 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.20348632568663483 
+            xmax = 0.39716662263739994 
+            text = "[sta]" 
+        intervals [3]:
+            xmin = 0.39716662263739994 
+            xmax = 1.5020732452156336 
+            text = "(u) ib_<ind-\zana (/u)" 
+        intervals [4]:
+            xmin = 1.5020732452156336 
+            xmax = 1.9436425526770329 
+            text = "[int]" 
+        intervals [5]:
+            xmin = 1.9436425526770329 
+            xmax = 2.1068055858943655 
+            text = "0" 
+        intervals [6]:
+            xmin = 2.1068055858943655 
+            xmax = 4.0818106727971841 
+            text = "(s) [sta] ndiNgaji|\ima na i nini [/sta] (/s)" 
+        intervals [7]:
+            xmin = 4.0818106727971841 
+            xmax = 7.1040000000000001 
+            text = "[int]" 

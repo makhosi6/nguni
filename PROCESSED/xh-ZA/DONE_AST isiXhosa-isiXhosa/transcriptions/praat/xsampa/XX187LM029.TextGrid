@@ -1,0 +1,68 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 5.952 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic"
+        xmin = 0 
+        xmax = 5.952 
+        intervals: size = 6
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.23631260156596243 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.23631260156596243 
+            xmax = 0.46204960584502985 
+            text = "[int]" 
+        intervals [3]:
+            xmin = 0.46204960584502985 
+            xmax = 2.3235591536040641 
+            text = "(u) [int] ($)five five four six(/$) [/int] (/u)" 
+        intervals [4]:
+            xmin = 2.3235591536040641 
+            xmax = 3.0271772241301496 
+            text = "[sta]" 
+        intervals [5]:
+            xmin = 3.0271772241301496 
+            xmax = 4.0711925963852122 
+            text = "[int]" 
+        intervals [6]:
+            xmin = 4.0711925963852122 
+            xmax = 5.952 
+            text = "[sta]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 5.952 
+        intervals: size = 6
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.23631260156596243 
+            text = "0"
+        intervals [2]:
+            xmin = 0.23631260156596243 
+            xmax = 0.46204960584502985 
+            text = "[int]"
+        intervals [3]:
+            xmin = 0.46204960584502985 
+            xmax = 2.3235591536040641 
+            text = "(u) [int] ($)fa-\if fa-\if fO siks(/$) [/int] (/u)"
+        intervals [4]:
+            xmin = 2.3235591536040641 
+            xmax = 3.0271772241301496 
+            text = "[sta]"
+        intervals [5]:
+            xmin = 3.0271772241301496 
+            xmax = 4.0711925963852122 
+            text = "[int]"
+        intervals [6]:
+            xmin = 4.0711925963852122 
+            xmax = 5.952 
+            text = "[sta]"

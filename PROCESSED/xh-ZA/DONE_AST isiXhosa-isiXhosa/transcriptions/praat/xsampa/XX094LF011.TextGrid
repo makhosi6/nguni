@@ -1,0 +1,60 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 9.3480000000000008 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 9.3480000000000008 
+        intervals: size = 5
+        intervals [1]:
+            xmin = 0 
+            xmax = 2.2934187401106514 
+            text = "(s) [sta] ndithetha ndisedolophini yaseMthatha"
+        intervals [2]:
+            xmin = 2.2934187401106514 
+            xmax = 3.5726815324567656 
+            text = "0" 
+        intervals [3]:
+            xmin = 3.5726815324567656 
+            xmax = 5.1353950244631106 
+            text = "kwilali yaseSibangweni [/sta] (/s)" 
+        intervals [4]:
+            xmin = 5.1353950244631106 
+            xmax = 5.4199020252350358 
+            text = "0" 
+        intervals [5]:
+            xmin = 5.4199020252350358 
+            xmax = 9.3480000000000008 
+            text = "[int]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 9.3480000000000008 
+        intervals: size = 5
+        intervals [1]:
+            xmin = 0 
+            xmax = 2.2934187401106514 
+            text = "(s) [sta] ndit_hEt_ha ndisEdOlop_hin jasEmt_hat_ha"
+        intervals [2]:
+            xmin = 2.2934187401106514 
+            xmax = 3.5726815324567656 
+            text = "0" 
+        intervals [3]:
+            xmin = 3.5726815324567656 
+            xmax = 5.1353950244631106 
+            text = "k_>wilali jasesib_<aNgwen [/sta] (/s)" 
+        intervals [4]:
+            xmin = 5.1353950244631106 
+            xmax = 5.4199020252350358 
+            text = "0" 
+        intervals [5]:
+            xmin = 5.4199020252350358 
+            xmax = 9.3480000000000008 
+            text = "[int]" 

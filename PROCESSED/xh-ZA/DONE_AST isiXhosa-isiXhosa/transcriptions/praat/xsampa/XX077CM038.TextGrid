@@ -1,0 +1,60 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 6.1319999999999997 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 6.1319999999999997 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.410192173599018 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.410192173599018 
+            xmax = 1.7227533501599035 
+            text = "(u) [sta] isambuku semali [/sta] (/u)" 
+        intervals [3]:
+            xmin = 1.7227533501599035 
+            xmax = 2.3627992905595594 
+            text = "0" 
+        intervals [4]:
+            xmin = 2.3627992905595594 
+            xmax = 4.0804908776508722 
+            text = "(u) ($)eleven rand forty seven cent(/$) (/u)" 
+        intervals [5]:
+            xmin = 4.0804908776508722 
+            xmax = 6.1319999999999997 
+            text = "0" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 6.1319999999999997 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.410192173599018 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.410192173599018 
+            xmax = 1.7227533501599035 
+            text = "(u) [sta] isambuk_>u sEmali [/sta] (/u)" 
+        intervals [3]:
+            xmin = 1.7227533501599035 
+            xmax = 2.3627992905595594 
+            text = "0" 
+        intervals [4]:
+            xmin = 2.3627992905595594 
+            xmax = 4.0804908776508722 
+            text = "(u) ($)lEvEn rant fOti sEvEn sEnt(/$) (/u)" 
+        intervals [5]:
+            xmin = 4.0804908776508722 
+            xmax = 6.1319999999999997 
+            text = "0" 

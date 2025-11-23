@@ -1,0 +1,60 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 3.492 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 3.492 
+        intervals: size = 5
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.11122069104057858 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.11122069104057858 
+            xmax = 1.8067437225150789 
+            text = "(u) incwadi salathisi (/u)" 
+        intervals [3]:
+            xmin = 1.8067437225150789 
+            xmax = 2.0217107135267511 
+            text = "[int]" 
+        intervals [4]:
+            xmin = 2.0217107135267511 
+            xmax = 3.0442494763152834 
+            text = "0" 
+        intervals [5]:
+            xmin = 3.0442494763152834 
+            xmax = 3.492 
+            text = "[sta]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 3.492 
+        intervals: size = 5
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.11122069104057858 
+            text = "0"
+        intervals [2]:
+            xmin = 0.11122069104057858 
+            xmax = 1.8067437225150789 
+            text = "(u) i|\~wad_0i salat_hisi (/u)"
+        intervals [3]:
+            xmin = 1.8067437225150789 
+            xmax = 2.0217107135267511 
+            text = "[int]"
+        intervals [4]:
+            xmin = 2.0217107135267511 
+            xmax = 3.0442494763152834 
+            text = "0"
+        intervals [5]:
+            xmin = 3.0442494763152834 
+            xmax = 3.492 
+            text = "[sta]"

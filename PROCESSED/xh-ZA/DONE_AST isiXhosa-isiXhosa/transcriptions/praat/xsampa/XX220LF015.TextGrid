@@ -1,0 +1,68 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 28.884 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 28.884 
+        intervals: size = 6 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.0466244649308329 
+            text = "[int]" 
+        intervals [2]:
+            xmin = 1.0466244649308329 
+            xmax = 2.641852499370875 
+            text = "(s) [int] ixesha *ngama+ [/int] (/s)" 
+        intervals [3]:
+            xmin = 2.641852499370875 
+            xmax = 3.6068579831035903 
+            text = "[sta]" 
+        intervals [4]:
+            xmin = 3.6068579831035903 
+            xmax = 8.1223553409472409 
+            text = "[int]" 
+        intervals [5]:
+            xmin = 8.1223553409472409 
+            xmax = 12.636147408585796 
+            text = "(s) [int] amashumi mane anesixhenxe phambi kubethe intsimbi yesibhozo [/int] (/s)" 
+        intervals [6]:
+            xmin = 12.636147408585796 
+            xmax = 28.884 
+            text = "[int]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 28.884 
+        intervals: size = 6 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.0466244649308329 
+            text = "[int]"
+        intervals [2]:
+            xmin = 1.0466244649308329 
+            xmax = 2.641852499370875 
+            text = "(s) [int] i|\|\ESa Ngama [/int] (/s)"
+        intervals [3]:
+            xmin = 2.641852499370875 
+            xmax = 3.6068579831035903 
+            text = "[sta]"
+        intervals [4]:
+            xmin = 3.6068579831035903 
+            xmax = 8.1223553409472409 
+            text = "[int]"
+        intervals [5]:
+            xmin = 8.1223553409472409 
+            xmax = 12.636147408585796 
+            text = "(s) [int] amaSumi manE anesi|\|\_hE|\|\~E p_hamb k_>ub_<Et_h int-\s_>imbi jesib_0Oz [/int] (/s)"
+        intervals [6]:
+            xmin = 12.636147408585796 
+            xmax = 28.884 
+            text = "[int]"

@@ -1,0 +1,60 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 8.8919999999999995 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 8.8919999999999995 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.090169753767950986 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.090169753767950986 
+            xmax = 2.4444558807842669 
+            text = "(u) Zithobile Ntsombothi (/u)" 
+        intervals [3]:
+            xmin = 2.4444558807842669 
+            xmax = 3.6590013812020672 
+            text = "[spk]" 
+        intervals [4]:
+            xmin = 3.6590013812020672 
+            xmax = 4.2441986109150962 
+            text = "0" 
+        intervals [5]:
+            xmin = 4.2441986109150962 
+            xmax = 8.8919999999999995 
+            text = "[int]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 8.8919999999999995 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.090169753767950986 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.090169753767950986 
+            xmax = 2.4444558807842669 
+            text = "(u) zit_hob_<ilE nt-\s_>Ombot_hi (/u)" 
+        intervals [3]:
+            xmin = 2.4444558807842669 
+            xmax = 3.6590013812020672 
+            text = "[spk]" 
+        intervals [4]:
+            xmin = 3.6590013812020672 
+            xmax = 4.2441986109150962 
+            text = "0" 
+        intervals [5]:
+            xmin = 4.2441986109150962 
+            xmax = 8.8919999999999995 
+            text = "[int]" 

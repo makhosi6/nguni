@@ -1,0 +1,60 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 6.6600000000000001 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 6.6600000000000001 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.57729016437060199 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.57729016437060199 
+            xmax = 3.4292994992199723 
+            text = "(s) [sta] *ixesha ngoku 0 ngu ($)two(/$) [/sta] (/s)" 
+        intervals [3]:
+            xmin = 3.4292994992199723 
+            xmax = 4.5240163098651918 
+            text = "0" 
+        intervals [4]:
+            xmin = 4.5240163098651918 
+            xmax = 5.4690967830073163 
+            text = "[int]" 
+        intervals [5]:
+            xmin = 5.4690967830073163 
+            xmax = 6.6600000000000001 
+            text = "[sta]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 6.6600000000000001 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.57729016437060199 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.57729016437060199 
+            xmax = 3.4292994992199723 
+            text = "(s) [sta] |\|\ESa Ngok_>u 0 Ngu ($)tu:(/$) [/sta] (/s)" 
+        intervals [3]:
+            xmin = 3.4292994992199723 
+            xmax = 4.5240163098651918 
+            text = "0" 
+        intervals [4]:
+            xmin = 4.5240163098651918 
+            xmax = 5.4690967830073163 
+            text = "[int]" 
+        intervals [5]:
+            xmin = 5.4690967830073163 
+            xmax = 6.6600000000000001 
+            text = "[sta]" 

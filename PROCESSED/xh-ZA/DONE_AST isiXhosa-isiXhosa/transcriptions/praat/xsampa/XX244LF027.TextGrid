@@ -1,0 +1,60 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 11.460000000000001 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 11.460000000000001 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.3914399231989627 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.3914399231989627 
+            xmax = 0.5917828393813539 
+            text = "[int]" 
+        intervals [3]:
+            xmin = 0.5917828393813539 
+            xmax = 9.4267835717843447 
+            text = "(u) amawaka amane *ama+ 0 amawaka amane anamakhulu amabini anamashumi asibhozo *ana+ 0 anemivo elishumi elinanye (/u)" 
+        intervals [4]:
+            xmin = 9.4267835717843447 
+            xmax = 10.918041833030852 
+            text = "0" 
+        intervals [5]:
+            xmin = 10.918041833030852 
+            xmax = 11.460000000000001 
+            text = "[sta]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 11.460000000000001 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.3914399231989627 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.3914399231989627 
+            xmax = 0.5917828393813539 
+            text = "[int]" 
+        intervals [3]:
+            xmin = 0.5917828393813539 
+            xmax = 9.4267835717843447 
+            text = "(u) amawak_>a amanE ama 0 amawak_>a amanE anamak_hulu amab_<ini anamaSum asibOzO ana 0 anEmi:vo Elishum ElinaJE (/u)" 
+        intervals [4]:
+            xmin = 9.4267835717843447 
+            xmax = 10.918041833030852 
+            text = "0" 
+        intervals [5]:
+            xmin = 10.918041833030852 
+            xmax = 11.460000000000001 
+            text = "[sta]" 

@@ -1,0 +1,60 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 6.8760000000000003 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 6.8760000000000003 
+        intervals: size = 5
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.0337036883301709 
+            text = "0" 
+        intervals [2]:
+            xmin = 1.0337036883301709 
+            xmax = 4.5281805367306109 
+            text = "(s) umdlali webhola 0 wasilahla [int] isihlangu [/int] (/s)"
+        intervals [3]:
+            xmin = 4.5281805367306109 
+            xmax = 4.8980166870743478 
+            text = "[int]" 
+        intervals [4]:
+            xmin = 4.8980166870743478 
+            xmax = 5.7729725356459793 
+            text = "0" 
+        intervals [5]:
+            xmin = 5.7729725356459793 
+            xmax = 6.8760000000000003 
+            text = "[int]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 6.8760000000000003 
+        intervals: size = 5
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.0337036883301709 
+            text = "0"
+        intervals [2]:
+            xmin = 1.0337036883301709 
+            xmax = 4.5281805367306109 
+            text = "(s) um=K\ali wEb_0Ola 0 wasilaKa [int] isiKaNg [/int] (/s)"
+        intervals [3]:
+            xmin = 4.5281805367306109 
+            xmax = 4.8980166870743478 
+            text = "[int]"
+        intervals [4]:
+            xmin = 4.8980166870743478 
+            xmax = 5.7729725356459793 
+            text = "0"
+        intervals [5]:
+            xmin = 5.7729725356459793 
+            xmax = 6.8760000000000003 
+            text = "[int]"

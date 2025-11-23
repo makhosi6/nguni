@@ -1,0 +1,60 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 4.9800000000000004 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic"
+        xmin = 0 
+        xmax = 4.9800000000000004 
+        intervals: size = 5
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.30261037857092266 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.30261037857092266 
+            xmax = 1.2875083232981515 
+            text = "[sta]" 
+        intervals [3]:
+            xmin = 1.2875083232981515 
+            xmax = 2.6615117196316693 
+            text = "(s) bambisa indawo (/s)"
+        intervals [4]:
+            xmin = 2.6615117196316693 
+            xmax = 2.9977187079407814 
+            text = "[spk]" 
+        intervals [5]:
+            xmin = 2.9977187079407814 
+            xmax = 4.9800000000000004 
+            text = "0" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 4.9800000000000004 
+        intervals: size = 5
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.30261037857092266 
+            text = "0"
+        intervals [2]:
+            xmin = 0.30261037857092266 
+            xmax = 1.2875083232981515 
+            text = "[sta]"
+        intervals [3]:
+            xmin = 1.2875083232981515 
+            xmax = 2.6615117196316693 
+            text = "(s) b_<ambisa indaw (/s)"
+        intervals [4]:
+            xmin = 2.6615117196316693 
+            xmax = 2.9977187079407814 
+            text = "[spk]"
+        intervals [5]:
+            xmin = 2.9977187079407814 
+            xmax = 4.9800000000000004 
+            text = "0"

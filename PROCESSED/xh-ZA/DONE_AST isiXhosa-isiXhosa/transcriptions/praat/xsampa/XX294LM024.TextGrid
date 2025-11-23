@@ -1,0 +1,68 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 20.675999999999998 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 20.675999999999998 
+        intervals: size = 6
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.6224099717665631 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.6224099717665631 
+            xmax = 2.0805409384834901 
+            text = "[int]" 
+        intervals [3]:
+            xmin = 2.0805409384834901 
+            xmax = 4.4623370285163082 
+            text = "(s) [int] ndinike 0 uluhlu [/int] (/s)" 
+        intervals [4]:
+            xmin = 4.4623370285163082 
+            xmax = 10.037764359060402 
+            text = "[int]" 
+        intervals [5]:
+            xmin = 10.037764359060402 
+            xmax = 12.471253238255033 
+            text = "(s) [int] umtshayelo wayame *enkone+ ekoneni [/int] (/s)"
+        intervals [6]:
+            xmin = 12.471253238255033 
+            xmax = 20.675999999999998 
+            text = "[int]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 20.675999999999998 
+        intervals: size = 6
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.6224099717665631 
+            text = "0"
+        intervals [2]:
+            xmin = 0.6224099717665631 
+            xmax = 2.0805409384834901 
+            text = "[int]"
+        intervals [3]:
+            xmin = 2.0805409384834901 
+            xmax = 4.4623370285163082 
+            text = "(s) [int] ndinik_>E 0 uluKu [/int] (/s)"
+        intervals [4]:
+            xmin = 4.4623370285163082 
+            xmax = 10.037764359060402 
+            text = "[int]"
+        intervals [5]:
+            xmin = 10.037764359060402 
+            xmax = 12.471253238255033 
+            text = "(s) [int] um=t-\S_hajElO wajamE ENk_>OnE Ek_>Onen [/int] (/s)"
+        intervals [6]:
+            xmin = 12.471253238255033 
+            xmax = 20.675999999999998 
+            text = "[int]"

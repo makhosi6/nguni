@@ -1,0 +1,44 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 7.0919999999999996 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 7.0919999999999996 
+        intervals: size = 3 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.49618307208127987 
+            text = "[int]" 
+        intervals [2]:
+            xmin = 0.49618307208127987 
+            xmax = 2.6163766583349357 
+            text = "(u) e ($)Ryneveld Street(/$) (/u)" 
+        intervals [3]:
+            xmin = 2.6163766583349357 
+            xmax = 7.0919999999999996 
+            text = "[int]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 7.0919999999999996 
+        intervals: size = 3 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.49618307208127987 
+            text = "[int]"
+        intervals [2]:
+            xmin = 0.49618307208127987 
+            xmax = 2.6163766583349357 
+            text = "(u) E ($)re-\In@fElt strit(/$) (/u)"
+        intervals [3]:
+            xmin = 2.6163766583349357 
+            xmax = 7.0919999999999996 
+            text = "[int]"

@@ -1,0 +1,60 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 5.3159999999999998 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic"
+        xmin = 0 
+        xmax = 5.3159999999999998 
+        intervals: size = 5
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.30672748155719037 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.30672748155719037 
+            xmax = 0.71422705147795451 
+            text = "[spk]" 
+        intervals [3]:
+            xmin = 0.71422705147795451 
+            xmax = 3.5667240409233036 
+            text = "(s) qinisekisa imali 0 kum 0 kuqala (/s)" 
+        intervals [4]:
+            xmin = 3.5667240409233036 
+            xmax = 4.1127734646171277 
+            text = "0" 
+        intervals [5]:
+            xmin = 4.1127734646171277 
+            xmax = 5.3159999999999998 
+            text = "[sta]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 5.3159999999999998 
+        intervals: size = 5
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.30672748155719037 
+            text = "0"
+        intervals [2]:
+            xmin = 0.30672748155719037 
+            xmax = 0.71422705147795451 
+            text = "[spk]"
+        intervals [3]:
+            xmin = 0.71422705147795451 
+            xmax = 3.5667240409233036 
+            text = "(s) !\inisek_>isa imali 0 k_>um 0 k_>u!\ala (/s)"
+        intervals [4]:
+            xmin = 3.5667240409233036 
+            xmax = 4.1127734646171277 
+            text = "0"
+        intervals [5]:
+            xmin = 4.1127734646171277 
+            xmax = 5.3159999999999998 
+            text = "[sta]"

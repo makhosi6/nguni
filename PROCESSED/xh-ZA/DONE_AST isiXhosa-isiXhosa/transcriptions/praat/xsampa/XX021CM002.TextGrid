@@ -1,0 +1,68 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 12.048 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic"
+        xmin = 0 
+        xmax = 12.048 
+        intervals: size = 6
+        intervals [1]:
+            xmin = 0 
+            xmax = 3.286149473509191 
+            text = "[int]" 
+        intervals [2]:
+            xmin = 3.286149473509191 
+            xmax = 4.897189177193324 
+            text = "(u) [int] Silulami 0 Ntlokondala [/int] (/u)" 
+        intervals [3]:
+            xmin = 4.897189177193324 
+            xmax = 7.898792377983991 
+            text = "[int]" 
+        intervals [4]:
+            xmin = 7.898792377983991 
+            xmax = 8.8223354213258585 
+            text = "[sta]" 
+        intervals [5]:
+            xmin = 8.8223354213258585 
+            xmax = 9.1732817777957685 
+            text = "[ext]" 
+        intervals [6]:
+            xmin = 9.1732817777957685 
+            xmax = 12.048 
+            text = "[sta]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 12.048 
+        intervals: size = 6
+        intervals [1]:
+            xmin = 0 
+            xmax = 3.286149473509191 
+            text = "[int]"
+        intervals [2]:
+            xmin = 3.286149473509191 
+            xmax = 4.897189177193324 
+            text = "(u) [int] silulami 0 nt-\K_>Ok_>Ondala [/int] (/u)"
+        intervals [3]:
+            xmin = 4.897189177193324 
+            xmax = 7.898792377983991 
+            text = "[int]"
+        intervals [4]:
+            xmin = 7.898792377983991 
+            xmax = 8.8223354213258585 
+            text = "[sta]"
+        intervals [5]:
+            xmin = 8.8223354213258585 
+            xmax = 9.1732817777957685 
+            text = "[ext]"
+        intervals [6]:
+            xmin = 9.1732817777957685 
+            xmax = 12.048 
+            text = "[sta]"

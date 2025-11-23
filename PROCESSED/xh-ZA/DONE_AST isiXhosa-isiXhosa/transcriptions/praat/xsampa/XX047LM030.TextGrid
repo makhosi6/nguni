@@ -1,0 +1,60 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 9.4559999999999995 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic"
+        xmin = 0 
+        xmax = 9.4559999999999995 
+        intervals: size = 5
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.28465412521883443 
+            text = "[sta]" 
+        intervals [2]:
+            xmin = 0.28465412521883443 
+            xmax = 3.5849286348751908 
+            text = "(u) kusuku lokugqibela 0 enyangeni (/u)" 
+        intervals [3]:
+            xmin = 3.5849286348751908 
+            xmax = 4.198857669071737 
+            text = "[spk]" 
+        intervals [4]:
+            xmin = 4.198857669071737 
+            xmax = 5.8048019999999996 
+            text = "0" 
+        intervals [5]:
+            xmin = 5.8048019999999996 
+            xmax = 9.4559999999999995 
+            text = "[int]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 9.4559999999999995 
+        intervals: size = 5
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.28465412521883443 
+            text = "[sta]"
+        intervals [2]:
+            xmin = 0.28465412521883443 
+            xmax = 3.5849286348751908 
+            text = "(u) k_>usuk_>u lok_>u!\_vib_<Ela 0 EJaNgeni (/u)"
+        intervals [3]:
+            xmin = 3.5849286348751908 
+            xmax = 4.198857669071737 
+            text = "[spk]"
+        intervals [4]:
+            xmin = 4.198857669071737 
+            xmax = 5.8048019999999996 
+            text = "0"
+        intervals [5]:
+            xmin = 5.8048019999999996 
+            xmax = 9.4559999999999995 
+            text = "[int]"

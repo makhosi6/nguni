@@ -1,0 +1,76 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 7.9560000000000004 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic"
+        xmin = 0 
+        xmax = 7.9560000000000004 
+        intervals: size = 7
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.54601604108960444 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.54601604108960444 
+            xmax = 2.0662295263585841 
+            text = "(u) amashumi amabini eminyaka (/u)"
+        intervals [3]:
+            xmin = 2.0662295263585841 
+            xmax = 2.4049460215913636 
+            text = "[int]" 
+        intervals [4]:
+            xmin = 2.4049460215913636 
+            xmax = 4.7030795681727309 
+            text = "[sta]" 
+        intervals [5]:
+            xmin = 4.7030795681727309 
+            xmax = 5.4158696521391443 
+            text = "[int]" 
+        intervals [6]:
+            xmin = 5.4158696521391443 
+            xmax = 7.2224238304678137 
+            text = "[sta]" 
+        intervals [7]:
+            xmin = 7.2224238304678137 
+            xmax = 7.9560000000000004 
+            text = "[int]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 7.9560000000000004 
+        intervals: size = 7
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.54601604108960444 
+            text = "0"
+        intervals [2]:
+            xmin = 0.54601604108960444 
+            xmax = 2.0662295263585841 
+            text = "(u) maSum amab_<in emiJak_> (/u)"
+        intervals [3]:
+            xmin = 2.0662295263585841 
+            xmax = 2.4049460215913636 
+            text = "[int]"
+        intervals [4]:
+            xmin = 2.4049460215913636 
+            xmax = 4.7030795681727309 
+            text = "[sta]"
+        intervals [5]:
+            xmin = 4.7030795681727309 
+            xmax = 5.4158696521391443 
+            text = "[int]"
+        intervals [6]:
+            xmin = 5.4158696521391443 
+            xmax = 7.2224238304678137 
+            text = "[sta]"
+        intervals [7]:
+            xmin = 7.2224238304678137 
+            xmax = 7.9560000000000004 
+            text = "[int]"

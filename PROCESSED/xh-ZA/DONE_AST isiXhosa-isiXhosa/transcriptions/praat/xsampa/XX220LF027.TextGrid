@@ -1,0 +1,60 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 132.67362499999999 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic"
+        xmin = 0 
+        xmax = 132.67362499999999 
+        intervals: size = 5
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.67312460154423748 
+            text = "[int]" 
+        intervals [2]:
+            xmin = 0.67312460154423748 
+            xmax = 1.4712991893999681 
+            text = "(u) [int] umhla [/int] (/u)" 
+        intervals [3]:
+            xmin = 1.4712991893999681 
+            xmax = 1.9184177162490355 
+            text = "[int]" 
+        intervals [4]:
+            xmin = 1.9184177162490355 
+            xmax = 5.7636731330676767 
+            text = "(u) [int] ngoLwesine 0 ngoLwesibini 0 ($)i mean 0 sorry(/$) [/int] (/u)" 
+        intervals [5]:
+            xmin = 5.7636731330676767 
+            xmax = 132.67362499999999 
+            text = "[int]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 132.67362499999999 
+        intervals: size = 5
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.67312460154423748 
+            text = "[int]"
+        intervals [2]:
+            xmin = 0.67312460154423748 
+            xmax = 1.4712991893999681 
+            text = "(u) [int] um=Ka [/int] (/u)"
+        intervals [3]:
+            xmin = 1.4712991893999681 
+            xmax = 1.9184177162490355 
+            text = "[int]"
+        intervals [4]:
+            xmin = 1.9184177162490355 
+            xmax = 5.7636731330676767 
+            text = "(u) [int] NgOlwesinE 0 NgOlwesib_<ini 0 ($)a-\i min 0 sQri(/$) [/int] (/u)"
+        intervals [5]:
+            xmin = 5.7636731330676767 
+            xmax = 132.67362499999999 
+            text = "[int]"

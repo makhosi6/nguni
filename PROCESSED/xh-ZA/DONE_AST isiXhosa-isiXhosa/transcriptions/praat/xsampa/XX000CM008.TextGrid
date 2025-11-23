@@ -1,0 +1,52 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 8.6159999999999997 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic"
+        xmin = 0 
+        xmax = 8.6159999999999997 
+        intervals: size = 4
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.2319597785234899 
+            text = "[sta]" 
+        intervals [2]:
+            xmin = 0.2319597785234899 
+            xmax = 5.5487039999999999 
+            text = "(u) ($)Afrikaans(/$) 0 Xhosa 0 ($)English seSotho South [int] Sotho le Venda [/int](/$) (/u)" 
+        intervals [3]:
+            xmin = 5.5487039999999999 
+            xmax = 6.1846905704697983 
+            text = "[ext]" 
+        intervals [4]:
+            xmin = 6.1846905704697983 
+            xmax = 8.6159999999999997 
+            text = "0" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 8.6159999999999997 
+        intervals: size = 4
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.2319597785234899 
+            text = "[sta]"
+        intervals [2]:
+            xmin = 0.2319597785234899 
+            xmax = 5.5487039999999999 
+            text = "(u) ($)afrik_>a:ns(/$) 0 |\|\_hOsa 0 ($)iNgliS sisut_hu saUT [int] sut_hu lE vEnda [/int](/$) (/u)"
+        intervals [3]:
+            xmin = 5.5487039999999999 
+            xmax = 6.1846905704697983 
+            text = "[ext]"
+        intervals [4]:
+            xmin = 6.1846905704697983 
+            xmax = 8.6159999999999997 
+            text = "0"

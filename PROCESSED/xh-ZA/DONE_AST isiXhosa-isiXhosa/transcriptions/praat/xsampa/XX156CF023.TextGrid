@@ -1,0 +1,76 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 28.032 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 28.032 
+        intervals: size = 7 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.33249349019312491 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.33249349019312491 
+            xmax = 3.0067213029849085 
+            text = "(u) [int] inambari 0 yemfonomfono [/int] (/u)" 
+        intervals [3]:
+            xmin = 3.0067213029849085 
+            xmax = 3.1531330142509604 
+            text = "0" 
+        intervals [4]:
+            xmin = 3.1531330142509604 
+            xmax = 4.2500207527523655 
+            text = "[int]" 
+        intervals [5]:
+            xmin = 4.2500207527523655 
+            xmax = 12.167064290282683 
+            text = "(u) [int] ($)oh seven six 0 seven three two 0 oh four 0 three three(/$) [/int] (/u)" 
+        intervals [6]:
+            xmin = 12.167064290282683 
+            xmax = 13.519455983444299 
+            text = "0" 
+        intervals [7]:
+            xmin = 13.519455983444299 
+            xmax = 28.032 
+            text = "[int]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 28.032 
+        intervals: size = 7 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.33249349019312491 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.33249349019312491 
+            xmax = 3.0067213029849085 
+            text = "(u) [int] inambari 0 jEmfOnOmfOnO [/int] (/u)" 
+        intervals [3]:
+            xmin = 3.0067213029849085 
+            xmax = 3.1531330142509604 
+            text = "0" 
+        intervals [4]:
+            xmin = 3.1531330142509604 
+            xmax = 4.2500207527523655 
+            text = "[int]" 
+        intervals [5]:
+            xmin = 4.2500207527523655 
+            xmax = 12.167064290282683 
+            text = "(u) [int] ($)O-\u sEvEn siks 0 sEvEn Tri: tu: 0 O-\u fO: 0 Tri: Tri:(/$) [/int] (/u)" 
+        intervals [6]:
+            xmin = 12.167064290282683 
+            xmax = 13.519455983444299 
+            text = "0" 
+        intervals [7]:
+            xmin = 13.519455983444299 
+            xmax = 28.032 
+            text = "[int]" 

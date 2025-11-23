@@ -1,0 +1,60 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 11.436 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 11.436 
+        intervals: size = 5
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.0981598984001053 
+            text = "[int]" 
+        intervals [2]:
+            xmin = 1.0981598984001053 
+            xmax = 3.0749482674395523 
+            text = "(s) [int] ndinike inqaku lokugqibela [/int] (/s)"
+        intervals [3]:
+            xmin = 3.0749482674395523 
+            xmax = 7.5501567006344947 
+            text = "[int]" 
+        intervals [4]:
+            xmin = 7.5501567006344947 
+            xmax = 9.3756415259248325 
+            text = "(s) [int] ndinike inqaku [/int] lokugqibela (/s)"
+        intervals [5]:
+            xmin = 9.3756415259248325 
+            xmax = 11.436 
+            text = "0" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 11.436 
+        intervals: size = 5
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.0981598984001053 
+            text = "[int]"
+        intervals [2]:
+            xmin = 1.0981598984001053 
+            xmax = 3.0749482674395523 
+            text = "(s) [int] ndinik_>E i!\~ak_>u lo?!\_vib_<El [/int] (/s)"
+        intervals [3]:
+            xmin = 3.0749482674395523 
+            xmax = 7.5501567006344947 
+            text = "[int]"
+        intervals [4]:
+            xmin = 7.5501567006344947 
+            xmax = 9.3756415259248325 
+            text = "(s) [int] ndinik_>E i!\~ak_>u [/int] lo?!\_vib_<Ela (/s)"
+        intervals [5]:
+            xmin = 9.3756415259248325 
+            xmax = 11.436 
+            text = "0"

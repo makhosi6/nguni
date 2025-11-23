@@ -1,0 +1,68 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 4.6079999999999997 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 4.6079999999999997 
+        intervals: size = 6
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.40010313806049447 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.40010313806049447 
+            xmax = 0.97939643186026981 
+            text = "[int]" 
+        intervals [3]:
+            xmin = 0.97939643186026981 
+            xmax = 2.5830498183547701 
+            text = "(u) ezinzulwini zobusuku (/u)" 
+        intervals [4]:
+            xmin = 2.5830498183547701 
+            xmax = 3.6286035681397304 
+            text = "0" 
+        intervals [5]:
+            xmin = 3.6286035681397304 
+            xmax = 4.1176848322147652 
+            text = "[int]" 
+        intervals [6]:
+            xmin = 4.1176848322147652 
+            xmax = 4.6079999999999997 
+            text = "[sta]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 4.6079999999999997 
+        intervals: size = 6
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.40010313806049447 
+            text = "0"
+        intervals [2]:
+            xmin = 0.40010313806049447 
+            xmax = 0.97939643186026981 
+            text = "[int]"
+        intervals [3]:
+            xmin = 0.97939643186026981 
+            xmax = 2.5830498183547701 
+            text = "(u) ezind-\zulwini zob_<usuk_>u (/u)"
+        intervals [4]:
+            xmin = 2.5830498183547701 
+            xmax = 3.6286035681397304 
+            text = "0"
+        intervals [5]:
+            xmin = 3.6286035681397304 
+            xmax = 4.1176848322147652 
+            text = "[int]"
+        intervals [6]:
+            xmin = 4.1176848322147652 
+            xmax = 4.6079999999999997 
+            text = "[sta]"

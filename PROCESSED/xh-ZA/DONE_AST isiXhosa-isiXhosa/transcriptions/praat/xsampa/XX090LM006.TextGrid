@@ -1,0 +1,76 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 7.5119999999999996 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic"
+        xmin = 0 
+        xmax = 7.5119999999999996 
+        intervals: size = 7
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.21461716876309211 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.21461716876309211 
+            xmax = 0.57429468865755839 
+            text = "[spk]" 
+        intervals [3]:
+            xmin = 0.57429468865755839 
+            xmax = 2.6948738226570663 
+            text = "(u) umhla wesithandathu ($)May(/$) (/u)"
+        intervals [4]:
+            xmin = 2.6948738226570663 
+            xmax = 3.0016566652162036 
+            text = "[ext]" 
+        intervals [5]:
+            xmin = 3.0016566652162036 
+            xmax = 3.8999586516762972 
+            text = "0" 
+        intervals [6]:
+            xmin = 3.8999586516762972 
+            xmax = 5.6792799664429525 
+            text = "(u) ($)nineteen seventy five(/$) (/u)"
+        intervals [7]:
+            xmin = 5.6792799664429525 
+            xmax = 7.5119999999999996 
+            text = "[int]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 7.5119999999999996 
+        intervals: size = 7
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.21461716876309211 
+            text = "0"
+        intervals [2]:
+            xmin = 0.21461716876309211 
+            xmax = 0.57429468865755839 
+            text = "[spk]"
+        intervals [3]:
+            xmin = 0.57429468865755839 
+            xmax = 2.6948738226570663 
+            text = "(u) mKa west_handat_hu ($)me-\I(/$) (/u)"
+        intervals [4]:
+            xmin = 2.6948738226570663 
+            xmax = 3.0016566652162036 
+            text = "[ext]"
+        intervals [5]:
+            xmin = 3.0016566652162036 
+            xmax = 3.8999586516762972 
+            text = "0"
+        intervals [6]:
+            xmin = 3.8999586516762972 
+            xmax = 5.6792799664429525 
+            text = "(u) ($)na-\intin sEvEnt fa-\if(/$) (/u)"
+        intervals [7]:
+            xmin = 5.6792799664429525 
+            xmax = 7.5119999999999996 
+            text = "[int]"

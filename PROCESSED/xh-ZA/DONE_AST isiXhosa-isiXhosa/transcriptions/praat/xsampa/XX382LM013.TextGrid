@@ -1,0 +1,60 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 7.7039999999999997 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 7.7039999999999997 
+        intervals: size = 5
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.19648049464171868 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.19648049464171868 
+            xmax = 2.5705012396401501 
+            text = "(s) ndihlala kwiVubazana 0 ($)Street(/$) apha e ($)police camp(/$) (/s)" 
+        intervals [3]:
+            xmin = 2.5705012396401501 
+            xmax = 3.5207925615770517 
+            text = "0" 
+        intervals [4]:
+            xmin = 3.5207925615770517 
+            xmax = 5.7376743494213134 
+            text = "[int]" 
+        intervals [5]:
+            xmin = 5.7376743494213134 
+            xmax = 7.7039999999999997 
+            text = "0" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 7.7039999999999997 
+        intervals: size = 5
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.19648049464171868 
+            text = "0"
+        intervals [2]:
+            xmin = 0.19648049464171868 
+            xmax = 2.5705012396401501 
+            text = "(s) iKala kwivub_<azana 0 ($)stri:t(/$) ap_h e ($)polis kEmp_>(/$) (/s)"
+        intervals [3]:
+            xmin = 2.5705012396401501 
+            xmax = 3.5207925615770517 
+            text = "0"
+        intervals [4]:
+            xmin = 3.5207925615770517 
+            xmax = 5.7376743494213134 
+            text = "[int]"
+        intervals [5]:
+            xmin = 5.7376743494213134 
+            xmax = 7.7039999999999997 
+            text = "0"

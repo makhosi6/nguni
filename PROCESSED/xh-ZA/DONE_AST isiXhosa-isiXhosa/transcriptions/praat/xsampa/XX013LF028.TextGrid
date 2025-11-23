@@ -1,0 +1,60 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 8.2080000000000002 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic"
+        xmin = 0 
+        xmax = 8.2080000000000002 
+        intervals: size = 5
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.18416689098250333 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.18416689098250333 
+            xmax = 1.794884829840415 
+            text = "[int]" 
+        intervals [3]:
+            xmin = 1.794884829840415 
+            xmax = 2.1472293789655836 
+            text = "[spk]" 
+        intervals [4]:
+            xmin = 2.1472293789655836 
+            xmax = 5.1799092482214952 
+            text = "(s) lisekhona ixesha lokukhangela (/s)"
+        intervals [5]:
+            xmin = 5.1799092482214952 
+            xmax = 8.2080000000000002 
+            text = "[int]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 8.2080000000000002 
+        intervals: size = 5
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.18416689098250333 
+            text = "0"
+        intervals [2]:
+            xmin = 0.18416689098250333 
+            xmax = 1.794884829840415 
+            text = "[int]"
+        intervals [3]:
+            xmin = 1.794884829840415 
+            xmax = 2.1472293789655836 
+            text = "[spk]"
+        intervals [4]:
+            xmin = 2.1472293789655836 
+            xmax = 5.1799092482214952 
+            text = "(s) lisEk_hOna i|\|\ESa lok_>uk_haNgEla (/s)"
+        intervals [5]:
+            xmin = 5.1799092482214952 
+            xmax = 8.2080000000000002 
+            text = "[int]"

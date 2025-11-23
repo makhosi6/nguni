@@ -1,0 +1,60 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 10.896000000000001 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 10.896000000000001 
+        intervals: size = 5
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.14344876510067112 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.14344876510067112 
+            xmax = 0.78498747501665533 
+            text = "[int]" 
+        intervals [3]:
+            xmin = 0.78498747501665533 
+            xmax = 6.796348315621576 
+            text = "(u) ngoLwesithathu 0 ngomhla wamashumi amabini 0 ku ($)April 0 two thousand and two(/$) (/u)"
+        intervals [4]:
+            xmin = 6.796348315621576 
+            xmax = 7.071842214765101 
+            text = "[spk]" 
+        intervals [5]:
+            xmin = 7.071842214765101 
+            xmax = 10.896000000000001 
+            text = "[int]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 10.896000000000001 
+        intervals: size = 5
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.14344876510067112 
+            text = "0"
+        intervals [2]:
+            xmin = 0.14344876510067112 
+            xmax = 0.78498747501665533 
+            text = "[int]"
+        intervals [3]:
+            xmin = 0.78498747501665533 
+            xmax = 6.796348315621576 
+            text = "(u) NgOlwesit_hat_h 0 NgOm=Ka wamaSum amab_<ini 0 k_>u ($)E-\Ipr@l 0 tu Ta-\uz@n {n tu(/$) (/u)"
+        intervals [4]:
+            xmin = 6.796348315621576 
+            xmax = 7.071842214765101 
+            text = "[spk]"
+        intervals [5]:
+            xmin = 7.071842214765101 
+            xmax = 10.896000000000001 
+            text = "[int]"

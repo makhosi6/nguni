@@ -1,0 +1,68 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 3.7679999999999998 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 3.7679999999999998 
+        intervals: size = 6 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.22896303342474622 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.22896303342474622 
+            xmax = 0.68532575719244271 
+            text = "[spk]" 
+        intervals [3]:
+            xmin = 0.68532575719244271 
+            xmax = 1.8637813983140892 
+            text = "(u) izolo;elinye (/u)" 
+        intervals [4]:
+            xmin = 1.8637813983140892 
+            xmax = 2.3085906354041223 
+            text = "0" 
+        intervals [5]:
+            xmin = 2.3085906354041223 
+            xmax = 3.1462184195347045 
+            text = "[int]" 
+        intervals [6]:
+            xmin = 3.1462184195347045 
+            xmax = 3.7679999999999998 
+            text = "[sta]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 3.7679999999999998 
+        intervals: size = 6 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.22896303342474622 
+            text = "0"
+        intervals [2]:
+            xmin = 0.22896303342474622 
+            xmax = 0.68532575719244271 
+            text = "[spk]"
+        intervals [3]:
+            xmin = 0.68532575719244271 
+            xmax = 1.8637813983140892 
+            text = "(u) izOlweliJE (/u)"
+        intervals [4]:
+            xmin = 1.8637813983140892 
+            xmax = 2.3085906354041223 
+            text = "0"
+        intervals [5]:
+            xmin = 2.3085906354041223 
+            xmax = 3.1462184195347045 
+            text = "[int]"
+        intervals [6]:
+            xmin = 3.1462184195347045 
+            xmax = 3.7679999999999998 
+            text = "[sta]"

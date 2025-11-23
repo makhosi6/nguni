@@ -1,0 +1,52 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 6.7679999999999998 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 6.7679999999999998 
+        intervals: size = 4 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.74885310601933974 
+            text = "[int]" 
+        intervals [2]:
+            xmin = 0.74885310601933974 
+            xmax = 4.6770740491522576 
+            text = "(s) qiniseka 0 imali okanye ixabiso kum kuqala (/s)" 
+        intervals [3]:
+            xmin = 4.6770740491522576 
+            xmax = 6.2208699035587198 
+            text = "0" 
+        intervals [4]:
+            xmin = 6.2208699035587198 
+            xmax = 6.7679999999999998 
+            text = "[sta]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 6.7679999999999998 
+        intervals: size = 4 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.74885310601933974 
+            text = "[int]" 
+        intervals [2]:
+            xmin = 0.74885310601933974 
+            xmax = 4.6770740491522576 
+            text = "(s) !\inisEk_>a 0 imali Ok_>aJE i|\|\ab_<isO k_>um k_>u!\ala (/s)" 
+        intervals [3]:
+            xmin = 4.6770740491522576 
+            xmax = 6.2208699035587198 
+            text = "0" 
+        intervals [4]:
+            xmin = 6.2208699035587198 
+            xmax = 6.7679999999999998 
+            text = "[sta]" 

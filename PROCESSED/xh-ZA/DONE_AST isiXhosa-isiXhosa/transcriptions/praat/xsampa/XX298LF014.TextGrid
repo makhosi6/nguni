@@ -1,0 +1,76 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 9.7200000000000006 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 9.7200000000000006 
+        intervals: size = 7 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.9334162012863936 
+            text = "(u) ~mhla we ($)twenty three(/$) (/u)" 
+        intervals [2]:
+            xmin = 1.9334162012863936 
+            xmax = 4.5401683643648942 
+            text = "[int]" 
+        intervals [3]:
+            xmin = 4.5401683643648942 
+            xmax = 5.3502671081845419 
+            text = "**" 
+        intervals [4]:
+            xmin = 5.3502671081845419 
+            xmax = 6.0490885520289632 
+            text = "0" 
+        intervals [5]:
+            xmin = 6.0490885520289632 
+            xmax = 6.4941977519298693 
+            text = "[int]" 
+        intervals [6]:
+            xmin = 6.4941977519298693 
+            xmax = 7.277589943755463 
+            text = "**" 
+        intervals [7]:
+            xmin = 7.277589943755463 
+            xmax = 9.7200000000000006 
+            text = "[int]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 9.7200000000000006 
+        intervals: size = 7 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.9334162012863936 
+            text = "(u) m=Ka wE ($)t_>wEnti tri(/$) (/u)"
+        intervals [2]:
+            xmin = 1.9334162012863936 
+            xmax = 4.5401683643648942 
+            text = "[int]"
+        intervals [3]:
+            xmin = 4.5401683643648942 
+            xmax = 5.3502671081845419 
+            text = "**"
+        intervals [4]:
+            xmin = 5.3502671081845419 
+            xmax = 6.0490885520289632 
+            text = "0"
+        intervals [5]:
+            xmin = 6.0490885520289632 
+            xmax = 6.4941977519298693 
+            text = "[int]"
+        intervals [6]:
+            xmin = 6.4941977519298693 
+            xmax = 7.277589943755463 
+            text = "**"
+        intervals [7]:
+            xmin = 7.277589943755463 
+            xmax = 9.7200000000000006 
+            text = "[int]"

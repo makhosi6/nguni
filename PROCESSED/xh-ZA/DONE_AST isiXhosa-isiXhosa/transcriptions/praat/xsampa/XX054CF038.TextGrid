@@ -1,0 +1,60 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 6.6479999999999997 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 6.6479999999999997 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.3484036870634857 
+            text = "(u) isivakalisi (/u)" 
+        intervals [2]:
+            xmin = 1.3484036870634857 
+            xmax = 1.7296465185538712 
+            text = "0" 
+        intervals [3]:
+            xmin = 1.7296465185538712 
+            xmax = 4.5698740111712235 
+            text = "(s) wema ecaleni kwefestile yakhe (/s)" 
+        intervals [4]:
+            xmin = 4.5698740111712235 
+            xmax = 6.0473099342542334 
+            text = "0" 
+        intervals [5]:
+            xmin = 6.0473099342542334 
+            xmax = 6.6479999999999997 
+            text = "[int]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 6.6479999999999997 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.3484036870634857 
+            text = "(u) isivak_>alisi (/u)" 
+        intervals [2]:
+            xmin = 1.3484036870634857 
+            xmax = 1.7296465185538712 
+            text = "0" 
+        intervals [3]:
+            xmin = 1.7296465185538712 
+            xmax = 4.5698740111712235 
+            text = "(s) wEma E|\aleni k_>wEfest_>ilE jak_hE (/s)" 
+        intervals [4]:
+            xmin = 4.5698740111712235 
+            xmax = 6.0473099342542334 
+            text = "0" 
+        intervals [5]:
+            xmin = 6.0473099342542334 
+            xmax = 6.6479999999999997 
+            text = "[int]" 

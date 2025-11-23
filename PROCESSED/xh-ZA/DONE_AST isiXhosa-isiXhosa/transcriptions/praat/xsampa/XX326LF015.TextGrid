@@ -1,0 +1,68 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 6.048 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 6.048 
+        intervals: size = 6 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.12357924005043097 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.12357924005043097 
+            xmax = 1.0650265069987828 
+            text = "(u) ixesha (/u)" 
+        intervals [3]:
+            xmin = 1.0650265069987828 
+            xmax = 1.36692480823308 
+            text = "[spk]" 
+        intervals [4]:
+            xmin = 1.36692480823308 
+            xmax = 3.1717722085379862 
+            text = "(u) ($)sixteen minutes past ten(/$) (/u)" 
+        intervals [5]:
+            xmin = 3.1717722085379862 
+            xmax = 3.8014961110333192 
+            text = "0" 
+        intervals [6]:
+            xmin = 3.8014961110333192 
+            xmax = 6.048 
+            text = "[int]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 6.048 
+        intervals: size = 6 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.12357924005043097 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.12357924005043097 
+            xmax = 1.0650265069987828 
+            text = "(u) i|\|\ESa (/u)" 
+        intervals [3]:
+            xmin = 1.0650265069987828 
+            xmax = 1.36692480823308 
+            text = "[spk]" 
+        intervals [4]:
+            xmin = 1.36692480823308 
+            xmax = 3.1717722085379862 
+            text = "(u) ($)sikstin min@ts past tEn(/$) (/u)" 
+        intervals [5]:
+            xmin = 3.1717722085379862 
+            xmax = 3.8014961110333192 
+            text = "0" 
+        intervals [6]:
+            xmin = 3.8014961110333192 
+            xmax = 6.048 
+            text = "[int]" 

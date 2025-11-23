@@ -1,0 +1,23 @@
+
+<!ELEMENT corpus  ( speaker+ )>
+<!ATTLIST corpus
+name CDATA #REQUIRED
+>
+
+<!ELEMENT speaker  ( recording+ )>
+<!ATTLIST speaker
+id CDATA #REQUIRED
+age CDATA #REQUIRED
+gender CDATA #REQUIRED
+location CDATA #REQUIRED
+>
+
+<!ELEMENT recording  ( orth )>
+<!ATTLIST recording
+audio CDATA #REQUIRED
+md5sum CDATA #REQUIRED
+duration CDATA #REQUIRED
+pdp_score CDATA #REQUIRED
+>
+
+<!ELEMENT orth  ( #PCDATA )>

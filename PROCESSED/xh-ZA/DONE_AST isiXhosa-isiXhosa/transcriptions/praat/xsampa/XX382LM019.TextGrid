@@ -1,0 +1,68 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 6.0119999999999996 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 6.0119999999999996 
+        intervals: size = 6 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.91834198888877638 
+            text = "[ext]" 
+        intervals [2]:
+            xmin = 0.91834198888877638 
+            xmax = 3.0059999999999998 
+            text = "(s) ndisebenzisa imfonomfono enomnxeba (/s)" 
+        intervals [3]:
+            xmin = 3.0059999999999998 
+            xmax = 3.574624359236406 
+            text = "0" 
+        intervals [4]:
+            xmin = 3.574624359236406 
+            xmax = 3.8916755171136752 
+            text = "[ext]" 
+        intervals [5]:
+            xmin = 3.8916755171136752 
+            xmax = 4.7876896589407396 
+            text = "0" 
+        intervals [6]:
+            xmin = 4.7876896589407396 
+            xmax = 6.0119999999999996 
+            text = "[int]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 6.0119999999999996 
+        intervals: size = 6 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.91834198888877638 
+            text = "[ext]"
+        intervals [2]:
+            xmin = 0.91834198888877638 
+            xmax = 3.0059999999999998 
+            text = "(s) ndisEb_<end-\z imfOnOmfOnO EnOm|\|\~Eb_<a (/s)"
+        intervals [3]:
+            xmin = 3.0059999999999998 
+            xmax = 3.574624359236406 
+            text = "0"
+        intervals [4]:
+            xmin = 3.574624359236406 
+            xmax = 3.8916755171136752 
+            text = "[ext]"
+        intervals [5]:
+            xmin = 3.8916755171136752 
+            xmax = 4.7876896589407396 
+            text = "0"
+        intervals [6]:
+            xmin = 4.7876896589407396 
+            xmax = 6.0119999999999996 
+            text = "[int]"

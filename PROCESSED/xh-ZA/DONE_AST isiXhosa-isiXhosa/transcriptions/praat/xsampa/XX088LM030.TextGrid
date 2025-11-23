@@ -1,0 +1,68 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 5.3520000000000003 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 5.3520000000000003 
+        intervals: size = 6 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.48111349032068729 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.48111349032068729 
+            xmax = 0.89713356078841655 
+            text = "[sta]" 
+        intervals [3]:
+            xmin = 0.89713356078841655 
+            xmax = 3.4363718800295335 
+            text = "(u) ($)thirty three rand 0 fifty five(/$) (/u)" 
+        intervals [4]:
+            xmin = 3.4363718800295335 
+            xmax = 3.6436576668215923 
+            text = "0" 
+        intervals [5]:
+            xmin = 3.6436576668215923 
+            xmax = 3.9032069605921 
+            text = "[spk]" 
+        intervals [6]:
+            xmin = 3.9032069605921 
+            xmax = 5.3520000000000003 
+            text = "0" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 5.3520000000000003 
+        intervals: size = 6 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.48111349032068729 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.48111349032068729 
+            xmax = 0.89713356078841655 
+            text = "[sta]" 
+        intervals [3]:
+            xmin = 0.89713356078841655 
+            xmax = 3.4363718800295335 
+            text = "(u) ($)TEti Tri: rand 0 fifti fa-\if(/$) (/u)" 
+        intervals [4]:
+            xmin = 3.4363718800295335 
+            xmax = 3.6436576668215923 
+            text = "0" 
+        intervals [5]:
+            xmin = 3.6436576668215923 
+            xmax = 3.9032069605921 
+            text = "[spk]" 
+        intervals [6]:
+            xmin = 3.9032069605921 
+            xmax = 5.3520000000000003 
+            text = "0" 

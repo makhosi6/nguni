@@ -1,0 +1,60 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 4.8239999999999998 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 4.8239999999999998 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.41929287534443821 
+            text = "(u) ~lisi (/u)" 
+        intervals [2]:
+            xmin = 0.41929287534443821 
+            xmax = 0.9291614972829112 
+            text = "[spk]" 
+        intervals [3]:
+            xmin = 0.9291614972829112 
+            xmax = 2.7887273725418362 
+            text = "(s) banenyhweba 0 abo 0 bakholwayo (/s)" 
+        intervals [4]:
+            xmin = 2.7887273725418362 
+            xmax = 3.5176576366893006 
+            text = "0" 
+        intervals [5]:
+            xmin = 3.5176576366893006 
+            xmax = 4.8239999999999998 
+            text = "[sta]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 4.8239999999999998 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.41929287534443821 
+            text = "(u) lisi (/u)" 
+        intervals [2]:
+            xmin = 0.41929287534443821 
+            xmax = 0.9291614972829112 
+            text = "[spk]" 
+        intervals [3]:
+            xmin = 0.9291614972829112 
+            xmax = 2.7887273725418362 
+            text = "(s) b_<anEJwEb_<a 0 ab_<O 0 b_<ak_hOlwajO (/s)" 
+        intervals [4]:
+            xmin = 2.7887273725418362 
+            xmax = 3.5176576366893006 
+            text = "0" 
+        intervals [5]:
+            xmin = 3.5176576366893006 
+            xmax = 4.8239999999999998 
+            text = "[sta]" 

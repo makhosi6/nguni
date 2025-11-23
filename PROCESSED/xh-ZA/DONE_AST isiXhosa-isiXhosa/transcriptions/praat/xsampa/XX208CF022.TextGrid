@@ -1,0 +1,68 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 7.2000000000000002 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic"
+        xmin = 0 
+        xmax = 7.2000000000000002 
+        intervals: size = 6
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.61412279015169147 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.61412279015169147 
+            xmax = 2.22572379805503 
+            text = "[int]" 
+        intervals [3]:
+            xmin = 2.22572379805503 
+            xmax = 5.0294680172841257 
+            text = "(u) [int] izinto 0 zokwenza ikofu [/int] (/u)"
+        intervals [4]:
+            xmin = 5.0294680172841257 
+            xmax = 5.278318791946309 
+            text = "[int]" 
+        intervals [5]:
+            xmin = 5.278318791946309 
+            xmax = 6.3458395973154369 
+            text = "0" 
+        intervals [6]:
+            xmin = 6.3458395973154369 
+            xmax = 7.2000000000000002 
+            text = "[int]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 7.2000000000000002 
+        intervals: size = 6
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.61412279015169147 
+            text = "0"
+        intervals [2]:
+            xmin = 0.61412279015169147 
+            xmax = 2.22572379805503 
+            text = "[int]"
+        intervals [3]:
+            xmin = 2.22572379805503 
+            xmax = 5.0294680172841257 
+            text = "(u) [int] izint_>O 0 zOk_>wEnd-\za ik_>o:f [/int] (/u)"
+        intervals [4]:
+            xmin = 5.0294680172841257 
+            xmax = 5.278318791946309 
+            text = "[int]"
+        intervals [5]:
+            xmin = 5.278318791946309 
+            xmax = 6.3458395973154369 
+            text = "0"
+        intervals [6]:
+            xmin = 6.3458395973154369 
+            xmax = 7.2000000000000002 
+            text = "[int]"

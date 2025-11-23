@@ -1,0 +1,60 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 5.0039999999999996 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 5.0039999999999996 
+        intervals: size = 5
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.1019216243839747 
+            text = "(s) [int] ewe ndiyasiva [/int] (/s)" 
+        intervals [2]:
+            xmin = 1.1019216243839747 
+            xmax = 1.5622213643125307 
+            text = "[spk]" 
+        intervals [3]:
+            xmin = 1.5622213643125307 
+            xmax = 2.6976273894696359 
+            text = "[int]" 
+        intervals [4]:
+            xmin = 2.6976273894696359 
+            xmax = 3.1579271293981921 
+            text = "[spk]" 
+        intervals [5]:
+            xmin = 3.1579271293981921 
+            xmax = 5.0039999999999996 
+            text = "[sta]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 5.0039999999999996 
+        intervals: size = 5
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.1019216243839747 
+            text = "(s) [int] EwE ndijasiva [/int] (/s)"
+        intervals [2]:
+            xmin = 1.1019216243839747 
+            xmax = 1.5622213643125307 
+            text = "[spk]"
+        intervals [3]:
+            xmin = 1.5622213643125307 
+            xmax = 2.6976273894696359 
+            text = "[int]"
+        intervals [4]:
+            xmin = 2.6976273894696359 
+            xmax = 3.1579271293981921 
+            text = "[spk]"
+        intervals [5]:
+            xmin = 3.1579271293981921 
+            xmax = 5.0039999999999996 
+            text = "[sta]"

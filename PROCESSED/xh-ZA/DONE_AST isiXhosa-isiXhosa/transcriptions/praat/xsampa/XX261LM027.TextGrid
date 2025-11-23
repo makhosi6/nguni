@@ -1,0 +1,68 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 14.507999999999999 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 14.507999999999999 
+        intervals: size = 6 
+        intervals [1]:
+            xmin = 0 
+            xmax = 2.3950970711428341 
+            text = "[int]" 
+        intervals [2]:
+            xmin = 2.3950970711428341 
+            xmax = 7.8132843519861828 
+            text = "(s) [int] ndikulungele 0 *ukuqhubele+ ukuqhubekela phambili [/int] (/s)" 
+        intervals [3]:
+            xmin = 7.8132843519861828 
+            xmax = 8.7144913978891321 
+            text = "[int]" 
+        intervals [4]:
+            xmin = 8.7144913978891321 
+            xmax = 12.172566207571663 
+            text = "(s) [sta] ndikulungele ukuqhubekela 0 phambili [/sta] (/s)" 
+        intervals [5]:
+            xmin = 12.172566207571663 
+            xmax = 12.476405325503356 
+            text = "[spk]" 
+        intervals [6]:
+            xmin = 12.476405325503356 
+            xmax = 14.507999999999999 
+            text = "0" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 14.507999999999999 
+        intervals: size = 6 
+        intervals [1]:
+            xmin = 0 
+            xmax = 2.3950970711428341 
+            text = "[int]" 
+        intervals [2]:
+            xmin = 2.3950970711428341 
+            xmax = 7.8132843519861828 
+            text = "(s) [int] ndik_>uluNgElE 0 uk_>u!\_hub_<ElE uk_>!\_hub_<Ek_>Ela p_hambili [/int] (/s)" 
+        intervals [3]:
+            xmin = 7.8132843519861828 
+            xmax = 8.7144913978891321 
+            text = "[int]" 
+        intervals [4]:
+            xmin = 8.7144913978891321 
+            xmax = 12.172566207571663 
+            text = "(s) [sta] ndik_>uluNgElE uk_>u!\_hub_<Ek_>Ela 0 p_hambili [/sta] (/s)" 
+        intervals [5]:
+            xmin = 12.172566207571663 
+            xmax = 12.476405325503356 
+            text = "[spk]" 
+        intervals [6]:
+            xmin = 12.476405325503356 
+            xmax = 14.507999999999999 
+            text = "0" 

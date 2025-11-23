@@ -1,0 +1,142 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0
+xmax = 1.645000
+tiers? <exists>
+size = 5
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "segment"
+		xmin = 0
+		xmax = 1.645000
+		intervals: size = 12
+		intervals [1]:
+			xmin = 0.000000
+			xmax = 0.025000
+			text = "pau"
+		intervals [2]:
+			xmin = 0.025000
+			xmax = 0.130000
+			text = "eng_θ"
+		intervals [3]:
+			xmin = 0.130000
+			xmax = 0.235000
+			text = "eng_ɹ"
+		intervals [4]:
+			xmin = 0.235000
+			xmax = 0.470000
+			text = "eng_ɪ"
+		intervals [5]:
+			xmin = 0.470000
+			xmax = 0.670000
+			text = "eng_s"
+		intervals [6]:
+			xmin = 0.670000
+			xmax = 0.805000
+			text = "eng_ɪ"
+		intervals [7]:
+			xmin = 0.805000
+			xmax = 0.835000
+			text = "eng_k"
+		intervals [8]:
+			xmin = 0.835000
+			xmax = 0.930000
+			text = "eng_s"
+		intervals [9]:
+			xmin = 0.930000
+			xmax = 1.075000
+			text = "eng_n"
+		intervals [10]:
+			xmin = 1.075000
+			xmax = 1.310000
+			text = "eng_aɪ"
+		intervals [11]:
+			xmin = 1.310000
+			xmax = 1.465000
+			text = "eng_n"
+		intervals [12]:
+			xmin = 1.465000
+			xmax = 1.645000
+			text = "pau"
+	item [2]:
+		class = "IntervalTier"
+		name = "syllable"
+		xmin = 0
+		xmax = 1.645000
+		intervals: size = 5
+		intervals [1]:
+			xmin = 0.000000
+			xmax = 0.025000
+			text = "NONE"
+		intervals [2]:
+			xmin = 0.025000
+			xmax = 0.470000
+			text = "syl"
+		intervals [3]:
+			xmin = 0.470000
+			xmax = 0.930000
+			text = "syl"
+		intervals [4]:
+			xmin = 0.930000
+			xmax = 1.465000
+			text = "syl"
+		intervals [5]:
+			xmin = 1.465000
+			xmax = 1.645000
+			text = "NONE"
+	item [3]:
+		class = "IntervalTier"
+		name = "word"
+		xmin = 0
+		xmax = 1.645000
+		intervals: size = 5
+		intervals [1]:
+			xmin = 0.000000
+			xmax = 0.025000
+			text = "NONE"
+		intervals [2]:
+			xmin = 0.025000
+			xmax = 0.470000
+			text = "three"
+		intervals [3]:
+			xmin = 0.470000
+			xmax = 0.930000
+			text = "six"
+		intervals [4]:
+			xmin = 0.930000
+			xmax = 1.465000
+			text = "nine"
+		intervals [5]:
+			xmin = 1.465000
+			xmax = 1.645000
+			text = "NONE"
+	item [4]:
+		class = "IntervalTier"
+		name = "phrase"
+		xmin = 0
+		xmax = 1.645000
+		intervals: size = 3
+		intervals [1]:
+			xmin = 0.000000
+			xmax = 0.025000
+			text = "NONE"
+		intervals [2]:
+			xmin = 0.025000
+			xmax = 1.465000
+			text = "BB"
+		intervals [3]:
+			xmin = 1.465000
+			xmax = 1.645000
+			text = "NONE"
+	item [5]:
+		class = "IntervalTier"
+		name = "text"
+		xmin = 0
+		xmax = 1.645000
+		intervals: size = 1
+		intervals [1]:
+			xmin = 0.000000
+			xmax = 1.645000
+			text = "|three, |six, |nine"

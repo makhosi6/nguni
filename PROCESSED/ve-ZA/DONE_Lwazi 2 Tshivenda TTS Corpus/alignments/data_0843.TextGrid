@@ -1,0 +1,202 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0
+xmax = 2.370000
+tiers? <exists>
+size = 5
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "segment"
+		xmin = 0
+		xmax = 2.370000
+		intervals: size = 18
+		intervals [1]:
+			xmin = 0.000000
+			xmax = 0.155000
+			text = "pau"
+		intervals [2]:
+			xmin = 0.155000
+			xmax = 0.235000
+			text = "ɦ"
+		intervals [3]:
+			xmin = 0.235000
+			xmax = 0.400000
+			text = "u"
+		intervals [4]:
+			xmin = 0.400000
+			xmax = 0.495000
+			text = "tʼ"
+		intervals [5]:
+			xmin = 0.495000
+			xmax = 0.615000
+			text = "ɛ"
+		intervals [6]:
+			xmin = 0.615000
+			xmax = 0.805000
+			text = "a"
+		intervals [7]:
+			xmin = 0.805000
+			xmax = 0.965000
+			text = "u"
+		intervals [8]:
+			xmin = 0.965000
+			xmax = 1.005000
+			text = "β"
+		intervals [9]:
+			xmin = 1.005000
+			xmax = 1.120000
+			text = "a"
+		intervals [10]:
+			xmin = 1.120000
+			xmax = 1.190000
+			text = "n"
+		intervals [11]:
+			xmin = 1.190000
+			xmax = 1.275000
+			text = "a"
+		intervals [12]:
+			xmin = 1.275000
+			xmax = 1.390000
+			text = "m"
+		intervals [13]:
+			xmin = 1.390000
+			xmax = 1.475000
+			text = "u"
+		intervals [14]:
+			xmin = 1.475000
+			xmax = 1.535000
+			text = "l"
+		intervals [15]:
+			xmin = 1.535000
+			xmax = 1.825000
+			text = "a"
+		intervals [16]:
+			xmin = 1.825000
+			xmax = 1.950000
+			text = "j"
+		intervals [17]:
+			xmin = 1.950000
+			xmax = 2.055000
+			text = "ɔ"
+		intervals [18]:
+			xmin = 2.055000
+			xmax = 2.370000
+			text = "pau"
+	item [2]:
+		class = "IntervalTier"
+		name = "syllable"
+		xmin = 0
+		xmax = 2.370000
+		intervals: size = 11
+		intervals [1]:
+			xmin = 0.000000
+			xmax = 0.155000
+			text = "NONE"
+		intervals [2]:
+			xmin = 0.155000
+			xmax = 0.400000
+			text = "syl"
+		intervals [3]:
+			xmin = 0.400000
+			xmax = 0.615000
+			text = "syl"
+		intervals [4]:
+			xmin = 0.615000
+			xmax = 0.805000
+			text = "syl"
+		intervals [5]:
+			xmin = 0.805000
+			xmax = 0.965000
+			text = "syl"
+		intervals [6]:
+			xmin = 0.965000
+			xmax = 1.120000
+			text = "syl"
+		intervals [7]:
+			xmin = 1.120000
+			xmax = 1.275000
+			text = "syl"
+		intervals [8]:
+			xmin = 1.275000
+			xmax = 1.475000
+			text = "syl"
+		intervals [9]:
+			xmin = 1.475000
+			xmax = 1.825000
+			text = "syl"
+		intervals [10]:
+			xmin = 1.825000
+			xmax = 2.055000
+			text = "syl"
+		intervals [11]:
+			xmin = 2.055000
+			xmax = 2.370000
+			text = "NONE"
+	item [3]:
+		class = "IntervalTier"
+		name = "word"
+		xmin = 0
+		xmax = 2.370000
+		intervals: size = 8
+		intervals [1]:
+			xmin = 0.000000
+			xmax = 0.155000
+			text = "NONE"
+		intervals [2]:
+			xmin = 0.155000
+			xmax = 0.400000
+			text = "hu"
+		intervals [3]:
+			xmin = 0.400000
+			xmax = 0.805000
+			text = "tea"
+		intervals [4]:
+			xmin = 0.805000
+			xmax = 0.965000
+			text = "u"
+		intervals [5]:
+			xmin = 0.965000
+			xmax = 1.120000
+			text = "vha"
+		intervals [6]:
+			xmin = 1.120000
+			xmax = 1.275000
+			text = "na"
+		intervals [7]:
+			xmin = 1.275000
+			xmax = 2.055000
+			text = "mulayo"
+		intervals [8]:
+			xmin = 2.055000
+			xmax = 2.370000
+			text = "NONE"
+	item [4]:
+		class = "IntervalTier"
+		name = "phrase"
+		xmin = 0
+		xmax = 2.370000
+		intervals: size = 3
+		intervals [1]:
+			xmin = 0.000000
+			xmax = 0.155000
+			text = "NONE"
+		intervals [2]:
+			xmin = 0.155000
+			xmax = 2.055000
+			text = "BB"
+		intervals [3]:
+			xmin = 2.055000
+			xmax = 2.370000
+			text = "NONE"
+	item [5]:
+		class = "IntervalTier"
+		name = "text"
+		xmin = 0
+		xmax = 2.370000
+		intervals: size = 1
+		intervals [1]:
+			xmin = 0.000000
+			xmax = 2.370000
+			text = "Hu tea u vha na mulayo."

@@ -1,0 +1,60 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 8.2200000000000006 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 8.2200000000000006 
+        intervals: size = 5
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.22224253433044255 
+            text = "[sta]" 
+        intervals [2]:
+            xmin = 0.22224253433044255 
+            xmax = 5.4698715768282957 
+            text = "(s) [int] ndifuna ukutshintsha umhla wokuphuma ungabi ngumhla wesibini ube ngumhla wesine [/int] (/s)"
+        intervals [3]:
+            xmin = 5.4698715768282957 
+            xmax = 6.2256348037082834 
+            text = "[int]" 
+        intervals [4]:
+            xmin = 6.2256348037082834 
+            xmax = 7.2057061604372876 
+            text = "0" 
+        intervals [5]:
+            xmin = 7.2057061604372876 
+            xmax = 8.2200000000000006 
+            text = "[sta]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 8.2200000000000006 
+        intervals: size = 5
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.22224253433044255 
+            text = "[sta]"
+        intervals [2]:
+            xmin = 0.22224253433044255 
+            xmax = 5.4698715768282957 
+            text = "(s) [int] ndifuna uk_>ut-\S_hiJt-\Sa um=Ka wok_>up_huma uNgab_<i Ngum=Ka wesib_<in ub_<E Ngum=Ka wesinE [/int] (/s)"
+        intervals [3]:
+            xmin = 5.4698715768282957 
+            xmax = 6.2256348037082834 
+            text = "[int]"
+        intervals [4]:
+            xmin = 6.2256348037082834 
+            xmax = 7.2057061604372876 
+            text = "0"
+        intervals [5]:
+            xmin = 7.2057061604372876 
+            xmax = 8.2200000000000006 
+            text = "[sta]"

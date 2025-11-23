@@ -1,0 +1,52 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 5.0039999999999996 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 5.0039999999999996 
+        intervals: size = 4 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.67536670757390838 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.67536670757390838 
+            xmax = 2.816580971212816 
+            text = "(u) [sta] eMthatha 0 *e+ 0 e ($)police camp(/$) [/sta] (/u)" 
+        intervals [3]:
+            xmin = 2.816580971212816 
+            xmax = 3.1393471997581437 
+            text = "[spk]" 
+        intervals [4]:
+            xmin = 3.1393471997581437 
+            xmax = 5.0039999999999996 
+            text = "0" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 5.0039999999999996 
+        intervals: size = 4 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.67536670757390838 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.67536670757390838 
+            xmax = 2.816580971212816 
+            text = "(u) [sta] Emt_hat_ha 0 E 0 E ($)pQlis k{mp(/$) [/sta] (/u)" 
+        intervals [3]:
+            xmin = 2.816580971212816 
+            xmax = 3.1393471997581437 
+            text = "[spk]" 
+        intervals [4]:
+            xmin = 3.1393471997581437 
+            xmax = 5.0039999999999996 
+            text = "0" 

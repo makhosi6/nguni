@@ -1,0 +1,68 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 10.103999999999999 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 10.103999999999999 
+        intervals: size = 6
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.090196714925663876 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.090196714925663876 
+            xmax = 0.56004591576107821 
+            text = "[int]" 
+        intervals [3]:
+            xmin = 0.56004591576107821 
+            xmax = 2.3077916252843367 
+            text = "(u) Ikhwezi 0 ($)township(/$) (/u)" 
+        intervals [4]:
+            xmin = 2.3077916252843367 
+            xmax = 4.7199496711409399 
+            text = "[int]" 
+        intervals [5]:
+            xmin = 4.7199496711409399 
+            xmax = 5.7855995637583897 
+            text = "0" 
+        intervals [6]:
+            xmin = 5.7855995637583897 
+            xmax = 10.103999999999999 
+            text = "[int]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 10.103999999999999 
+        intervals: size = 6
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.090196714925663876 
+            text = "0"
+        intervals [2]:
+            xmin = 0.090196714925663876 
+            xmax = 0.56004591576107821 
+            text = "[int]"
+        intervals [3]:
+            xmin = 0.56004591576107821 
+            xmax = 2.3077916252843367 
+            text = "(u) ik_hwezi 0 ($)taUnS@p(/$) (/u)"
+        intervals [4]:
+            xmin = 2.3077916252843367 
+            xmax = 4.7199496711409399 
+            text = "[int]"
+        intervals [5]:
+            xmin = 4.7199496711409399 
+            xmax = 5.7855995637583897 
+            text = "0"
+        intervals [6]:
+            xmin = 5.7855995637583897 
+            xmax = 10.103999999999999 
+            text = "[int]"

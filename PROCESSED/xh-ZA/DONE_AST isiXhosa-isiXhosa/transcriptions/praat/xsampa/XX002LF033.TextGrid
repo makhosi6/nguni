@@ -1,0 +1,60 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 9.5280000000000005 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic"
+        xmin = 0 
+        xmax = 9.5280000000000005 
+        intervals: size = 5
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.82729659276050149 
+            text = "(u) ~u semali (/u)" 
+        intervals [2]:
+            xmin = 0.82729659276050149 
+            xmax = 1.4700236796567461 
+            text = "[spk]" 
+        intervals [3]:
+            xmin = 1.4700236796567461 
+            xmax = 6.860166749309343 
+            text = "(u) ($)eight 0 thousand 0 nine hundred and thirty nine rands 0 fifty nine cents(/$) (/u)" 
+        intervals [4]:
+            xmin = 6.860166749309343 
+            xmax = 8.1310134893087351 
+            text = "[sta]" 
+        intervals [5]:
+            xmin = 8.1310134893087351 
+            xmax = 9.5280000000000005 
+            text = "0" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 9.5280000000000005 
+        intervals: size = 5
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.82729659276050149 
+            text = "(u) u sEmali (/u)"
+        intervals [2]:
+            xmin = 0.82729659276050149 
+            xmax = 1.4700236796567461 
+            text = "[spk]"
+        intervals [3]:
+            xmin = 1.4700236796567461 
+            xmax = 6.860166749309343 
+            text = "(u) ($)e-\It 0 TaUzEn 0 na-\in handr@t {n TEti na-\in r{nd-\z 0 fifti na-\in sEnts(/$) (/u)"
+        intervals [4]:
+            xmin = 6.860166749309343 
+            xmax = 8.1310134893087351 
+            text = "[sta]"
+        intervals [5]:
+            xmin = 8.1310134893087351 
+            xmax = 9.5280000000000005 
+            text = "0"

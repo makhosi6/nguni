@@ -1,0 +1,108 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 7.3440000000000003 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic"
+        xmin = 0 
+        xmax = 7.3440000000000003 
+        intervals: size = 11
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.2875188322147651 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.2875188322147651 
+            xmax = 0.51202836241610739 
+            text = "[spk]" 
+        intervals [3]:
+            xmin = 0.51202836241610739 
+            xmax = 1.6679975779816514 
+            text = "[int]" 
+        intervals [4]:
+            xmin = 1.6679975779816514 
+            xmax = 1.8830350863541625 
+            text = "**" 
+        intervals [5]:
+            xmin = 1.8830350863541625 
+            xmax = 2.8843869746341237 
+            text = "(u) ($)ten to *we+ 0 *se+(/$) (/u)" 
+        intervals [6]:
+            xmin = 2.8843869746341237 
+            xmax = 3.170487514142684 
+            text = "0" 
+        intervals [7]:
+            xmin = 3.170487514142684 
+            xmax = 3.2849277299461082 
+            text = "**" 
+        intervals [8]:
+            xmin = 3.2849277299461082 
+            xmax = 4.2725629932885907 
+            text = "(u) [int] ($)ten to seven(/$) [/int] (/u)" 
+        intervals [9]:
+            xmin = 4.2725629932885907 
+            xmax = 5.5128678088221905 
+            text = "0" 
+        intervals [10]:
+            xmin = 5.5128678088221905 
+            xmax = 6.2819232885906047 
+            text = "[int]" 
+        intervals [11]:
+            xmin = 6.2819232885906047 
+            xmax = 7.3440000000000003 
+            text = "[sta]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 7.3440000000000003 
+        intervals: size = 11
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.2875188322147651 
+            text = "0"
+        intervals [2]:
+            xmin = 0.2875188322147651 
+            xmax = 0.51202836241610739 
+            text = "[spk]"
+        intervals [3]:
+            xmin = 0.51202836241610739 
+            xmax = 1.6679975779816514 
+            text = "[int]"
+        intervals [4]:
+            xmin = 1.6679975779816514 
+            xmax = 1.8830350863541625 
+            text = "**"
+        intervals [5]:
+            xmin = 1.8830350863541625 
+            xmax = 2.8843869746341237 
+            text = "(u) ($)tEn tu w@ 0 sE(/$) (/u)"
+        intervals [6]:
+            xmin = 2.8843869746341237 
+            xmax = 3.170487514142684 
+            text = "0"
+        intervals [7]:
+            xmin = 3.170487514142684 
+            xmax = 3.2849277299461082 
+            text = "**"
+        intervals [8]:
+            xmin = 3.2849277299461082 
+            xmax = 4.2725629932885907 
+            text = "(u) [int] ($)tEn tu sEvEn(/$) [/int] (/u)"
+        intervals [9]:
+            xmin = 4.2725629932885907 
+            xmax = 5.5128678088221905 
+            text = "0"
+        intervals [10]:
+            xmin = 5.5128678088221905 
+            xmax = 6.2819232885906047 
+            text = "[int]"
+        intervals [11]:
+            xmin = 6.2819232885906047 
+            xmax = 7.3440000000000003 
+            text = "[sta]"

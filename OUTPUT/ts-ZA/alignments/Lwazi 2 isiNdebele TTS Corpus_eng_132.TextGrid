@@ -1,0 +1,218 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0
+xmax = 2.445000
+tiers? <exists>
+size = 5
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "segment"
+		xmin = 0
+		xmax = 2.445000
+		intervals: size = 22
+		intervals [1]:
+			xmin = 0.000000
+			xmax = 0.050000
+			text = "pau"
+		intervals [2]:
+			xmin = 0.050000
+			xmax = 0.130000
+			text = "eng_dʒ"
+		intervals [3]:
+			xmin = 0.130000
+			xmax = 0.325000
+			text = "eng_ɔ"
+		intervals [4]:
+			xmin = 0.325000
+			xmax = 0.395000
+			text = "eng_dʒ"
+		intervals [5]:
+			xmin = 0.395000
+			xmax = 0.510000
+			text = "eng_k"
+		intervals [6]:
+			xmin = 0.510000
+			xmax = 0.595000
+			text = "eng_eɪ"
+		intervals [7]:
+			xmin = 0.595000
+			xmax = 0.690000
+			text = "eng_m"
+		intervals [8]:
+			xmin = 0.690000
+			xmax = 0.780000
+			text = "eng_f"
+		intervals [9]:
+			xmin = 0.780000
+			xmax = 0.845000
+			text = "eng_ɔ"
+		intervals [10]:
+			xmin = 0.845000
+			xmax = 0.890000
+			text = "eng_ɹ"
+		intervals [11]:
+			xmin = 0.890000
+			xmax = 0.915000
+			text = "eng_ð"
+		intervals [12]:
+			xmin = 0.915000
+			xmax = 1.025000
+			text = "eng_ɛ"
+		intervals [13]:
+			xmin = 1.025000
+			xmax = 1.225000
+			text = "eng_m"
+		intervals [14]:
+			xmin = 1.225000
+			xmax = 1.585000
+			text = "pau"
+		intervals [15]:
+			xmin = 1.585000
+			xmax = 1.725000
+			text = "eng_h"
+		intervals [16]:
+			xmin = 1.725000
+			xmax = 1.755000
+			text = "eng_ɪ"
+		intervals [17]:
+			xmin = 1.755000
+			xmax = 1.850000
+			text = "eng_m"
+		intervals [18]:
+			xmin = 1.850000
+			xmax = 1.940000
+			text = "eng_s"
+		intervals [19]:
+			xmin = 1.940000
+			xmax = 2.085000
+			text = "eng_ɛ"
+		intervals [20]:
+			xmin = 2.085000
+			xmax = 2.250000
+			text = "eng_l"
+		intervals [21]:
+			xmin = 2.250000
+			xmax = 2.375000
+			text = "eng_f"
+		intervals [22]:
+			xmin = 2.375000
+			xmax = 2.445000
+			text = "pau"
+	item [2]:
+		class = "IntervalTier"
+		name = "syllable"
+		xmin = 0
+		xmax = 2.445000
+		intervals: size = 9
+		intervals [1]:
+			xmin = 0.000000
+			xmax = 0.050000
+			text = "NONE"
+		intervals [2]:
+			xmin = 0.050000
+			xmax = 0.395000
+			text = "syl"
+		intervals [3]:
+			xmin = 0.395000
+			xmax = 0.690000
+			text = "syl"
+		intervals [4]:
+			xmin = 0.690000
+			xmax = 0.890000
+			text = "syl"
+		intervals [5]:
+			xmin = 0.890000
+			xmax = 1.225000
+			text = "syl"
+		intervals [6]:
+			xmin = 1.225000
+			xmax = 1.585000
+			text = "NONE"
+		intervals [7]:
+			xmin = 1.585000
+			xmax = 1.850000
+			text = "syl"
+		intervals [8]:
+			xmin = 1.850000
+			xmax = 2.375000
+			text = "syl"
+		intervals [9]:
+			xmin = 2.375000
+			xmax = 2.445000
+			text = "NONE"
+	item [3]:
+		class = "IntervalTier"
+		name = "word"
+		xmin = 0
+		xmax = 2.445000
+		intervals: size = 8
+		intervals [1]:
+			xmin = 0.000000
+			xmax = 0.050000
+			text = "NONE"
+		intervals [2]:
+			xmin = 0.050000
+			xmax = 0.395000
+			text = "george"
+		intervals [3]:
+			xmin = 0.395000
+			xmax = 0.690000
+			text = "came"
+		intervals [4]:
+			xmin = 0.690000
+			xmax = 0.890000
+			text = "for"
+		intervals [5]:
+			xmin = 0.890000
+			xmax = 1.225000
+			text = "them"
+		intervals [6]:
+			xmin = 1.225000
+			xmax = 1.585000
+			text = "NONE"
+		intervals [7]:
+			xmin = 1.585000
+			xmax = 2.375000
+			text = "himself"
+		intervals [8]:
+			xmin = 2.375000
+			xmax = 2.445000
+			text = "NONE"
+	item [4]:
+		class = "IntervalTier"
+		name = "phrase"
+		xmin = 0
+		xmax = 2.445000
+		intervals: size = 5
+		intervals [1]:
+			xmin = 0.000000
+			xmax = 0.050000
+			text = "NONE"
+		intervals [2]:
+			xmin = 0.050000
+			xmax = 1.225000
+			text = "BB"
+		intervals [3]:
+			xmin = 1.225000
+			xmax = 1.585000
+			text = "NONE"
+		intervals [4]:
+			xmin = 1.585000
+			xmax = 2.375000
+			text = "BB"
+		intervals [5]:
+			xmin = 2.375000
+			xmax = 2.445000
+			text = "NONE"
+	item [5]:
+		class = "IntervalTier"
+		name = "text"
+		xmin = 0
+		xmax = 2.445000
+		intervals: size = 1
+		intervals [1]:
+			xmin = 0.000000
+			xmax = 2.445000
+			text = "|george |came |for |them, |himself."

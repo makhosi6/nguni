@@ -1,0 +1,60 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 13.332000000000001 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 13.332000000000001 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.4063623501716094 
+            text = "(u) ~aku ($)two(/$) libinzana (/u)" 
+        intervals [2]:
+            xmin = 1.4063623501716094 
+            xmax = 1.736985344863579 
+            text = "[sta]" 
+        intervals [3]:
+            xmin = 1.736985344863579 
+            xmax = 8.2701025698879267 
+            text = "(s) ndicela *un+ 0 *uk0undikhangela ezo ntsuku 0 [spk] undikhangelele ezo ntsuku (/s)" 
+        intervals [4]:
+            xmin = 8.2701025698879267 
+            xmax = 8.8467961809964688 
+            text = "[sta]" 
+        intervals [5]:
+            xmin = 8.8467961809964688 
+            xmax = 13.332000000000001 
+            text = "[int]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 13.332000000000001 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.4063623501716094 
+            text = "(u) ak_>u ($)tu(/$) lib_<ind-\zana (/u)" 
+        intervals [2]:
+            xmin = 1.4063623501716094 
+            xmax = 1.736985344863579 
+            text = "[sta]" 
+        intervals [3]:
+            xmin = 1.736985344863579 
+            xmax = 8.2701025698879267 
+            text = "(s) ndi|\Ela un 0 uk_>0undik_haNgEla EzO nt-\s_>uk_> 0 [spk] undik_haNgElElE EzO nt-\s_>uk_> (/s)" 
+        intervals [4]:
+            xmin = 8.2701025698879267 
+            xmax = 8.8467961809964688 
+            text = "[sta]" 
+        intervals [5]:
+            xmin = 8.8467961809964688 
+            xmax = 13.332000000000001 
+            text = "[int]" 

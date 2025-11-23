@@ -1,0 +1,60 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 10.728 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 10.728 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.40043367224802517 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.40043367224802517 
+            xmax = 3.4890408980592436 
+            text = "(u) inqaku ($)eighteen(/$) inambari yemfonomfono (/u)" 
+        intervals [3]:
+            xmin = 3.4890408980592436 
+            xmax = 4.0757509532175682 
+            text = "[sta]" 
+        intervals [4]:
+            xmin = 4.0757509532175682 
+            xmax = 8.8165385086823278 
+            text = "(u) ($)oh three five one 0 six three 0 double one zero zero(/$) (/u)" 
+        intervals [5]:
+            xmin = 8.8165385086823278 
+            xmax = 10.728 
+            text = "[sta]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 10.728 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.40043367224802517 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.40043367224802517 
+            xmax = 3.4890408980592436 
+            text = "(u) !\~ak_>u ($)e-\Itin(/$) inambar jefOnOmfOnO (/u)" 
+        intervals [3]:
+            xmin = 3.4890408980592436 
+            xmax = 4.0757509532175682 
+            text = "[sta]" 
+        intervals [4]:
+            xmin = 4.0757509532175682 
+            xmax = 8.8165385086823278 
+            text = "(u) ($)@U Tri fa-\if wan 0 siks Tri 0 dab@l wan zI@rO zI@rO(/$) (/u)" 
+        intervals [5]:
+            xmin = 8.8165385086823278 
+            xmax = 10.728 
+            text = "[sta]" 

@@ -1,0 +1,68 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 93.840000000000003 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 93.840000000000003 
+        intervals: size = 6 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.80357316924246902 
+            text = "[int]" 
+        intervals [2]:
+            xmin = 0.80357316924246902 
+            xmax = 7.4240573812073229 
+            text = "(u) [int] ($)Blythe Street(/$) Nqamakhwe ($)Blythe Street(/$) 0 eNqamakhwe ($)Blythe Street(/$) [/int] (/u)" 
+        intervals [3]:
+            xmin = 7.4240573812073229 
+            xmax = 7.760211236964647 
+            text = "[int]" 
+        intervals [4]:
+            xmin = 7.760211236964647 
+            xmax = 8.792010110556383 
+            text = "0" 
+        intervals [5]:
+            xmin = 8.792010110556383 
+            xmax = 93.752064362416121 
+            text = "[int]" 
+        intervals [6]:
+            xmin = 93.752064362416121 
+            xmax = 93.840000000000003 
+            text = "0" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 93.840000000000003 
+        intervals: size = 6 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.80357316924246902 
+            text = "[int]"
+        intervals [2]:
+            xmin = 0.80357316924246902 
+            xmax = 7.4240573812073229 
+            text = "(u) [int] ($)bla-\iD strit(/$) !\~amak_hwE ($)bla-\iD strit(/$) 0 E!\~amak_hwE ($)bla-\iD strit(/$) [/int] (/u)"
+        intervals [3]:
+            xmin = 7.4240573812073229 
+            xmax = 7.760211236964647 
+            text = "[int]"
+        intervals [4]:
+            xmin = 7.760211236964647 
+            xmax = 8.792010110556383 
+            text = "0"
+        intervals [5]:
+            xmin = 8.792010110556383 
+            xmax = 93.752064362416121 
+            text = "[int]"
+        intervals [6]:
+            xmin = 93.752064362416121 
+            xmax = 93.840000000000003 
+            text = "0"

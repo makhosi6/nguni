@@ -1,0 +1,84 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 22.079999999999998 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 22.079999999999998 
+        intervals: size = 8 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.23380212425857591 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.23380212425857591 
+            xmax = 1.2789801852245026 
+            text = "(u) [sta] ibinzana [/sta] (/u)" 
+        intervals [3]:
+            xmin = 1.2789801852245026 
+            xmax = 2.0247956507142426 
+            text = "0" 
+        intervals [4]:
+            xmin = 2.0247956507142426 
+            xmax = 2.1796171947807799 
+            text = "[spk]" 
+        intervals [5]:
+            xmin = 2.1796171947807799 
+            xmax = 2.6158088502224333 
+            text = "0" 
+        intervals [6]:
+            xmin = 2.6158088502224333 
+            xmax = 7.2782602525270388 
+            text = "(s) [sta] qinisekisa ixabiso kum kuqala [/sta] (/s)" 
+        intervals [7]:
+            xmin = 7.2782602525270388 
+            xmax = 11.492724262774207 
+            text = "0" 
+        intervals [8]:
+            xmin = 11.492724262774207 
+            xmax = 22.079999999999998 
+            text = "[int]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 22.079999999999998 
+        intervals: size = 8 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.23380212425857591 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.23380212425857591 
+            xmax = 1.2789801852245026 
+            text = "(u) [sta] ib_<ind-\zana [/sta] (/u)" 
+        intervals [3]:
+            xmin = 1.2789801852245026 
+            xmax = 2.0247956507142426 
+            text = "0" 
+        intervals [4]:
+            xmin = 2.0247956507142426 
+            xmax = 2.1796171947807799 
+            text = "[spk]" 
+        intervals [5]:
+            xmin = 2.1796171947807799 
+            xmax = 2.6158088502224333 
+            text = "0" 
+        intervals [6]:
+            xmin = 2.6158088502224333 
+            xmax = 7.2782602525270388 
+            text = "(s) [sta] !\inisek_>isa i|\|\ab_<isO k_>um k_>u!\ala [/sta] (/s)" 
+        intervals [7]:
+            xmin = 7.2782602525270388 
+            xmax = 11.492724262774207 
+            text = "0" 
+        intervals [8]:
+            xmin = 11.492724262774207 
+            xmax = 22.079999999999998 
+            text = "[int]" 

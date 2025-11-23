@@ -1,0 +1,68 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 19.356000000000002 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 19.356000000000002 
+        intervals: size = 6 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.3805295652544215 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.3805295652544215 
+            xmax = 0.68283036843827527 
+            text = "[int]" 
+        intervals [3]:
+            xmin = 0.68283036843827527 
+            xmax = 4.0231524816952442 
+            text = "(u) [int] ixesha [/int] ngoku *i+ 0 [spk] 0 [int] ($)ten 0 to 0 two(/$) [/int] (/u)" 
+        intervals [4]:
+            xmin = 4.0231524816952442 
+            xmax = 4.6489540816638808 
+            text = "[sta]" 
+        intervals [5]:
+            xmin = 4.6489540816638808 
+            xmax = 7.1779456250234199 
+            text = "(s) [int] imizuzu ilishumi 0 phambi kwentsimbi yesibini [/int] (/s)" 
+        intervals [6]:
+            xmin = 7.1779456250234199 
+            xmax = 19.356000000000002 
+            text = "[int]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 19.356000000000002 
+        intervals: size = 6 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.3805295652544215 
+            text = "0"
+        intervals [2]:
+            xmin = 0.3805295652544215 
+            xmax = 0.68283036843827527 
+            text = "[int]"
+        intervals [3]:
+            xmin = 0.68283036843827527 
+            xmax = 4.0231524816952442 
+            text = "(u) [int] i|\|\ESa [/int] Ngok_>u i 0 [spk] 0 [int] ($)tEn 0 tu 0 tu(/$) [/int] (/u)"
+        intervals [4]:
+            xmin = 4.0231524816952442 
+            xmax = 4.6489540816638808 
+            text = "[sta]"
+        intervals [5]:
+            xmin = 4.6489540816638808 
+            xmax = 7.1779456250234199 
+            text = "(s) [int] mizuzu iliSumi 0 p_ham k_>went-\s_>imbi jesb_<in [/int] (/s)"
+        intervals [6]:
+            xmin = 7.1779456250234199 
+            xmax = 19.356000000000002 
+            text = "[int]"

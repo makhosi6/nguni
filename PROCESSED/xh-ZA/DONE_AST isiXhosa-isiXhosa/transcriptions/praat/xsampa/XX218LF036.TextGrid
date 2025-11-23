@@ -1,0 +1,60 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 81.108000000000004 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 81.108000000000004 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.0866264589779033 
+            text = "[int]" 
+        intervals [2]:
+            xmin = 1.0866264589779033 
+            xmax = 2.4626662543870448 
+            text = "(u) [sta] ibinzana [/sta] (/u)" 
+        intervals [3]:
+            xmin = 2.4626662543870448 
+            xmax = 2.9894036770752184 
+            text = "[spk]" 
+        intervals [4]:
+            xmin = 2.9894036770752184 
+            xmax = 5.7638857467212601 
+            text = "(s) [sta] nceda cima yonke into endiyithethileyo [/sta] (/s)" 
+        intervals [5]:
+            xmin = 5.7638857467212601 
+            xmax = 81.108000000000004 
+            text = "[int]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 81.108000000000004 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.0866264589779033 
+            text = "[int]" 
+        intervals [2]:
+            xmin = 1.0866264589779033 
+            xmax = 2.4626662543870448 
+            text = "(u) [sta] ib_<ind-\zana [/sta] (/u)" 
+        intervals [3]:
+            xmin = 2.4626662543870448 
+            xmax = 2.9894036770752184 
+            text = "[spk]" 
+        intervals [4]:
+            xmin = 2.9894036770752184 
+            xmax = 5.7638857467212601 
+            text = "(s) [sta] |\~Eda |\ima jONk_>E int_>O endijit_het_hilEjO [/sta] (/s)" 
+        intervals [5]:
+            xmin = 5.7638857467212601 
+            xmax = 81.108000000000004 
+            text = "[int]" 

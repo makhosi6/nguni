@@ -1,0 +1,68 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 8.5199999999999996 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 8.5199999999999996 
+        intervals: size = 6 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.7741213671512148 
+            text = "0" 
+        intervals [2]:
+            xmin = 1.7741213671512148 
+            xmax = 3.0399859659511175 
+            text = "(u) [sta] i ($)Hanover_Park(/$) [/sta] (/u)" 
+        intervals [3]:
+            xmin = 3.0399859659511175 
+            xmax = 3.8594622686550668 
+            text = "[spk]" 
+        intervals [4]:
+            xmin = 3.8594622686550668 
+            xmax = 4.9588203685526064 
+            text = "0" 
+        intervals [5]:
+            xmin = 4.9588203685526064 
+            xmax = 6.5136339672874142 
+            text = "[int]" 
+        intervals [6]:
+            xmin = 6.5136339672874142 
+            xmax = 8.5199999999999996 
+            text = "[sta]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 8.5199999999999996 
+        intervals: size = 6 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.7741213671512148 
+            text = "0" 
+        intervals [2]:
+            xmin = 1.7741213671512148 
+            xmax = 3.0399859659511175 
+            text = "(u) [sta] i ($)han@vapak(/$) [/sta] (/u)" 
+        intervals [3]:
+            xmin = 3.0399859659511175 
+            xmax = 3.8594622686550668 
+            text = "[spk]" 
+        intervals [4]:
+            xmin = 3.8594622686550668 
+            xmax = 4.9588203685526064 
+            text = "0" 
+        intervals [5]:
+            xmin = 4.9588203685526064 
+            xmax = 6.5136339672874142 
+            text = "[int]" 
+        intervals [6]:
+            xmin = 6.5136339672874142 
+            xmax = 8.5199999999999996 
+            text = "[sta]" 

@@ -1,0 +1,52 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 7.6559999999999997 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic"
+        xmin = 0 
+        xmax = 7.6559999999999997 
+        intervals: size = 4
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.066144263754945892 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.066144263754945892 
+            xmax = 0.60859040123673669 
+            text = "[spk]" 
+        intervals [3]:
+            xmin = 0.60859040123673669 
+            xmax = 5.7317015168093794 
+            text = "(s) ndihlala eJambeni ($)location 0 P. O. Box fifty three(/$) eLusikisiki (/s)"
+        intervals [4]:
+            xmin = 5.7317015168093794 
+            xmax = 7.6559999999999997 
+            text = "0" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 7.6559999999999997 
+        intervals: size = 4
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.066144263754945892 
+            text = "0"
+        intervals [2]:
+            xmin = 0.066144263754945892 
+            xmax = 0.60859040123673669 
+            text = "[spk]"
+        intervals [3]:
+            xmin = 0.60859040123673669 
+            xmax = 5.7317015168093794 
+            text = "(s) ndiKala Ed-\Zambeni ($)lOke-\ISin 0 pi @U bQks fifti tri(/$) elusik_>isik_> (/s)"
+        intervals [4]:
+            xmin = 5.7317015168093794 
+            xmax = 7.6559999999999997 
+            text = "0"

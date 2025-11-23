@@ -1,0 +1,60 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 7.0800000000000001 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 7.0800000000000001 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.48323760161568519 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.48323760161568519 
+            xmax = 1.5792848362832841 
+            text = "(u) [int] inqaku 0 ($)thirteen(/$) [/int] (/u)" 
+        intervals [3]:
+            xmin = 1.5792848362832841 
+            xmax = 1.9550272694822839 
+            text = "[int]" 
+        intervals [4]:
+            xmin = 1.9550272694822839 
+            xmax = 3.8276413442758983 
+            text = "(u) [int] igama ledolophu e ($)*Parys(/$) [/int] (/u)" 
+        intervals [5]:
+            xmin = 3.8276413442758983 
+            xmax = 7.0800000000000001 
+            text = "[int]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 7.0800000000000001 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.48323760161568519 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.48323760161568519 
+            xmax = 1.5792848362832841 
+            text = "(u) [int] i!\~ak_>u 0 ($)Tetin(/$) [/int] (/u)" 
+        intervals [3]:
+            xmin = 1.5792848362832841 
+            xmax = 1.9550272694822839 
+            text = "[int]" 
+        intervals [4]:
+            xmin = 1.9550272694822839 
+            xmax = 3.8276413442758983 
+            text = "(u) [int] igama lEd_0OlOp_h E ($)pe-\Is(/$) [/int] (/u)" 
+        intervals [5]:
+            xmin = 3.8276413442758983 
+            xmax = 7.0800000000000001 
+            text = "[int]" 

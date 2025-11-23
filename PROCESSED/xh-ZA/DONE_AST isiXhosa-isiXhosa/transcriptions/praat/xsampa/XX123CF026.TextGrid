@@ -1,0 +1,76 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 13.368 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 13.368 
+        intervals: size = 7 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.2646831578947368 
+            text = "0" 
+        intervals [2]:
+            xmin = 1.2646831578947368 
+            xmax = 2.2421726678765879 
+            text = "[int]" 
+        intervals [3]:
+            xmin = 2.2421726678765879 
+            xmax = 3.7196688771608315 
+            text = "(u) isambuku semali (/u)" 
+        intervals [4]:
+            xmin = 3.7196688771608315 
+            xmax = 3.8909938506501032 
+            text = "0" 
+        intervals [5]:
+            xmin = 3.8909938506501032 
+            xmax = 10.407085045372051 
+            text = "(u) ($)seven hundred 0 seven thousand 0 *eight+ eight hundred 0 twenty rand 0 forty cents(/$) (/u)" 
+        intervals [6]:
+            xmin = 10.407085045372051 
+            xmax = 12.333314373865699 
+            text = "0" 
+        intervals [7]:
+            xmin = 12.333314373865699 
+            xmax = 13.368 
+            text = "[int]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 13.368 
+        intervals: size = 7 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.2646831578947368 
+            text = "0"
+        intervals [2]:
+            xmin = 1.2646831578947368 
+            xmax = 2.2421726678765879 
+            text = "[int]"
+        intervals [3]:
+            xmin = 2.2421726678765879 
+            xmax = 3.7196688771608315 
+            text = "(u) isambuk_>u sEmali (/u)"
+        intervals [4]:
+            xmin = 3.7196688771608315 
+            xmax = 3.8909938506501032 
+            text = "0"
+        intervals [5]:
+            xmin = 3.8909938506501032 
+            xmax = 10.407085045372051 
+            text = "(u) ($)sEvEn handrEt 0 sEvEn ta-\uzEnd 0 e-\It e-\It handrEt 0 t_>went_>i ran 0 fOt_>i sEnt-\s_>(/$) (/u)"
+        intervals [6]:
+            xmin = 10.407085045372051 
+            xmax = 12.333314373865699 
+            text = "0"
+        intervals [7]:
+            xmin = 12.333314373865699 
+            xmax = 13.368 
+            text = "[int]"

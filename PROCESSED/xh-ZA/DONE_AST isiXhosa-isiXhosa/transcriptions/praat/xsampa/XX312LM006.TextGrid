@@ -1,0 +1,52 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 11.388 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 11.388 
+        intervals: size = 4 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.0760916119369757 
+            text = "[int]" 
+        intervals [2]:
+            xmin = 1.0760916119369757 
+            xmax = 4.4980577520517304 
+            text = "(u) [int] umhla ka 0 ($)eight(/$) 0 Janyuwari 0 ($)nineteen sixty seven(/$) [/int] (/u)" 
+        intervals [3]:
+            xmin = 4.4980577520517304 
+            xmax = 11.202317944929618 
+            text = "[sta]" 
+        intervals [4]:
+            xmin = 11.202317944929618 
+            xmax = 11.388 
+            text = "0" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 11.388 
+        intervals: size = 4 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.0760916119369757 
+            text = "[int]"
+        intervals [2]:
+            xmin = 1.0760916119369757 
+            xmax = 4.4980577520517304 
+            text = "(u) [int] mKa k_>a 0 ($)e-\It(/$) 0 d-\ZaJuwari 0 ($)na-\intin siksti sEvEn(/$) [/int] (/u)"
+        intervals [3]:
+            xmin = 4.4980577520517304 
+            xmax = 11.202317944929618 
+            text = "[sta]"
+        intervals [4]:
+            xmin = 11.202317944929618 
+            xmax = 11.388 
+            text = "0"

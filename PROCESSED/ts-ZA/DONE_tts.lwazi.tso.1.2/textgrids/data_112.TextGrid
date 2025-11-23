@@ -1,0 +1,222 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0
+xmax = 3.400000
+tiers? <exists>
+size = 3
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "segment"
+		xmin = 0
+		xmax = 3.400000
+		intervals: size = 29
+		intervals [1]:
+			xmin = 0.000000
+			xmax = 0.265000
+			text = "#"
+		intervals [2]:
+			xmin = 0.265000
+			xmax = 0.340000
+			text = "#_cl"
+		intervals [3]:
+			xmin = 0.340000
+			xmax = 0.510000
+			text = "d_0Z"
+		intervals [4]:
+			xmin = 0.510000
+			xmax = 0.570000
+			text = "i"
+		intervals [5]:
+			xmin = 0.570000
+			xmax = 0.680000
+			text = "m"
+		intervals [6]:
+			xmin = 0.680000
+			xmax = 0.805000
+			text = "u"
+		intervals [7]:
+			xmin = 0.805000
+			xmax = 0.930000
+			text = "S"
+		intervals [8]:
+			xmin = 0.930000
+			xmax = 1.065000
+			text = "i"
+		intervals [9]:
+			xmin = 1.065000
+			xmax = 1.140000
+			text = "l"
+		intervals [10]:
+			xmin = 1.140000
+			xmax = 1.310000
+			text = "O"
+		intervals [11]:
+			xmin = 1.310000
+			xmax = 1.390000
+			text = "B"
+		intervals [12]:
+			xmin = 1.390000
+			xmax = 1.540000
+			text = "E"
+		intervals [13]:
+			xmin = 1.540000
+			xmax = 1.615000
+			text = "#_cl"
+		intervals [14]:
+			xmin = 1.615000
+			xmax = 1.655000
+			text = "k"
+		intervals [15]:
+			xmin = 1.655000
+			xmax = 1.790000
+			text = "E"
+		intervals [16]:
+			xmin = 1.790000
+			xmax = 1.865000
+			text = "l"
+		intervals [17]:
+			xmin = 1.865000
+			xmax = 2.030000
+			text = "O"
+		intervals [18]:
+			xmin = 2.030000
+			xmax = 2.125000
+			text = "h_v"
+		intervals [19]:
+			xmin = 2.125000
+			xmax = 2.205000
+			text = "i"
+		intervals [20]:
+			xmin = 2.205000
+			xmax = 2.290000
+			text = "m"
+		intervals [21]:
+			xmin = 2.290000
+			xmax = 2.410000
+			text = "a"
+		intervals [22]:
+			xmin = 2.410000
+			xmax = 2.470000
+			text = "r"
+		intervals [23]:
+			xmin = 2.470000
+			xmax = 2.510000
+			text = "i"
+		intervals [24]:
+			xmin = 2.510000
+			xmax = 2.600000
+			text = "B"
+		intervals [25]:
+			xmin = 2.600000
+			xmax = 2.735000
+			text = "a"
+		intervals [26]:
+			xmin = 2.735000
+			xmax = 2.830000
+			text = "#_cl"
+		intervals [27]:
+			xmin = 2.830000
+			xmax = 2.855000
+			text = "t_e"
+		intervals [28]:
+			xmin = 2.855000
+			xmax = 3.090000
+			text = "E"
+		intervals [29]:
+			xmin = 3.090000
+			xmax = 3.400000
+			text = "#"
+	item [2]:
+		class = "IntervalTier"
+		name = "syllable"
+		xmin = 0
+		xmax = 3.400000
+		intervals: size = 14
+		intervals [1]:
+			xmin = 0.000000
+			xmax = 0.265000
+			text = "NONE"
+		intervals [2]:
+			xmin = 0.265000
+			xmax = 0.570000
+			text = "syl"
+		intervals [3]:
+			xmin = 0.570000
+			xmax = 0.805000
+			text = "syl"
+		intervals [4]:
+			xmin = 0.805000
+			xmax = 1.065000
+			text = "syl"
+		intervals [5]:
+			xmin = 1.065000
+			xmax = 1.310000
+			text = "syl"
+		intervals [6]:
+			xmin = 1.310000
+			xmax = 1.540000
+			text = "syl"
+		intervals [7]:
+			xmin = 1.540000
+			xmax = 1.790000
+			text = "syl"
+		intervals [8]:
+			xmin = 1.790000
+			xmax = 2.030000
+			text = "syl"
+		intervals [9]:
+			xmin = 2.030000
+			xmax = 2.205000
+			text = "syl"
+		intervals [10]:
+			xmin = 2.205000
+			xmax = 2.410000
+			text = "syl"
+		intervals [11]:
+			xmin = 2.410000
+			xmax = 2.510000
+			text = "syl"
+		intervals [12]:
+			xmin = 2.510000
+			xmax = 2.735000
+			text = "syl"
+		intervals [13]:
+			xmin = 2.735000
+			xmax = 3.090000
+			text = "syl"
+		intervals [14]:
+			xmin = 3.090000
+			xmax = 3.400000
+			text = "NONE"
+	item [3]:
+		class = "IntervalTier"
+		name = "word"
+		xmin = 0
+		xmax = 3.400000
+		intervals: size = 6
+		intervals [1]:
+			xmin = 0.000000
+			xmax = 0.265000
+			text = "NONE"
+		intervals [2]:
+			xmin = 0.265000
+			xmax = 0.805000
+			text = "Jimu"
+		intervals [3]:
+			xmin = 0.805000
+			xmax = 2.030000
+			text = "Xilovekelo"
+		intervals [4]:
+			xmin = 2.030000
+			xmax = 2.205000
+			text = "hi"
+		intervals [5]:
+			xmin = 2.205000
+			xmax = 3.090000
+			text = "Marivate"
+		intervals [6]:
+			xmin = 3.090000
+			xmax = 3.400000
+			text = "NONE"

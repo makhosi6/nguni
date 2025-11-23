@@ -1,0 +1,60 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 5.3879999999999999 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 5.3879999999999999 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.31725576494275037 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.31725576494275037 
+            xmax = 3.3338657093858384 
+            text = "(u) [sta] Phangalele ($)senior secondary school(/$) [/sta] (/u)" 
+        intervals [3]:
+            xmin = 3.3338657093858384 
+            xmax = 3.5833482185474077 
+            text = "[spk]" 
+        intervals [4]:
+            xmin = 3.5833482185474077 
+            xmax = 4.8695793635191551 
+            text = "0" 
+        intervals [5]:
+            xmin = 4.8695793635191551 
+            xmax = 5.3879999999999999 
+            text = "[sta]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 5.3879999999999999 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.31725576494275037 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.31725576494275037 
+            xmax = 3.3338657093858384 
+            text = "(u) [sta] p_haNgalElE ($)sinija sEkOndari skul(/$) [/sta] (/u)" 
+        intervals [3]:
+            xmin = 3.3338657093858384 
+            xmax = 3.5833482185474077 
+            text = "[spk]" 
+        intervals [4]:
+            xmin = 3.5833482185474077 
+            xmax = 4.8695793635191551 
+            text = "0" 
+        intervals [5]:
+            xmin = 4.8695793635191551 
+            xmax = 5.3879999999999999 
+            text = "[sta]" 

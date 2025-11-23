@@ -1,0 +1,68 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 12.288 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 12.288 
+        intervals: size = 6 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.259522548287141 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.259522548287141 
+            xmax = 1.87926556526036 
+            text = "(u) inqaku ($)seven(/$) (/u)" 
+        intervals [3]:
+            xmin = 1.87926556526036 
+            xmax = 2.0224962472148364 
+            text = "0" 
+        intervals [4]:
+            xmin = 2.0224962472148364 
+            xmax = 10.511872897947304 
+            text = "(s) [fil]er ngu ($)five(/$) 0 no ($)nine(/$) no 0 ($)eight(/$) no 0 ($)two(/$) no ($)one(/$) no ($)four(/$) no 0 ($)three(/$) no ($)seven(/$) no ($)zero(/$) no ($)six(/$) (/s)" 
+        intervals [5]:
+            xmin = 10.511872897947304 
+            xmax = 11.616673230856415 
+            text = "0" 
+        intervals [6]:
+            xmin = 11.616673230856415 
+            xmax = 12.288 
+            text = "[int]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 12.288 
+        intervals: size = 6 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.259522548287141 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.259522548287141 
+            xmax = 1.87926556526036 
+            text = "(u) i!\~ak_>u ($)sEveni(/$) (/u)" 
+        intervals [3]:
+            xmin = 1.87926556526036 
+            xmax = 2.0224962472148364 
+            text = "0" 
+        intervals [4]:
+            xmin = 2.0224962472148364 
+            xmax = 10.511872897947304 
+            text = "(s) E gu ($)fa-\if(/$) 0 nO ($)na-\in(/$) nO 0 ($)E-\it(/$) nO 0 ($)tu:(/$) nO ($)wani(/$) nO ($)fO:(/$) nO 0 ($)Tri:(/$) nO ($)sEvEn(/$) nO ($)zi:rO(/$) nO ($)siks(/$) (/s)" 
+        intervals [5]:
+            xmin = 10.511872897947304 
+            xmax = 11.616673230856415 
+            text = "0" 
+        intervals [6]:
+            xmin = 11.616673230856415 
+            xmax = 12.288 
+            text = "[int]" 

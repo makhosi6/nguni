@@ -1,0 +1,60 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 67.367999999999995 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic"
+        xmin = 0 
+        xmax = 67.367999999999995 
+        intervals: size = 5
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.57470129824031657 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.57470129824031657 
+            xmax = 1.653953803094147 
+            text = "(u) [int] isivakalisi [/int] (/u)"
+        intervals [3]:
+            xmin = 1.653953803094147 
+            xmax = 2.4538523981176614 
+            text = "[int]" 
+        intervals [4]:
+            xmin = 2.4538523981176614 
+            xmax = 5.8709336778109265 
+            text = "(s) [int] inja ijojisa umkhondo womvundla [/int] (/s)" 
+        intervals [5]:
+            xmin = 5.8709336778109265 
+            xmax = 67.367999999999995 
+            text = "[int]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 67.367999999999995 
+        intervals: size = 5
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.57470129824031657 
+            text = "0"
+        intervals [2]:
+            xmin = 0.57470129824031657 
+            xmax = 1.653953803094147 
+            text = "(u) [int] isivak_>alis [/int] (/u)"
+        intervals [3]:
+            xmin = 1.653953803094147 
+            xmax = 2.4538523981176614 
+            text = "[int]"
+        intervals [4]:
+            xmin = 2.4538523981176614 
+            xmax = 5.8709336778109265 
+            text = "(s) [int] iJd-\Za id-\Zod-\Zisa um=k_hOndO womvund-\K\a [/int] (/s)"
+        intervals [5]:
+            xmin = 5.8709336778109265 
+            xmax = 67.367999999999995 
+            text = "[int]"

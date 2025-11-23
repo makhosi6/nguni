@@ -1,0 +1,60 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 12.9 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 12.9 
+        intervals: size = 5
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.1200803995183113 
+            text = "[int]" 
+        intervals [2]:
+            xmin = 1.1200803995183113 
+            xmax = 4.5575146061538288 
+            text = "(u) [int] ePhangalele ($)senior secondary school(/$) 0 eNgqeleni [/int] (/u)"
+        intervals [3]:
+            xmin = 4.5575146061538288 
+            xmax = 4.9847372607021274 
+            text = "[int]" 
+        intervals [4]:
+            xmin = 4.9847372607021274 
+            xmax = 5.8665765186856778 
+            text = "0" 
+        intervals [5]:
+            xmin = 5.8665765186856778 
+            xmax = 12.9 
+            text = "[int]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 12.9 
+        intervals: size = 5
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.1200803995183113 
+            text = "[int]"
+        intervals [2]:
+            xmin = 1.1200803995183113 
+            xmax = 4.5575146061538288 
+            text = "(u) [int] Ep_haNgalElE ($)sinija sEkOndari skul(/$) 0 E!\_v~Elen [/int] (/u)"
+        intervals [3]:
+            xmin = 4.5575146061538288 
+            xmax = 4.9847372607021274 
+            text = "[int]"
+        intervals [4]:
+            xmin = 4.9847372607021274 
+            xmax = 5.8665765186856778 
+            text = "0"
+        intervals [5]:
+            xmin = 5.8665765186856778 
+            xmax = 12.9 
+            text = "[int]"

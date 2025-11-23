@@ -1,0 +1,68 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 6.9000000000000004 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 6.9000000000000004 
+        intervals: size = 6 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.27300179390073753 
+            text = "[sta]" 
+        intervals [2]:
+            xmin = 0.27300179390073753 
+            xmax = 1.4665441362491021 
+            text = "(u) [sta] e ($)White City(/$) [/sta] (/u)" 
+        intervals [3]:
+            xmin = 1.4665441362491021 
+            xmax = 2.725377457776339 
+            text = "0" 
+        intervals [4]:
+            xmin = 2.725377457776339 
+            xmax = 3.7303284287434608 
+            text = "[sta]" 
+        intervals [5]:
+            xmin = 3.7303284287434608 
+            xmax = 3.8784264665701946 
+            text = "[ext]" 
+        intervals [6]:
+            xmin = 3.8784264665701946 
+            xmax = 6.9000000000000004 
+            text = "[sta]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 6.9000000000000004 
+        intervals: size = 6 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.27300179390073753 
+            text = "[sta]"
+        intervals [2]:
+            xmin = 0.27300179390073753 
+            xmax = 1.4665441362491021 
+            text = "(u) [sta] E ($)wa-\it siti(/$) [/sta] (/u)"
+        intervals [3]:
+            xmin = 1.4665441362491021 
+            xmax = 2.725377457776339 
+            text = "0"
+        intervals [4]:
+            xmin = 2.725377457776339 
+            xmax = 3.7303284287434608 
+            text = "[sta]"
+        intervals [5]:
+            xmin = 3.7303284287434608 
+            xmax = 3.8784264665701946 
+            text = "[ext]"
+        intervals [6]:
+            xmin = 3.8784264665701946 
+            xmax = 6.9000000000000004 
+            text = "[sta]"

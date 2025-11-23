@@ -1,0 +1,60 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 4.8840000000000003 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 4.8840000000000003 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.22330684579929772 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.22330684579929772 
+            xmax = 0.57900686049913142 
+            text = "[int]" 
+        intervals [3]:
+            xmin = 0.57900686049913142 
+            xmax = 2.8479738205007092 
+            text = "(u) [int] ($)seventy six 0 Gerald_Spilkin(/$) [/int] (/u)" 
+        intervals [4]:
+            xmin = 2.8479738205007092 
+            xmax = 4.4823954199091274 
+            text = "0" 
+        intervals [5]:
+            xmin = 4.4823954199091274 
+            xmax = 4.8840000000000003 
+            text = "[ext]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 4.8840000000000003 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.22330684579929772 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.22330684579929772 
+            xmax = 0.57900686049913142 
+            text = "[int]" 
+        intervals [3]:
+            xmin = 0.57900686049913142 
+            xmax = 2.8479738205007092 
+            text = "(u) [int] ($)sEvEnti siks 0 d-\ZEraltspilkin(/$) [/int] (/u)" 
+        intervals [4]:
+            xmin = 2.8479738205007092 
+            xmax = 4.4823954199091274 
+            text = "0" 
+        intervals [5]:
+            xmin = 4.4823954199091274 
+            xmax = 4.8840000000000003 
+            text = "[ext]" 

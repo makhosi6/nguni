@@ -1,0 +1,68 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 4.3319999999999999 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic"
+        xmin = 0 
+        xmax = 4.3319999999999999 
+        intervals: size = 6
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.21674466448759852 
+            text = "[spk]" 
+        intervals [2]:
+            xmin = 0.21674466448759852 
+            xmax = 1.1731084406844836 
+            text = "(s) ndilibhinqa (/s)"
+        intervals [3]:
+            xmin = 1.1731084406844836 
+            xmax = 2.1883487636019967 
+            text = "[sta]" 
+        intervals [4]:
+            xmin = 2.1883487636019967 
+            xmax = 2.416802791533522 
+            text = "[ext]" 
+        intervals [5]:
+            xmin = 2.416802791533522 
+            xmax = 3.3256525113480673 
+            text = "0" 
+        intervals [6]:
+            xmin = 3.3256525113480673 
+            xmax = 4.3319999999999999 
+            text = "[sta]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 4.3319999999999999 
+        intervals: size = 6
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.21674466448759852 
+            text = "[spk]"
+        intervals [2]:
+            xmin = 0.21674466448759852 
+            xmax = 1.1731084406844836 
+            text = "(s) ndilib_0i!\~ (/s)"
+        intervals [3]:
+            xmin = 1.1731084406844836 
+            xmax = 2.1883487636019967 
+            text = "[sta]"
+        intervals [4]:
+            xmin = 2.1883487636019967 
+            xmax = 2.416802791533522 
+            text = "[ext]"
+        intervals [5]:
+            xmin = 2.416802791533522 
+            xmax = 3.3256525113480673 
+            text = "0"
+        intervals [6]:
+            xmin = 3.3256525113480673 
+            xmax = 4.3319999999999999 
+            text = "[sta]"

@@ -1,0 +1,68 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 12.228 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic"
+        xmin = 0 
+        xmax = 12.228 
+        intervals: size = 6
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.33060604742003052 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.33060604742003052 
+            xmax = 0.72428926623422618 
+            text = "[spk]" 
+        intervals [3]:
+            xmin = 0.72428926623422618 
+            xmax = 6.1139999999999999 
+            text = "(u) I. M. 0 D. A. 0 N. 0 T. 0 S. A. 0 N. 0 E. (/u)" 
+        intervals [4]:
+            xmin = 6.1139999999999999 
+            xmax = 8.4036211912751675 
+            text = "[int]" 
+        intervals [5]:
+            xmin = 8.4036211912751675 
+            xmax = 9.3194696677852331 
+            text = "0" 
+        intervals [6]:
+            xmin = 9.3194696677852331 
+            xmax = 12.228 
+            text = "[int]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 12.228 
+        intervals: size = 6
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.33060604742003052 
+            text = "0"
+        intervals [2]:
+            xmin = 0.33060604742003052 
+            xmax = 0.72428926623422618 
+            text = "[spk]"
+        intervals [3]:
+            xmin = 0.72428926623422618 
+            xmax = 6.1139999999999999 
+            text = "(u) a-\i Em 0 di e-\I 0 En 0 ti 0 Es e-\I 0 En 0 i: (/u)"
+        intervals [4]:
+            xmin = 6.1139999999999999 
+            xmax = 8.4036211912751675 
+            text = "[int]"
+        intervals [5]:
+            xmin = 8.4036211912751675 
+            xmax = 9.3194696677852331 
+            text = "0"
+        intervals [6]:
+            xmin = 9.3194696677852331 
+            xmax = 12.228 
+            text = "[int]"

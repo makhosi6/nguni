@@ -1,0 +1,68 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 4.7999999999999998 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 4.7999999999999998 
+        intervals: size = 6 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.31653389926080855 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.31653389926080855 
+            xmax = 0.67242846451163141 
+            text = "[spk]" 
+        intervals [3]:
+            xmin = 0.67242846451163141 
+            xmax = 2.8350585743440111 
+            text = "(s) [fil]m ndine 0 ($)diploma(/$) ku ($)library [int] science [/int](/$) (/s)" 
+        intervals [4]:
+            xmin = 2.8350585743440111 
+            xmax = 3.0228154891889405 
+            text = "[sta]" 
+        intervals [5]:
+            xmin = 3.0228154891889405 
+            xmax = 3.7420190897999781 
+            text = "0" 
+        intervals [6]:
+            xmin = 3.7420190897999781 
+            xmax = 4.7999999999999998 
+            text = "[sta]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 4.7999999999999998 
+        intervals: size = 6 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.31653389926080855 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.31653389926080855 
+            xmax = 0.67242846451163141 
+            text = "[spk]" 
+        intervals [3]:
+            xmin = 0.67242846451163141 
+            xmax = 2.8350585743440111 
+            text = "(s) m ndinE 0 ($)diplOma(/$) k_>u ($)la-\ibrari [int] sajEns [/int](/$) (/s)" 
+        intervals [4]:
+            xmin = 2.8350585743440111 
+            xmax = 3.0228154891889405 
+            text = "[sta]" 
+        intervals [5]:
+            xmin = 3.0228154891889405 
+            xmax = 3.7420190897999781 
+            text = "0" 
+        intervals [6]:
+            xmin = 3.7420190897999781 
+            xmax = 4.7999999999999998 
+            text = "[sta]" 

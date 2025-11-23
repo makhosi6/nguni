@@ -1,0 +1,68 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 11.016 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 11.016 
+        intervals: size = 6 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.16281942012077971 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.16281942012077971 
+            xmax = 0.32640893327509973 
+            text = "[int]" 
+        intervals [3]:
+            xmin = 0.32640893327509973 
+            xmax = 1.902263512077637 
+            text = "(s) sebenza enomnxeba (/s)" 
+        intervals [4]:
+            xmin = 1.902263512077637 
+            xmax = 2.7466982867667151 
+            text = "[int]" 
+        intervals [5]:
+            xmin = 2.7466982867667151 
+            xmax = 4.6078255726151527 
+            text = "0" 
+        intervals [6]:
+            xmin = 4.6078255726151527 
+            xmax = 11.016 
+            text = "[int]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 11.016 
+        intervals: size = 6 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.16281942012077971 
+            text = "0"
+        intervals [2]:
+            xmin = 0.16281942012077971 
+            xmax = 0.32640893327509973 
+            text = "[int]"
+        intervals [3]:
+            xmin = 0.32640893327509973 
+            xmax = 1.902263512077637 
+            text = "(s) sEb_<end-\za EnOm|\|\~E:b_<a (/s)"
+        intervals [4]:
+            xmin = 1.902263512077637 
+            xmax = 2.7466982867667151 
+            text = "[int]"
+        intervals [5]:
+            xmin = 2.7466982867667151 
+            xmax = 4.6078255726151527 
+            text = "0"
+        intervals [6]:
+            xmin = 4.6078255726151527 
+            xmax = 11.016 
+            text = "[int]"

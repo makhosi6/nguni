@@ -1,0 +1,60 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 7.7519999999999998 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 7.7519999999999998 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.53649840825807948 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.53649840825807948 
+            xmax = 0.7761466154243083 
+            text = "[sta]" 
+        intervals [3]:
+            xmin = 0.7761466154243083 
+            xmax = 3.433896242609193 
+            text = "(s) [sta] inkosikazi yayihlamba ihempe [/sta] (/s)" 
+        intervals [4]:
+            xmin = 3.433896242609193 
+            xmax = 3.8819245570469798 
+            text = "0" 
+        intervals [5]:
+            xmin = 3.8819245570469798 
+            xmax = 7.7519999999999998 
+            text = "[int]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 7.7519999999999998 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.53649840825807948 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.53649840825807948 
+            xmax = 0.7761466154243083 
+            text = "[sta]" 
+        intervals [3]:
+            xmin = 0.7761466154243083 
+            xmax = 3.433896242609193 
+            text = "(s) [sta] iNk_>osik_>az jajiKamba ih\Emp_>E [/sta] (/s)" 
+        intervals [4]:
+            xmin = 3.433896242609193 
+            xmax = 3.8819245570469798 
+            text = "0" 
+        intervals [5]:
+            xmin = 3.8819245570469798 
+            xmax = 7.7519999999999998 
+            text = "[int]" 

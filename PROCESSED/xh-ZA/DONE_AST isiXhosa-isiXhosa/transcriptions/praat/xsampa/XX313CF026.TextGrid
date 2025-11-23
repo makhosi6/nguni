@@ -1,0 +1,60 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 4.7519999999999998 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 4.7519999999999998 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.053556664835780851 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.053556664835780851 
+            xmax = 0.38677181435118258 
+            text = "[spk]" 
+        intervals [3]:
+            xmin = 0.38677181435118258 
+            xmax = 0.81308486314807682 
+            text = "[sta]" 
+        intervals [4]:
+            xmin = 0.81308486314807682 
+            xmax = 2.8949988238786597 
+            text = "(s) [sta] ndiza kuthetha isixhosa uvile [/sta] (/s)" 
+        intervals [5]:
+            xmin = 2.8949988238786597 
+            xmax = 4.7519999999999998 
+            text = "[sta]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 4.7519999999999998 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.053556664835780851 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.053556664835780851 
+            xmax = 0.38677181435118258 
+            text = "[spk]" 
+        intervals [3]:
+            xmin = 0.38677181435118258 
+            xmax = 0.81308486314807682 
+            text = "[sta]" 
+        intervals [4]:
+            xmin = 0.81308486314807682 
+            xmax = 2.8949988238786597 
+            text = "(s) [sta] ndiza k_>ut_hEt_ha isi|\|\_hOsa uvilE [/sta] (/s)" 
+        intervals [5]:
+            xmin = 2.8949988238786597 
+            xmax = 4.7519999999999998 
+            text = "[sta]" 

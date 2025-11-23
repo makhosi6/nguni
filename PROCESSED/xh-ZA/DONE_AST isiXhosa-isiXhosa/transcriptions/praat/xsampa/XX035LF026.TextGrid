@@ -1,0 +1,44 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 3.552 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic"
+        xmin = 0 
+        xmax = 3.552 
+        intervals: size = 3 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.085143545269634371 
+            text = "0"
+        intervals [2]:
+            xmin = 0.085143545269634371 
+            xmax = 1.5064431738835649 
+            text = "(s) qinisekisa (/s)"
+        intervals [3]:
+            xmin = 1.5064431738835649 
+            xmax = 3.552 
+            text = "0"
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 3.552 
+        intervals: size = 3 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.085143545269634371 
+            text = "0"
+        intervals [2]:
+            xmin = 0.085143545269634371 
+            xmax = 1.5064431738835649 
+            text = "(s) !\inisek_>isa (/s)"
+        intervals [3]:
+            xmin = 1.5064431738835649 
+            xmax = 3.552 
+            text = "0"

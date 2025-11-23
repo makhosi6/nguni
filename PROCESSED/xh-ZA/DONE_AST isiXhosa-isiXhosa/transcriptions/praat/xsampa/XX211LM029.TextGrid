@@ -1,0 +1,84 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 4.1399999999999997 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic"
+        xmin = 0 
+        xmax = 4.1399999999999997 
+        intervals: size = 8
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.3912029569212398 
+            text = "[sta]" 
+        intervals [2]:
+            xmin = 0.3912029569212398 
+            xmax = 0.82280295287343519 
+            text = "(u) [sta] ($)nine(/$) [/sta] (/u)" 
+        intervals [3]:
+            xmin = 0.82280295287343519 
+            xmax = 1.7113911798338375 
+            text = "[sta]" 
+        intervals [4]:
+            xmin = 1.7113911798338375 
+            xmax = 2.1239499994940245 
+            text = "[spk]" 
+        intervals [5]:
+            xmin = 2.1239499994940245 
+            xmax = 2.5287863255033551 
+            text = "[ext]" 
+        intervals [6]:
+            xmin = 2.5287863255033551 
+            xmax = 3.041361392617449 
+            text = "[sta]" 
+        intervals [7]:
+            xmin = 3.041361392617449 
+            xmax = 3.1615950503355701 
+            text = "[ext]" 
+        intervals [8]:
+            xmin = 3.1615950503355701 
+            xmax = 4.1399999999999997 
+            text = "[sta]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 4.1399999999999997 
+        intervals: size = 8
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.3912029569212398 
+            text = "[sta]"
+        intervals [2]:
+            xmin = 0.3912029569212398 
+            xmax = 0.82280295287343519 
+            text = "(u) [sta] ($)na-\in(/$) [/sta] (/u)"
+        intervals [3]:
+            xmin = 0.82280295287343519 
+            xmax = 1.7113911798338375 
+            text = "[sta]"
+        intervals [4]:
+            xmin = 1.7113911798338375 
+            xmax = 2.1239499994940245 
+            text = "[spk]"
+        intervals [5]:
+            xmin = 2.1239499994940245 
+            xmax = 2.5287863255033551 
+            text = "[ext]"
+        intervals [6]:
+            xmin = 2.5287863255033551 
+            xmax = 3.041361392617449 
+            text = "[sta]"
+        intervals [7]:
+            xmin = 3.041361392617449 
+            xmax = 3.1615950503355701 
+            text = "[ext]"
+        intervals [8]:
+            xmin = 3.1615950503355701 
+            xmax = 4.1399999999999997 
+            text = "[sta]"

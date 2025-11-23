@@ -1,0 +1,84 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 13.380000000000001 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 13.380000000000001 
+        intervals: size = 8 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.13610990801364109 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.13610990801364109 
+            xmax = 0.5873949847701353 
+            text = "[spk]" 
+        intervals [3]:
+            xmin = 0.5873949847701353 
+            xmax = 0.90151593361891169 
+            text = "[int]" 
+        intervals [4]:
+            xmin = 0.90151593361891169 
+            xmax = 10.361070151006711 
+            text = "(u) ($)[int] five six [/int] 0 zero double one 0 three five 0 seven six 0 five zero 0 eight nine(/$) (/u)" 
+        intervals [5]:
+            xmin = 10.361070151006711 
+            xmax = 10.744933078393881 
+            text = "[spk]" 
+        intervals [6]:
+            xmin = 10.744933078393881 
+            xmax = 12.218242190267055 
+            text = "0" 
+        intervals [7]:
+            xmin = 12.218242190267055 
+            xmax = 12.915682763436182 
+            text = "[ext]" 
+        intervals [8]:
+            xmin = 12.915682763436182 
+            xmax = 13.380000000000001 
+            text = "[sta]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 13.380000000000001 
+        intervals: size = 8 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.13610990801364109 
+            text = "0"
+        intervals [2]:
+            xmin = 0.13610990801364109 
+            xmax = 0.5873949847701353 
+            text = "[spk]"
+        intervals [3]:
+            xmin = 0.5873949847701353 
+            xmax = 0.90151593361891169 
+            text = "[int]"
+        intervals [4]:
+            xmin = 0.90151593361891169 
+            xmax = 10.361070151006711 
+            text = "(u) ($)[int] fa-\if siks [/int] 0 zIj@rO dabEl wan 0 Tri fa-\if 0 sEvEn siks 0 fa-\if zIj@rO 0 Eit ninE(/$) (/u)"
+        intervals [5]:
+            xmin = 10.361070151006711 
+            xmax = 10.744933078393881 
+            text = "[spk]"
+        intervals [6]:
+            xmin = 10.744933078393881 
+            xmax = 12.218242190267055 
+            text = "0"
+        intervals [7]:
+            xmin = 12.218242190267055 
+            xmax = 12.915682763436182 
+            text = "[ext]"
+        intervals [8]:
+            xmin = 12.915682763436182 
+            xmax = 13.380000000000001 
+            text = "[sta]"

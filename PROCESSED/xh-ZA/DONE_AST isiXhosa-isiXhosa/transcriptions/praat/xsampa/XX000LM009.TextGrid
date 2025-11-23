@@ -1,0 +1,68 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 4.0679999999999996 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 4.0679999999999996 
+        intervals: size = 6 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.22848254890253897 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.22848254890253897 
+            xmax = 0.70870653416853036 
+            text = "[int]" 
+        intervals [3]:
+            xmin = 0.70870653416853036 
+            xmax = 1.9057474000125467 
+            text = "(u) [int] u ($)standard;ten(/$) [/int] (/u)" 
+        intervals [4]:
+            xmin = 1.9057474000125467 
+            xmax = 2.4237921958327853 
+            text = "[int]" 
+        intervals [5]:
+            xmin = 2.4237921958327853 
+            xmax = 3.7023105981643205 
+            text = "0" 
+        intervals [6]:
+            xmin = 3.7023105981643205 
+            xmax = 4.0679999999999996 
+            text = "[sta]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 4.0679999999999996 
+        intervals: size = 6 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.22848254890253897 
+            text = "0"
+        intervals [2]:
+            xmin = 0.22848254890253897 
+            xmax = 0.70870653416853036 
+            text = "[int]"
+        intervals [3]:
+            xmin = 0.70870653416853036 
+            xmax = 1.9057474000125467 
+            text = "(u) [int] u ($)standatEn(/$) [/int] (/u)"
+        intervals [4]:
+            xmin = 1.9057474000125467 
+            xmax = 2.4237921958327853 
+            text = "[int]"
+        intervals [5]:
+            xmin = 2.4237921958327853 
+            xmax = 3.7023105981643205 
+            text = "0"
+        intervals [6]:
+            xmin = 3.7023105981643205 
+            xmax = 4.0679999999999996 
+            text = "[sta]"

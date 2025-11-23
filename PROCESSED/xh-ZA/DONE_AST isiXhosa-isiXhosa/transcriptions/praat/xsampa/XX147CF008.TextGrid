@@ -1,0 +1,84 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 8.1959999999999997 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic"
+        xmin = 0 
+        xmax = 8.1959999999999997 
+        intervals: size = 8
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.072053947651708569 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.072053947651708569 
+            xmax = 0.47718059442889516 
+            text = "[sta]" 
+        intervals [3]:
+            xmin = 0.47718059442889516 
+            xmax = 0.73038474866463676 
+            text = "[ext]" 
+        intervals [4]:
+            xmin = 0.73038474866463676 
+            xmax = 1.6172895247135359 
+            text = "(u) isixhosa (/u)" 
+        intervals [5]:
+            xmin = 1.6172895247135359 
+            xmax = 2.5787750745855509 
+            text = "[sta]" 
+        intervals [6]:
+            xmin = 2.5787750745855509 
+            xmax = 3.3383875372927756 
+            text = "0" 
+        intervals [7]:
+            xmin = 3.3383875372927756 
+            xmax = 5.6751284587155961 
+            text = "[int]" 
+        intervals [8]:
+            xmin = 5.6751284587155961 
+            xmax = 8.1959999999999997 
+            text = "[sta]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 8.1959999999999997 
+        intervals: size = 8
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.072053947651708569 
+            text = "0"
+        intervals [2]:
+            xmin = 0.072053947651708569 
+            xmax = 0.47718059442889516 
+            text = "[sta]"
+        intervals [3]:
+            xmin = 0.47718059442889516 
+            xmax = 0.73038474866463676 
+            text = "[ext]"
+        intervals [4]:
+            xmin = 0.73038474866463676 
+            xmax = 1.6172895247135359 
+            text = "(u) isi|\|\_hOsa (/u)"
+        intervals [5]:
+            xmin = 1.6172895247135359 
+            xmax = 2.5787750745855509 
+            text = "[sta]"
+        intervals [6]:
+            xmin = 2.5787750745855509 
+            xmax = 3.3383875372927756 
+            text = "0"
+        intervals [7]:
+            xmin = 3.3383875372927756 
+            xmax = 5.6751284587155961 
+            text = "[int]"
+        intervals [8]:
+            xmin = 5.6751284587155961 
+            xmax = 8.1959999999999997 
+            text = "[sta]"

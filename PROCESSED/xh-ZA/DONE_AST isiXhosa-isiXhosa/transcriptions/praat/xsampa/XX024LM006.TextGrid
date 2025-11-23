@@ -1,0 +1,60 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 7.8959999999999999 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic"
+        xmin = 0 
+        xmax = 7.8959999999999999 
+        intervals: size = 5
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.44348530140964793 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.44348530140964793 
+            xmax = 0.85506906566550966 
+            text = "[int]" 
+        intervals [3]:
+            xmin = 0.85506906566550966 
+            xmax = 6.0863367716626282 
+            text = "(u) ($)nineteen sixty four(/$) [int] Janyuwari 0 ngomhla wokuqala (/u)"
+        intervals [4]:
+            xmin = 6.0863367716626282 
+            xmax = 7.0167201246723803 
+            text = "0" 
+        intervals [5]:
+            xmin = 7.0167201246723803 
+            xmax = 7.8959999999999999 
+            text = "[int]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 7.8959999999999999 
+        intervals: size = 5
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.44348530140964793 
+            text = "0"
+        intervals [2]:
+            xmin = 0.44348530140964793 
+            xmax = 0.85506906566550966 
+            text = "[int]"
+        intervals [3]:
+            xmin = 0.85506906566550966 
+            xmax = 6.0863367716626282 
+            text = "(u) ($)na-\intin siksti fO(/$) [int] d-\ZaJwari 0 NgOmKa wok_>u!\ala (/u)"
+        intervals [4]:
+            xmin = 6.0863367716626282 
+            xmax = 7.0167201246723803 
+            text = "0"
+        intervals [5]:
+            xmin = 7.0167201246723803 
+            xmax = 7.8959999999999999 
+            text = "[int]"

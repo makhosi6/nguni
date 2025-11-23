@@ -1,0 +1,60 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 5.1840000000000002 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic"
+        xmin = 0 
+        xmax = 5.1840000000000002 
+        intervals: size = 5
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.1798969024175513 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.1798969024175513 
+            xmax = 1.4038305993786622 
+            text = "[sta]" 
+        intervals [3]:
+            xmin = 1.4038305993786622 
+            xmax = 3.1201166672453029 
+            text = "(s) ewe ndisebenzisa i ($)public phone(/$) (/s)"
+        intervals [4]:
+            xmin = 3.1201166672453029 
+            xmax = 3.2457189261744968 
+            text = "[sta]" 
+        intervals [5]:
+            xmin = 3.2457189261744968 
+            xmax = 5.1840000000000002 
+            text = "0" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 5.1840000000000002 
+        intervals: size = 5
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.1798969024175513 
+            text = "0"
+        intervals [2]:
+            xmin = 0.1798969024175513 
+            xmax = 1.4038305993786622 
+            text = "[sta]"
+        intervals [3]:
+            xmin = 1.4038305993786622 
+            xmax = 3.1201166672453029 
+            text = "(s) EwE nsEb_<ens i ($)pablik f@-\Un(/$) (/s)"
+        intervals [4]:
+            xmin = 3.1201166672453029 
+            xmax = 3.2457189261744968 
+            text = "[sta]"
+        intervals [5]:
+            xmin = 3.2457189261744968 
+            xmax = 5.1840000000000002 
+            text = "0"

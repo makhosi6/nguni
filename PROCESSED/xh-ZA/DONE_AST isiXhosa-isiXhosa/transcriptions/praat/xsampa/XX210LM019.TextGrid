@@ -1,0 +1,60 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 13.776 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 13.776 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.2727504305065394 
+            text = "[int]" 
+        intervals [2]:
+            xmin = 1.2727504305065394 
+            xmax = 2.2251958892057635 
+            text = "(u) [int] [fil]a 0 ($)Telkom(/$) [/int] (/u)" 
+        intervals [3]:
+            xmin = 2.2251958892057635 
+            xmax = 4.118588126849775 
+            text = "[int]" 
+        intervals [4]:
+            xmin = 4.118588126849775 
+            xmax = 4.7802348178137652 
+            text = "(u) [int] ($)public phone(/$) [/int] (/u)" 
+        intervals [5]:
+            xmin = 4.7802348178137652 
+            xmax = 13.776 
+            text = "[int]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 13.776 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.2727504305065394 
+            text = "[int]"
+        intervals [2]:
+            xmin = 1.2727504305065394 
+            xmax = 2.2251958892057635 
+            text = "(u) [int] a 0 ($)tElkQm(/$) [/int] (/u)"
+        intervals [3]:
+            xmin = 2.2251958892057635 
+            xmax = 4.118588126849775 
+            text = "[int]"
+        intervals [4]:
+            xmin = 4.118588126849775 
+            xmax = 4.7802348178137652 
+            text = "(u) [int] ($)pablik f@-\Un(/$) [/int] (/u)"
+        intervals [5]:
+            xmin = 4.7802348178137652 
+            xmax = 13.776 
+            text = "[int]"

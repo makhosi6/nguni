@@ -1,0 +1,100 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 9.0960000000000001 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic"
+        xmin = 0 
+        xmax = 9.0960000000000001 
+        intervals: size = 10
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.10806700909379841 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.10806700909379841 
+            xmax = 0.95109226053168494 
+            text = "[int]" 
+        intervals [3]:
+            xmin = 0.95109226053168494 
+            xmax = 2.0470250874009372 
+            text = "(u) [sta] inqaku ($)four(/$) [/sta] (/u)" 
+        intervals [4]:
+            xmin = 2.0470250874009372 
+            xmax = 2.9537507271646497 
+            text = "[sta]" 
+        intervals [5]:
+            xmin = 2.9537507271646497 
+            xmax = 3.5737736059650271 
+            text = "(u) [int] *ibinza+ [/int] (/u)" 
+        intervals [6]:
+            xmin = 3.5737736059650271 
+            xmax = 3.7810419721519795 
+            text = "[int]" 
+        intervals [7]:
+            xmin = 3.7810419721519795 
+            xmax = 5.2227086080745604 
+            text = "(u) [int] igama okanye ibinzana [/int] (/u)"
+        intervals [8]:
+            xmin = 5.2227086080745604 
+            xmax = 5.4023411921032523 
+            text = "[int]" 
+        intervals [9]:
+            xmin = 5.4023411921032523 
+            xmax = 5.9670925065871092 
+            text = "(u) [sta] ulwazi [/sta] (/u)"
+        intervals [10]:
+            xmin = 5.9670925065871092 
+            xmax = 9.0960000000000001 
+            text = "[int]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 9.0960000000000001 
+        intervals: size = 10
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.10806700909379841 
+            text = "0"
+        intervals [2]:
+            xmin = 0.10806700909379841 
+            xmax = 0.95109226053168494 
+            text = "[int]"
+        intervals [3]:
+            xmin = 0.95109226053168494 
+            xmax = 2.0470250874009372 
+            text = "(u) [sta] i!\~ak_>u ($)fO(/$) [/sta] (/u)"
+        intervals [4]:
+            xmin = 2.0470250874009372 
+            xmax = 2.9537507271646497 
+            text = "[sta]"
+        intervals [5]:
+            xmin = 2.9537507271646497 
+            xmax = 3.5737736059650271 
+            text = "(u) [int] ib_<ind-\za [/int] (/u)"
+        intervals [6]:
+            xmin = 3.5737736059650271 
+            xmax = 3.7810419721519795 
+            text = "[int]"
+        intervals [7]:
+            xmin = 3.7810419721519795 
+            xmax = 5.2227086080745604 
+            text = "(u) [int] igama Ok_>aJE ib_<ind-\zan [/int] (/u)"
+        intervals [8]:
+            xmin = 5.2227086080745604 
+            xmax = 5.4023411921032523 
+            text = "[int]"
+        intervals [9]:
+            xmin = 5.4023411921032523 
+            xmax = 5.9670925065871092 
+            text = "(u) [sta] ulwaz [/sta] (/u)"
+        intervals [10]:
+            xmin = 5.9670925065871092 
+            xmax = 9.0960000000000001 
+            text = "[int]"

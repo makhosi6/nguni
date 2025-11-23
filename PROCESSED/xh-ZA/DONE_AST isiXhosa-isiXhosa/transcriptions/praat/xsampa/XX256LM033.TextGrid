@@ -1,0 +1,68 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 7.032 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 7.032 
+        intervals: size = 6
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.15778040660196924 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.15778040660196924 
+            xmax = 0.35183482933443971 
+            text = "[sta]" 
+        intervals [3]:
+            xmin = 0.35183482933443971 
+            xmax = 0.54588925206691019 
+            text = "[int]" 
+        intervals [4]:
+            xmin = 0.54588925206691019 
+            xmax = 5.0187578096855541 
+            text = "(u) i ($)Phuthaditjhaba(/$) 0 [int] i ($)Phuthaditjhaba(/$) [/int] (/u)" 
+        intervals [5]:
+            xmin = 5.0187578096855541 
+            xmax = 6.7771923820317959 
+            text = "0" 
+        intervals [6]:
+            xmin = 6.7771923820317959 
+            xmax = 7.032 
+            text = "[sta]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 7.032 
+        intervals: size = 6
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.15778040660196924 
+            text = "0"
+        intervals [2]:
+            xmin = 0.15778040660196924 
+            xmax = 0.35183482933443971 
+            text = "[sta]"
+        intervals [3]:
+            xmin = 0.35183482933443971 
+            xmax = 0.54588925206691019 
+            text = "[int]"
+        intervals [4]:
+            xmin = 0.54588925206691019 
+            xmax = 5.0187578096855541 
+            text = "(u) i ($)p_hut_hadit-\S_hab_<a(/$) 0 [int] i ($)p_hut_hadit-\S_hab_<a(/$) [/int] (/u)"
+        intervals [5]:
+            xmin = 5.0187578096855541 
+            xmax = 6.7771923820317959 
+            text = "0"
+        intervals [6]:
+            xmin = 6.7771923820317959 
+            xmax = 7.032 
+            text = "[sta]"

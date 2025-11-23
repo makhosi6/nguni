@@ -1,0 +1,60 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 7.2000000000000002 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic"
+        xmin = 0 
+        xmax = 7.2000000000000002 
+        intervals: size = 5
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.97527758127518227 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.97527758127518227 
+            xmax = 1.4979977239873283 
+            text = "[sta]" 
+        intervals [3]:
+            xmin = 1.4979977239873283 
+            xmax = 1.6648233014486513 
+            text = "[ext]" 
+        intervals [4]:
+            xmin = 1.6648233014486513 
+            xmax = 4.0156888922283445 
+            text = "(u) ($)diploma in specialised education(/$) (/u)" 
+        intervals [5]:
+            xmin = 4.0156888922283445 
+            xmax = 7.2000000000000002 
+            text = "0" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 7.2000000000000002 
+        intervals: size = 5
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.97527758127518227 
+            text = "0"
+        intervals [2]:
+            xmin = 0.97527758127518227 
+            xmax = 1.4979977239873283 
+            text = "[sta]"
+        intervals [3]:
+            xmin = 1.4979977239873283 
+            xmax = 1.6648233014486513 
+            text = "[ext]"
+        intervals [4]:
+            xmin = 1.6648233014486513 
+            xmax = 4.0156888922283445 
+            text = "(u) ($)dIpl@Uma in spES@la-\izd Edjuke-\IS@n(/$) (/u)"
+        intervals [5]:
+            xmin = 4.0156888922283445 
+            xmax = 7.2000000000000002 
+            text = "0"

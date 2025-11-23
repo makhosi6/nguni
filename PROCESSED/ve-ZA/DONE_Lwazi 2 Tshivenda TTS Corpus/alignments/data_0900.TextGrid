@@ -1,0 +1,226 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0
+xmax = 3.100000
+tiers? <exists>
+size = 5
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "segment"
+		xmin = 0
+		xmax = 3.100000
+		intervals: size = 23
+		intervals [1]:
+			xmin = 0.000000
+			xmax = 0.185000
+			text = "pau"
+		intervals [2]:
+			xmin = 0.185000
+			xmax = 0.280000
+			text = "β"
+		intervals [3]:
+			xmin = 0.280000
+			xmax = 0.395000
+			text = "a"
+		intervals [4]:
+			xmin = 0.395000
+			xmax = 0.530000
+			text = "n"
+		intervals [5]:
+			xmin = 0.530000
+			xmax = 0.645000
+			text = "a"
+		intervals [6]:
+			xmin = 0.645000
+			xmax = 0.695000
+			text = "n"
+		intervals [7]:
+			xmin = 0.695000
+			xmax = 0.820000
+			text = "g"
+		intervals [8]:
+			xmin = 0.820000
+			xmax = 1.005000
+			text = "ɛ"
+		intervals [9]:
+			xmin = 1.005000
+			xmax = 1.135000
+			text = "n"
+		intervals [10]:
+			xmin = 1.135000
+			xmax = 1.215000
+			text = "g"
+		intervals [11]:
+			xmin = 1.215000
+			xmax = 1.340000
+			text = "a"
+		intervals [12]:
+			xmin = 1.340000
+			xmax = 1.515000
+			text = "u"
+		intervals [13]:
+			xmin = 1.515000
+			xmax = 1.585000
+			text = "pʼ"
+		intervals [14]:
+			xmin = 1.585000
+			xmax = 1.645000
+			text = "u"
+		intervals [15]:
+			xmin = 1.645000
+			xmax = 1.745000
+			text = "tʼ"
+		intervals [16]:
+			xmin = 1.745000
+			xmax = 1.835000
+			text = "ɛ"
+		intervals [17]:
+			xmin = 1.835000
+			xmax = 1.945000
+			text = "dz"
+		intervals [18]:
+			xmin = 1.945000
+			xmax = 2.100000
+			text = "a"
+		intervals [19]:
+			xmin = 2.100000
+			xmax = 2.280000
+			text = "kʰ"
+		intervals [20]:
+			xmin = 2.280000
+			xmax = 2.500000
+			text = "a"
+		intervals [21]:
+			xmin = 2.500000
+			xmax = 2.625000
+			text = "j"
+		intervals [22]:
+			xmin = 2.625000
+			xmax = 2.775000
+			text = "ɔ"
+		intervals [23]:
+			xmin = 2.775000
+			xmax = 3.100000
+			text = "pau"
+	item [2]:
+		class = "IntervalTier"
+		name = "syllable"
+		xmin = 0
+		xmax = 3.100000
+		intervals: size = 12
+		intervals [1]:
+			xmin = 0.000000
+			xmax = 0.185000
+			text = "NONE"
+		intervals [2]:
+			xmin = 0.185000
+			xmax = 0.395000
+			text = "syl"
+		intervals [3]:
+			xmin = 0.395000
+			xmax = 0.695000
+			text = "syl"
+		intervals [4]:
+			xmin = 0.695000
+			xmax = 1.005000
+			text = "syl"
+		intervals [5]:
+			xmin = 1.005000
+			xmax = 1.340000
+			text = "syl"
+		intervals [6]:
+			xmin = 1.340000
+			xmax = 1.515000
+			text = "syl"
+		intervals [7]:
+			xmin = 1.515000
+			xmax = 1.645000
+			text = "syl"
+		intervals [8]:
+			xmin = 1.645000
+			xmax = 1.835000
+			text = "syl"
+		intervals [9]:
+			xmin = 1.835000
+			xmax = 2.100000
+			text = "syl"
+		intervals [10]:
+			xmin = 2.100000
+			xmax = 2.500000
+			text = "syl"
+		intervals [11]:
+			xmin = 2.500000
+			xmax = 2.775000
+			text = "syl"
+		intervals [12]:
+			xmin = 2.775000
+			xmax = 3.100000
+			text = "NONE"
+	item [3]:
+		class = "IntervalTier"
+		name = "word"
+		xmin = 0
+		xmax = 3.100000
+		intervals: size = 8
+		intervals [1]:
+			xmin = 0.000000
+			xmax = 0.185000
+			text = "NONE"
+		intervals [2]:
+			xmin = 0.185000
+			xmax = 0.395000
+			text = "vha"
+		intervals [3]:
+			xmin = 0.395000
+			xmax = 1.005000
+			text = "nange"
+		intervals [4]:
+			xmin = 1.005000
+			xmax = 1.340000
+			text = "nga"
+		intervals [5]:
+			xmin = 1.340000
+			xmax = 1.515000
+			text = "u"
+		intervals [6]:
+			xmin = 1.515000
+			xmax = 2.100000
+			text = "puṱedza"
+		intervals [7]:
+			xmin = 2.100000
+			xmax = 2.775000
+			text = "khayo"
+		intervals [8]:
+			xmin = 2.775000
+			xmax = 3.100000
+			text = "NONE"
+	item [4]:
+		class = "IntervalTier"
+		name = "phrase"
+		xmin = 0
+		xmax = 3.100000
+		intervals: size = 3
+		intervals [1]:
+			xmin = 0.000000
+			xmax = 0.185000
+			text = "NONE"
+		intervals [2]:
+			xmin = 0.185000
+			xmax = 2.775000
+			text = "BB"
+		intervals [3]:
+			xmin = 2.775000
+			xmax = 3.100000
+			text = "NONE"
+	item [5]:
+		class = "IntervalTier"
+		name = "text"
+		xmin = 0
+		xmax = 3.100000
+		intervals: size = 1
+		intervals [1]:
+			xmin = 0.000000
+			xmax = 3.100000
+			text = "Vha nange nga u puṱedza khayo."

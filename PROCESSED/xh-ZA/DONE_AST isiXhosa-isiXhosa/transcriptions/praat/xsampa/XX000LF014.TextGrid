@@ -1,0 +1,60 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 6.7439999999999998 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic"
+        xmin = 0 
+        xmax = 6.7439999999999998 
+        intervals: size = 5
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.19306856831790967 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.19306856831790967 
+            xmax = 0.67862101417743548 
+            text = "[sta]" 
+        intervals [3]:
+            xmin = 0.67862101417743548 
+            xmax = 3.1817161175655628 
+            text = "(u) mhla wesihlanu 0 ku ($)April(/$) (/u)"
+        intervals [4]:
+            xmin = 3.1817161175655628 
+            xmax = 3.4702230340319167 
+            text = "[spk]" 
+        intervals [5]:
+            xmin = 3.4702230340319167 
+            xmax = 6.7439999999999998 
+            text = "[int]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 6.7439999999999998 
+        intervals: size = 5
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.19306856831790967 
+            text = "0"
+        intervals [2]:
+            xmin = 0.19306856831790967 
+            xmax = 0.67862101417743548 
+            text = "[sta]"
+        intervals [3]:
+            xmin = 0.67862101417743548 
+            xmax = 3.1817161175655628 
+            text = "(u) mKa wesKan 0 k_>u ($)e-\IprEl(/$) (/u)"
+        intervals [4]:
+            xmin = 3.1817161175655628 
+            xmax = 3.4702230340319167 
+            text = "[spk]"
+        intervals [5]:
+            xmin = 3.4702230340319167 
+            xmax = 6.7439999999999998 
+            text = "[int]"

@@ -1,0 +1,68 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 16.199999999999999 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 16.199999999999999 
+        intervals: size = 6 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.098507973317479583 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.098507973317479583 
+            xmax = 1.4726279691735902 
+            text = "(u) *igama elipelwayo (/u)" 
+        intervals [3]:
+            xmin = 1.4726279691735902 
+            xmax = 2.2998432647944504 
+            text = "0" 
+        intervals [4]:
+            xmin = 2.2998432647944504 
+            xmax = 3.9097374546132873 
+            text = "[int]" 
+        intervals [5]:
+            xmin = 3.9097374546132873 
+            xmax = 13.131292178402068 
+            text = "(u) [int] E. 0 H. 0 L. 0 O. 0 T. 0 Y. 0 E. 0 N. 0 I. [/int] (/u)" 
+        intervals [6]:
+            xmin = 13.131292178402068 
+            xmax = 16.199999999999999 
+            text = "0" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 16.199999999999999 
+        intervals: size = 6 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.098507973317479583 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.098507973317479583 
+            xmax = 1.4726279691735902 
+            text = "(u) gama elip_>ElwajO (/u)" 
+        intervals [3]:
+            xmin = 1.4726279691735902 
+            xmax = 2.2998432647944504 
+            text = "0" 
+        intervals [4]:
+            xmin = 2.2998432647944504 
+            xmax = 3.9097374546132873 
+            text = "[int]" 
+        intervals [5]:
+            xmin = 3.9097374546132873 
+            xmax = 13.131292178402068 
+            text = "(u) [int] i 0 E-\it-\S 0 El 0 O-\u 0 ti: 0 wa-\i 0 i: 0 En 0 a-\i [/int] (/u)" 
+        intervals [6]:
+            xmin = 13.131292178402068 
+            xmax = 16.199999999999999 
+            text = "0" 

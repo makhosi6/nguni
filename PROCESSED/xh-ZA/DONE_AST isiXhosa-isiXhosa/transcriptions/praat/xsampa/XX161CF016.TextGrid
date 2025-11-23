@@ -1,0 +1,68 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 11.016 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 11.016 
+        intervals: size = 6 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.54782648654254218 
+            text = "(s) ~siva (/s)" 
+        intervals [2]:
+            xmin = 0.54782648654254218 
+            xmax = 0.9888825278397817 
+            text = "[sta]" 
+        intervals [3]:
+            xmin = 0.9888825278397817 
+            xmax = 1.5769572495694346 
+            text = "[int]" 
+        intervals [4]:
+            xmin = 1.5769572495694346 
+            xmax = 3.2671877321231486 
+            text = "(s) ndiyasiva 0 isixhosa (/s)" 
+        intervals [5]:
+            xmin = 3.2671877321231486 
+            xmax = 4.5486005213042073 
+            text = "0" 
+        intervals [6]:
+            xmin = 4.5486005213042073 
+            xmax = 11.016 
+            text = "[int]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 11.016 
+        intervals: size = 6 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.54782648654254218 
+            text = "(s) siv@ (/s)" 
+        intervals [2]:
+            xmin = 0.54782648654254218 
+            xmax = 0.9888825278397817 
+            text = "[sta]" 
+        intervals [3]:
+            xmin = 0.9888825278397817 
+            xmax = 1.5769572495694346 
+            text = "[int]" 
+        intervals [4]:
+            xmin = 1.5769572495694346 
+            xmax = 3.2671877321231486 
+            text = "(s) ndijasiva 0 isi|\|\_hOsa (/s)" 
+        intervals [5]:
+            xmin = 3.2671877321231486 
+            xmax = 4.5486005213042073 
+            text = "0" 
+        intervals [6]:
+            xmin = 4.5486005213042073 
+            xmax = 11.016 
+            text = "[int]" 

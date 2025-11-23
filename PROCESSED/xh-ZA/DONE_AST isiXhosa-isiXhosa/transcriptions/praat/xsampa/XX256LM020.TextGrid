@@ -1,0 +1,68 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 4.2359999999999998 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic"
+        xmin = 0 
+        xmax = 4.2359999999999998 
+        intervals: size = 6
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.6405610965502585 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.6405610965502585 
+            xmax = 0.80291702000627407 
+            text = "[int]" 
+        intervals [3]:
+            xmin = 0.80291702000627407 
+            xmax = 1.5822254525951487 
+            text = "(u) ngomso (/u)" 
+        intervals [4]:
+            xmin = 1.5822254525951487 
+            xmax = 1.8095237454335704 
+            text = "[int]" 
+        intervals [5]:
+            xmin = 1.8095237454335704 
+            xmax = 2.231649146419211 
+            text = "[spk]" 
+        intervals [6]:
+            xmin = 2.231649146419211 
+            xmax = 4.2359999999999998 
+            text = "[int]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 4.2359999999999998 
+        intervals: size = 6
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.6405610965502585 
+            text = "0"
+        intervals [2]:
+            xmin = 0.6405610965502585 
+            xmax = 0.80291702000627407 
+            text = "[int]"
+        intervals [3]:
+            xmin = 0.80291702000627407 
+            xmax = 1.5822254525951487 
+            text = "(u) NgOmsO (/u)"
+        intervals [4]:
+            xmin = 1.5822254525951487 
+            xmax = 1.8095237454335704 
+            text = "[int]"
+        intervals [5]:
+            xmin = 1.8095237454335704 
+            xmax = 2.231649146419211 
+            text = "[spk]"
+        intervals [6]:
+            xmin = 2.231649146419211 
+            xmax = 4.2359999999999998 
+            text = "[int]"

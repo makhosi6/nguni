@@ -1,0 +1,52 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 12.888 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 12.888 
+        intervals: size = 4 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.10889870550452811 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.10889870550452811 
+            xmax = 9.8134544070482708 
+            text = "(u) ($)five 0 seven 0 oh 0 seven 0 one 0 seven 0 five 0 eight 0 two 0 eight 0 oh eight one(/$) (/u)" 
+        intervals [3]:
+            xmin = 9.8134544070482708 
+            xmax = 11.633717743390708 
+            text = "0" 
+        intervals [4]:
+            xmin = 11.633717743390708 
+            xmax = 12.888 
+            text = "[sta]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 12.888 
+        intervals: size = 4 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.10889870550452811 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.10889870550452811 
+            xmax = 9.8134544070482708 
+            text = "(u) ($)fa-\if 0 sEvEn 0 O-\u 0 sEvEn 0 wan 0 sEvEn 0 fa-\if 0 E-\it 0 tu: 0 E-\it 0 O-\u E-\it wan(/$) (/u)" 
+        intervals [3]:
+            xmin = 9.8134544070482708 
+            xmax = 11.633717743390708 
+            text = "0" 
+        intervals [4]:
+            xmin = 11.633717743390708 
+            xmax = 12.888 
+            text = "[sta]" 

@@ -1,0 +1,60 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 5.0279999999999996 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 5.0279999999999996 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.61810505161354323 
+            text = "(u) ~mbari (/u)" 
+        intervals [2]:
+            xmin = 0.61810505161354323 
+            xmax = 1.1938627465550509 
+            text = "0" 
+        intervals [3]:
+            xmin = 1.1938627465550509 
+            xmax = 1.9508367317777187 
+            text = "(s) ngu ($)oh(/$) (/s)" 
+        intervals [4]:
+            xmin = 1.9508367317777187 
+            xmax = 3.2501576316295448 
+            text = "0" 
+        intervals [5]:
+            xmin = 3.2501576316295448 
+            xmax = 5.0279999999999996 
+            text = "[int]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 5.0279999999999996 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.61810505161354323 
+            text = "(u) mba:ra (/u)" 
+        intervals [2]:
+            xmin = 0.61810505161354323 
+            xmax = 1.1938627465550509 
+            text = "0" 
+        intervals [3]:
+            xmin = 1.1938627465550509 
+            xmax = 1.9508367317777187 
+            text = "(s) Ngu ($)O-\u(/$) (/s)" 
+        intervals [4]:
+            xmin = 1.9508367317777187 
+            xmax = 3.2501576316295448 
+            text = "0" 
+        intervals [5]:
+            xmin = 3.2501576316295448 
+            xmax = 5.0279999999999996 
+            text = "[int]" 

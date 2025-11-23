@@ -1,0 +1,76 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 7.548 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 7.548 
+        intervals: size = 7 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.053639310254100916 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.053639310254100916 
+            xmax = 0.79423988301844783 
+            text = "[int]" 
+        intervals [3]:
+            xmin = 0.79423988301844783 
+            xmax = 3.1549042087048034 
+            text = "(s) [int] yi ($)rural area(/$) ($)no(/$) akho zitrato [/int] (/s)" 
+        intervals [4]:
+            xmin = 3.1549042087048034 
+            xmax = 3.664067102480292 
+            text = "[sta]" 
+        intervals [5]:
+            xmin = 3.664067102480292 
+            xmax = 4.3930957912951962 
+            text = "(s) [int] kusezilalini [/int] (/s)" 
+        intervals [6]:
+            xmin = 4.3930957912951962 
+            xmax = 5.1221244801100996 
+            text = "[sta]" 
+        intervals [7]:
+            xmin = 5.1221244801100996 
+            xmax = 7.548 
+            text = "[int]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 7.548 
+        intervals: size = 7 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.053639310254100916 
+            text = "0"
+        intervals [2]:
+            xmin = 0.053639310254100916 
+            xmax = 0.79423988301844783 
+            text = "[int]"
+        intervals [3]:
+            xmin = 0.79423988301844783 
+            xmax = 3.1549042087048034 
+            text = "(s) [int] ji ($)rural Erija(/$) ($)nO(/$) ak_hO ztrat_>O [/int] (/s)"
+        intervals [4]:
+            xmin = 3.1549042087048034 
+            xmax = 3.664067102480292 
+            text = "[sta]"
+        intervals [5]:
+            xmin = 3.664067102480292 
+            xmax = 4.3930957912951962 
+            text = "(s) [int] sezlalin [/int] (/s)"
+        intervals [6]:
+            xmin = 4.3930957912951962 
+            xmax = 5.1221244801100996 
+            text = "[sta]"
+        intervals [7]:
+            xmin = 5.1221244801100996 
+            xmax = 7.548 
+            text = "[int]"

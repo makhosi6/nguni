@@ -1,0 +1,60 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 17.207999999999998 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 17.207999999999998 
+        intervals: size = 5
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.1484027980061235 
+            text = "[int]" 
+        intervals [2]:
+            xmin = 1.1484027980061235 
+            xmax = 3.7384226362857542 
+            text = "(s) [int] ndinakho na 0 ukuyicima le bhukhingi [/int] (/s)"
+        intervals [3]:
+            xmin = 3.7384226362857542 
+            xmax = 6.7968543903500329 
+            text = "[sta]" 
+        intervals [4]:
+            xmin = 6.7968543903500329 
+            xmax = 15.898536657930153 
+            text = "[int]" 
+        intervals [5]:
+            xmin = 15.898536657930153 
+            xmax = 17.207999999999998 
+            text = "[sta]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 17.207999999999998 
+        intervals: size = 5
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.1484027980061235 
+            text = "[int]"
+        intervals [2]:
+            xmin = 1.1484027980061235 
+            xmax = 3.7384226362857542 
+            text = "(s) [int] ndinak_hO na 0 uk_>uji|\ima lE b_0uk_hiNg [/int] (/s)"
+        intervals [3]:
+            xmin = 3.7384226362857542 
+            xmax = 6.7968543903500329 
+            text = "[sta]"
+        intervals [4]:
+            xmin = 6.7968543903500329 
+            xmax = 15.898536657930153 
+            text = "[int]"
+        intervals [5]:
+            xmin = 15.898536657930153 
+            xmax = 17.207999999999998 
+            text = "[sta]"

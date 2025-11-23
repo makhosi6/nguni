@@ -1,0 +1,52 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 19.931999999999999 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic"
+        xmin = 0 
+        xmax = 19.931999999999999 
+        intervals: size = 4
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.2284808119770179 
+            text = "[int]" 
+        intervals [2]:
+            xmin = 1.2284808119770179 
+            xmax = 16.184526224713871 
+            text = "(u) isine isixhenxe 0 isibini 0 isihlanu 0 [int] isithoba [/int] 0 u ($)zero(/$) 0 isinye 0 isithathu 0 isibhozo [spk] isithandathu (/u)"
+        intervals [3]:
+            xmin = 16.184526224713871 
+            xmax = 18.079114067132839 
+            text = "[spk]" 
+        intervals [4]:
+            xmin = 18.079114067132839 
+            xmax = 19.931999999999999 
+            text = "[sta]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 19.931999999999999 
+        intervals: size = 4
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.2284808119770179 
+            text = "[int]"
+        intervals [2]:
+            xmin = 1.2284808119770179 
+            xmax = 16.184526224713871 
+            text = "(u) isinE isi|\|\_hE|\|\~E 0 isib_<ini 0 isiKanu 0 [int] isit_hOb_<a [/int] 0 u ($)zirO(/$) 0 isiJE 0 isit_hat_hu 0 isib_0OzO [spk] isit_handat_h (/u)"
+        intervals [3]:
+            xmin = 16.184526224713871 
+            xmax = 18.079114067132839 
+            text = "[spk]"
+        intervals [4]:
+            xmin = 18.079114067132839 
+            xmax = 19.931999999999999 
+            text = "[sta]"

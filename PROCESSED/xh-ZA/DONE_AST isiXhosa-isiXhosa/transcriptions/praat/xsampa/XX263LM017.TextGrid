@@ -1,0 +1,68 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 5.2560000000000002 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 5.2560000000000002 
+        intervals: size = 6 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.076516130563798163 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.076516130563798163 
+            xmax = 0.32474715137994953 
+            text = "[int]" 
+        intervals [3]:
+            xmin = 0.32474715137994953 
+            xmax = 1.8226222975545419 
+            text = "(s) hayi 0 [spk] andisiva (/s)" 
+        intervals [4]:
+            xmin = 1.8226222975545419 
+            xmax = 2.8254211234681592 
+            text = "0" 
+        intervals [5]:
+            xmin = 2.8254211234681592 
+            xmax = 4.6058300571039688 
+            text = "[int]" 
+        intervals [6]:
+            xmin = 4.6058300571039688 
+            xmax = 5.2560000000000002 
+            text = "0" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 5.2560000000000002 
+        intervals: size = 6 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.076516130563798163 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.076516130563798163 
+            xmax = 0.32474715137994953 
+            text = "[int]" 
+        intervals [3]:
+            xmin = 0.32474715137994953 
+            xmax = 1.8226222975545419 
+            text = "(s) h\aji 0 [spk] andisiva (/s)" 
+        intervals [4]:
+            xmin = 1.8226222975545419 
+            xmax = 2.8254211234681592 
+            text = "0" 
+        intervals [5]:
+            xmin = 2.8254211234681592 
+            xmax = 4.6058300571039688 
+            text = "[int]" 
+        intervals [6]:
+            xmin = 4.6058300571039688 
+            xmax = 5.2560000000000002 
+            text = "0" 

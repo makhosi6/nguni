@@ -1,0 +1,52 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 4.5960000000000001 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic"
+        xmin = 0 
+        xmax = 4.5960000000000001 
+        intervals: size = 4 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.16653808478126675 
+            text = "0"
+        intervals [2]:
+            xmin = 0.16653808478126675 
+            xmax = 0.32155349679717465 
+            text = "[sta]"
+        intervals [3]:
+            xmin = 0.32155349679717465 
+            xmax = 2.5692769710278389 
+            text = "(s) nceda 0 qhubeka noluhlu (/s)"
+        intervals [4]:
+            xmin = 2.5692769710278389 
+            xmax = 4.5960000000000001 
+            text = "0"
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 4.5960000000000001 
+        intervals: size = 4 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.16653808478126675 
+            text = "0"
+        intervals [2]:
+            xmin = 0.16653808478126675 
+            xmax = 0.32155349679717465 
+            text = "[sta]"
+        intervals [3]:
+            xmin = 0.32155349679717465 
+            xmax = 2.5692769710278389 
+            text = "(s) |\~Ed_0a 0 !\_hub_<Ek_>a noluKu (/s)"
+        intervals [4]:
+            xmin = 2.5692769710278389 
+            xmax = 4.5960000000000001 
+            text = "0"

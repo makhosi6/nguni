@@ -1,0 +1,68 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 6.9240000000000004 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 6.9240000000000004 
+        intervals: size = 6 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.66471039476756455 
+            text = "[spk]" 
+        intervals [2]:
+            xmin = 0.66471039476756455 
+            xmax = 2.9272313433600923 
+            text = "(u) [int] igama 0 okanye ibinzana [/int] (/u)" 
+        intervals [3]:
+            xmin = 2.9272313433600923 
+            xmax = 3.1839202985472483 
+            text = "[int]" 
+        intervals [4]:
+            xmin = 3.1839202985472483 
+            xmax = 3.9047925927709599 
+            text = "(u) guqula (/u)" 
+        intervals [5]:
+            xmin = 3.9047925927709599 
+            xmax = 4.8033501899932718 
+            text = "0" 
+        intervals [6]:
+            xmin = 4.8033501899932718 
+            xmax = 6.9240000000000004 
+            text = "[sta]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 6.9240000000000004 
+        intervals: size = 6 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.66471039476756455 
+            text = "[spk]" 
+        intervals [2]:
+            xmin = 0.66471039476756455 
+            xmax = 2.9272313433600923 
+            text = "(u) [int] igama 0 Ok_>aJE ib_<ind-\zana [/int] (/u)" 
+        intervals [3]:
+            xmin = 2.9272313433600923 
+            xmax = 3.1839202985472483 
+            text = "[int]" 
+        intervals [4]:
+            xmin = 3.1839202985472483 
+            xmax = 3.9047925927709599 
+            text = "(u) gu!\ula (/u)" 
+        intervals [5]:
+            xmin = 3.9047925927709599 
+            xmax = 4.8033501899932718 
+            text = "0" 
+        intervals [6]:
+            xmin = 4.8033501899932718 
+            xmax = 6.9240000000000004 
+            text = "[sta]" 

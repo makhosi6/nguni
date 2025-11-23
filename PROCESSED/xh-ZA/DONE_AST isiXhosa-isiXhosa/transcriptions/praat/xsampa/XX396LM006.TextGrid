@@ -1,0 +1,52 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 8.952 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 8.952 
+        intervals: size = 4 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.23658129073525197 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.23658129073525197 
+            xmax = 6.0062666693652034 
+            text = "(s) [sta] ndizalwe ngomhla 0 ka ($)sixty nine(/$) 0 kwinyanga *yesithandathu 0 ngomhla *wesithathu [/sta] (/s)" 
+        intervals [3]:
+            xmin = 6.0062666693652034 
+            xmax = 7.5877221640735497 
+            text = "0" 
+        intervals [4]:
+            xmin = 7.5877221640735497 
+            xmax = 8.952 
+            text = "[sta]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 8.952 
+        intervals: size = 4 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.23658129073525197 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.23658129073525197 
+            xmax = 6.0062666693652034 
+            text = "(s) [sta] ndizalwE NgOmKa 0 k_>a ($)siksti na-\in(/$) 0 kwiJaNga jEst_handat_hu 0 NgOmKa west_hat_hu [/sta] (/s)" 
+        intervals [3]:
+            xmin = 6.0062666693652034 
+            xmax = 7.5877221640735497 
+            text = "0" 
+        intervals [4]:
+            xmin = 7.5877221640735497 
+            xmax = 8.952 
+            text = "[sta]" 

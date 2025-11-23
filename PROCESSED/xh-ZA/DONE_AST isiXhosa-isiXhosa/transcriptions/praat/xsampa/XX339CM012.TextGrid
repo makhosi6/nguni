@@ -1,0 +1,60 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 8.4480000000000004 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic"
+        xmin = 0 
+        xmax = 8.4480000000000004 
+        intervals: size = 5
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.11341777135299728 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.11341777135299728 
+            xmax = 0.59624806487661353 
+            text = "[int]" 
+        intervals [3]:
+            xmin = 0.59624806487661353 
+            xmax = 6.3902115871600085 
+            text = "(s) ndihlala 0 eMthatha e ($)Northcrest(/$) [spk] 0 [spk] 0 kwa ($)number sixteen(/$) (/s)" 
+        intervals [4]:
+            xmin = 6.3902115871600085 
+            xmax = 7.162491288796585 
+            text = "0" 
+        intervals [5]:
+            xmin = 7.162491288796585 
+            xmax = 8.4480000000000004 
+            text = "[int]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 8.4480000000000004 
+        intervals: size = 5
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.11341777135299728 
+            text = "0"
+        intervals [2]:
+            xmin = 0.11341777135299728 
+            xmax = 0.59624806487661353 
+            text = "[int]"
+        intervals [3]:
+            xmin = 0.59624806487661353 
+            xmax = 6.3902115871600085 
+            text = "(s) ndiKala 0 Emt_hat_ha E ($)nOTkrEst(/$) [spk] 0 [spk] 0 k_>wa ($)namba sikstin(/$) (/s)"
+        intervals [4]:
+            xmin = 6.3902115871600085 
+            xmax = 7.162491288796585 
+            text = "0"
+        intervals [5]:
+            xmin = 7.162491288796585 
+            xmax = 8.4480000000000004 
+            text = "[int]"

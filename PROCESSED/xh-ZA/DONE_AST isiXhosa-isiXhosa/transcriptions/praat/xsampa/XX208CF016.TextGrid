@@ -1,0 +1,68 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 4.5 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 4.5 
+        intervals: size = 6 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.10020946549350063 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.10020946549350063 
+            xmax = 1.3756054004525309 
+            text = "(s) [int] ewe ndiyasiva [/int] (/s)" 
+        intervals [3]:
+            xmin = 1.3756054004525309 
+            xmax = 2.1871692503319182 
+            text = "0" 
+        intervals [4]:
+            xmin = 2.1871692503319182 
+            xmax = 2.5275024777006938 
+            text = "[int]" 
+        intervals [5]:
+            xmin = 2.5275024777006938 
+            xmax = 3.2709996821063259 
+            text = "0" 
+        intervals [6]:
+            xmin = 3.2709996821063259 
+            xmax = 4.5 
+            text = "[int]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 4.5 
+        intervals: size = 6 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.10020946549350063 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.10020946549350063 
+            xmax = 1.3756054004525309 
+            text = "(s) [int] EwE ndijasiva [/int] (/s)" 
+        intervals [3]:
+            xmin = 1.3756054004525309 
+            xmax = 2.1871692503319182 
+            text = "0" 
+        intervals [4]:
+            xmin = 2.1871692503319182 
+            xmax = 2.5275024777006938 
+            text = "[int]" 
+        intervals [5]:
+            xmin = 2.5275024777006938 
+            xmax = 3.2709996821063259 
+            text = "0" 
+        intervals [6]:
+            xmin = 3.2709996821063259 
+            xmax = 4.5 
+            text = "[int]" 

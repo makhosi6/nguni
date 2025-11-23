@@ -1,0 +1,68 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 4.1639999999999997 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic"
+        xmin = 0 
+        xmax = 4.1639999999999997 
+        intervals: size = 6
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.27856144061364713 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.27856144061364713 
+            xmax = 0.63605722583713653 
+            text = "[sta]" 
+        intervals [3]:
+            xmin = 0.63605722583713653 
+            xmax = 1.6000190752790453 
+            text = "(u) ($)Umtata(/$) (/u)" 
+        intervals [4]:
+            xmin = 1.6000190752790453 
+            xmax = 2.4426877118772703 
+            text = "[spk]" 
+        intervals [5]:
+            xmin = 2.4426877118772703 
+            xmax = 3.8918224126939149 
+            text = "0" 
+        intervals [6]:
+            xmin = 3.8918224126939149 
+            xmax = 4.1639999999999997 
+            text = "[sta]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 4.1639999999999997 
+        intervals: size = 6
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.27856144061364713 
+            text = "0"
+        intervals [2]:
+            xmin = 0.27856144061364713 
+            xmax = 0.63605722583713653 
+            text = "[sta]"
+        intervals [3]:
+            xmin = 0.63605722583713653 
+            xmax = 1.6000190752790453 
+            text = "(u) ($)Vmtata(/$) (/u)"
+        intervals [4]:
+            xmin = 1.6000190752790453 
+            xmax = 2.4426877118772703 
+            text = "[spk]"
+        intervals [5]:
+            xmin = 2.4426877118772703 
+            xmax = 3.8918224126939149 
+            text = "0"
+        intervals [6]:
+            xmin = 3.8918224126939149 
+            xmax = 4.1639999999999997 
+            text = "[sta]"

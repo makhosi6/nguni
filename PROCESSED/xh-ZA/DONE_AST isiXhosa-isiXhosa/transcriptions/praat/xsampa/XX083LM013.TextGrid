@@ -1,0 +1,68 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 6.1440000000000001 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic"
+        xmin = 0 
+        xmax = 6.1440000000000001 
+        intervals: size = 6
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.16611412784990742 
+            text = "0"
+        intervals [2]:
+            xmin = 0.16611412784990742 
+            xmax = 0.53347085074732592 
+            text = "[sta]"
+        intervals [3]:
+            xmin = 0.53347085074732592 
+            xmax = 1.5507663910786389 
+            text = "(u) iMabandla (/u)"
+        intervals [4]:
+            xmin = 1.5507663910786389 
+            xmax = 2.4267708841417139 
+            text = "0"
+        intervals [5]:
+            xmin = 2.4267708841417139 
+            xmax = 4.5461365931652828 
+            text = "[int]"
+        intervals [6]:
+            xmin = 4.5461365931652828 
+            xmax = 6.1440000000000001 
+            text = "[sta]"
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 6.1440000000000001 
+        intervals: size = 6
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.16611412784990742 
+            text = "0"
+        intervals [2]:
+            xmin = 0.16611412784990742 
+            xmax = 0.53347085074732592 
+            text = "[sta]"
+        intervals [3]:
+            xmin = 0.53347085074732592 
+            xmax = 1.5507663910786389 
+            text = "(u) imab_<ad-\K\a (/u)"
+        intervals [4]:
+            xmin = 1.5507663910786389 
+            xmax = 2.4267708841417139 
+            text = "0"
+        intervals [5]:
+            xmin = 2.4267708841417139 
+            xmax = 4.5461365931652828 
+            text = "[int]"
+        intervals [6]:
+            xmin = 4.5461365931652828 
+            xmax = 6.1440000000000001 
+            text = "[sta]"

@@ -1,0 +1,60 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 95.712000000000003 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 95.712000000000003 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.4950820699957466 
+            text = "[int]" 
+        intervals [2]:
+            xmin = 1.4950820699957466 
+            xmax = 12.58535807891195 
+            text = "(u) [sta] ($)number nine(/$) 0 Gqunube ($)street(/$) 0 Ikhwezi ($)extension(/$) 0 uMthatha 0 ($)five one hundred(/$) [/sta] (/u)" 
+        intervals [3]:
+            xmin = 12.58535807891195 
+            xmax = 24.405605197381071 
+            text = "[int]" 
+        intervals [4]:
+            xmin = 24.405605197381071 
+            xmax = 30.848852818791947 
+            text = "(u) [sta] ($)nine(/$) 0 Gqunube ($)street(/$) 0 Ikhwezi ($)extension(/$) 0 uMthatha 0 ($)fifty one hundred(/$) [/sta] (/u)" 
+        intervals [5]:
+            xmin = 30.848852818791947 
+            xmax = 95.712000000000003 
+            text = "[int]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 95.712000000000003 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.4950820699957466 
+            text = "[int]" 
+        intervals [2]:
+            xmin = 1.4950820699957466 
+            xmax = 12.58535807891195 
+            text = "(u) [sta] ($)namba na-\in(/$) 0 !\_vunub_<E ($)strit(/$) 0 ik_hwezi ($)Ekst{nSin(/$) 0 umt_hat_ha 0 ($)fa-\if wan handrEt(/$) [/sta] (/u)" 
+        intervals [3]:
+            xmin = 12.58535807891195 
+            xmax = 24.405605197381071 
+            text = "[int]" 
+        intervals [4]:
+            xmin = 24.405605197381071 
+            xmax = 30.848852818791947 
+            text = "(u) [sta] ($)na-\in(/$) 0 !\_vunub_<E ($)strit(/$) 0 ik_hwezi ($)Ekst{nSin(/$) 0 umt_hat_ha 0 ($)fifti wan handrEt(/$) [/sta] (/u)" 
+        intervals [5]:
+            xmin = 30.848852818791947 
+            xmax = 95.712000000000003 
+            text = "[int]" 

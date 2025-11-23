@@ -1,0 +1,60 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 12.444000000000001 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic"
+        xmin = 0 
+        xmax = 12.444000000000001 
+        intervals: size = 5
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.2651879938212469 
+            text = "(u) [int] ~ma elipelwayo [/int] (/u)" 
+        intervals [2]:
+            xmin = 1.2651879938212469 
+            xmax = 1.6368318155868935 
+            text = "[sta]" 
+        intervals [3]:
+            xmin = 1.6368318155868935 
+            xmax = 7.1635368422818795 
+            text = "(u) [sta] K. 0 H. 0 A. W. U. 0 P. H. I. N. D. E. [/sta] (/u)" 
+        intervals [4]:
+            xmin = 7.1635368422818795 
+            xmax = 10.886563869296392 
+            text = "[int]" 
+        intervals [5]:
+            xmin = 10.886563869296392 
+            xmax = 12.444000000000001 
+            text = "[sta]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 12.444000000000001 
+        intervals: size = 5
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.2651879938212469 
+            text = "(u) [int] ma elip_>ElwajO [/int] (/u)"
+        intervals [2]:
+            xmin = 1.2651879938212469 
+            xmax = 1.6368318155868935 
+            text = "[sta]"
+        intervals [3]:
+            xmin = 1.6368318155868935 
+            xmax = 7.1635368422818795 
+            text = "(u) [sta] kE-\I 0 E-\It-\S 0 E-\I dab@lju ju 0 pi E-\It-\S a-\i En di i [/sta] (/u)"
+        intervals [4]:
+            xmin = 7.1635368422818795 
+            xmax = 10.886563869296392 
+            text = "[int]"
+        intervals [5]:
+            xmin = 10.886563869296392 
+            xmax = 12.444000000000001 
+            text = "[sta]"

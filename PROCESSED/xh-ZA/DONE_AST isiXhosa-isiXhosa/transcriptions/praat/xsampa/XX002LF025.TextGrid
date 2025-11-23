@@ -1,0 +1,60 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 7.2599999999999998 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 7.2599999999999998 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.47218660455604561 
+            text = "[spk]" 
+        intervals [2]:
+            xmin = 0.47218660455604561 
+            xmax = 1.5991955545242813 
+            text = "(u) [sta] isivakalisi [/sta] (/u)" 
+        intervals [3]:
+            xmin = 1.5991955545242813 
+            xmax = 1.8865778113426623 
+            text = "[spk]" 
+        intervals [4]:
+            xmin = 1.8865778113426623 
+            xmax = 5.1979002738252538 
+            text = "(s) [sta] umfanekiso ujinga ngaphezu kocango [/sta] (/s)" 
+        intervals [5]:
+            xmin = 5.1979002738252538 
+            xmax = 7.2599999999999998 
+            text = "0" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 7.2599999999999998 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.47218660455604561 
+            text = "[spk]" 
+        intervals [2]:
+            xmin = 0.47218660455604561 
+            xmax = 1.5991955545242813 
+            text = "(u) [sta] isivak_>alisi [/sta] (/u)" 
+        intervals [3]:
+            xmin = 1.5991955545242813 
+            xmax = 1.8865778113426623 
+            text = "[spk]" 
+        intervals [4]:
+            xmin = 1.8865778113426623 
+            xmax = 5.1979002738252538 
+            text = "(s) [sta] umfanek_>isO ud-\ZiNga Ngap_hezu k_>O|\aNgO [/sta] (/s)" 
+        intervals [5]:
+            xmin = 5.1979002738252538 
+            xmax = 7.2599999999999998 
+            text = "0" 

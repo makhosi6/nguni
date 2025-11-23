@@ -1,0 +1,68 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 8.8200000000000003 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 8.8200000000000003 
+        intervals: size = 6 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.82663312879217477 
+            text = "[int]" 
+        intervals [2]:
+            xmin = 0.82663312879217477 
+            xmax = 4.2656997412607458 
+            text = "(s) ndithengisa iziyobisi nangona kungalunganga oku (/s)" 
+        intervals [3]:
+            xmin = 4.2656997412607458 
+            xmax = 5.3922792758430349 
+            text = "0" 
+        intervals [4]:
+            xmin = 5.3922792758430349 
+            xmax = 6.741323189440628 
+            text = "[int]" 
+        intervals [5]:
+            xmin = 6.741323189440628 
+            xmax = 8.2029195296451096 
+            text = "0" 
+        intervals [6]:
+            xmin = 8.2029195296451096 
+            xmax = 8.8200000000000003 
+            text = "[sta]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 8.8200000000000003 
+        intervals: size = 6 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.82663312879217477 
+            text = "[int]" 
+        intervals [2]:
+            xmin = 0.82663312879217477 
+            xmax = 4.2656997412607458 
+            text = "(s) ndit_heNgisa izijob_<isi naNgOna k_>uNgaluNgaNga ok_>u (/s)" 
+        intervals [3]:
+            xmin = 4.2656997412607458 
+            xmax = 5.3922792758430349 
+            text = "0" 
+        intervals [4]:
+            xmin = 5.3922792758430349 
+            xmax = 6.741323189440628 
+            text = "[int]" 
+        intervals [5]:
+            xmin = 6.741323189440628 
+            xmax = 8.2029195296451096 
+            text = "0" 
+        intervals [6]:
+            xmin = 8.2029195296451096 
+            xmax = 8.8200000000000003 
+            text = "[sta]" 

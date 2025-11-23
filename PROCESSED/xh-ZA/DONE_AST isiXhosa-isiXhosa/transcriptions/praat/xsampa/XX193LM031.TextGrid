@@ -1,0 +1,60 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 11.964 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic"
+        xmin = 0 
+        xmax = 11.964 
+        intervals: size = 5
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.65362577034780767 
+            text = "[int]" 
+        intervals [2]:
+            xmin = 0.65362577034780767 
+            xmax = 2.2127025673200502 
+            text = "(u) [int] isambuku semali [/int] (/u)"
+        intervals [3]:
+            xmin = 2.2127025673200502 
+            xmax = 4.0285684837936033 
+            text = "[int]" 
+        intervals [4]:
+            xmin = 4.0285684837936033 
+            xmax = 8.7791671945678473 
+            text = "(s) [int] [fil]eh 0 ($)one thousand 0 seven hundred and thirty 0 three 0 sixty one cents(/$) [/int] (/s)"
+        intervals [5]:
+            xmin = 8.7791671945678473 
+            xmax = 11.964 
+            text = "[int]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 11.964 
+        intervals: size = 5
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.65362577034780767 
+            text = "[int]"
+        intervals [2]:
+            xmin = 0.65362577034780767 
+            xmax = 2.2127025673200502 
+            text = "(u) [int] isambuk_>u sEmali [/int] (/u)"
+        intervals [3]:
+            xmin = 2.2127025673200502 
+            xmax = 4.0285684837936033 
+            text = "[int]"
+        intervals [4]:
+            xmin = 4.0285684837936033 
+            xmax = 8.7791671945678473 
+            text = "(s) [int] E 0 ($)wan TaUz{nd 0 sEvEn handr@t {n Teti 0 tri 0 siksti wan sEns(/$) [/int] (/s)"
+        intervals [5]:
+            xmin = 8.7791671945678473 
+            xmax = 11.964 
+            text = "[int]"

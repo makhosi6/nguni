@@ -1,0 +1,60 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 3.3839999999999999 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic"
+        xmin = 0 
+        xmax = 3.3839999999999999 
+        intervals: size = 5
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.21081725174308585 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.21081725174308585 
+            xmax = 0.32381478753909171 
+            text = "[int]" 
+        intervals [3]:
+            xmin = 0.32381478753909171 
+            xmax = 1.3729361155243425 
+            text = "(s) [int] ndithetha ndiseKapa [/int] (/s)"
+        intervals [4]:
+            xmin = 1.3729361155243425 
+            xmax = 2.0836963134619864 
+            text = "[sta]" 
+        intervals [5]:
+            xmin = 2.0836963134619864 
+            xmax = 3.3839999999999999 
+            text = "[int]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 3.3839999999999999 
+        intervals: size = 5
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.21081725174308585 
+            text = "0"
+        intervals [2]:
+            xmin = 0.21081725174308585 
+            xmax = 0.32381478753909171 
+            text = "[int]"
+        intervals [3]:
+            xmin = 0.32381478753909171 
+            xmax = 1.3729361155243425 
+            text = "(s) [int] t_hEt_ha ndisEk_>a:p_>a [/int] (/s)"
+        intervals [4]:
+            xmin = 1.3729361155243425 
+            xmax = 2.0836963134619864 
+            text = "[sta]"
+        intervals [5]:
+            xmin = 2.0836963134619864 
+            xmax = 3.3839999999999999 
+            text = "[int]"

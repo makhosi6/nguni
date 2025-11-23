@@ -1,0 +1,68 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 6.3959999999999999 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 6.3959999999999999 
+        intervals: size = 6 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.65462932000879981 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.65462932000879981 
+            xmax = 1.8219238057683538 
+            text = "(u) isivakalisi (/u)" 
+        intervals [3]:
+            xmin = 1.8219238057683538 
+            xmax = 1.888524556567637 
+            text = "0" 
+        intervals [4]:
+            xmin = 1.888524556567637 
+            xmax = 3.4396162939963904 
+            text = "(s) umntwana uyakhohlela (/s)" 
+        intervals [5]:
+            xmin = 3.4396162939963904 
+            xmax = 5.9009484392014517 
+            text = "0" 
+        intervals [6]:
+            xmin = 5.9009484392014517 
+            xmax = 6.3959999999999999 
+            text = "[sta]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 6.3959999999999999 
+        intervals: size = 6 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.65462932000879981 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.65462932000879981 
+            xmax = 1.8219238057683538 
+            text = "(u) isivak_>alisi (/u)" 
+        intervals [3]:
+            xmin = 1.8219238057683538 
+            xmax = 1.888524556567637 
+            text = "0" 
+        intervals [4]:
+            xmin = 1.888524556567637 
+            xmax = 3.4396162939963904 
+            text = "(s) umnt_>wana ujak_hOKEla (/s)" 
+        intervals [5]:
+            xmin = 3.4396162939963904 
+            xmax = 5.9009484392014517 
+            text = "0" 
+        intervals [6]:
+            xmin = 5.9009484392014517 
+            xmax = 6.3959999999999999 
+            text = "[sta]" 

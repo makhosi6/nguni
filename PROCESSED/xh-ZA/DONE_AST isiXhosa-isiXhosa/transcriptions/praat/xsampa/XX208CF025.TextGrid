@@ -1,0 +1,76 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 7.8840000000000003 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 7.8840000000000003 
+        intervals: size = 7 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.1862218865707535 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.1862218865707535 
+            xmax = 0.45936060109344623 
+            text = "[sta]" 
+        intervals [3]:
+            xmin = 0.45936060109344623 
+            xmax = 1.5666596724899007 
+            text = "(u) [sta] ibinzana [/sta] (/u)" 
+        intervals [4]:
+            xmin = 1.5666596724899007 
+            xmax = 1.7195529971552785 
+            text = "0" 
+        intervals [5]:
+            xmin = 1.7195529971552785 
+            xmax = 5.8161039231305853 
+            text = "(s) [sta] sendive ngokwaneleyo 0 ungayeka ngoku [/sta] (/s)" 
+        intervals [6]:
+            xmin = 5.8161039231305853 
+            xmax = 6.6980695907236756 
+            text = "0" 
+        intervals [7]:
+            xmin = 6.6980695907236756 
+            xmax = 7.8840000000000003 
+            text = "[int]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 7.8840000000000003 
+        intervals: size = 7 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.1862218865707535 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.1862218865707535 
+            xmax = 0.45936060109344623 
+            text = "[sta]" 
+        intervals [3]:
+            xmin = 0.45936060109344623 
+            xmax = 1.5666596724899007 
+            text = "(u) [sta] ib_<ind-\zana [/sta] (/u)" 
+        intervals [4]:
+            xmin = 1.5666596724899007 
+            xmax = 1.7195529971552785 
+            text = "0" 
+        intervals [5]:
+            xmin = 1.7195529971552785 
+            xmax = 5.8161039231305853 
+            text = "(s) [sta] sendivE NgOk_>wanElEjO 0 uNgajEk_>a Ngok_>u [/sta] (/s)" 
+        intervals [6]:
+            xmin = 5.8161039231305853 
+            xmax = 6.6980695907236756 
+            text = "0" 
+        intervals [7]:
+            xmin = 6.6980695907236756 
+            xmax = 7.8840000000000003 
+            text = "[int]" 

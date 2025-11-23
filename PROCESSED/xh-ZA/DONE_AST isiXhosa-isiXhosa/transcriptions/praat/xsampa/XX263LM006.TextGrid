@@ -1,0 +1,60 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 10.247999999999999 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 10.247999999999999 
+        intervals: size = 5
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.11996047318835444 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.11996047318835444 
+            xmax = 1.2335388271594576 
+            text = "[int]" 
+        intervals [3]:
+            xmin = 1.2335388271594576 
+            xmax = 5.1318556350499396 
+            text = "(u) ngoka ($)nineteen sixty three oh [int] eight 0 eighteen [/int](/$) (/u)" 
+        intervals [4]:
+            xmin = 5.1318556350499396 
+            xmax = 7.5985250407310332 
+            text = "0" 
+        intervals [5]:
+            xmin = 7.5985250407310332 
+            xmax = 10.247999999999999 
+            text = "[int]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 10.247999999999999 
+        intervals: size = 5
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.11996047318835444 
+            text = "0"
+        intervals [2]:
+            xmin = 0.11996047318835444 
+            xmax = 1.2335388271594576 
+            text = "[int]"
+        intervals [3]:
+            xmin = 1.2335388271594576 
+            xmax = 5.1318556350499396 
+            text = "(u) NgOk_>a ($)na-\intin siksti tri @-\U [int] E-\It 0 E-\Itin [/int](/$) (/u)"
+        intervals [4]:
+            xmin = 5.1318556350499396 
+            xmax = 7.5985250407310332 
+            text = "0"
+        intervals [5]:
+            xmin = 7.5985250407310332 
+            xmax = 10.247999999999999 
+            text = "[int]"

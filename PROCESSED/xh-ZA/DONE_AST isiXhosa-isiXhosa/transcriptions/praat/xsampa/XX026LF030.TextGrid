@@ -1,0 +1,60 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 7.2720000000000002 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 7.2720000000000002 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.3266431665612637 
+            text = "(s) ~a iyana namhlanje (/s)" 
+        intervals [2]:
+            xmin = 1.3266431665612637 
+            xmax = 1.4163347622786215 
+            text = "[spk]" 
+        intervals [3]:
+            xmin = 1.4163347622786215 
+            xmax = 3.8276331793130947 
+            text = "0" 
+        intervals [4]:
+            xmin = 3.8276331793130947 
+            xmax = 4.9459777370748546 
+            text = "[int]" 
+        intervals [5]:
+            xmin = 4.9459777370748546 
+            xmax = 7.2720000000000002 
+            text = "[sta]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 7.2720000000000002 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.3266431665612637 
+            text = "(s) a ijana namKand-\ZE (/s)" 
+        intervals [2]:
+            xmin = 1.3266431665612637 
+            xmax = 1.4163347622786215 
+            text = "[spk]" 
+        intervals [3]:
+            xmin = 1.4163347622786215 
+            xmax = 3.8276331793130947 
+            text = "0" 
+        intervals [4]:
+            xmin = 3.8276331793130947 
+            xmax = 4.9459777370748546 
+            text = "[int]" 
+        intervals [5]:
+            xmin = 4.9459777370748546 
+            xmax = 7.2720000000000002 
+            text = "[sta]" 

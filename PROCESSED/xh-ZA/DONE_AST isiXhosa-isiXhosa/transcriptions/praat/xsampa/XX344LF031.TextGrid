@@ -1,0 +1,92 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 31.751999999999999 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 31.751999999999999 
+        intervals: size = 9 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.39716552484846029 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.39716552484846029 
+            xmax = 1.0056973464841252 
+            text = "[spk]" 
+        intervals [3]:
+            xmin = 1.0056973464841252 
+            xmax = 3.2487426507048243 
+            text = "(s) ungandijongela ukuba ezo *ntsu+ (/s)" 
+        intervals [4]:
+            xmin = 3.2487426507048243 
+            xmax = 4.0306267013428592 
+            text = "0" 
+        intervals [5]:
+            xmin = 4.0306267013428592 
+            xmax = 4.8107221111868075 
+            text = "[int]" 
+        intervals [6]:
+            xmin = 4.8107221111868075 
+            xmax = 8.1092757715261552 
+            text = "(s) [int] ungandijongela ukuba ezo [/int] [sta] ntsuku ziza kufumaneka na [/sta] (/s)" 
+        intervals [7]:
+            xmin = 8.1092757715261552 
+            xmax = 8.4058710077848264 
+            text = "0" 
+        intervals [8]:
+            xmin = 8.4058710077848264 
+            xmax = 10.611655740240227 
+            text = "(s) [sta] ungandijongela ukuba ezo ntsuku ziza;kufumaneka na [/sta] (/s)" 
+        intervals [9]:
+            xmin = 10.611655740240227 
+            xmax = 31.751999999999999 
+            text = "[int]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 31.751999999999999 
+        intervals: size = 9 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.39716552484846029 
+            text = "0"
+        intervals [2]:
+            xmin = 0.39716552484846029 
+            xmax = 1.0056973464841252 
+            text = "[spk]"
+        intervals [3]:
+            xmin = 1.0056973464841252 
+            xmax = 3.2487426507048243 
+            text = "(s) uNgandid-\ZONgEla uk_>ub_<a EzO nt-\s_>u (/s)"
+        intervals [4]:
+            xmin = 3.2487426507048243 
+            xmax = 4.0306267013428592 
+            text = "0"
+        intervals [5]:
+            xmin = 4.0306267013428592 
+            xmax = 4.8107221111868075 
+            text = "[int]"
+        intervals [6]:
+            xmin = 4.8107221111868075 
+            xmax = 8.1092757715261552 
+            text = "(s) [int] uNgandid-\zhONgEla uk_>ub_<a EzO [/int] [sta] nt-\s_>uk_>u ziza k_>ufumanEk_>a na [/sta] (/s)"
+        intervals [7]:
+            xmin = 8.1092757715261552 
+            xmax = 8.4058710077848264 
+            text = "0"
+        intervals [8]:
+            xmin = 8.4058710077848264 
+            xmax = 10.611655740240227 
+            text = "(s) [sta] uNgandid-\ZONgEla uk_>ub_<a EzO nt-\s_>uk_>u zofumanEk_>a na [/sta] (/s)"
+        intervals [9]:
+            xmin = 10.611655740240227 
+            xmax = 31.751999999999999 
+            text = "[int]"

@@ -1,0 +1,68 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 8.5440000000000005 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 8.5440000000000005 
+        intervals: size = 6 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.10001388396968193 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.10001388396968193 
+            xmax = 0.9907361944565316 
+            text = "[sta]" 
+        intervals [3]:
+            xmin = 0.9907361944565316 
+            xmax = 6.5446517774921826 
+            text = "(s) ndizalwe ngomhla weshumi 0 elinesibini 0 kwinyanga yesine (/s)" 
+        intervals [4]:
+            xmin = 6.5446517774921826 
+            xmax = 7.4484729454861922 
+            text = "[int]" 
+        intervals [5]:
+            xmin = 7.4484729454861922 
+            xmax = 8.2213055384086058 
+            text = "[spk]" 
+        intervals [6]:
+            xmin = 8.2213055384086058 
+            xmax = 8.5440000000000005 
+            text = "0" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 8.5440000000000005 
+        intervals: size = 6 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.10001388396968193 
+            text = "0"
+        intervals [2]:
+            xmin = 0.10001388396968193 
+            xmax = 0.9907361944565316 
+            text = "[sta]"
+        intervals [3]:
+            xmin = 0.9907361944565316 
+            xmax = 6.5446517774921826 
+            text = "(s) ndizalwE NgOmKa weSumi 0 Elinesibini 0 kwinyanga yesine (/s)"
+        intervals [4]:
+            xmin = 6.5446517774921826 
+            xmax = 7.4484729454861922 
+            text = "[int]"
+        intervals [5]:
+            xmin = 7.4484729454861922 
+            xmax = 8.2213055384086058 
+            text = "[spk]"
+        intervals [6]:
+            xmin = 8.2213055384086058 
+            xmax = 8.5440000000000005 
+            text = "0"

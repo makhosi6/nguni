@@ -1,0 +1,60 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 8.0280000000000005 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic"
+        xmin = 0 
+        xmax = 8.0280000000000005 
+        intervals: size = 5
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.11765461842294164 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.11765461842294164 
+            xmax = 0.34914935709792616 
+            text = "[int]" 
+        intervals [3]:
+            xmin = 0.34914935709792616 
+            xmax = 2.6893507153395877 
+            text = "(s) libanga leshumi ($)matric(/$) (/s)" 
+        intervals [4]:
+            xmin = 2.6893507153395877 
+            xmax = 4.7709281514688477 
+            text = "0" 
+        intervals [5]:
+            xmin = 4.7709281514688477 
+            xmax = 8.0280000000000005 
+            text = "[int]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 8.0280000000000005 
+        intervals: size = 5
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.11765461842294164 
+            text = "0"
+        intervals [2]:
+            xmin = 0.11765461842294164 
+            xmax = 0.34914935709792616 
+            text = "[int]"
+        intervals [3]:
+            xmin = 0.34914935709792616 
+            xmax = 2.6893507153395877 
+            text = "(s) lib_<aNga leSumi ($)matrik(/$) (/s)"
+        intervals [4]:
+            xmin = 2.6893507153395877 
+            xmax = 4.7709281514688477 
+            text = "0"
+        intervals [5]:
+            xmin = 4.7709281514688477 
+            xmax = 8.0280000000000005 
+            text = "[int]"

@@ -1,0 +1,198 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0
+xmax = 2.170000
+tiers? <exists>
+size = 3
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "segment"
+		xmin = 0
+		xmax = 2.170000
+		intervals: size = 26
+		intervals [1]:
+			xmin = 0.000000
+			xmax = 0.095000
+			text = "#"
+		intervals [2]:
+			xmin = 0.095000
+			xmax = 0.120000
+			text = "#_cl"
+		intervals [3]:
+			xmin = 0.120000
+			xmax = 0.160000
+			text = "k_e"
+		intervals [4]:
+			xmin = 0.160000
+			xmax = 0.220000
+			text = "E"
+		intervals [5]:
+			xmin = 0.220000
+			xmax = 0.315000
+			text = "n"
+		intervals [6]:
+			xmin = 0.315000
+			xmax = 0.405000
+			text = "n"
+		intervals [7]:
+			xmin = 0.405000
+			xmax = 0.525000
+			text = "a"
+		intervals [8]:
+			xmin = 0.525000
+			xmax = 0.560000
+			text = "m"
+		intervals [9]:
+			xmin = 0.560000
+			xmax = 0.700000
+			text = "m"
+		intervals [10]:
+			xmin = 0.700000
+			xmax = 0.770000
+			text = "O"
+		intervals [11]:
+			xmin = 0.770000
+			xmax = 0.855000
+			text = "n"
+		intervals [12]:
+			xmin = 0.855000
+			xmax = 0.960000
+			text = "a"
+		intervals [13]:
+			xmin = 0.960000
+			xmax = 1.015000
+			text = "#_cl"
+		intervals [14]:
+			xmin = 1.015000
+			xmax = 1.050000
+			text = "d"
+		intervals [15]:
+			xmin = 1.050000
+			xmax = 1.105000
+			text = "i"
+		intervals [16]:
+			xmin = 1.105000
+			xmax = 1.170000
+			text = "l"
+		intervals [17]:
+			xmin = 1.170000
+			xmax = 1.295000
+			text = "O"
+		intervals [18]:
+			xmin = 1.295000
+			xmax = 1.320000
+			text = "#_cl"
+		intervals [19]:
+			xmin = 1.320000
+			xmax = 1.375000
+			text = "k_h"
+		intervals [20]:
+			xmin = 1.375000
+			xmax = 1.420000
+			text = "u"
+		intervals [21]:
+			xmin = 1.420000
+			xmax = 1.480000
+			text = "#_cl"
+		intervals [22]:
+			xmin = 1.480000
+			xmax = 1.540000
+			text = "ts_e"
+		intervals [23]:
+			xmin = 1.540000
+			xmax = 1.740000
+			text = "a"
+		intervals [24]:
+			xmin = 1.740000
+			xmax = 1.835000
+			text = "n"
+		intervals [25]:
+			xmin = 1.835000
+			xmax = 2.000000
+			text = "a"
+		intervals [26]:
+			xmin = 2.000000
+			xmax = 2.170000
+			text = "#"
+	item [2]:
+		class = "IntervalTier"
+		name = "syllable"
+		xmin = 0
+		xmax = 2.170000
+		intervals: size = 11
+		intervals [1]:
+			xmin = 0.000000
+			xmax = 0.095000
+			text = "NONE"
+		intervals [2]:
+			xmin = 0.095000
+			xmax = 0.220000
+			text = "syl"
+		intervals [3]:
+			xmin = 0.220000
+			xmax = 0.525000
+			text = "syl"
+		intervals [4]:
+			xmin = 0.525000
+			xmax = 0.770000
+			text = "syl"
+		intervals [5]:
+			xmin = 0.770000
+			xmax = 0.960000
+			text = "syl"
+		intervals [6]:
+			xmin = 0.960000
+			xmax = 1.105000
+			text = "syl"
+		intervals [7]:
+			xmin = 1.105000
+			xmax = 1.295000
+			text = "syl"
+		intervals [8]:
+			xmin = 1.295000
+			xmax = 1.420000
+			text = "syl"
+		intervals [9]:
+			xmin = 1.420000
+			xmax = 1.740000
+			text = "syl"
+		intervals [10]:
+			xmin = 1.740000
+			xmax = 2.000000
+			text = "syl"
+		intervals [11]:
+			xmin = 2.000000
+			xmax = 2.170000
+			text = "NONE"
+	item [3]:
+		class = "IntervalTier"
+		name = "word"
+		xmin = 0
+		xmax = 2.170000
+		intervals: size = 6
+		intervals [1]:
+			xmin = 0.000000
+			xmax = 0.095000
+			text = "NONE"
+		intervals [2]:
+			xmin = 0.095000
+			xmax = 0.220000
+			text = "Ke"
+		intervals [3]:
+			xmin = 0.220000
+			xmax = 0.525000
+			text = "nna"
+		intervals [4]:
+			xmin = 0.525000
+			xmax = 1.295000
+			text = "mmonadilo"
+		intervals [5]:
+			xmin = 1.295000
+			xmax = 2.000000
+			text = "khutsana"
+		intervals [6]:
+			xmin = 2.000000
+			xmax = 2.170000
+			text = "NONE"

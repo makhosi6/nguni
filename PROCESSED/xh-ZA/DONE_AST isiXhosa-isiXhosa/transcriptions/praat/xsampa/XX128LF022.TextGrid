@@ -1,0 +1,60 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 9.4559999999999995 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 9.4559999999999995 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.75665250195802813 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.75665250195802813 
+            xmax = 1.029319439075258 
+            text = "[spk]" 
+        intervals [3]:
+            xmin = 1.029319439075258 
+            xmax = 4.1911372053845319 
+            text = "(s) cofa 0 iqhosha likamabonakude (/s)" 
+        intervals [4]:
+            xmin = 4.1911372053845319 
+            xmax = 5.2942772539976435 
+            text = "0" 
+        intervals [5]:
+            xmin = 5.2942772539976435 
+            xmax = 9.4559999999999995 
+            text = "[int]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 9.4559999999999995 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.75665250195802813 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.75665250195802813 
+            xmax = 1.029319439075258 
+            text = "[spk]" 
+        intervals [3]:
+            xmin = 1.029319439075258 
+            xmax = 4.1911372053845319 
+            text = "(s) |\Ofa 0 i!\_hOSa lik_>amab_<Onak_>udE (/s)" 
+        intervals [4]:
+            xmin = 4.1911372053845319 
+            xmax = 5.2942772539976435 
+            text = "0" 
+        intervals [5]:
+            xmin = 5.2942772539976435 
+            xmax = 9.4559999999999995 
+            text = "[int]" 

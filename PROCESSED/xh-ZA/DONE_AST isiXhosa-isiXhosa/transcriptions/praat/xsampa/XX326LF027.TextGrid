@@ -1,0 +1,60 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 3.2280000000000002 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 3.2280000000000002 
+        intervals: size = 5
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.091838224832214752 
+            text = "**" 
+        intervals [2]:
+            xmin = 0.091838224832214752 
+            xmax = 1.2117083670259325 
+            text = "(s) [int] coca itafile [/int] (/s)"
+        intervals [3]:
+            xmin = 1.2117083670259325 
+            xmax = 1.3096447343122275 
+            text = "[spk]" 
+        intervals [4]:
+            xmin = 1.3096447343122275 
+            xmax = 2.9180262196541151 
+            text = "0" 
+        intervals [5]:
+            xmin = 2.9180262196541151 
+            xmax = 3.2280000000000002 
+            text = "[sta]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 3.2280000000000002 
+        intervals: size = 5
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.091838224832214752 
+            text = "**"
+        intervals [2]:
+            xmin = 0.091838224832214752 
+            xmax = 1.2117083670259325 
+            text = "(s) [int] |\O|\a it_>afil [/int] (/s)"
+        intervals [3]:
+            xmin = 1.2117083670259325 
+            xmax = 1.3096447343122275 
+            text = "[spk]"
+        intervals [4]:
+            xmin = 1.3096447343122275 
+            xmax = 2.9180262196541151 
+            text = "0"
+        intervals [5]:
+            xmin = 2.9180262196541151 
+            xmax = 3.2280000000000002 
+            text = "[sta]"

@@ -1,0 +1,44 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 4.9320000000000004 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic"
+        xmin = 0 
+        xmax = 4.9320000000000004 
+        intervals: size = 3
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.15058141972772734 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.15058141972772734 
+            xmax = 1.6682850969955172 
+            text = "(s) ndicela undincede (/s)" 
+        intervals [3]:
+            xmin = 1.6682850969955172 
+            xmax = 4.9320000000000004 
+            text = "[int]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 4.9320000000000004 
+        intervals: size = 3
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.15058141972772734 
+            text = "0"
+        intervals [2]:
+            xmin = 0.15058141972772734 
+            xmax = 1.6682850969955172 
+            text = "(s) ndi|\Ela undi|\~Ed_0E (/s)"
+        intervals [3]:
+            xmin = 1.6682850969955172 
+            xmax = 4.9320000000000004 
+            text = "[int]"

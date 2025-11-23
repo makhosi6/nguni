@@ -1,0 +1,52 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 8.6639999999999997 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 8.6639999999999997 
+        intervals: size = 4 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.20799467927874674 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.20799467927874674 
+            xmax = 1.2703076331474716 
+            text = "[int]" 
+        intervals [3]:
+            xmin = 1.2703076331474716 
+            xmax = 6.782682176504518 
+            text = "(s) ndihlala *e+ ($)Home_Sweet_Home(/$) 0 [spk] 0 e ($)Athlone0_Gardens(/$) 0 apha e 0 ($)King_William's0_Town(/$) (/s)" 
+        intervals [4]:
+            xmin = 6.782682176504518 
+            xmax = 8.6639999999999997 
+            text = "0" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 8.6639999999999997 
+        intervals: size = 4 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.20799467927874674 
+            text = "0"
+        intervals [2]:
+            xmin = 0.20799467927874674 
+            xmax = 1.2703076331474716 
+            text = "[int]"
+        intervals [3]:
+            xmin = 1.2703076331474716 
+            xmax = 6.782682176504518 
+            text = "(s) ndiKala E ($)h@Umswith@Um(/$) 0 [spk] 0 E ($)aTl@Un0gad@nz(/$) 0 ap_h E 0 ($)kiNw@lj@mz0taU(/$) (/s)"
+        intervals [4]:
+            xmin = 6.782682176504518 
+            xmax = 8.6639999999999997 
+            text = "0"

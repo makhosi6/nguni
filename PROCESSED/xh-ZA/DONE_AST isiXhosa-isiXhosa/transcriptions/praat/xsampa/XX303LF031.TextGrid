@@ -1,0 +1,52 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 4.9560000000000004 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 4.9560000000000004 
+        intervals: size = 4 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.1685010817886188 
+            text = "0" 
+        intervals [2]:
+            xmin = 1.1685010817886188 
+            xmax = 1.9828081375926274 
+            text = "[spk]" 
+        intervals [3]:
+            xmin = 1.9828081375926274 
+            xmax = 3.1305008200975353 
+            text = "(u) i ($)Bohlokong(/$) (/u)" 
+        intervals [4]:
+            xmin = 3.1305008200975353 
+            xmax = 4.9560000000000004 
+            text = "0" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 4.9560000000000004 
+        intervals: size = 4 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.1685010817886188 
+            text = "0" 
+        intervals [2]:
+            xmin = 1.1685010817886188 
+            xmax = 1.9828081375926274 
+            text = "[spk]" 
+        intervals [3]:
+            xmin = 1.9828081375926274 
+            xmax = 3.1305008200975353 
+            text = "(u) i ($)b_<OKOk_>ON(/$) (/u)" 
+        intervals [4]:
+            xmin = 3.1305008200975353 
+            xmax = 4.9560000000000004 
+            text = "0" 

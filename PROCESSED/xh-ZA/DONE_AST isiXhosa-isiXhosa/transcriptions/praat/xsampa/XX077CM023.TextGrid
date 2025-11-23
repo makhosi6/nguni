@@ -1,0 +1,60 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 7.8120000000000003 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 7.8120000000000003 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.5756712341756054 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.5756712341756054 
+            xmax = 2.9181658472240608 
+            text = "(u) igama 0 ($)or(/$) 0 ibinzana (/u)" 
+        intervals [3]:
+            xmin = 2.9181658472240608 
+            xmax = 3.5285826484001741 
+            text = "0" 
+        intervals [4]:
+            xmin = 3.5285826484001741 
+            xmax = 5.7862909598827645 
+            text = "(u) inkonzo *ya0ku+ 0 yokuvusa (/u)" 
+        intervals [5]:
+            xmin = 5.7862909598827645 
+            xmax = 7.8120000000000003 
+            text = "0" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 7.8120000000000003 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.5756712341756054 
+            text = "0"
+        intervals [2]:
+            xmin = 0.5756712341756054 
+            xmax = 2.9181658472240608 
+            text = "(u) igama 0 ($)Or(/$) 0 ib_<ind-\zana (/u)"
+        intervals [3]:
+            xmin = 2.9181658472240608 
+            xmax = 3.5285826484001741 
+            text = "0"
+        intervals [4]:
+            xmin = 3.5285826484001741 
+            xmax = 5.7862909598827645 
+            text = "(u) iNk_>Ond-\zO ja0k_>u 0 jok_>uvusa (/u)"
+        intervals [5]:
+            xmin = 5.7862909598827645 
+            xmax = 7.8120000000000003 
+            text = "0"

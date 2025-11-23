@@ -1,0 +1,138 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0
+xmax = 1.850000
+tiers? <exists>
+size = 3
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "segment"
+		xmin = 0
+		xmax = 1.850000
+		intervals: size = 16
+		intervals [1]:
+			xmin = 0.000000
+			xmax = 0.285000
+			text = "#"
+		intervals [2]:
+			xmin = 0.285000
+			xmax = 0.405000
+			text = "l"
+		intervals [3]:
+			xmin = 0.405000
+			xmax = 0.545000
+			text = "a"
+		intervals [4]:
+			xmin = 0.545000
+			xmax = 0.570000
+			text = "#_cl"
+		intervals [5]:
+			xmin = 0.570000
+			xmax = 0.700000
+			text = "tl_h"
+		intervals [6]:
+			xmin = 0.700000
+			xmax = 0.800000
+			text = "w"
+		intervals [7]:
+			xmin = 0.800000
+			xmax = 0.825000
+			text = "a"
+		intervals [8]:
+			xmin = 0.825000
+			xmax = 0.955000
+			text = "j"
+		intervals [9]:
+			xmin = 0.955000
+			xmax = 1.110000
+			text = "a"
+		intervals [10]:
+			xmin = 1.110000
+			xmax = 1.135000
+			text = "#_cl"
+		intervals [11]:
+			xmin = 1.135000
+			xmax = 1.190000
+			text = "ts_e"
+		intervals [12]:
+			xmin = 1.190000
+			xmax = 1.390000
+			text = "E"
+		intervals [13]:
+			xmin = 1.390000
+			xmax = 1.455000
+			text = "#_cl"
+		intervals [14]:
+			xmin = 1.455000
+			xmax = 1.480000
+			text = "b"
+		intervals [15]:
+			xmin = 1.480000
+			xmax = 1.675000
+			text = "E"
+		intervals [16]:
+			xmin = 1.675000
+			xmax = 1.850000
+			text = "#"
+	item [2]:
+		class = "IntervalTier"
+		name = "syllable"
+		xmin = 0
+		xmax = 1.850000
+		intervals: size = 7
+		intervals [1]:
+			xmin = 0.000000
+			xmax = 0.285000
+			text = "NONE"
+		intervals [2]:
+			xmin = 0.285000
+			xmax = 0.545000
+			text = "syl"
+		intervals [3]:
+			xmin = 0.545000
+			xmax = 0.825000
+			text = "syl"
+		intervals [4]:
+			xmin = 0.825000
+			xmax = 1.110000
+			text = "syl"
+		intervals [5]:
+			xmin = 1.110000
+			xmax = 1.390000
+			text = "syl"
+		intervals [6]:
+			xmin = 1.390000
+			xmax = 1.675000
+			text = "syl"
+		intervals [7]:
+			xmin = 1.675000
+			xmax = 1.850000
+			text = "NONE"
+	item [3]:
+		class = "IntervalTier"
+		name = "word"
+		xmin = 0
+		xmax = 1.850000
+		intervals: size = 5
+		intervals [1]:
+			xmin = 0.000000
+			xmax = 0.285000
+			text = "NONE"
+		intervals [2]:
+			xmin = 0.285000
+			xmax = 0.545000
+			text = "La"
+		intervals [3]:
+			xmin = 0.545000
+			xmax = 1.110000
+			text = "tlhwaya"
+		intervals [4]:
+			xmin = 1.110000
+			xmax = 1.675000
+			text = "tsebe"
+		intervals [5]:
+			xmin = 1.675000
+			xmax = 1.850000
+			text = "NONE"

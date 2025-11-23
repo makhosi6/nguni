@@ -1,0 +1,60 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 6.8639999999999999 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 6.8639999999999999 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.1961038666653174 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.1961038666653174 
+            xmax = 1.1616159117769691 
+            text = "[int]" 
+        intervals [3]:
+            xmin = 1.1616159117769691 
+            xmax = 4.9105151438488557 
+            text = "(s) ndihlala eMthatha kwi ($)rehab(/$) yabantu abakhubazekileyo (/s)" 
+        intervals [4]:
+            xmin = 4.9105151438488557 
+            xmax = 5.7418510610307738 
+            text = "0" 
+        intervals [5]:
+            xmin = 5.7418510610307738 
+            xmax = 6.8639999999999999 
+            text = "[int]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 6.8639999999999999 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.1961038666653174 
+            text = "0"
+        intervals [2]:
+            xmin = 0.1961038666653174 
+            xmax = 1.1616159117769691 
+            text = "[int]"
+        intervals [3]:
+            xmin = 1.1616159117769691 
+            xmax = 4.9105151438488557 
+            text = "(s) ndiKala Emt_hat_ha k_>wi ($)rih{p(/$) yabant abakhubazekilEyO (/s)"
+        intervals [4]:
+            xmin = 4.9105151438488557 
+            xmax = 5.7418510610307738 
+            text = "0"
+        intervals [5]:
+            xmin = 5.7418510610307738 
+            xmax = 6.8639999999999999 
+            text = "[int]"

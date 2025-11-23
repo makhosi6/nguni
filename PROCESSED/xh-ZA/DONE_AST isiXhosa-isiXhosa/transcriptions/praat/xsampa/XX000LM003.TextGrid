@@ -1,0 +1,60 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 4.0199999999999996 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 4.0199999999999996 
+        intervals: size = 5
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.29358053613171553 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.29358053613171553 
+            xmax = 0.89756296865987306 
+            text = "[sta]" 
+        intervals [3]:
+            xmin = 0.89756296865987306 
+            xmax = 1.9604648939041385 
+            text = "(u) [int] Nosindwa [/int] (/u)" 
+        intervals [4]:
+            xmin = 1.9604648939041385 
+            xmax = 2.3387395469798653 
+            text = "[int]" 
+        intervals [5]:
+            xmin = 2.3387395469798653 
+            xmax = 4.0199999999999996 
+            text = "[sta]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 4.0199999999999996 
+        intervals: size = 5
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.29358053613171553 
+            text = "0"
+        intervals [2]:
+            xmin = 0.29358053613171553 
+            xmax = 0.89756296865987306 
+            text = "[sta]"
+        intervals [3]:
+            xmin = 0.89756296865987306 
+            xmax = 1.9604648939041385 
+            text = "(u) [int] nosindwa [/int] (/u)"
+        intervals [4]:
+            xmin = 1.9604648939041385 
+            xmax = 2.3387395469798653 
+            text = "[int]"
+        intervals [5]:
+            xmin = 2.3387395469798653 
+            xmax = 4.0199999999999996 
+            text = "[sta]"

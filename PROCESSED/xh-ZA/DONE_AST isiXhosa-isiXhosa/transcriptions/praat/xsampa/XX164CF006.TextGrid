@@ -1,0 +1,68 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 9.7200000000000006 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 9.7200000000000006 
+        intervals: size = 6 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.0233463901005966 
+            text = "[int]" 
+        intervals [2]:
+            xmin = 1.0233463901005966 
+            xmax = 2.6091268791946312 
+            text = "(u) [int] umhla wam wokuzalwa [/int] (/u)" 
+        intervals [3]:
+            xmin = 2.6091268791946312 
+            xmax = 4.1839952013422819 
+            text = "0" 
+        intervals [4]:
+            xmin = 4.1839952013422819 
+            xmax = 4.3624824961682851 
+            text = "[int]" 
+        intervals [5]:
+            xmin = 4.3624824961682851 
+            xmax = 7.6659910860548965 
+            text = "(u) [sta] ($)twenty third(/$) 0 ye ($)second month 0 nineteen fifty four(/$) [/sta] (/u)" 
+        intervals [6]:
+            xmin = 7.6659910860548965 
+            xmax = 9.7200000000000006 
+            text = "0" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 9.7200000000000006 
+        intervals: size = 6 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.0233463901005966 
+            text = "[int]"
+        intervals [2]:
+            xmin = 1.0233463901005966 
+            xmax = 2.6091268791946312 
+            text = "(u) [int] um=Ka wam= wok_>uzalwa [/int] (/u)"
+        intervals [3]:
+            xmin = 2.6091268791946312 
+            xmax = 4.1839952013422819 
+            text = "0"
+        intervals [4]:
+            xmin = 4.1839952013422819 
+            xmax = 4.3624824961682851 
+            text = "[int]"
+        intervals [5]:
+            xmin = 4.3624824961682851 
+            xmax = 7.6659910860548965 
+            text = "(u) [sta] ($)twenti TEt(/$) 0 jE ($)sEkEn manT 0 na-\intin fifti fO(/$) [/sta] (/u)"
+        intervals [6]:
+            xmin = 7.6659910860548965 
+            xmax = 9.7200000000000006 
+            text = "0"

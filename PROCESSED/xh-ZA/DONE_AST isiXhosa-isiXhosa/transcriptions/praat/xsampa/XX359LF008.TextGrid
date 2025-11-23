@@ -1,0 +1,52 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 6.9480000000000004 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 6.9480000000000004 
+        intervals: size = 4 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.087997541006622229 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.087997541006622229 
+            xmax = 1.0744374403532662 
+            text = "[int]" 
+        intervals [3]:
+            xmin = 1.0744374403532662 
+            xmax = 4.8918139411739894 
+            text = "(s) ulwimi lwam lwenkobe sisixhosa (/s)" 
+        intervals [4]:
+            xmin = 4.8918139411739894 
+            xmax = 6.9480000000000004 
+            text = "0" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 6.9480000000000004 
+        intervals: size = 4 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.087997541006622229 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.087997541006622229 
+            xmax = 1.0744374403532662 
+            text = "[int]" 
+        intervals [3]:
+            xmin = 1.0744374403532662 
+            xmax = 4.8918139411739894 
+            text = "(s) ulwimi lwam lwENk_>Ob_<E sisi|\|\_hOsa (/s)" 
+        intervals [4]:
+            xmin = 4.8918139411739894 
+            xmax = 6.9480000000000004 
+            text = "0" 

@@ -1,0 +1,57 @@
+# Core dependencies
+pathlib>=1.0.1
+typing-extensions>=4.0.0
+tqdm>=4.65.0
+pyyaml>=6.0.0
+
+# Audio processing
+librosa>=0.10.0
+soundfile>=0.12.0
+pydub>=0.25.1
+
+# Data processing and analysis
+numpy>=1.24.0
+pandas>=2.0.0
+scipy>=1.10.0
+
+# Natural Language Processing
+nltk>=3.8.1
+langdetect>=1.0.9
+polyglot>=16.7.4
+
+# File handling and compression
+python-magic>=0.4.27
+chardet>=5.1.0
+
+# Progress and logging
+rich>=13.0.0
+colorama>=0.4.6
+
+# Testing and development
+pytest>=7.4.0
+black>=23.7.0
+flake8>=6.1.0
+mypy>=1.5.0
+
+# Documentation
+sphinx>=7.1.0
+sphinx-rtd-theme>=1.3.0
+
+# Optional: Audio visualization
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Optional: Parallel processing
+joblib>=1.3.0
+multiprocess>=0.70.14
+
+# Optional: Jupyter support
+jupyter>=1.0.0
+ipython>=8.14.0
+
+# Environment management
+python-dotenv>=1.0.0
+
+# Testing
+pytest-cov>=4.1.0
+coverage>=7.3.0

@@ -1,0 +1,68 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 4.4160000000000004 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 4.4160000000000004 
+        intervals: size = 6 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.70163138667665137 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.70163138667665137 
+            xmax = 0.9318180511844889 
+            text = "[int]" 
+        intervals [3]:
+            xmin = 0.9318180511844889 
+            xmax = 2.4077207824406242 
+            text = "(u) [int] Gxulu ($)location(/$) [/int] (/u)" 
+        intervals [4]:
+            xmin = 2.4077207824406242 
+            xmax = 2.6446776429633982 
+            text = "0" 
+        intervals [5]:
+            xmin = 2.6446776429633982 
+            xmax = 3.3555482245317201 
+            text = "[int]" 
+        intervals [6]:
+            xmin = 3.3555482245317201 
+            xmax = 4.4160000000000004 
+            text = "0" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 4.4160000000000004 
+        intervals: size = 6 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.70163138667665137 
+            text = "0"
+        intervals [2]:
+            xmin = 0.70163138667665137 
+            xmax = 0.9318180511844889 
+            text = "[int]"
+        intervals [3]:
+            xmin = 0.9318180511844889 
+            xmax = 2.4077207824406242 
+            text = "(u) [int] |\|\_vulu ($)l@-\UkE-\ISIn(/$) [/int] (/u)"
+        intervals [4]:
+            xmin = 2.4077207824406242 
+            xmax = 2.6446776429633982 
+            text = "0"
+        intervals [5]:
+            xmin = 2.6446776429633982 
+            xmax = 3.3555482245317201 
+            text = "[int]"
+        intervals [6]:
+            xmin = 3.3555482245317201 
+            xmax = 4.4160000000000004 
+            text = "0"

@@ -1,0 +1,60 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 9.6959999999999997 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic"
+        xmin = 0 
+        xmax = 9.6959999999999997 
+        intervals: size = 5
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.49454047706422016 
+            text = "[int]" 
+        intervals [2]:
+            xmin = 0.49454047706422016 
+            xmax = 3.7624583912148264 
+            text = "(u) ibinzana *elixha+ elichaza [int] ixesha [/int] (/u)" 
+        intervals [3]:
+            xmin = 3.7624583912148264 
+            xmax = 4.2895227799967977 
+            text = "[sta]" 
+        intervals [4]:
+            xmin = 4.2895227799967977 
+            xmax = 6.1978593600694536 
+            text = "(u) iiyure [int] ezintathu [/int] (/u)"
+        intervals [5]:
+            xmin = 6.1978593600694536 
+            xmax = 9.6959999999999997 
+            text = "[int]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 9.6959999999999997 
+        intervals: size = 5
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.49454047706422016 
+            text = "[int]"
+        intervals [2]:
+            xmin = 0.49454047706422016 
+            xmax = 3.7624583912148264 
+            text = "(u) ib_<ind-\zana eli|\|\_ha eli|\_haza [int] i|\|\ESa [/int] (/u)"
+        intervals [3]:
+            xmin = 3.7624583912148264 
+            xmax = 4.2895227799967977 
+            text = "[sta]"
+        intervals [4]:
+            xmin = 4.2895227799967977 
+            xmax = 6.1978593600694536 
+            text = "(u) i:jurE [int] ez@nt_>at_h [/int] (/u)"
+        intervals [5]:
+            xmin = 6.1978593600694536 
+            xmax = 9.6959999999999997 
+            text = "[int]"

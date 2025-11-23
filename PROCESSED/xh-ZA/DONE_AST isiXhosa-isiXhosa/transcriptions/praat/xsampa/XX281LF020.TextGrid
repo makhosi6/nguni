@@ -1,0 +1,52 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 5.3879999999999999 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic"
+        xmin = 0 
+        xmax = 5.3879999999999999 
+        intervals: size = 4
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.046549803175502676 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.046549803175502676 
+            xmax = 0.41826667948471447 
+            text = "[int]" 
+        intervals [3]:
+            xmin = 0.41826667948471447 
+            xmax = 3.449824315162064 
+            text = "(s) umqabindonga wasebenzisa ibrashi (/s)" 
+        intervals [4]:
+            xmin = 3.449824315162064 
+            xmax = 5.3879999999999999 
+            text = "0" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 5.3879999999999999 
+        intervals: size = 4
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.046549803175502676 
+            text = "0"
+        intervals [2]:
+            xmin = 0.046549803175502676 
+            xmax = 0.41826667948471447 
+            text = "[int]"
+        intervals [3]:
+            xmin = 0.41826667948471447 
+            xmax = 3.449824315162064 
+            text = "(s) um=!\ab_<indONga wasEb_<end-\zisa ib_0raSi (/s)"
+        intervals [4]:
+            xmin = 3.449824315162064 
+            xmax = 5.3879999999999999 
+            text = "0"

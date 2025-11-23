@@ -1,0 +1,60 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 5.8799999999999999 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 5.8799999999999999 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.39335765389247007 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.39335765389247007 
+            xmax = 1.6373811716370332 
+            text = "[spk]" 
+        intervals [3]:
+            xmin = 1.6373811716370332 
+            xmax = 3.9706274047186931 
+            text = "(s) [sta] ndisebenzisa engenamnxeba [/sta] (/s)" 
+        intervals [4]:
+            xmin = 3.9706274047186931 
+            xmax = 4.7619161597460984 
+            text = "[sta]" 
+        intervals [5]:
+            xmin = 4.7619161597460984 
+            xmax = 5.8799999999999999 
+            text = "[spk]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 5.8799999999999999 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.39335765389247007 
+            text = "0"
+        intervals [2]:
+            xmin = 0.39335765389247007 
+            xmax = 1.6373811716370332 
+            text = "[spk]"
+        intervals [3]:
+            xmin = 1.6373811716370332 
+            xmax = 3.9706274047186931 
+            text = "(s) [sta] ndisEb_<end-\zisa ENgEnam|\|\~E:b_<a [/sta] (/s)"
+        intervals [4]:
+            xmin = 3.9706274047186931 
+            xmax = 4.7619161597460984 
+            text = "[sta]"
+        intervals [5]:
+            xmin = 4.7619161597460984 
+            xmax = 5.8799999999999999 
+            text = "[spk]"

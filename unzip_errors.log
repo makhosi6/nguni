@@ -1,0 +1,54 @@
+[Sat 12 Jul 2025 17:36:57 SAST] ERROR: Error unzipping AwezaMed_ASR_test_data_corpus.zip
+    Archive:  /Users/makhosi/Downloads/SPEECH_DATA_RAW//AwezaMed_ASR_test_data_corpus.zip
+      End-of-central-directory signature not found.  Either this file is not
+      a zipfile, or it constitutes one disk of a multi-part archive.  In the
+      latter case the central directory and zipfile comment will be found on
+      the last disk(s) of this archive.
+    unzip:  cannot find zipfile directory in one of /Users/makhosi/Downloads/SPEECH_DATA_RAW//AwezaMed_ASR_test_data_corpus.zip or
+            /Users/makhosi/Downloads/SPEECH_DATA_RAW//AwezaMed_ASR_test_data_corpus.zip.zip, and cannot find /Users/makhosi/Downloads/SPEECH_DATA_RAW//AwezaMed_ASR_test_data_corpus.zip.ZIP, period.
+
+[Sat 12 Jul 2025 17:38:01 SAST] ERROR: Error unzipping nbl-aux2.zip
+    Archive:  /Users/makhosi/Downloads/SPEECH_DATA_RAW//nbl-aux2.zip
+    warning [/Users/makhosi/Downloads/SPEECH_DATA_RAW//nbl-aux2.zip]:  5826796323 extra bytes at beginning or within zipfile
+      (attempting to process anyway)
+    error [/Users/makhosi/Downloads/SPEECH_DATA_RAW//nbl-aux2.zip]:  start of central directory not found;
+      zipfile corrupt.
+      (please check that you have transferred or created the zipfile in the
+      appropriate BINARY mode and that you have compiled UnZip properly)
+
+[Sat 12 Jul 2025 17:40:09 SAST] ERROR: Error unzipping ssw-aux1.zip
+    Archive:  /Users/makhosi/Downloads/SPEECH_DATA_RAW//ssw-aux1.zip
+    warning [/Users/makhosi/Downloads/SPEECH_DATA_RAW//ssw-aux1.zip]:  2333946412 extra bytes at beginning or within zipfile
+      (attempting to process anyway)
+    error [/Users/makhosi/Downloads/SPEECH_DATA_RAW//ssw-aux1.zip]:  start of central directory not found;
+      zipfile corrupt.
+      (please check that you have transferred or created the zipfile in the
+      appropriate BINARY mode and that you have compiled UnZip properly)
+
+[Sat 12 Jul 2025 17:40:09 SAST] ERROR: Error unzipping tso-aux1.zip
+    Archive:  /Users/makhosi/Downloads/SPEECH_DATA_RAW//tso-aux1.zip
+    warning [/Users/makhosi/Downloads/SPEECH_DATA_RAW//tso-aux1.zip]:  2770503778 extra bytes at beginning or within zipfile
+      (attempting to process anyway)
+    error [/Users/makhosi/Downloads/SPEECH_DATA_RAW//tso-aux1.zip]:  start of central directory not found;
+      zipfile corrupt.
+      (please check that you have transferred or created the zipfile in the
+      appropriate BINARY mode and that you have compiled UnZip properly)
+
+[Sat 12 Jul 2025 17:40:12 SAST] ERROR: Error unzipping ven-aux1.zip
+    Archive:  /Users/makhosi/Downloads/SPEECH_DATA_RAW//ven-aux1.zip
+    warning [/Users/makhosi/Downloads/SPEECH_DATA_RAW//ven-aux1.zip]:  3530961372 extra bytes at beginning or within zipfile
+      (attempting to process anyway)
+    error [/Users/makhosi/Downloads/SPEECH_DATA_RAW//ven-aux1.zip]:  start of central directory not found;
+      zipfile corrupt.
+      (please check that you have transferred or created the zipfile in the
+      appropriate BINARY mode and that you have compiled UnZip properly)
+
+[Sat 12 Jul 2025 17:40:51 SAST] ERROR: Error unzipping zul-aux1.zip
+    Archive:  /Users/makhosi/Downloads/SPEECH_DATA_RAW//zul-aux1.zip
+    warning [/Users/makhosi/Downloads/SPEECH_DATA_RAW//zul-aux1.zip]:  3889521126 extra bytes at beginning or within zipfile
+      (attempting to process anyway)
+    error [/Users/makhosi/Downloads/SPEECH_DATA_RAW//zul-aux1.zip]:  start of central directory not found;
+      zipfile corrupt.
+      (please check that you have transferred or created the zipfile in the
+      appropriate BINARY mode and that you have compiled UnZip properly)
+

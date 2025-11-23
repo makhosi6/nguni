@@ -1,0 +1,76 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 3.48 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 3.48 
+        intervals: size = 7
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.22213309181432722 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.22213309181432722 
+            xmax = 0.63128550704949626 
+            text = "[spk]" 
+        intervals [3]:
+            xmin = 0.63128550704949626 
+            xmax = 1.5082162616923653 
+            text = "(u) [int] phambili [/int] (/u)" 
+        intervals [4]:
+            xmin = 1.5082162616923653 
+            xmax = 1.5932817575567453 
+            text = "[ext]" 
+        intervals [5]:
+            xmin = 1.5932817575567453 
+            xmax = 1.8280309454659531 
+            text = "[sta]" 
+        intervals [6]:
+            xmin = 1.8280309454659531 
+            xmax = 3.3112189963468568 
+            text = "0" 
+        intervals [7]:
+            xmin = 3.3112189963468568 
+            xmax = 3.48 
+            text = "[sta]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 3.48 
+        intervals: size = 7
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.22213309181432722 
+            text = "0"
+        intervals [2]:
+            xmin = 0.22213309181432722 
+            xmax = 0.63128550704949626 
+            text = "[spk]"
+        intervals [3]:
+            xmin = 0.63128550704949626 
+            xmax = 1.5082162616923653 
+            text = "(u) [int] p_hambili [/int] (/u)"
+        intervals [4]:
+            xmin = 1.5082162616923653 
+            xmax = 1.5932817575567453 
+            text = "[ext]"
+        intervals [5]:
+            xmin = 1.5932817575567453 
+            xmax = 1.8280309454659531 
+            text = "[sta]"
+        intervals [6]:
+            xmin = 1.8280309454659531 
+            xmax = 3.3112189963468568 
+            text = "0"
+        intervals [7]:
+            xmin = 3.3112189963468568 
+            xmax = 3.48 
+            text = "[sta]"

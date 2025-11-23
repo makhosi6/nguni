@@ -1,0 +1,100 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 4.8719999999999999 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 4.8719999999999999 
+        intervals: size = 10
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.22135482042926968 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.22135482042926968 
+            xmax = 0.36262911370275669 
+            text = "[sta]" 
+        intervals [3]:
+            xmin = 0.36262911370275669 
+            xmax = 1.3009252819548869 
+            text = "(u) [sta] ($)standard ten(/$) [/sta] (/u)"
+        intervals [4]:
+            xmin = 1.3009252819548869 
+            xmax = 1.7973755047106326 
+            text = "[int]" 
+        intervals [5]:
+            xmin = 1.7973755047106326 
+            xmax = 2.4770811078841115 
+            text = "0" 
+        intervals [6]:
+            xmin = 2.4770811078841115 
+            xmax = 3.2613568038535101 
+            text = "[int]" 
+        intervals [7]:
+            xmin = 3.2613568038535101 
+            xmax = 3.5344275503355704 
+            text = "[sta]" 
+        intervals [8]:
+            xmin = 3.5344275503355704 
+            xmax = 3.7503895771812079 
+            text = "[ext]" 
+        intervals [9]:
+            xmin = 3.7503895771812079 
+            xmax = 4.4863207480342853 
+            text = "[sta]" 
+        intervals [10]:
+            xmin = 4.4863207480342853 
+            xmax = 4.8719999999999999 
+            text = "[int]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 4.8719999999999999 
+        intervals: size = 10
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.22135482042926968 
+            text = "0"
+        intervals [2]:
+            xmin = 0.22135482042926968 
+            xmax = 0.36262911370275669 
+            text = "[sta]"
+        intervals [3]:
+            xmin = 0.36262911370275669 
+            xmax = 1.3009252819548869 
+            text = "(u) [sta] ($)standa tEn(/$) [/sta] (/u)"
+        intervals [4]:
+            xmin = 1.3009252819548869 
+            xmax = 1.7973755047106326 
+            text = "[int]"
+        intervals [5]:
+            xmin = 1.7973755047106326 
+            xmax = 2.4770811078841115 
+            text = "0"
+        intervals [6]:
+            xmin = 2.4770811078841115 
+            xmax = 3.2613568038535101 
+            text = "[int]"
+        intervals [7]:
+            xmin = 3.2613568038535101 
+            xmax = 3.5344275503355704 
+            text = "[sta]"
+        intervals [8]:
+            xmin = 3.5344275503355704 
+            xmax = 3.7503895771812079 
+            text = "[ext]"
+        intervals [9]:
+            xmin = 3.7503895771812079 
+            xmax = 4.4863207480342853 
+            text = "[sta]"
+        intervals [10]:
+            xmin = 4.4863207480342853 
+            xmax = 4.8719999999999999 
+            text = "[int]"

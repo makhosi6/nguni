@@ -1,0 +1,100 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 12.012 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 12.012 
+        intervals: size = 10
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.30148430787621683 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.30148430787621683 
+            xmax = 1.7668384883291248 
+            text = "[int]" 
+        intervals [3]:
+            xmin = 1.7668384883291248 
+            xmax = 2.7589106592550685 
+            text = "(s) [sta] ngubani;ixesha *sibali *ngoku [/sta] (/s)" 
+        intervals [4]:
+            xmin = 2.7589106592550685 
+            xmax = 3.8850538113861162 
+            text = "0" 
+        intervals [5]:
+            xmin = 3.8850538113861162 
+            xmax = 4.6357666988014206 
+            text = "**" 
+        intervals [6]:
+            xmin = 4.6357666988014206 
+            xmax = 5.8974233330323935 
+            text = "(s) ngu ($)six o'clock(/$) sisi (/s)" 
+        intervals [7]:
+            xmin = 5.8974233330323935 
+            xmax = 7.3899980190352705 
+            text = "[spk]"
+        intervals [8]:
+            xmin = 7.3899980190352705 
+            xmax = 7.7555036327955129 
+            text = "(u) ($)sorry(/$) (/u)" 
+        intervals [9]:
+            xmin = 7.7555036327955129 
+            xmax = 8.0406338649793998 
+            text = "0" 
+        intervals [10]:
+            xmin = 8.0406338649793998 
+            xmax = 12.012 
+            text = "[int]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 12.012 
+        intervals: size = 10
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.30148430787621683 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.30148430787621683 
+            xmax = 1.7668384883291248 
+            text = "[int]" 
+        intervals [3]:
+            xmin = 1.7668384883291248 
+            xmax = 2.7589106592550685 
+            text = "(s) [sta] Ngub_<ani|\|\ESa sb_<a Ngo [/sta] (/s)" 
+        intervals [4]:
+            xmin = 2.7589106592550685 
+            xmax = 3.8850538113861162 
+            text = "0" 
+        intervals [5]:
+            xmin = 3.8850538113861162 
+            xmax = 4.6357666988014206 
+            text = "**" 
+        intervals [6]:
+            xmin = 4.6357666988014206 
+            xmax = 5.8974233330323935 
+            text = "(s) Ngu ($)siks @klOk(/$) sisi (/s)" 
+        intervals [7]:
+            xmin = 5.8974233330323935 
+            xmax = 7.3899980190352705 
+            text = "[spk]"
+        intervals [8]:
+            xmin = 7.3899980190352705 
+            xmax = 7.7555036327955129 
+            text = "(u) ($)sO:ri(/$) (/u)" 
+        intervals [9]:
+            xmin = 7.7555036327955129 
+            xmax = 8.0406338649793998 
+            text = "0" 
+        intervals [10]:
+            xmin = 8.0406338649793998 
+            xmax = 12.012 
+            text = "[int]" 

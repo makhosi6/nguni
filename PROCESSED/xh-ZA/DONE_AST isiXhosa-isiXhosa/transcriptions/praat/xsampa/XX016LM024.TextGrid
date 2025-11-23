@@ -1,0 +1,52 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 8.3759999999999994 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic"
+        xmin = 0 
+        xmax = 8.3759999999999994 
+        intervals: size = 4
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.059523431728716117 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.059523431728716117 
+            xmax = 0.98409672229024781 
+            text = "[int]" 
+        intervals [3]:
+            xmin = 0.98409672229024781 
+            xmax = 4.7851202501543222 
+            text = "(u) I. 0 N. 0 G. [ext] 0 X. 0 A. 0 K. 0 [ext] 0 I. (/u)" 
+        intervals [4]:
+            xmin = 4.7851202501543222 
+            xmax = 8.3759999999999994 
+            text = "[int]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 8.3759999999999994 
+        intervals: size = 4
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.059523431728716117 
+            text = "0"
+        intervals [2]:
+            xmin = 0.059523431728716117 
+            xmax = 0.98409672229024781 
+            text = "[int]"
+        intervals [3]:
+            xmin = 0.98409672229024781 
+            xmax = 4.7851202501543222 
+            text = "(u) a-\i 0 En 0 d-\Zi [ext] 0 Eks 0 e-\I 0 ke-\I 0 [ext] 0 a-\i (/u)"
+        intervals [4]:
+            xmin = 4.7851202501543222 
+            xmax = 8.3759999999999994 
+            text = "[int]"

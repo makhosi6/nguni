@@ -1,0 +1,84 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 9.2759999999999998 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 9.2759999999999998 
+        intervals: size = 8 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.203127242519987 
+            text = "(u) ($)~five two two five two(/$) (/u)" 
+        intervals [2]:
+            xmin = 1.203127242519987 
+            xmax = 1.2972020743302408 
+            text = "[int]" 
+        intervals [3]:
+            xmin = 1.2972020743302408 
+            xmax = 1.7455910514424198 
+            text = "[spk]" 
+        intervals [4]:
+            xmin = 1.7455910514424198 
+            xmax = 2.1622356761926751 
+            text = "0" 
+        intervals [5]:
+            xmin = 2.1622356761926751 
+            xmax = 2.5403890648559484 
+            text = "[sta]" 
+        intervals [6]:
+            xmin = 2.5403890648559484 
+            xmax = 7.0876209678636624 
+            text = "(u) ($)three 0 *hu+ 0 [int] three thousand six hundred and eleven forty six [/int](/$) (/u)" 
+        intervals [7]:
+            xmin = 7.0876209678636624 
+            xmax = 7.347117851830113 
+            text = "[spk]" 
+        intervals [8]:
+            xmin = 7.347117851830113 
+            xmax = 9.2759999999999998 
+            text = "0" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 9.2759999999999998 
+        intervals: size = 8 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.203127242519987 
+            text = "(u) ($)fa-\if tu tu fa-\if tu(/$) (/u)"
+        intervals [2]:
+            xmin = 1.203127242519987 
+            xmax = 1.2972020743302408 
+            text = "[int]"
+        intervals [3]:
+            xmin = 1.2972020743302408 
+            xmax = 1.7455910514424198 
+            text = "[spk]"
+        intervals [4]:
+            xmin = 1.7455910514424198 
+            xmax = 2.1622356761926751 
+            text = "0"
+        intervals [5]:
+            xmin = 2.1622356761926751 
+            xmax = 2.5403890648559484 
+            text = "[sta]"
+        intervals [6]:
+            xmin = 2.5403890648559484 
+            xmax = 7.0876209678636624 
+            text = "(u) ($)Tri: 0 h\a 0 [int] Tri Ta-\uz@n siks h\andr@t {n lEv@n fOrt@ siks [/int](/$) (/u)"
+        intervals [7]:
+            xmin = 7.0876209678636624 
+            xmax = 7.347117851830113 
+            text = "[spk]"
+        intervals [8]:
+            xmin = 7.347117851830113 
+            xmax = 9.2759999999999998 
+            text = "0"

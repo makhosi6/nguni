@@ -1,0 +1,60 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 11.423999999999999 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 11.423999999999999 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.11903780937196153 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.11903780937196153 
+            xmax = 0.95689395763972507 
+            text = "[int]" 
+        intervals [3]:
+            xmin = 0.95689395763972507 
+            xmax = 1.167064390451229 
+            text = "[spk]" 
+        intervals [4]:
+            xmin = 1.167064390451229 
+            xmax = 6.2502150388173732 
+            text = "(u) umhla weshumi kwinyanga yokuqala [spk] 0 [ext] ($)seventy six(/$) [int] unyaka [/int] (/u)" 
+        intervals [5]:
+            xmin = 6.2502150388173732 
+            xmax = 11.423999999999999 
+            text = "[int]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 11.423999999999999 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.11903780937196153 
+            text = "0"
+        intervals [2]:
+            xmin = 0.11903780937196153 
+            xmax = 0.95689395763972507 
+            text = "[int]"
+        intervals [3]:
+            xmin = 0.95689395763972507 
+            xmax = 1.167064390451229 
+            text = "[spk]"
+        intervals [4]:
+            xmin = 1.167064390451229 
+            xmax = 6.2502150388173732 
+            text = "(u) m=Ka weSu:mi k_>wiJaNga jO!\a:la [spk] 0 [ext] ($)sEvEnti siks(/$) [int] uJa:k_> [/int] (/u)"
+        intervals [5]:
+            xmin = 6.2502150388173732 
+            xmax = 11.423999999999999 
+            text = "[int]"

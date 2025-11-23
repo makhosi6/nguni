@@ -1,0 +1,68 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 17.352 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 17.352 
+        intervals: size = 6 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.043503354618039003 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.043503354618039003 
+            xmax = 0.73516718444833473 
+            text = "[int]" 
+        intervals [3]:
+            xmin = 0.73516718444833473 
+            xmax = 1.1342040093504284 
+            text = "[spk]" 
+        intervals [4]:
+            xmin = 1.1342040093504284 
+            xmax = 9.0978686662064696 
+            text = "(u) [int] ($)zero five zero seven seven four six 0 two nine three(/$) [/int] (/u)" 
+        intervals [5]:
+            xmin = 9.0978686662064696 
+            xmax = 15.871964075734423 
+            text = "[int]" 
+        intervals [6]:
+            xmin = 15.871964075734423 
+            xmax = 17.352 
+            text = "[sta]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 17.352 
+        intervals: size = 6 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.043503354618039003 
+            text = "0"
+        intervals [2]:
+            xmin = 0.043503354618039003 
+            xmax = 0.73516718444833473 
+            text = "[int]"
+        intervals [3]:
+            xmin = 0.73516718444833473 
+            xmax = 1.1342040093504284 
+            text = "[spk]"
+        intervals [4]:
+            xmin = 1.1342040093504284 
+            xmax = 9.0978686662064696 
+            text = "(u) [int] ($)zI-\@r@-\U fa-\If zI-\@r@-\U sEvEn sEvEn fO siks 0 tu na-\In Tri(/$) [/int] (/u)"
+        intervals [5]:
+            xmin = 9.0978686662064696 
+            xmax = 15.871964075734423 
+            text = "[int]"
+        intervals [6]:
+            xmin = 15.871964075734423 
+            xmax = 17.352 
+            text = "[sta]"

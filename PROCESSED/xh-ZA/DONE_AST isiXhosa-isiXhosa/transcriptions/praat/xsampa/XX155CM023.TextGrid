@@ -1,0 +1,76 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 23.315999999999999 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 23.315999999999999 
+        intervals: size = 7 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.3923616234387495 
+            text = "(u) [int] ~thotho lwamanani [/int] (/u)" 
+        intervals [2]:
+            xmin = 1.3923616234387495 
+            xmax = 2.0049108456293241 
+            text = "0" 
+        intervals [3]:
+            xmin = 2.0049108456293241 
+            xmax = 3.1384556805867616 
+            text = "[spk]" 
+        intervals [4]:
+            xmin = 3.1384556805867616 
+            xmax = 13.666194928171539 
+            text = "(u) ($)three 0 two 0 nought 0 five 0 seven 0 four 0 nine 0 eight 0 one 0 six(/$) (/u)" 
+        intervals [5]:
+            xmin = 13.666194928171539 
+            xmax = 15.103373026410107 
+            text = "[int]" 
+        intervals [6]:
+            xmin = 15.103373026410107 
+            xmax = 16.622592628606689 
+            text = "0" 
+        intervals [7]:
+            xmin = 16.622592628606689 
+            xmax = 23.315999999999999 
+            text = "[int]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 23.315999999999999 
+        intervals: size = 7 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.3923616234387495 
+            text = "(u) [int] t_hOt_hO lwamanani [/int] (/u)" 
+        intervals [2]:
+            xmin = 1.3923616234387495 
+            xmax = 2.0049108456293241 
+            text = "0" 
+        intervals [3]:
+            xmin = 2.0049108456293241 
+            xmax = 3.1384556805867616 
+            text = "[spk]" 
+        intervals [4]:
+            xmin = 3.1384556805867616 
+            xmax = 13.666194928171539 
+            text = "(u) ($)Tri: 0 tu: 0 nOt 0 fa-\if 0 sEvEn 0 fO: 0 na-\in 0 E-\it 0 wan 0 siks(/$) (/u)" 
+        intervals [5]:
+            xmin = 13.666194928171539 
+            xmax = 15.103373026410107 
+            text = "[int]" 
+        intervals [6]:
+            xmin = 15.103373026410107 
+            xmax = 16.622592628606689 
+            text = "0" 
+        intervals [7]:
+            xmin = 16.622592628606689 
+            xmax = 23.315999999999999 
+            text = "[int]" 

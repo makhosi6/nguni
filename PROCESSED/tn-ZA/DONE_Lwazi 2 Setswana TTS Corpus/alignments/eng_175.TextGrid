@@ -1,0 +1,258 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0
+xmax = 3.610000
+tiers? <exists>
+size = 5
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "segment"
+		xmin = 0
+		xmax = 3.610000
+		intervals: size = 25
+		intervals [1]:
+			xmin = 0.000000
+			xmax = 0.640000
+			text = "pau"
+		intervals [2]:
+			xmin = 0.640000
+			xmax = 0.770000
+			text = "eng_w"
+		intervals [3]:
+			xmin = 0.770000
+			xmax = 0.895000
+			text = "eng_aɪ"
+		intervals [4]:
+			xmin = 0.895000
+			xmax = 1.035000
+			text = "eng_ʃ"
+		intervals [5]:
+			xmin = 1.035000
+			xmax = 1.075000
+			text = "eng_ʊ"
+		intervals [6]:
+			xmin = 1.075000
+			xmax = 1.110000
+			text = "eng_d"
+		intervals [7]:
+			xmin = 1.110000
+			xmax = 1.150000
+			text = "eng_w"
+		intervals [8]:
+			xmin = 1.150000
+			xmax = 1.310000
+			text = "eng_ɪ"
+		intervals [9]:
+			xmin = 1.310000
+			xmax = 1.370000
+			text = "eng_p"
+		intervals [10]:
+			xmin = 1.370000
+			xmax = 1.440000
+			text = "eng_ʊ"
+		intervals [11]:
+			xmin = 1.440000
+			xmax = 1.465000
+			text = "eng_t"
+		intervals [12]:
+			xmin = 1.465000
+			xmax = 1.600000
+			text = "eng_b"
+		intervals [13]:
+			xmin = 1.600000
+			xmax = 1.865000
+			text = "eng_ɔɪ"
+		intervals [14]:
+			xmin = 1.865000
+			xmax = 2.065000
+			text = "eng_z"
+		intervals [15]:
+			xmin = 2.065000
+			xmax = 2.295000
+			text = "pau"
+		intervals [16]:
+			xmin = 2.295000
+			xmax = 2.405000
+			text = "eng_aʊ"
+		intervals [17]:
+			xmin = 2.405000
+			xmax = 2.450000
+			text = "eng_t"
+		intervals [18]:
+			xmin = 2.450000
+			xmax = 2.500000
+			text = "eng_ɒ"
+		intervals [19]:
+			xmin = 2.500000
+			xmax = 2.565000
+			text = "eng_v"
+		intervals [20]:
+			xmin = 2.565000
+			xmax = 2.590000
+			text = "eng_ð"
+		intervals [21]:
+			xmin = 2.590000
+			xmax = 2.685000
+			text = "eng_ɛə"
+		intervals [22]:
+			xmin = 2.685000
+			xmax = 2.710000
+			text = "eng_ɹ"
+		intervals [23]:
+			xmin = 2.710000
+			xmax = 2.845000
+			text = "eng_w"
+		intervals [24]:
+			xmin = 2.845000
+			xmax = 3.205000
+			text = "eng_eɪ"
+		intervals [25]:
+			xmin = 3.205000
+			xmax = 3.610000
+			text = "pau"
+	item [2]:
+		class = "IntervalTier"
+		name = "syllable"
+		xmin = 0
+		xmax = 3.610000
+		intervals: size = 12
+		intervals [1]:
+			xmin = 0.000000
+			xmax = 0.640000
+			text = "NONE"
+		intervals [2]:
+			xmin = 0.640000
+			xmax = 0.895000
+			text = "syl"
+		intervals [3]:
+			xmin = 0.895000
+			xmax = 1.110000
+			text = "syl"
+		intervals [4]:
+			xmin = 1.110000
+			xmax = 1.310000
+			text = "syl"
+		intervals [5]:
+			xmin = 1.310000
+			xmax = 1.465000
+			text = "syl"
+		intervals [6]:
+			xmin = 1.465000
+			xmax = 2.065000
+			text = "syl"
+		intervals [7]:
+			xmin = 2.065000
+			xmax = 2.295000
+			text = "NONE"
+		intervals [8]:
+			xmin = 2.295000
+			xmax = 2.450000
+			text = "syl"
+		intervals [9]:
+			xmin = 2.450000
+			xmax = 2.565000
+			text = "syl"
+		intervals [10]:
+			xmin = 2.565000
+			xmax = 2.710000
+			text = "syl"
+		intervals [11]:
+			xmin = 2.710000
+			xmax = 3.205000
+			text = "syl"
+		intervals [12]:
+			xmin = 3.205000
+			xmax = 3.610000
+			text = "NONE"
+	item [3]:
+		class = "IntervalTier"
+		name = "word"
+		xmin = 0
+		xmax = 3.610000
+		intervals: size = 12
+		intervals [1]:
+			xmin = 0.000000
+			xmax = 0.640000
+			text = "NONE"
+		intervals [2]:
+			xmin = 0.640000
+			xmax = 0.895000
+			text = "why"
+		intervals [3]:
+			xmin = 0.895000
+			xmax = 1.110000
+			text = "should"
+		intervals [4]:
+			xmin = 1.110000
+			xmax = 1.310000
+			text = "we"
+		intervals [5]:
+			xmin = 1.310000
+			xmax = 1.465000
+			text = "put"
+		intervals [6]:
+			xmin = 1.465000
+			xmax = 2.065000
+			text = "boys"
+		intervals [7]:
+			xmin = 2.065000
+			xmax = 2.295000
+			text = "NONE"
+		intervals [8]:
+			xmin = 2.295000
+			xmax = 2.450000
+			text = "out"
+		intervals [9]:
+			xmin = 2.450000
+			xmax = 2.565000
+			text = "of"
+		intervals [10]:
+			xmin = 2.565000
+			xmax = 2.710000
+			text = "their"
+		intervals [11]:
+			xmin = 2.710000
+			xmax = 3.205000
+			text = "way"
+		intervals [12]:
+			xmin = 3.205000
+			xmax = 3.610000
+			text = "NONE"
+	item [4]:
+		class = "IntervalTier"
+		name = "phrase"
+		xmin = 0
+		xmax = 3.610000
+		intervals: size = 5
+		intervals [1]:
+			xmin = 0.000000
+			xmax = 0.640000
+			text = "NONE"
+		intervals [2]:
+			xmin = 0.640000
+			xmax = 2.065000
+			text = "BB"
+		intervals [3]:
+			xmin = 2.065000
+			xmax = 2.295000
+			text = "NONE"
+		intervals [4]:
+			xmin = 2.295000
+			xmax = 3.205000
+			text = "BB"
+		intervals [5]:
+			xmin = 3.205000
+			xmax = 3.610000
+			text = "NONE"
+	item [5]:
+		class = "IntervalTier"
+		name = "text"
+		xmin = 0
+		xmax = 3.610000
+		intervals: size = 1
+		intervals [1]:
+			xmin = 0.000000
+			xmax = 3.610000
+			text = "|why |should |we |put |boys, |out |of |their |way."

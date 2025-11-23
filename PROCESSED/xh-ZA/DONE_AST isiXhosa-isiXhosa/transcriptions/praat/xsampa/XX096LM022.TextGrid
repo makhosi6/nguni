@@ -1,0 +1,60 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 6.3600000000000003 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 6.3600000000000003 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.13349373025460123 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.13349373025460123 
+            xmax = 1.9560688490587843 
+            text = "(u) inqaku 0 ($)three(/$) ibinzana (/u)" 
+        intervals [3]:
+            xmin = 1.9560688490587843 
+            xmax = 1.9908635803590542 
+            text = "0" 
+        intervals [4]:
+            xmin = 1.9908635803590542 
+            xmax = 4.3268033469662637 
+            text = "(s) kumele ukuba 0 ubhukishe (/s)" 
+        intervals [5]:
+            xmin = 4.3268033469662637 
+            xmax = 6.3600000000000003 
+            text = "0" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 6.3600000000000003 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.13349373025460123 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.13349373025460123 
+            xmax = 1.9560688490587843 
+            text = "(u) i!\~ak_>u 0 ($)Tri:(/$) ib_<ind-\zana (/u)" 
+        intervals [3]:
+            xmin = 1.9560688490587843 
+            xmax = 1.9908635803590542 
+            text = "0" 
+        intervals [4]:
+            xmin = 1.9908635803590542 
+            xmax = 4.3268033469662637 
+            text = "(s) k_>umElE uk_>ub_<a 0 ub_0uk_>iSE (/s)" 
+        intervals [5]:
+            xmin = 4.3268033469662637 
+            xmax = 6.3600000000000003 
+            text = "0" 

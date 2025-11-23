@@ -1,0 +1,60 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 11.891999999999999 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic"
+        xmin = 0 
+        xmax = 11.891999999999999 
+        intervals: size = 5
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.50311888073394495 
+            text = "[sta]" 
+        intervals [2]:
+            xmin = 0.50311888073394495 
+            xmax = 2.4596466045215659 
+            text = "(u) [int] inambari yemfonomfono [/int] (/u)" 
+        intervals [3]:
+            xmin = 2.4596466045215659 
+            xmax = 3.562182530436131 
+            text = "[sta]" 
+        intervals [4]:
+            xmin = 3.562182530436131 
+            xmax = 8.8904189578927131 
+            text = "(s) [int] ngu ($)zero zero five 0 three nine four 0 eight seven five nine(/$) [/int] (/s)" 
+        intervals [5]:
+            xmin = 8.8904189578927131 
+            xmax = 11.891999999999999 
+            text = "[int]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 11.891999999999999 
+        intervals: size = 5
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.50311888073394495 
+            text = "[sta]"
+        intervals [2]:
+            xmin = 0.50311888073394495 
+            xmax = 2.4596466045215659 
+            text = "(u) [int] inambari jEmfOnOmfOnO [/int] (/u)"
+        intervals [3]:
+            xmin = 2.4596466045215659 
+            xmax = 3.562182530436131 
+            text = "[sta]"
+        intervals [4]:
+            xmin = 3.562182530436131 
+            xmax = 8.8904189578927131 
+            text = "(s) [int] Ngu ($)zirO zirO fa-\if 0 tri na-\in fO 0 E-\It sEv@n fa-\if na-\in(/$) [/int] (/s)"
+        intervals [5]:
+            xmin = 8.8904189578927131 
+            xmax = 11.891999999999999 
+            text = "[int]"

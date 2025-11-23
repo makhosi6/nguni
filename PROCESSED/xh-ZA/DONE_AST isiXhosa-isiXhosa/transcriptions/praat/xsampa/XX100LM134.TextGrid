@@ -1,0 +1,52 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 6.6840000000000002 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 6.6840000000000002 
+        intervals: size = 4 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.76421528122347038 
+            text = "(u) ~lipelwayo (/u)" 
+        intervals [2]:
+            xmin = 0.76421528122347038 
+            xmax = 0.89969578448548237 
+            text = "0" 
+        intervals [3]:
+            xmin = 0.89969578448548237 
+            xmax = 4.7722971506352083 
+            text = "(u) /U/ 0 /M/ 0 /F/ 0 /I/ 0 /M/ 0 /B/ 0 /O/ (/u)" 
+        intervals [4]:
+            xmin = 4.7722971506352083 
+            xmax = 6.6840000000000002 
+            text = "0" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 6.6840000000000002 
+        intervals: size = 4 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.76421528122347038 
+            text = "(u) lip_>ElwajO (/u)" 
+        intervals [2]:
+            xmin = 0.76421528122347038 
+            xmax = 0.89969578448548237 
+            text = "0" 
+        intervals [3]:
+            xmin = 0.89969578448548237 
+            xmax = 4.7722971506352083 
+            text = "(u) u 0 m 0 f 0 i 0 m 0 b_< 0 O (/u)" 
+        intervals [4]:
+            xmin = 4.7722971506352083 
+            xmax = 6.6840000000000002 
+            text = "0" 

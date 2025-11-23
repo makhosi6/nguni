@@ -1,0 +1,68 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 5.1239999999999997 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 5.1239999999999997 
+        intervals: size = 6 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.17430575309798579 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.17430575309798579 
+            xmax = 1.0577898185117967 
+            text = "[int]" 
+        intervals [3]:
+            xmin = 1.0577898185117967 
+            xmax = 2.2148745735027218 
+            text = "(s) ndihlala eMthatha (/s)" 
+        intervals [4]:
+            xmin = 2.2148745735027218 
+            xmax = 3.0854108078184219 
+            text = "[int]" 
+        intervals [5]:
+            xmin = 3.0854108078184219 
+            xmax = 4.3851162968956263 
+            text = "0" 
+        intervals [6]:
+            xmin = 4.3851162968956263 
+            xmax = 5.1239999999999997 
+            text = "[sta]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 5.1239999999999997 
+        intervals: size = 6 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.17430575309798579 
+            text = "0"
+        intervals [2]:
+            xmin = 0.17430575309798579 
+            xmax = 1.0577898185117967 
+            text = "[int]"
+        intervals [3]:
+            xmin = 1.0577898185117967 
+            xmax = 2.2148745735027218 
+            text = "(s) ndiKala Emt_hat_h (/s)"
+        intervals [4]:
+            xmin = 2.2148745735027218 
+            xmax = 3.0854108078184219 
+            text = "[int]"
+        intervals [5]:
+            xmin = 3.0854108078184219 
+            xmax = 4.3851162968956263 
+            text = "0"
+        intervals [6]:
+            xmin = 4.3851162968956263 
+            xmax = 5.1239999999999997 
+            text = "[sta]"

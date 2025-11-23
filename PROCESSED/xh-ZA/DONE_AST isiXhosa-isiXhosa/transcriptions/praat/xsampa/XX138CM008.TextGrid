@@ -1,0 +1,52 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 5.6879999999999997 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 5.6879999999999997 
+        intervals: size = 4
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.66489000315594926 
+            text = "(u) ~osa (/u)" 
+        intervals [2]:
+            xmin = 0.66489000315594926 
+            xmax = 1.6623984254040212 
+            text = "[sta]"
+        intervals [3]:
+            xmin = 1.6623984254040212 
+            xmax = 3.6384476220605895 
+            text = "(u) [sta] ulwimi lam 0 lwesiXhosa [/sta] (/u)" 
+        intervals [4]:
+            xmin = 3.6384476220605895 
+            xmax = 5.6879999999999997 
+            text = "0" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 5.6879999999999997 
+        intervals: size = 4
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.66489000315594926 
+            text = "(u) Osa (/u)" 
+        intervals [2]:
+            xmin = 0.66489000315594926 
+            xmax = 1.6623984254040212 
+            text = "[sta]"
+        intervals [3]:
+            xmin = 1.6623984254040212 
+            xmax = 3.6384476220605895 
+            text = "(u) [sta] ulwimi lam 0 lwesi|\|\_hOsa [/sta] (/u)" 
+        intervals [4]:
+            xmin = 3.6384476220605895 
+            xmax = 5.6879999999999997 
+            text = "0" 

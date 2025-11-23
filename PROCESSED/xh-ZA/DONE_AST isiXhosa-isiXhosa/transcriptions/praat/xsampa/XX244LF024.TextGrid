@@ -1,0 +1,52 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 14.124000000000001 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 14.124000000000001 
+        intervals: size = 4 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.18029316846430693 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.18029316846430693 
+            xmax = 12.096459415699412 
+            text = "(u) isihlanu 0 isithathu 0 ithoba 0 isine isibini isithandathu isixhenxe 0 isibhozo 0 isinye 0 u ($)naught(/$) (/u)" 
+        intervals [3]:
+            xmin = 12.096459415699412 
+            xmax = 13.547249870976231 
+            text = "[int]" 
+        intervals [4]:
+            xmin = 13.547249870976231 
+            xmax = 14.124000000000001 
+            text = "0" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 14.124000000000001 
+        intervals: size = 4 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.18029316846430693 
+            text = "0"
+        intervals [2]:
+            xmin = 0.18029316846430693 
+            xmax = 12.096459415699412 
+            text = "(u) isiKa:nu 0 isit_ha:t_hu 0 it_hOb_<a 0 isinE isib_<ini isit_handat_hu isi|\|\_hE|\|\~E 0 isib_0OzO 0 isi:JE 0 u ($)nQt(/$) (/u)"
+        intervals [3]:
+            xmin = 12.096459415699412 
+            xmax = 13.547249870976231 
+            text = "[int]"
+        intervals [4]:
+            xmin = 13.547249870976231 
+            xmax = 14.124000000000001 
+            text = "0"

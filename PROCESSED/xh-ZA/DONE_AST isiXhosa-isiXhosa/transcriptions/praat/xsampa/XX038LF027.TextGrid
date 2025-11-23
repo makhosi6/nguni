@@ -1,0 +1,36 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 5.556 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 5.556 
+        intervals: size = 2 
+        intervals [1]:
+            xmin = 0 
+            xmax = 2.5129366942175415 
+            text = "(s) ~nenekazi lahlala kwisitulo salo (/s)" 
+        intervals [2]:
+            xmin = 2.5129366942175415 
+            xmax = 5.556 
+            text = "0" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 5.556 
+        intervals: size = 2 
+        intervals [1]:
+            xmin = 0 
+            xmax = 2.5129366942175415 
+            text = "(s) nEnEk_>azi laKala k_>wisit_>ulO salO (/s)" 
+        intervals [2]:
+            xmin = 2.5129366942175415 
+            xmax = 5.556 
+            text = "0" 

@@ -1,0 +1,60 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 4.7759999999999998 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 4.7759999999999998 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.050114651293686592 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.050114651293686592 
+            xmax = 1.5676086197154437 
+            text = "(u) [int] igama 0 ibinzana [/int] (/u)" 
+        intervals [3]:
+            xmin = 1.5676086197154437 
+            xmax = 2.1500312895293416 
+            text = "[sta]" 
+        intervals [4]:
+            xmin = 2.1500312895293416 
+            xmax = 2.816343678847185 
+            text = "(s) [int] phinda [/int] (/s)" 
+        intervals [5]:
+            xmin = 2.816343678847185 
+            xmax = 4.7759999999999998 
+            text = "[sta]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 4.7759999999999998 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.050114651293686592 
+            text = "0"
+        intervals [2]:
+            xmin = 0.050114651293686592 
+            xmax = 1.5676086197154437 
+            text = "(u) [int] igama 0 ib_<ind-\zana [/int] (/u)"
+        intervals [3]:
+            xmin = 1.5676086197154437 
+            xmax = 2.1500312895293416 
+            text = "[sta]"
+        intervals [4]:
+            xmin = 2.1500312895293416 
+            xmax = 2.816343678847185 
+            text = "(s) [int] p_hinda [/int] (/s)"
+        intervals [5]:
+            xmin = 2.816343678847185 
+            xmax = 4.7759999999999998 
+            text = "[sta]"

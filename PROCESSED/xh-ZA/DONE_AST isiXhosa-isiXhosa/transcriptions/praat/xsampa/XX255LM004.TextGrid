@@ -1,0 +1,84 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 5.1120000000000001 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 5.1120000000000001 
+        intervals: size = 8
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.24793347433185925 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.24793347433185925 
+            xmax = 0.88115905781300652 
+            text = "(u) [int] indoda [/int] (/u)"
+        intervals [3]:
+            xmin = 0.88115905781300652 
+            xmax = 1.3535188596564691 
+            text = "[sta]" 
+        intervals [4]:
+            xmin = 1.3535188596564691 
+            xmax = 1.8294844615140038 
+            text = "[spk]" 
+        intervals [5]:
+            xmin = 1.8294844615140038 
+            xmax = 2.5586790180022465 
+            text = "(s) [sta] ndiyindoda [/sta] (/s)" 
+        intervals [6]:
+            xmin = 2.5586790180022465 
+            xmax = 3.5288196040268458 
+            text = "[spk]" 
+        intervals [7]:
+            xmin = 3.5288196040268458 
+            xmax = 3.8413720872483221 
+            text = "0" 
+        intervals [8]:
+            xmin = 3.8413720872483221 
+            xmax = 5.1120000000000001 
+            text = "[int]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 5.1120000000000001 
+        intervals: size = 8
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.24793347433185925 
+            text = "0"
+        intervals [2]:
+            xmin = 0.24793347433185925 
+            xmax = 0.88115905781300652 
+            text = "(u) [int] ndOd_0a [/int] (/u)"
+        intervals [3]:
+            xmin = 0.88115905781300652 
+            xmax = 1.3535188596564691 
+            text = "[sta]"
+        intervals [4]:
+            xmin = 1.3535188596564691 
+            xmax = 1.8294844615140038 
+            text = "[spk]"
+        intervals [5]:
+            xmin = 1.8294844615140038 
+            xmax = 2.5586790180022465 
+            text = "(s) [sta] ndijindOd_0a [/sta] (/s)"
+        intervals [6]:
+            xmin = 2.5586790180022465 
+            xmax = 3.5288196040268458 
+            text = "[spk]"
+        intervals [7]:
+            xmin = 3.5288196040268458 
+            xmax = 3.8413720872483221 
+            text = "0"
+        intervals [8]:
+            xmin = 3.8413720872483221 
+            xmax = 5.1120000000000001 
+            text = "[int]"

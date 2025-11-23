@@ -1,0 +1,60 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 5.04 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic"
+        xmin = 0 
+        xmax = 5.04 
+        intervals: size = 5
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.058996954027059574 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.058996954027059574 
+            xmax = 0.40670539066373884 
+            text = "[sta]" 
+        intervals [3]:
+            xmin = 0.40670539066373884 
+            xmax = 1.1748000843229569 
+            text = "[int]" 
+        intervals [4]:
+            xmin = 1.1748000843229569 
+            xmax = 3.3892710915916986 
+            text = "(u) i ($)Eastgate(/$) (/u)" 
+        intervals [5]:
+            xmin = 3.3892710915916986 
+            xmax = 5.04 
+            text = "[sta]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 5.04 
+        intervals: size = 5
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.058996954027059574 
+            text = "0"
+        intervals [2]:
+            xmin = 0.058996954027059574 
+            xmax = 0.40670539066373884 
+            text = "[sta]"
+        intervals [3]:
+            xmin = 0.40670539066373884 
+            xmax = 1.1748000843229569 
+            text = "[int]"
+        intervals [4]:
+            xmin = 1.1748000843229569 
+            xmax = 3.3892710915916986 
+            text = "(u) i ($)istge-\It(/$) (/u)"
+        intervals [5]:
+            xmin = 3.3892710915916986 
+            xmax = 5.04 
+            text = "[sta]"

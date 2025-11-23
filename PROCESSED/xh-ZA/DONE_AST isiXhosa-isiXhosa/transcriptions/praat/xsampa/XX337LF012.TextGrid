@@ -1,0 +1,60 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 4.548 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 4.548 
+        intervals: size = 5
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.74570784589786254 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.74570784589786254 
+            xmax = 1.0387486897623806 
+            text = "[int]" 
+        intervals [3]:
+            xmin = 1.0387486897623806 
+            xmax = 2.5294241614826616 
+            text = "(u) [int] e ($)police camp(/$) [/int] (/u)" 
+        intervals [4]:
+            xmin = 2.5294241614826616 
+            xmax = 3.4390459029822096 
+            text = "0" 
+        intervals [5]:
+            xmin = 3.4390459029822096 
+            xmax = 4.548 
+            text = "[int]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 4.548 
+        intervals: size = 5
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.74570784589786254 
+            text = "0"
+        intervals [2]:
+            xmin = 0.74570784589786254 
+            xmax = 1.0387486897623806 
+            text = "[int]"
+        intervals [3]:
+            xmin = 1.0387486897623806 
+            xmax = 2.5294241614826616 
+            text = "(u) [int] E ($)pQlis k{mp_>(/$) [/int] (/u)"
+        intervals [4]:
+            xmin = 2.5294241614826616 
+            xmax = 3.4390459029822096 
+            text = "0"
+        intervals [5]:
+            xmin = 3.4390459029822096 
+            xmax = 4.548 
+            text = "[int]"

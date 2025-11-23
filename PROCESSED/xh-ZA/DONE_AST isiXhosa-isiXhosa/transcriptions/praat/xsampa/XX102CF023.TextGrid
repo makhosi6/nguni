@@ -1,0 +1,68 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 4.2240000000000002 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic"
+        xmin = 0 
+        xmax = 4.2240000000000002 
+        intervals: size = 6
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.36028537022232571 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.36028537022232571 
+            xmax = 0.48980216355154382 
+            text = "[spk]" 
+        intervals [3]:
+            xmin = 0.48980216355154382 
+            xmax = 0.61931895688076188 
+            text = "[int]" 
+        intervals [4]:
+            xmin = 0.61931895688076188 
+            xmax = 1.1956686871957822 
+            text = "(u) [sta] ($)zero(/$) [/sta] (/u)" 
+        intervals [5]:
+            xmin = 1.1956686871957822 
+            xmax = 1.4611781135206796 
+            text = "[sta]" 
+        intervals [6]:
+            xmin = 1.4611781135206796 
+            xmax = 4.2240000000000002 
+            text = "0" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 4.2240000000000002 
+        intervals: size = 6
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.36028537022232571 
+            text = "0"
+        intervals [2]:
+            xmin = 0.36028537022232571 
+            xmax = 0.48980216355154382 
+            text = "[spk]"
+        intervals [3]:
+            xmin = 0.48980216355154382 
+            xmax = 0.61931895688076188 
+            text = "[int]"
+        intervals [4]:
+            xmin = 0.61931895688076188 
+            xmax = 1.1956686871957822 
+            text = "(u) [sta] ($)zirO(/$) [/sta] (/u)"
+        intervals [5]:
+            xmin = 1.1956686871957822 
+            xmax = 1.4611781135206796 
+            text = "[sta]"
+        intervals [6]:
+            xmin = 1.4611781135206796 
+            xmax = 4.2240000000000002 
+            text = "0"

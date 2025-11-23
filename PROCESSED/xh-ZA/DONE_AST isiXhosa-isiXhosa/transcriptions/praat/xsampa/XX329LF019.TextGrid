@@ -1,0 +1,52 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 5.5439999999999996 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 5.5439999999999996 
+        intervals: size = 4 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.6764192541999203 
+            text = "(s) ~benzisa imfonomfono enomnxeba (/s)" 
+        intervals [2]:
+            xmin = 1.6764192541999203 
+            xmax = 2.0029164194231739 
+            text = "0" 
+        intervals [3]:
+            xmin = 2.0029164194231739 
+            xmax = 4.0786027351218212 
+            text = "[spk]" 
+        intervals [4]:
+            xmin = 4.0786027351218212 
+            xmax = 5.5439999999999996 
+            text = "0" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 5.5439999999999996 
+        intervals: size = 4 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.6764192541999203 
+            text = "(s) b_<end-\zisa imfOnOmfOnO EnOm|\|\~Eb_<a (/s)" 
+        intervals [2]:
+            xmin = 1.6764192541999203 
+            xmax = 2.0029164194231739 
+            text = "0" 
+        intervals [3]:
+            xmin = 2.0029164194231739 
+            xmax = 4.0786027351218212 
+            text = "[spk]" 
+        intervals [4]:
+            xmin = 4.0786027351218212 
+            xmax = 5.5439999999999996 
+            text = "0" 

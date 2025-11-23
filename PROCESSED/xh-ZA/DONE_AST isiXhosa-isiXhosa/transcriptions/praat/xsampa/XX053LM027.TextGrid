@@ -1,0 +1,60 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 5.1120000000000001 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 5.1120000000000001 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.55446189465659956 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.55446189465659956 
+            xmax = 3.0853399197936073 
+            text = "(u) unxibelelwano lweenkcukacha (/u)" 
+        intervals [3]:
+            xmin = 3.0853399197936073 
+            xmax = 3.4984672468580129 
+            text = "[spk]" 
+        intervals [4]:
+            xmin = 3.4984672468580129 
+            xmax = 4.5173084620662767 
+            text = "0" 
+        intervals [5]:
+            xmin = 4.5173084620662767 
+            xmax = 5.1120000000000001 
+            text = "[sta]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 5.1120000000000001 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.55446189465659956 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.55446189465659956 
+            xmax = 3.0853399197936073 
+            text = "(u) u|\|\~ib_<ElElwanO lwE:N|\uk_>a|\_ha (/u)" 
+        intervals [3]:
+            xmin = 3.0853399197936073 
+            xmax = 3.4984672468580129 
+            text = "[spk]" 
+        intervals [4]:
+            xmin = 3.4984672468580129 
+            xmax = 4.5173084620662767 
+            text = "0" 
+        intervals [5]:
+            xmin = 4.5173084620662767 
+            xmax = 5.1120000000000001 
+            text = "[sta]" 

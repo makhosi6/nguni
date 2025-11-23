@@ -1,0 +1,262 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0
+xmax = 3.460000
+tiers? <exists>
+size = 5
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "segment"
+		xmin = 0
+		xmax = 3.460000
+		intervals: size = 27
+		intervals [1]:
+			xmin = 0.000000
+			xmax = 0.220000
+			text = "pau"
+		intervals [2]:
+			xmin = 0.220000
+			xmax = 0.310000
+			text = "eng_t"
+		intervals [3]:
+			xmin = 0.310000
+			xmax = 0.410000
+			text = "eng_u"
+		intervals [4]:
+			xmin = 0.410000
+			xmax = 0.520000
+			text = "eng_s"
+		intervals [5]:
+			xmin = 0.520000
+			xmax = 0.585000
+			text = "eng_ʌ"
+		intervals [6]:
+			xmin = 0.585000
+			xmax = 0.705000
+			text = "eng_tʃ"
+		intervals [7]:
+			xmin = 0.705000
+			xmax = 0.815000
+			text = "eng_tʃ"
+		intervals [8]:
+			xmin = 0.815000
+			xmax = 0.960000
+			text = "eng_ɜ"
+		intervals [9]:
+			xmin = 0.960000
+			xmax = 1.075000
+			text = "eng_tʃ"
+		intervals [10]:
+			xmin = 1.075000
+			xmax = 1.205000
+			text = "eng_ə"
+		intervals [11]:
+			xmin = 1.205000
+			xmax = 1.360000
+			text = "eng_s"
+		intervals [12]:
+			xmin = 1.360000
+			xmax = 1.675000
+			text = "pau"
+		intervals [13]:
+			xmin = 1.675000
+			xmax = 1.820000
+			text = "eng_n"
+		intervals [14]:
+			xmin = 1.820000
+			xmax = 2.040000
+			text = "eng_əʊ"
+		intervals [15]:
+			xmin = 2.040000
+			xmax = 2.180000
+			text = "eng_ɛ"
+		intervals [16]:
+			xmin = 2.180000
+			xmax = 2.270000
+			text = "eng_m"
+		intervals [17]:
+			xmin = 2.270000
+			xmax = 2.390000
+			text = "eng_p"
+		intervals [18]:
+			xmin = 2.390000
+			xmax = 2.485000
+			text = "eng_aɪ"
+		intervals [19]:
+			xmin = 2.485000
+			xmax = 2.550000
+			text = "eng_ə"
+		intervals [20]:
+			xmin = 2.550000
+			xmax = 2.575000
+			text = "eng_ɹ"
+		intervals [21]:
+			xmin = 2.575000
+			xmax = 2.670000
+			text = "eng_k"
+		intervals [22]:
+			xmin = 2.670000
+			xmax = 2.730000
+			text = "eng_ʊ"
+		intervals [23]:
+			xmin = 2.730000
+			xmax = 2.755000
+			text = "eng_d"
+		intervals [24]:
+			xmin = 2.755000
+			xmax = 2.890000
+			text = "eng_b"
+		intervals [25]:
+			xmin = 2.890000
+			xmax = 3.115000
+			text = "eng_ɛə"
+		intervals [26]:
+			xmin = 3.115000
+			xmax = 3.150000
+			text = "eng_ɹ"
+		intervals [27]:
+			xmin = 3.150000
+			xmax = 3.460000
+			text = "pau"
+	item [2]:
+		class = "IntervalTier"
+		name = "syllable"
+		xmin = 0
+		xmax = 3.460000
+		intervals: size = 13
+		intervals [1]:
+			xmin = 0.000000
+			xmax = 0.220000
+			text = "NONE"
+		intervals [2]:
+			xmin = 0.220000
+			xmax = 0.410000
+			text = "syl"
+		intervals [3]:
+			xmin = 0.410000
+			xmax = 0.705000
+			text = "syl"
+		intervals [4]:
+			xmin = 0.705000
+			xmax = 0.960000
+			text = "syl"
+		intervals [5]:
+			xmin = 0.960000
+			xmax = 1.360000
+			text = "syl"
+		intervals [6]:
+			xmin = 1.360000
+			xmax = 1.675000
+			text = "NONE"
+		intervals [7]:
+			xmin = 1.675000
+			xmax = 2.040000
+			text = "syl"
+		intervals [8]:
+			xmin = 2.040000
+			xmax = 2.270000
+			text = "syl"
+		intervals [9]:
+			xmin = 2.270000
+			xmax = 2.485000
+			text = "syl"
+		intervals [10]:
+			xmin = 2.485000
+			xmax = 2.575000
+			text = "syl"
+		intervals [11]:
+			xmin = 2.575000
+			xmax = 2.755000
+			text = "syl"
+		intervals [12]:
+			xmin = 2.755000
+			xmax = 3.150000
+			text = "syl"
+		intervals [13]:
+			xmin = 3.150000
+			xmax = 3.460000
+			text = "NONE"
+	item [3]:
+		class = "IntervalTier"
+		name = "word"
+		xmin = 0
+		xmax = 3.460000
+		intervals: size = 10
+		intervals [1]:
+			xmin = 0.000000
+			xmax = 0.220000
+			text = "NONE"
+		intervals [2]:
+			xmin = 0.220000
+			xmax = 0.410000
+			text = "two"
+		intervals [3]:
+			xmin = 0.410000
+			xmax = 0.705000
+			text = "such"
+		intervals [4]:
+			xmin = 0.705000
+			xmax = 1.360000
+			text = "churches"
+		intervals [5]:
+			xmin = 1.360000
+			xmax = 1.675000
+			text = "NONE"
+		intervals [6]:
+			xmin = 1.675000
+			xmax = 2.040000
+			text = "no"
+		intervals [7]:
+			xmin = 2.040000
+			xmax = 2.575000
+			text = "empire"
+		intervals [8]:
+			xmin = 2.575000
+			xmax = 2.755000
+			text = "could"
+		intervals [9]:
+			xmin = 2.755000
+			xmax = 3.150000
+			text = "bear"
+		intervals [10]:
+			xmin = 3.150000
+			xmax = 3.460000
+			text = "NONE"
+	item [4]:
+		class = "IntervalTier"
+		name = "phrase"
+		xmin = 0
+		xmax = 3.460000
+		intervals: size = 5
+		intervals [1]:
+			xmin = 0.000000
+			xmax = 0.220000
+			text = "NONE"
+		intervals [2]:
+			xmin = 0.220000
+			xmax = 1.360000
+			text = "BB"
+		intervals [3]:
+			xmin = 1.360000
+			xmax = 1.675000
+			text = "NONE"
+		intervals [4]:
+			xmin = 1.675000
+			xmax = 3.150000
+			text = "BB"
+		intervals [5]:
+			xmin = 3.150000
+			xmax = 3.460000
+			text = "NONE"
+	item [5]:
+		class = "IntervalTier"
+		name = "text"
+		xmin = 0
+		xmax = 3.460000
+		intervals: size = 1
+		intervals [1]:
+			xmin = 0.000000
+			xmax = 3.460000
+			text = "|two |such |churches, |no |empire |could |bear."

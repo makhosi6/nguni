@@ -1,0 +1,60 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 5.2560000000000002 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 5.2560000000000002 
+        intervals: size = 5
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.093757415072000319 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.093757415072000319 
+            xmax = 0.41607761665266807 
+            text = "[spk]" 
+        intervals [3]:
+            xmin = 0.41607761665266807 
+            xmax = 3.2024252416107384 
+            text = "(s) sifuna ukubhukishela abantu ababini (/s)" 
+        intervals [4]:
+            xmin = 3.2024252416107384 
+            xmax = 4.8069273116504956 
+            text = "0" 
+        intervals [5]:
+            xmin = 4.8069273116504956 
+            xmax = 5.2560000000000002 
+            text = "[int]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 5.2560000000000002 
+        intervals: size = 5
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.093757415072000319 
+            text = "0"
+        intervals [2]:
+            xmin = 0.093757415072000319 
+            xmax = 0.41607761665266807 
+            text = "[spk]"
+        intervals [3]:
+            xmin = 0.41607761665266807 
+            xmax = 3.2024252416107384 
+            text = "(s) sifuna uk_>ub_0uk_>iSEla ab_<ant_>u ab_<ab_<ini (/s)"
+        intervals [4]:
+            xmin = 3.2024252416107384 
+            xmax = 4.8069273116504956 
+            text = "0"
+        intervals [5]:
+            xmin = 4.8069273116504956 
+            xmax = 5.2560000000000002 
+            text = "[int]"

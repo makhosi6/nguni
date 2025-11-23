@@ -1,0 +1,84 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 11.904 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 11.904 
+        intervals: size = 8 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.31527685868048644 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.31527685868048644 
+            xmax = 1.9461044535969805 
+            text = "[spk]" 
+        intervals [3]:
+            xmin = 1.9461044535969805 
+            xmax = 2.8060502884339957 
+            text = "(u) ($)past five(/$) (/u)" 
+        intervals [4]:
+            xmin = 2.8060502884339957 
+            xmax = 5.6326233619040877 
+            text = "0" 
+        intervals [5]:
+            xmin = 5.6326233619040877 
+            xmax = 8.1328861858549484 
+            text = "[int]" 
+        intervals [6]:
+            xmin = 8.1328861858549484 
+            xmax = 8.8356012140325912 
+            text = "(u) ($)past five(/$) (/u)" 
+        intervals [7]:
+            xmin = 8.8356012140325912 
+            xmax = 11.107651443548306 
+            text = "0" 
+        intervals [8]:
+            xmin = 11.107651443548306 
+            xmax = 11.904 
+            text = "[sta]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 11.904 
+        intervals: size = 8 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.31527685868048644 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.31527685868048644 
+            xmax = 1.9461044535969805 
+            text = "[spk]" 
+        intervals [3]:
+            xmin = 1.9461044535969805 
+            xmax = 2.8060502884339957 
+            text = "(u) ($)pas fa-\if(/$) (/u)" 
+        intervals [4]:
+            xmin = 2.8060502884339957 
+            xmax = 5.6326233619040877 
+            text = "0" 
+        intervals [5]:
+            xmin = 5.6326233619040877 
+            xmax = 8.1328861858549484 
+            text = "[int]" 
+        intervals [6]:
+            xmin = 8.1328861858549484 
+            xmax = 8.8356012140325912 
+            text = "(u) ($)pas fa-\if(/$) (/u)" 
+        intervals [7]:
+            xmin = 8.8356012140325912 
+            xmax = 11.107651443548306 
+            text = "0" 
+        intervals [8]:
+            xmin = 11.107651443548306 
+            xmax = 11.904 
+            text = "[sta]" 

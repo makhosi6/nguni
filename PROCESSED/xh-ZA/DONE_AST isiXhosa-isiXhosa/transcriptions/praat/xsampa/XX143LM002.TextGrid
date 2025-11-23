@@ -1,0 +1,84 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 9.8279999999999994 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 9.8279999999999994 
+        intervals: size = 8 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.054774598002408421 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.054774598002408421 
+            xmax = 2.0436668555642132 
+            text = "[int]" 
+        intervals [3]:
+            xmin = 2.0436668555642132 
+            xmax = 3.1673501576966143 
+            text = "(u) [int] Cikizwa 0 Voyi [/int] (/u)" 
+        intervals [4]:
+            xmin = 3.1673501576966143 
+            xmax = 3.7379220615487538 
+            text = "0" 
+        intervals [5]:
+            xmin = 3.7379220615487538 
+            xmax = 5.1277766991372991 
+            text = "[int]" 
+        intervals [6]:
+            xmin = 5.1277766991372991 
+            xmax = 6.8293469295302014 
+            text = "(s) inambari ngu ($)one four 0 three(/$) (/s)" 
+        intervals [7]:
+            xmin = 6.8293469295302014 
+            xmax = 8.0103436282496272 
+            text = "0" 
+        intervals [8]:
+            xmin = 8.0103436282496272 
+            xmax = 9.8279999999999994 
+            text = "[int]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 9.8279999999999994 
+        intervals: size = 8 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.054774598002408421 
+            text = "0"
+        intervals [2]:
+            xmin = 0.054774598002408421 
+            xmax = 2.0436668555642132 
+            text = "[int]"
+        intervals [3]:
+            xmin = 2.0436668555642132 
+            xmax = 3.1673501576966143 
+            text = "(u) [int] |\ik_>izwa 0 voji [/int] (/u)"
+        intervals [4]:
+            xmin = 3.1673501576966143 
+            xmax = 3.7379220615487538 
+            text = "0"
+        intervals [5]:
+            xmin = 3.7379220615487538 
+            xmax = 5.1277766991372991 
+            text = "[int]"
+        intervals [6]:
+            xmin = 5.1277766991372991 
+            xmax = 6.8293469295302014 
+            text = "(s) inambari Ngu ($)wan fO 0 tri(/$) (/s)"
+        intervals [7]:
+            xmin = 6.8293469295302014 
+            xmax = 8.0103436282496272 
+            text = "0"
+        intervals [8]:
+            xmin = 8.0103436282496272 
+            xmax = 9.8279999999999994 
+            text = "[int]"

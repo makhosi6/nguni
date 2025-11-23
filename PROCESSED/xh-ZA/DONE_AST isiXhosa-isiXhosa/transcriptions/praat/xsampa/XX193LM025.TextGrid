@@ -1,0 +1,92 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 13.8965 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 13.8965 
+        intervals: size = 9 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.88703233057407982 
+            text = "[int]" 
+        intervals [2]:
+            xmin = 0.88703233057407982 
+            xmax = 1.8595574438016518 
+            text = "(u) [int] ibinzana [/int] (/u)" 
+        intervals [3]:
+            xmin = 1.8595574438016518 
+            xmax = 2.6464882128319065 
+            text = "[int]" 
+        intervals [4]:
+            xmin = 2.6464882128319065 
+            xmax = 8.6130967482196237 
+            text = "(s) [int] ndicela 0 ukubuza 0 malunga 0 *nedem+ 0 *nedemokrasi [/int]" 
+        intervals [5]:
+            xmin = 8.6130967482196237 
+            xmax = 9.6327158093302057 
+            text = "[sta]" 
+        intervals [6]:
+            xmin = 9.6327158093302057 
+            xmax = 10.078799148566086 
+            text = "[ext]" 
+        intervals [7]:
+            xmin = 10.078799148566086 
+            xmax = 11.480775357593137 
+            text = "[int]" 
+        intervals [8]:
+            xmin = 11.480775357593137 
+            xmax = 12.327713836660966 
+            text = "edarekthri (/s)" 
+        intervals [9]:
+            xmin = 12.327713836660966 
+            xmax = 13.8965 
+            text = "[int]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 13.8965 
+        intervals: size = 9 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.88703233057407982 
+            text = "[int]"
+        intervals [2]:
+            xmin = 0.88703233057407982 
+            xmax = 1.8595574438016518 
+            text = "(u) [int] ib_<ind-\zan [/int] (/u)"
+        intervals [3]:
+            xmin = 1.8595574438016518 
+            xmax = 2.6464882128319065 
+            text = "[int]"
+        intervals [4]:
+            xmin = 2.6464882128319065 
+            xmax = 8.6130967482196237 
+            text = "(s) [int] ndi|\Ela 0 uk_>ub_<uza 0 maluNga 0 nEd_0Em 0 nEd_0EmOkrat_>r [/int]"
+        intervals [5]:
+            xmin = 8.6130967482196237 
+            xmax = 9.6327158093302057 
+            text = "[sta]"
+        intervals [6]:
+            xmin = 9.6327158093302057 
+            xmax = 10.078799148566086 
+            text = "[ext]"
+        intervals [7]:
+            xmin = 10.078799148566086 
+            xmax = 11.480775357593137 
+            text = "[int]"
+        intervals [8]:
+            xmin = 11.480775357593137 
+            xmax = 12.327713836660966 
+            text = "Ed_0arek_ht_hr (/s)"
+        intervals [9]:
+            xmin = 12.327713836660966 
+            xmax = 13.8965 
+            text = "[int]"

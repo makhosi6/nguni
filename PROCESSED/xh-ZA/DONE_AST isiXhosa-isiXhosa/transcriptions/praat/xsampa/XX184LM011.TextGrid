@@ -1,0 +1,84 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 4.7999999999999998 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 4.7999999999999998 
+        intervals: size = 8 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.13117214652600501 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.13117214652600501 
+            xmax = 0.74657316560555276 
+            text = "[sta]" 
+        intervals [3]:
+            xmin = 0.74657316560555276 
+            xmax = 1.0505664400906305 
+            text = "[int]" 
+        intervals [4]:
+            xmin = 1.0505664400906305 
+            xmax = 1.2066466704359244 
+            text = "[spk]" 
+        intervals [5]:
+            xmin = 1.2066466704359244 
+            xmax = 2.7929669157977841 
+            text = "(u) ($)Klapmuts(/$) 0 eKapa (/u)" 
+        intervals [6]:
+            xmin = 2.7929669157977841 
+            xmax = 3.6011441577215275 
+            text = "[int]" 
+        intervals [7]:
+            xmin = 3.6011441577215275 
+            xmax = 4.542781861614329 
+            text = "0" 
+        intervals [8]:
+            xmin = 4.542781861614329 
+            xmax = 4.7999999999999998 
+            text = "[sta]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 4.7999999999999998 
+        intervals: size = 8 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.13117214652600501 
+            text = "0"
+        intervals [2]:
+            xmin = 0.13117214652600501 
+            xmax = 0.74657316560555276 
+            text = "[sta]"
+        intervals [3]:
+            xmin = 0.74657316560555276 
+            xmax = 1.0505664400906305 
+            text = "[int]"
+        intervals [4]:
+            xmin = 1.0505664400906305 
+            xmax = 1.2066466704359244 
+            text = "[spk]"
+        intervals [5]:
+            xmin = 1.2066466704359244 
+            xmax = 2.7929669157977841 
+            text = "(u) ($)k_>lapmats(/$) 0 ek_>a:pa (/u)"
+        intervals [6]:
+            xmin = 2.7929669157977841 
+            xmax = 3.6011441577215275 
+            text = "[int]"
+        intervals [7]:
+            xmin = 3.6011441577215275 
+            xmax = 4.542781861614329 
+            text = "0"
+        intervals [8]:
+            xmin = 4.542781861614329 
+            xmax = 4.7999999999999998 
+            text = "[sta]"

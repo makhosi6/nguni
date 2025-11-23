@@ -1,0 +1,68 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 7.4039999999999999 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 7.4039999999999999 
+        intervals: size = 6 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.25940656438472598 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.25940656438472598 
+            xmax = 0.9599656947862435 
+            text = "(u) [sta] ($)oh *f+(/$) [/sta] (/u)" 
+        intervals [3]:
+            xmin = 0.9599656947862435 
+            xmax = 1.7452349260849607 
+            text = "[int]" 
+        intervals [4]:
+            xmin = 1.7452349260849607 
+            xmax = 5.9754427409514239 
+            text = "(u) ($)zero four eight five one two nine three seven six(/$) (/u)" 
+        intervals [5]:
+            xmin = 5.9754427409514239 
+            xmax = 6.2503256964753735 
+            text = "[spk]" 
+        intervals [6]:
+            xmin = 6.2503256964753735 
+            xmax = 7.4039999999999999 
+            text = "0" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 7.4039999999999999 
+        intervals: size = 6 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.25940656438472598 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.25940656438472598 
+            xmax = 0.9599656947862435 
+            text = "(u) [sta] ($)O-\u f(/$) [/sta] (/u)" 
+        intervals [3]:
+            xmin = 0.9599656947862435 
+            xmax = 1.7452349260849607 
+            text = "[int]" 
+        intervals [4]:
+            xmin = 1.7452349260849607 
+            xmax = 5.9754427409514239 
+            text = "(u) ($)zi:rO fO: E-\it fa-\if wan tu: na-\in Tri: sEvEn siks(/$) (/u)" 
+        intervals [5]:
+            xmin = 5.9754427409514239 
+            xmax = 6.2503256964753735 
+            text = "[spk]" 
+        intervals [6]:
+            xmin = 6.2503256964753735 
+            xmax = 7.4039999999999999 
+            text = "0" 

@@ -1,0 +1,52 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 7.7759999999999998 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic"
+        xmin = 0 
+        xmax = 7.7759999999999998 
+        intervals: size = 4
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.6298489834835299 
+            text = "(u) ~inzana elichaza umhla (/u)" 
+        intervals [2]:
+            xmin = 1.6298489834835299 
+            xmax = 2.3985812444253072 
+            text = "[sta]" 
+        intervals [3]:
+            xmin = 2.3985812444253072 
+            xmax = 5.7186791771861945 
+            text = "(u) ngoLwesihlanu 0 oLukhulu 0 phambi 0 kwePasika (/u)" 
+        intervals [4]:
+            xmin = 5.7186791771861945 
+            xmax = 7.7759999999999998 
+            text = "[sta]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 7.7759999999999998 
+        intervals: size = 4
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.6298489834835299 
+            text = "(u) ind-\zana eli|\_haza um=Ka (/u)"
+        intervals [2]:
+            xmin = 1.6298489834835299 
+            xmax = 2.3985812444253072 
+            text = "[sta]"
+        intervals [3]:
+            xmin = 2.3985812444253072 
+            xmax = 5.7186791771861945 
+            text = "(u) gOlwEKanu 0 oluk_hulu 0 p_hambi 0 k_>wEp_>asik_> (/u)"
+        intervals [4]:
+            xmin = 5.7186791771861945 
+            xmax = 7.7759999999999998 
+            text = "[sta]"

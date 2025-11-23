@@ -1,0 +1,52 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 38.759999999999998 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 38.759999999999998 
+        intervals: size = 4 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.075213268703386946 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.075213268703386946 
+            xmax = 2.2368927028203078 
+            text = "[int]" 
+        intervals [3]:
+            xmin = 2.2368927028203078 
+            xmax = 8.7576168147699924 
+            text = "(s) [sta] ndihlala e ($)Vineyard Street(/$) kwa ($)nine oh six(/$) eKhayamnandi [ext] kwalapha e ($)Stellenbosch(/$) [/sta] (/s)" 
+        intervals [4]:
+            xmin = 8.7576168147699924 
+            xmax = 38.759999999999998 
+            text = "[int]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 38.759999999999998 
+        intervals: size = 4 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.075213268703386946 
+            text = "0"
+        intervals [2]:
+            xmin = 0.075213268703386946 
+            xmax = 2.2368927028203078 
+            text = "[int]"
+        intervals [3]:
+            xmin = 2.2368927028203078 
+            xmax = 8.7576168147699924 
+            text = "(s) [sta] ndiKala E ($)va-\InEd stri:t(/$) k_>wa ($)na-\In O siks(/$) k_hajamnandi [ext] k_>walap_ha E ($)stEl@nbOS(/$) [/sta] (/s)"
+        intervals [4]:
+            xmin = 8.7576168147699924 
+            xmax = 38.759999999999998 
+            text = "[int]"

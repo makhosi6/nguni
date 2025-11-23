@@ -1,0 +1,68 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 13.464 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 13.464 
+        intervals: size = 6
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.54979918841518327 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.54979918841518327 
+            xmax = 1.0648141421698309 
+            text = "[int]" 
+        intervals [3]:
+            xmin = 1.0648141421698309 
+            xmax = 2.8310602853179465 
+            text = "(u) [int] Phangalele ($)senior secondary school(/$) [/int] (/u)" 
+        intervals [4]:
+            xmin = 2.8310602853179465 
+            xmax = 4.9464895819629824 
+            text = "[int]" 
+        intervals [5]:
+            xmin = 4.9464895819629824 
+            xmax = 5.4625330553840863 
+            text = "[spk]" 
+        intervals [6]:
+            xmin = 5.4625330553840863 
+            xmax = 13.464 
+            text = "[int]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 13.464 
+        intervals: size = 6
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.54979918841518327 
+            text = "0"
+        intervals [2]:
+            xmin = 0.54979918841518327 
+            xmax = 1.0648141421698309 
+            text = "[int]"
+        intervals [3]:
+            xmin = 1.0648141421698309 
+            xmax = 2.8310602853179465 
+            text = "(u) [int] p_haNgalElE ($)sinija sEkOndari skul(/$) [/int] (/u)"
+        intervals [4]:
+            xmin = 2.8310602853179465 
+            xmax = 4.9464895819629824 
+            text = "[int]"
+        intervals [5]:
+            xmin = 4.9464895819629824 
+            xmax = 5.4625330553840863 
+            text = "[spk]"
+        intervals [6]:
+            xmin = 5.4625330553840863 
+            xmax = 13.464 
+            text = "[int]"

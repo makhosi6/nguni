@@ -1,0 +1,68 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 10.032 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 10.032 
+        intervals: size = 6
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.9843631719387871 
+            text = "[sta]" 
+        intervals [2]:
+            xmin = 1.9843631719387871 
+            xmax = 4.8852689867333208 
+            text = "(u) [int] intsimbi yeshumi elinambini entloko [/int] (/u)"
+        intervals [3]:
+            xmin = 4.8852689867333208 
+            xmax = 7.0692459142472597 
+            text = "[sta]" 
+        intervals [4]:
+            xmin = 7.0692459142472597 
+            xmax = 7.3922284176119977 
+            text = "[ext]" 
+        intervals [5]:
+            xmin = 7.3922284176119977 
+            xmax = 8.9610005768121521 
+            text = "[sta]" 
+        intervals [6]:
+            xmin = 8.9610005768121521 
+            xmax = 10.032 
+            text = "0" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 10.032 
+        intervals: size = 6
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.9843631719387871 
+            text = "[sta]"
+        intervals [2]:
+            xmin = 1.9843631719387871 
+            xmax = 4.8852689867333208 
+            text = "(u) [int] int-\s_>imbi jeSumi ellambini Ent-\K_>Ok_>O [/int] (/u)"
+        intervals [3]:
+            xmin = 4.8852689867333208 
+            xmax = 7.0692459142472597 
+            text = "[sta]"
+        intervals [4]:
+            xmin = 7.0692459142472597 
+            xmax = 7.3922284176119977 
+            text = "[ext]"
+        intervals [5]:
+            xmin = 7.3922284176119977 
+            xmax = 8.9610005768121521 
+            text = "[sta]"
+        intervals [6]:
+            xmin = 8.9610005768121521 
+            xmax = 10.032 
+            text = "0"

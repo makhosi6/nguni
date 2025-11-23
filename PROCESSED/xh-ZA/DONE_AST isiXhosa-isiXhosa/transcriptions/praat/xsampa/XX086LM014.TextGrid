@@ -1,0 +1,60 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 8.0879999999999992 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 8.0879999999999992 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.058348345836681165 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.058348345836681165 
+            xmax = 0.31463033782501415 
+            text = "[sta]" 
+        intervals [3]:
+            xmin = 0.31463033782501415 
+            xmax = 6.1181425792370456 
+            text = "(u) ngomhla weshumi elinethoba 0 [spk] 0 kwinyanga kaNovemba 0 ngo ($)two thousand(/$) (/u)" 
+        intervals [4]:
+            xmin = 6.1181425792370456 
+            xmax = 6.960180035091482 
+            text = "0" 
+        intervals [5]:
+            xmin = 6.960180035091482 
+            xmax = 8.0879999999999992 
+            text = "[sta]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 8.0879999999999992 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.058348345836681165 
+            text = "0"
+        intervals [2]:
+            xmin = 0.058348345836681165 
+            xmax = 0.31463033782501415 
+            text = "[sta]"
+        intervals [3]:
+            xmin = 0.31463033782501415 
+            xmax = 6.1181425792370456 
+            text = "(u) NgOmKa weSum EnEt_hOb_<a 0 [spk] 0 k_>wiJaNga k_>anOvEmba 0 NgO ($)tu ta-\UzEnt_h(/$) (/u)"
+        intervals [4]:
+            xmin = 6.1181425792370456 
+            xmax = 6.960180035091482 
+            text = "0"
+        intervals [5]:
+            xmin = 6.960180035091482 
+            xmax = 8.0879999999999992 
+            text = "[sta]"

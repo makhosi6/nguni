@@ -1,0 +1,68 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 4.9320000000000004 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 4.9320000000000004 
+        intervals: size = 6 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.3752909255274044 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.3752909255274044 
+            xmax = 0.73888756030567915 
+            text = "[spk]" 
+        intervals [3]:
+            xmin = 0.73888756030567915 
+            xmax = 1.6602548121077294 
+            text = "(u) Mcebisi (/u)" 
+        intervals [4]:
+            xmin = 1.6602548121077294 
+            xmax = 2.1599889234312681 
+            text = "[sta]" 
+        intervals [5]:
+            xmin = 2.1599889234312681 
+            xmax = 2.8950091856033873 
+            text = "(u) Qhawula (/u)" 
+        intervals [6]:
+            xmin = 2.8950091856033873 
+            xmax = 4.9320000000000004 
+            text = "0" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 4.9320000000000004 
+        intervals: size = 6 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.3752909255274044 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.3752909255274044 
+            xmax = 0.73888756030567915 
+            text = "[spk]" 
+        intervals [3]:
+            xmin = 0.73888756030567915 
+            xmax = 1.6602548121077294 
+            text = "(u) m|\eb_<isi (/u)" 
+        intervals [4]:
+            xmin = 1.6602548121077294 
+            xmax = 2.1599889234312681 
+            text = "[sta]" 
+        intervals [5]:
+            xmin = 2.1599889234312681 
+            xmax = 2.8950091856033873 
+            text = "(u) !\_hawula (/u)" 
+        intervals [6]:
+            xmin = 2.8950091856033873 
+            xmax = 4.9320000000000004 
+            text = "0" 

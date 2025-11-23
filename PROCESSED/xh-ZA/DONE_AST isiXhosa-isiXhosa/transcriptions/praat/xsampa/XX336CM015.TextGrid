@@ -1,0 +1,84 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 10.907999999999999 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 10.907999999999999 
+        intervals: size = 8
+        intervals [1]:
+            xmin = 0 
+            xmax = 4.0408963559639339 
+            text = "[int]" 
+        intervals [2]:
+            xmin = 4.0408963559639339 
+            xmax = 5.9577031536723535 
+            text = "(u) [int] [fil]e 0 ($)eleven thirty seven(/$) [/int] (/u)"
+        intervals [3]:
+            xmin = 5.9577031536723535 
+            xmax = 6.4824718829374914 
+            text = "[spk]" 
+        intervals [4]:
+            xmin = 6.4824718829374914 
+            xmax = 7.7112251238016984 
+            text = "[int]" 
+        intervals [5]:
+            xmin = 7.7112251238016984 
+            xmax = 7.9238169637165399 
+            text = "0" 
+        intervals [6]:
+            xmin = 7.9238169637165399 
+            xmax = 8.3490006435462227 
+            text = "[ext]" 
+        intervals [7]:
+            xmin = 8.3490006435462227 
+            xmax = 9.0242923703345426 
+            text = "[int]" 
+        intervals [8]:
+            xmin = 9.0242923703345426 
+            xmax = 10.907999999999999 
+            text = "0" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 10.907999999999999 
+        intervals: size = 8
+        intervals [1]:
+            xmin = 0 
+            xmax = 4.0408963559639339 
+            text = "[int]"
+        intervals [2]:
+            xmin = 4.0408963559639339 
+            xmax = 5.9577031536723535 
+            text = "(u) [int] E 0 ($)lEv@n Teti sEv@n(/$) [/int] (/u)"
+        intervals [3]:
+            xmin = 5.9577031536723535 
+            xmax = 6.4824718829374914 
+            text = "[spk]"
+        intervals [4]:
+            xmin = 6.4824718829374914 
+            xmax = 7.7112251238016984 
+            text = "[int]"
+        intervals [5]:
+            xmin = 7.7112251238016984 
+            xmax = 7.9238169637165399 
+            text = "0"
+        intervals [6]:
+            xmin = 7.9238169637165399 
+            xmax = 8.3490006435462227 
+            text = "[ext]"
+        intervals [7]:
+            xmin = 8.3490006435462227 
+            xmax = 9.0242923703345426 
+            text = "[int]"
+        intervals [8]:
+            xmin = 9.0242923703345426 
+            xmax = 10.907999999999999 
+            text = "0"

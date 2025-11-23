@@ -1,0 +1,68 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 15.852 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic"
+        xmin = 0 
+        xmax = 15.852 
+        intervals: size = 6
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.8494629020186798 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.8494629020186798 
+            xmax = 1.5195864460424746 
+            text = "[int]" 
+        intervals [3]:
+            xmin = 1.5195864460424746 
+            xmax = 2.7591973573785085 
+            text = "(u) isivakalisi (/u)"
+        intervals [4]:
+            xmin = 2.7591973573785085 
+            xmax = 4.6693237576764171 
+            text = "[int]" 
+        intervals [5]:
+            xmin = 4.6693237576764171 
+            xmax = 7.33832909912958 
+            text = "(s) [int] musa ukoyika 0 kuba 0 akuwedwa [/int] (/s)" 
+        intervals [6]:
+            xmin = 7.33832909912958 
+            xmax = 15.852 
+            text = "[int]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 15.852 
+        intervals: size = 6
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.8494629020186798 
+            text = "0"
+        intervals [2]:
+            xmin = 0.8494629020186798 
+            xmax = 1.5195864460424746 
+            text = "[int]"
+        intervals [3]:
+            xmin = 1.5195864460424746 
+            xmax = 2.7591973573785085 
+            text = "(u) isivak_>alisi (/u)"
+        intervals [4]:
+            xmin = 2.7591973573785085 
+            xmax = 4.6693237576764171 
+            text = "[int]"
+        intervals [5]:
+            xmin = 4.6693237576764171 
+            xmax = 7.33832909912958 
+            text = "(s) [int] musa uk_>ojik_>a 0 k_>ub_<a 0 ak_>uwEdwa [/int] (/s)"
+        intervals [6]:
+            xmin = 7.33832909912958 
+            xmax = 15.852 
+            text = "[int]"

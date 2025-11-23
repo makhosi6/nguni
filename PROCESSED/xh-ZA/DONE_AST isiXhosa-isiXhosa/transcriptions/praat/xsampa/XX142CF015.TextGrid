@@ -1,0 +1,68 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 8.3040000000000003 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 8.3040000000000003 
+        intervals: size = 6 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.80874971525785622 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.80874971525785622 
+            xmax = 2.5654660170223265 
+            text = "(s) [sta] yintsimbi yesihlanu [/sta] (/s)" 
+        intervals [3]:
+            xmin = 2.5654660170223265 
+            xmax = 2.7453160231898361 
+            text = "[ext]" 
+        intervals [4]:
+            xmin = 2.7453160231898361 
+            xmax = 3.9289773224142115 
+            text = "[sta]" 
+        intervals [5]:
+            xmin = 3.9289773224142115 
+            xmax = 5.2581546361541047 
+            text = "(s) [int] *ixesha yintsimbi *yesihlanu [/int] (/s)" 
+        intervals [6]:
+            xmin = 5.2581546361541047 
+            xmax = 8.3040000000000003 
+            text = "[sta]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 8.3040000000000003 
+        intervals: size = 6 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.80874971525785622 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.80874971525785622 
+            xmax = 2.5654660170223265 
+            text = "(s) [sta] jint-\s_>imbi jesiKanu [/sta] (/s)" 
+        intervals [3]:
+            xmin = 2.5654660170223265 
+            xmax = 2.7453160231898361 
+            text = "[ext]" 
+        intervals [4]:
+            xmin = 2.7453160231898361 
+            xmax = 3.9289773224142115 
+            text = "[sta]" 
+        intervals [5]:
+            xmin = 3.9289773224142115 
+            xmax = 5.2581546361541047 
+            text = "(s) [int] |\|\ESa jint-\s_>imbi jesKan [/int] (/s)" 
+        intervals [6]:
+            xmin = 5.2581546361541047 
+            xmax = 8.3040000000000003 
+            text = "[sta]" 

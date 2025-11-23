@@ -1,0 +1,60 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 58.752000000000002 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 58.752000000000002 
+        intervals: size = 5
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.3279904505750877 
+            text = "[spk]" 
+        intervals [2]:
+            xmin = 1.3279904505750877 
+            xmax = 5.9370202560710625 
+            text = "(s) [int] ngalo mzuzu ndithetha ndikwidolophu yaseMthatha [/int] (/s)"
+        intervals [3]:
+            xmin = 5.9370202560710625 
+            xmax = 8.4054690823414457 
+            text = "[int]" 
+        intervals [4]:
+            xmin = 8.4054690823414457 
+            xmax = 14.734069733889237 
+            text = "(s) [sta] ngalo mzuzu ndithetha ndikwidolophu 0 yaseMthatha [/sta] (/s)" 
+        intervals [5]:
+            xmin = 14.734069733889237 
+            xmax = 58.752000000000002 
+            text = "[int]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 58.752000000000002 
+        intervals: size = 5
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.3279904505750877 
+            text = "[spk]" 
+        intervals [2]:
+            xmin = 1.3279904505750877 
+            xmax = 5.9370202560710625 
+            text = "(s) [int] NgalO mzuzu ndit_hEt_ha ndik_>widOlop_hu jasEmt_hat_ha [/int] (/s)"
+        intervals [3]:
+            xmin = 5.9370202560710625 
+            xmax = 8.4054690823414457 
+            text = "[int]" 
+        intervals [4]:
+            xmin = 8.4054690823414457 
+            xmax = 14.734069733889237 
+            text = "(s) [sta] NgalO mzuzu ndit_hEt_ha ndik_>widOlop_hu 0 jasEmt_hat_ha [/sta] (/s)" 
+        intervals [5]:
+            xmin = 14.734069733889237 
+            xmax = 58.752000000000002 
+            text = "[int]" 

@@ -1,0 +1,76 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 7.3559999999999999 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic"
+        xmin = 0 
+        xmax = 7.3559999999999999 
+        intervals: size = 7
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.87553439115959486 
+            text = "(u) ewe (/u)"
+        intervals [2]:
+            xmin = 0.87553439115959486 
+            xmax = 4.2024050334449861 
+            text = "[int]" 
+        intervals [3]:
+            xmin = 4.2024050334449861 
+            xmax = 4.4617881682672369 
+            text = "0" 
+        intervals [4]:
+            xmin = 4.4617881682672369 
+            xmax = 4.9016117447049661 
+            text = "[int]" 
+        intervals [5]:
+            xmin = 4.9016117447049661 
+            xmax = 5.1609948795272169 
+            text = "[spk]" 
+        intervals [6]:
+            xmin = 5.1609948795272169 
+            xmax = 5.6684836215707515 
+            text = "[int]" 
+        intervals [7]:
+            xmin = 5.6684836215707515 
+            xmax = 7.3559999999999999 
+            text = "0" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 7.3559999999999999 
+        intervals: size = 7
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.87553439115959486 
+            text = "(u) EwE (/u)"
+        intervals [2]:
+            xmin = 0.87553439115959486 
+            xmax = 4.2024050334449861 
+            text = "[int]"
+        intervals [3]:
+            xmin = 4.2024050334449861 
+            xmax = 4.4617881682672369 
+            text = "0"
+        intervals [4]:
+            xmin = 4.4617881682672369 
+            xmax = 4.9016117447049661 
+            text = "[int]"
+        intervals [5]:
+            xmin = 4.9016117447049661 
+            xmax = 5.1609948795272169 
+            text = "[spk]"
+        intervals [6]:
+            xmin = 5.1609948795272169 
+            xmax = 5.6684836215707515 
+            text = "[int]"
+        intervals [7]:
+            xmin = 5.6684836215707515 
+            xmax = 7.3559999999999999 
+            text = "0"

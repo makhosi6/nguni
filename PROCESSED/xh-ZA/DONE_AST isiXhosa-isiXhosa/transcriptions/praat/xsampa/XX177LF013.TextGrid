@@ -1,0 +1,60 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 4.1639999999999997 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic"
+        xmin = 0 
+        xmax = 4.1639999999999997 
+        intervals: size = 5
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.27512069122530791 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.27512069122530791 
+            xmax = 0.39395635132134121 
+            text = "[int]" 
+        intervals [3]:
+            xmin = 0.39395635132134121 
+            xmax = 2.1107273398840301 
+            text = "(u) eVukuthu ($)street(/$) (/u)" 
+        intervals [4]:
+            xmin = 2.1107273398840301 
+            xmax = 3.4974285734523014 
+            text = "0" 
+        intervals [5]:
+            xmin = 3.4974285734523014 
+            xmax = 4.1639999999999997 
+            text = "[int]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 4.1639999999999997 
+        intervals: size = 5
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.27512069122530791 
+            text = "0"
+        intervals [2]:
+            xmin = 0.27512069122530791 
+            xmax = 0.39395635132134121 
+            text = "[int]"
+        intervals [3]:
+            xmin = 0.39395635132134121 
+            xmax = 2.1107273398840301 
+            text = "(u) evuk_>ut_hu ($)strit(/$) (/u)"
+        intervals [4]:
+            xmin = 2.1107273398840301 
+            xmax = 3.4974285734523014 
+            text = "0"
+        intervals [5]:
+            xmin = 3.4974285734523014 
+            xmax = 4.1639999999999997 
+            text = "[int]"

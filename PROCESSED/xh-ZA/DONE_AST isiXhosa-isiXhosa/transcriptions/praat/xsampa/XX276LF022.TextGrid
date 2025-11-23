@@ -1,0 +1,60 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 6.0359999999999996 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 6.0359999999999996 
+        intervals: size = 5
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.21774153610329128 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.21774153610329128 
+            xmax = 0.60737788279581861 
+            text = "[spk]" 
+        intervals [3]:
+            xmin = 0.60737788279581861 
+            xmax = 4.0312941337192241 
+            text = "(u) nanini phambi kwentsimbi yeshumi kusasa (/u)" 
+        intervals [4]:
+            xmin = 4.0312941337192241 
+            xmax = 4.7160773839039045 
+            text = "0" 
+        intervals [5]:
+            xmin = 4.7160773839039045 
+            xmax = 6.0359999999999996 
+            text = "[int]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 6.0359999999999996 
+        intervals: size = 5
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.21774153610329128 
+            text = "0"
+        intervals [2]:
+            xmin = 0.21774153610329128 
+            xmax = 0.60737788279581861 
+            text = "[spk]"
+        intervals [3]:
+            xmin = 0.60737788279581861 
+            xmax = 4.0312941337192241 
+            text = "(u) nanini p_hambi k_>went-\s_>imbi jeSumi k_>usasa (/u)"
+        intervals [4]:
+            xmin = 4.0312941337192241 
+            xmax = 4.7160773839039045 
+            text = "0"
+        intervals [5]:
+            xmin = 4.7160773839039045 
+            xmax = 6.0359999999999996 
+            text = "[int]"

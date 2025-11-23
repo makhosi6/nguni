@@ -1,0 +1,52 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 4.6440000000000001 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic"
+        xmin = 0 
+        xmax = 4.6440000000000001 
+        intervals: size = 4
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.0666375296035433 
+            text = "(u) ~ama ledolophu (/u)"
+        intervals [2]:
+            xmin = 1.0666375296035433 
+            xmax = 1.3894450219912038 
+            text = "[int]" 
+        intervals [3]:
+            xmin = 1.3894450219912038 
+            xmax = 2.7308894903577037 
+            text = "(u) i ($)Springbok(/$) (/u)" 
+        intervals [4]:
+            xmin = 2.7308894903577037 
+            xmax = 4.6440000000000001 
+            text = "[sta]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 4.6440000000000001 
+        intervals: size = 4
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.0666375296035433 
+            text = "(u) ama lEd_0Olop_h (/u)"
+        intervals [2]:
+            xmin = 1.0666375296035433 
+            xmax = 1.3894450219912038 
+            text = "[int]"
+        intervals [3]:
+            xmin = 1.3894450219912038 
+            xmax = 2.7308894903577037 
+            text = "(u) i ($)sprINbOk(/$) (/u)"
+        intervals [4]:
+            xmin = 2.7308894903577037 
+            xmax = 4.6440000000000001 
+            text = "[sta]"

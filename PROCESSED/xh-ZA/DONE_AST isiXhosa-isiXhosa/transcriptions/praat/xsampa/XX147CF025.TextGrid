@@ -1,0 +1,68 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 71.135999999999996 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 71.135999999999996 
+        intervals: size = 6 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.18208389708095538 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.18208389708095538 
+            xmax = 0.5750534750939813 
+            text = "[sta]" 
+        intervals [3]:
+            xmin = 0.5750534750939813 
+            xmax = 1.7893081143541456 
+            text = "(u) [int] inqaku ($)five(/$) [/int] (/u)" 
+        intervals [4]:
+            xmin = 1.7893081143541456 
+            xmax = 2.7112184197173939 
+            text = "[int]" 
+        intervals [5]:
+            xmin = 2.7112184197173939 
+            xmax = 5.8709336778109265 
+            text = "(s) [int] isivakalisi usisi ugcada iqanda epanini [/int] (/s)" 
+        intervals [6]:
+            xmin = 5.8709336778109265 
+            xmax = 71.135999999999996 
+            text = "[int]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 71.135999999999996 
+        intervals: size = 6 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.18208389708095538 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.18208389708095538 
+            xmax = 0.5750534750939813 
+            text = "[sta]" 
+        intervals [3]:
+            xmin = 0.5750534750939813 
+            xmax = 1.7893081143541456 
+            text = "(u) [int] i!\~ak_>u ($)fivE(/$) [/int] (/u)" 
+        intervals [4]:
+            xmin = 1.7893081143541456 
+            xmax = 2.7112184197173939 
+            text = "[int]" 
+        intervals [5]:
+            xmin = 2.7112184197173939 
+            xmax = 5.8709336778109265 
+            text = "(s) [int] isivak_>alis usisi u|\_vad_0a i!\anda Ep_>anini [/int] (/s)" 
+        intervals [6]:
+            xmin = 5.8709336778109265 
+            xmax = 71.135999999999996 
+            text = "[int]" 

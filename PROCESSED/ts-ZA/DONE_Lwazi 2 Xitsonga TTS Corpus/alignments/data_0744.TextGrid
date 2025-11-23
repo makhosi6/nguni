@@ -1,0 +1,234 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0
+xmax = 2.335000
+tiers? <exists>
+size = 5
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "segment"
+		xmin = 0
+		xmax = 2.335000
+		intervals: size = 25
+		intervals [1]:
+			xmin = 0.000000
+			xmax = 0.015000
+			text = "pau"
+		intervals [2]:
+			xmin = 0.015000
+			xmax = 0.085000
+			text = "k"
+		intervals [3]:
+			xmin = 0.085000
+			xmax = 0.155000
+			text = "u"
+		intervals [4]:
+			xmin = 0.155000
+			xmax = 0.290000
+			text = "g"
+		intervals [5]:
+			xmin = 0.290000
+			xmax = 0.370000
+			text = "ɔ"
+		intervals [6]:
+			xmin = 0.370000
+			xmax = 0.440000
+			text = "ŋ"
+		intervals [7]:
+			xmin = 0.440000
+			xmax = 0.495000
+			text = "g"
+		intervals [8]:
+			xmin = 0.495000
+			xmax = 0.675000
+			text = "ɔ"
+		intervals [9]:
+			xmin = 0.675000
+			xmax = 0.720000
+			text = "ɳ"
+		intervals [10]:
+			xmin = 0.720000
+			xmax = 0.790000
+			text = "dʐ"
+		intervals [11]:
+			xmin = 0.790000
+			xmax = 0.920000
+			text = "a"
+		intervals [12]:
+			xmin = 0.920000
+			xmax = 1.030000
+			text = "k"
+		intervals [13]:
+			xmin = 1.030000
+			xmax = 1.100000
+			text = "ɔ"
+		intervals [14]:
+			xmin = 1.100000
+			xmax = 1.210000
+			text = "tlʰ"
+		intervals [15]:
+			xmin = 1.210000
+			xmax = 1.250000
+			text = "ɛ"
+		intervals [16]:
+			xmin = 1.250000
+			xmax = 1.290000
+			text = "l"
+		intervals [17]:
+			xmin = 1.290000
+			xmax = 1.355000
+			text = "a"
+		intervals [18]:
+			xmin = 1.355000
+			xmax = 1.420000
+			text = "k"
+		intervals [19]:
+			xmin = 1.420000
+			xmax = 1.470000
+			text = "u"
+		intervals [20]:
+			xmin = 1.470000
+			xmax = 1.585000
+			text = "tʼ"
+		intervals [21]:
+			xmin = 1.585000
+			xmax = 1.670000
+			text = "w"
+		intervals [22]:
+			xmin = 1.670000
+			xmax = 1.885000
+			text = "a"
+		intervals [23]:
+			xmin = 1.885000
+			xmax = 1.955000
+			text = "l"
+		intervals [24]:
+			xmin = 1.955000
+			xmax = 2.060000
+			text = "a"
+		intervals [25]:
+			xmin = 2.060000
+			xmax = 2.335000
+			text = "pau"
+	item [2]:
+		class = "IntervalTier"
+		name = "syllable"
+		xmin = 0
+		xmax = 2.335000
+		intervals: size = 12
+		intervals [1]:
+			xmin = 0.000000
+			xmax = 0.015000
+			text = "NONE"
+		intervals [2]:
+			xmin = 0.015000
+			xmax = 0.155000
+			text = "syl"
+		intervals [3]:
+			xmin = 0.155000
+			xmax = 0.440000
+			text = "syl"
+		intervals [4]:
+			xmin = 0.440000
+			xmax = 0.720000
+			text = "syl"
+		intervals [5]:
+			xmin = 0.720000
+			xmax = 0.920000
+			text = "syl"
+		intervals [6]:
+			xmin = 0.920000
+			xmax = 1.100000
+			text = "syl"
+		intervals [7]:
+			xmin = 1.100000
+			xmax = 1.250000
+			text = "syl"
+		intervals [8]:
+			xmin = 1.250000
+			xmax = 1.355000
+			text = "syl"
+		intervals [9]:
+			xmin = 1.355000
+			xmax = 1.470000
+			text = "syl"
+		intervals [10]:
+			xmin = 1.470000
+			xmax = 1.885000
+			text = "syl"
+		intervals [11]:
+			xmin = 1.885000
+			xmax = 2.060000
+			text = "syl"
+		intervals [12]:
+			xmin = 2.060000
+			xmax = 2.335000
+			text = "NONE"
+	item [3]:
+		class = "IntervalTier"
+		name = "word"
+		xmin = 0
+		xmax = 2.335000
+		intervals: size = 8
+		intervals [1]:
+			xmin = 0.000000
+			xmax = 0.015000
+			text = "NONE"
+		intervals [2]:
+			xmin = 0.015000
+			xmax = 0.155000
+			text = "ku"
+		intervals [3]:
+			xmin = 0.155000
+			xmax = 0.920000
+			text = "gongondza"
+		intervals [4]:
+			xmin = 0.920000
+			xmax = 1.100000
+			text = "ko"
+		intervals [5]:
+			xmin = 1.100000
+			xmax = 1.355000
+			text = "tlhela"
+		intervals [6]:
+			xmin = 1.355000
+			xmax = 1.470000
+			text = "ku"
+		intervals [7]:
+			xmin = 1.470000
+			xmax = 2.060000
+			text = "twala"
+		intervals [8]:
+			xmin = 2.060000
+			xmax = 2.335000
+			text = "NONE"
+	item [4]:
+		class = "IntervalTier"
+		name = "phrase"
+		xmin = 0
+		xmax = 2.335000
+		intervals: size = 3
+		intervals [1]:
+			xmin = 0.000000
+			xmax = 0.015000
+			text = "NONE"
+		intervals [2]:
+			xmin = 0.015000
+			xmax = 2.060000
+			text = "BB"
+		intervals [3]:
+			xmin = 2.060000
+			xmax = 2.335000
+			text = "NONE"
+	item [5]:
+		class = "IntervalTier"
+		name = "text"
+		xmin = 0
+		xmax = 2.335000
+		intervals: size = 1
+		intervals [1]:
+			xmin = 0.000000
+			xmax = 2.335000
+			text = "Ku gongondza ko tlhela ku twala."

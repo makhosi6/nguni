@@ -1,0 +1,60 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 8.6039999999999992 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 8.6039999999999992 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.19556998720213178 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.19556998720213178 
+            xmax = 1.5912815855250506 
+            text = "[int]" 
+        intervals [3]:
+            xmin = 1.5912815855250506 
+            xmax = 6.5414020296757949 
+            text = "(s) *ndina+ ndine ($)cell(/$) 0 andikabi nayo imfonomfono ndisayi-aplayishele (/s)" 
+        intervals [4]:
+            xmin = 6.5414020296757949 
+            xmax = 7.513970481385158 
+            text = "0" 
+        intervals [5]:
+            xmin = 7.513970481385158 
+            xmax = 8.6039999999999992 
+            text = "[int]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 8.6039999999999992 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.19556998720213178 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.19556998720213178 
+            xmax = 1.5912815855250506 
+            text = "[int]" 
+        intervals [3]:
+            xmin = 1.5912815855250506 
+            xmax = 6.5414020296757949 
+            text = "(s) ndina ndinE ($)sEl(/$) 0 andik_>ab_<i najO imfOnOmfOnO ndisajiapla-\iSEl (/s)" 
+        intervals [4]:
+            xmin = 6.5414020296757949 
+            xmax = 7.513970481385158 
+            text = "0" 
+        intervals [5]:
+            xmin = 7.513970481385158 
+            xmax = 8.6039999999999992 
+            text = "[int]" 

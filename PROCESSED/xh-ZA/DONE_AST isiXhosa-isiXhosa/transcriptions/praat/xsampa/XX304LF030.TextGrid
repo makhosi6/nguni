@@ -1,0 +1,60 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 7.032 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic"
+        xmin = 0 
+        xmax = 7.032 
+        intervals: size = 5
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.94477889879476618 
+            text = "[int]" 
+        intervals [2]:
+            xmin = 0.94477889879476618 
+            xmax = 3.2776180020487762 
+            text = "(s) ndincede undiboleke iindlebe (/s)" 
+        intervals [3]:
+            xmin = 3.2776180020487762 
+            xmax = 3.790910432204333 
+            text = "[spk]" 
+        intervals [4]:
+            xmin = 3.790910432204333 
+            xmax = 5.7853934718509237 
+            text = "0" 
+        intervals [5]:
+            xmin = 5.7853934718509237 
+            xmax = 7.032 
+            text = "[int]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 7.032 
+        intervals: size = 5
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.94477889879476618 
+            text = "[int]"
+        intervals [2]:
+            xmin = 0.94477889879476618 
+            xmax = 3.2776180020487762 
+            text = "(s) ndi|\~Ed_0E undib_<OlEk_>E i:nd-\K\Eb_<E (/s)"
+        intervals [3]:
+            xmin = 3.2776180020487762 
+            xmax = 3.790910432204333 
+            text = "[spk]"
+        intervals [4]:
+            xmin = 3.790910432204333 
+            xmax = 5.7853934718509237 
+            text = "0"
+        intervals [5]:
+            xmin = 5.7853934718509237 
+            xmax = 7.032 
+            text = "[int]"

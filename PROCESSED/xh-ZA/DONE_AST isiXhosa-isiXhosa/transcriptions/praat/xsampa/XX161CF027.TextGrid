@@ -1,0 +1,60 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 7.6200000000000001 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 7.6200000000000001 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.15872308813210739 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.15872308813210739 
+            xmax = 3.1103795313989435 
+            text = "(u) inqaku ($)seven(/$) ibinzana elichaza umhla (/u)" 
+        intervals [3]:
+            xmin = 3.1103795313989435 
+            xmax = 3.5726378398150702 
+            text = "[spk]" 
+        intervals [4]:
+            xmin = 3.5726378398150702 
+            xmax = 5.574573372483222 
+            text = "(u) ngempelaveki yePasika (/u)" 
+        intervals [5]:
+            xmin = 5.574573372483222 
+            xmax = 7.6200000000000001 
+            text = "0" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 7.6200000000000001 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.15872308813210739 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.15872308813210739 
+            xmax = 3.1103795313989435 
+            text = "(u) i!\~ak_>u ($)sEvEn(/$) ib_<ind-\zana eli|\_haza umKa (/u)" 
+        intervals [3]:
+            xmin = 3.1103795313989435 
+            xmax = 3.5726378398150702 
+            text = "[spk]" 
+        intervals [4]:
+            xmin = 3.5726378398150702 
+            xmax = 5.574573372483222 
+            text = "(u) NgEmp_>Elavek_>i jEp_>asik_>a (/u)" 
+        intervals [5]:
+            xmin = 5.574573372483222 
+            xmax = 7.6200000000000001 
+            text = "0" 

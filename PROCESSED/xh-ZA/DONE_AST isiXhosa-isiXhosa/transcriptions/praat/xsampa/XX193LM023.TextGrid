@@ -1,0 +1,60 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 15.3605 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic"
+        xmin = 0 
+        xmax = 15.3605 
+        intervals: size = 5
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.5927625595786237 
+            text = "[int]" 
+        intervals [2]:
+            xmin = 1.5927625595786237 
+            xmax = 3.7828450816644574 
+            text = "(u) [int] inambari yemfonomfono [/int] (/u)"
+        intervals [3]:
+            xmin = 3.7828450816644574 
+            xmax = 5.2899986452504075 
+            text = "[int]" 
+        intervals [4]:
+            xmin = 5.2899986452504075 
+            xmax = 12.967062109766342 
+            text = "(s) [int] *ngu+ 0 ($)*oh+ 0 oh 0 three four 0 double seven 0 two 0 five four *s+ double six(/$) [/int] (/s)" 
+        intervals [5]:
+            xmin = 12.967062109766342 
+            xmax = 15.3605 
+            text = "[int]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 15.3605 
+        intervals: size = 5
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.5927625595786237 
+            text = "[int]"
+        intervals [2]:
+            xmin = 1.5927625595786237 
+            xmax = 3.7828450816644574 
+            text = "(u) [int] inambari jEmfOnOmfOn [/int] (/u)"
+        intervals [3]:
+            xmin = 3.7828450816644574 
+            xmax = 5.2899986452504075 
+            text = "[int]"
+        intervals [4]:
+            xmin = 5.2899986452504075 
+            xmax = 12.967062109766342 
+            text = "(s) [int] Ngu 0 ($)O 0 @U 0 Tri fO 0 dab@l sEvEn 0 tu 0 fa-\if fO s dab@l siks(/$) [/int] (/s)"
+        intervals [5]:
+            xmin = 12.967062109766342 
+            xmax = 15.3605 
+            text = "[int]"

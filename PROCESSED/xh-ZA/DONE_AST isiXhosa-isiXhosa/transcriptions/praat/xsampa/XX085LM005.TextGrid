@@ -1,0 +1,68 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 6.7439999999999998 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 6.7439999999999998 
+        intervals: size = 6 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.35810374523118021 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.35810374523118021 
+            xmax = 1.059172289870203 
+            text = "[sta]" 
+        intervals [3]:
+            xmin = 1.059172289870203 
+            xmax = 1.2162628846679282 
+            text = "[spk]" 
+        intervals [4]:
+            xmin = 1.2162628846679282 
+            xmax = 4.9900952448415792 
+            text = "(s) neminyaka engamashumi amabini anesihlanu (/s)" 
+        intervals [5]:
+            xmin = 4.9900952448415792 
+            xmax = 6.5616637893522496 
+            text = "0" 
+        intervals [6]:
+            xmin = 6.5616637893522496 
+            xmax = 6.7439999999999998 
+            text = "[int]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 6.7439999999999998 
+        intervals: size = 6 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.35810374523118021 
+            text = "0"
+        intervals [2]:
+            xmin = 0.35810374523118021 
+            xmax = 1.059172289870203 
+            text = "[sta]"
+        intervals [3]:
+            xmin = 1.059172289870203 
+            xmax = 1.2162628846679282 
+            text = "[spk]"
+        intervals [4]:
+            xmin = 1.2162628846679282 
+            xmax = 4.9900952448415792 
+            text = "(s) nemiJak_>a ENgamaSumi amab_<ini anesiKanu (/s)"
+        intervals [5]:
+            xmin = 4.9900952448415792 
+            xmax = 6.5616637893522496 
+            text = "0"
+        intervals [6]:
+            xmin = 6.5616637893522496 
+            xmax = 6.7439999999999998 
+            text = "[int]"

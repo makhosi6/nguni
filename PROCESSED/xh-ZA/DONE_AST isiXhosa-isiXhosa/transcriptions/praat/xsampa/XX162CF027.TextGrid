@@ -1,0 +1,60 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 11.004 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 11.004 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.37726354145143431 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.37726354145143431 
+            xmax = 0.71760121430667934 
+            text = "[sta]" 
+        intervals [3]:
+            xmin = 0.71760121430667934 
+            xmax = 8.2963245881202976 
+            text = "(u) inqaku ($)seven(/$) yinomboro yemfonomfono ($)oh two nine 0 double eight one 0 seven eight 0 [int] nine six [/int](/$) (/u)" 
+        intervals [4]:
+            xmin = 8.2963245881202976 
+            xmax = 8.8640203283704722 
+            text = "0" 
+        intervals [5]:
+            xmin = 8.8640203283704722 
+            xmax = 11.004 
+            text = "[sta]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 11.004 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.37726354145143431 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.37726354145143431 
+            xmax = 0.71760121430667934 
+            text = "[sta]" 
+        intervals [3]:
+            xmin = 0.71760121430667934 
+            xmax = 8.2963245881202976 
+            text = "(u) !\~ak_>u ($)sEvEn(/$) jinOmbOrO jEmfOnOmfOnO ($)O-\u tu na-\in 0 dab@l e-\It_> wan 0 sEvEn e-\It 0 [int] na-\in siks [/int](/$) (/u)" 
+        intervals [4]:
+            xmin = 8.2963245881202976 
+            xmax = 8.8640203283704722 
+            text = "0" 
+        intervals [5]:
+            xmin = 8.8640203283704722 
+            xmax = 11.004 
+            text = "[sta]" 

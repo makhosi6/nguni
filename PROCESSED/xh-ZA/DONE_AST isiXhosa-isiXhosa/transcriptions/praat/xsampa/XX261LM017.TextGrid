@@ -1,0 +1,68 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 4.3200000000000003 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 4.3200000000000003 
+        intervals: size = 6
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.12342201398516479 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.12342201398516479 
+            xmax = 0.34860462056891894 
+            text = "[spk]" 
+        intervals [3]:
+            xmin = 0.34860462056891894 
+            xmax = 2.1820299956872247 
+            text = "(s) [sta] hayi 0 hayi andisiva [/sta] (/s)" 
+        intervals [4]:
+            xmin = 2.1820299956872247 
+            xmax = 2.268953154362416 
+            text = "[sta]" 
+        intervals [5]:
+            xmin = 2.268953154362416 
+            xmax = 3.1435181493437501 
+            text = "0" 
+        intervals [6]:
+            xmin = 3.1435181493437501 
+            xmax = 4.3200000000000003 
+            text = "[int]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 4.3200000000000003 
+        intervals: size = 6
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.12342201398516479 
+            text = "0"
+        intervals [2]:
+            xmin = 0.12342201398516479 
+            xmax = 0.34860462056891894 
+            text = "[spk]"
+        intervals [3]:
+            xmin = 0.34860462056891894 
+            xmax = 2.1820299956872247 
+            text = "(s) [sta] h\aji 0 h\aji andisiva [/sta] (/s)"
+        intervals [4]:
+            xmin = 2.1820299956872247 
+            xmax = 2.268953154362416 
+            text = "[sta]"
+        intervals [5]:
+            xmin = 2.268953154362416 
+            xmax = 3.1435181493437501 
+            text = "0"
+        intervals [6]:
+            xmin = 3.1435181493437501 
+            xmax = 4.3200000000000003 
+            text = "[int]"

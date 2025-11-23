@@ -1,0 +1,60 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 5.9400000000000004 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 5.9400000000000004 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.23345181594632614 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.23345181594632614 
+            xmax = 0.58861114765379141 
+            text = "[int]" 
+        intervals [3]:
+            xmin = 0.58861114765379141 
+            xmax = 4.0400313198878761 
+            text = "(s) [int] ndihlala [/int] kwa ($)thirteen fifty five Nyathi Street(/$) e ($)Philippi(/$) (/s)" 
+        intervals [4]:
+            xmin = 4.0400313198878761 
+            xmax = 5.7437657214765103 
+            text = "0" 
+        intervals [5]:
+            xmin = 5.7437657214765103 
+            xmax = 5.9400000000000004 
+            text = "[sta]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 5.9400000000000004 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.23345181594632614 
+            text = "0"
+        intervals [2]:
+            xmin = 0.23345181594632614 
+            xmax = 0.58861114765379141 
+            text = "[int]"
+        intervals [3]:
+            xmin = 0.58861114765379141 
+            xmax = 4.0400313198878761 
+            text = "(s) [int] ndiKala [/int] k_>wa ($)Tetin fifti fa-\if Jat_hi strit(/$) e ($)filip_hi(/$) (/s)"
+        intervals [4]:
+            xmin = 4.0400313198878761 
+            xmax = 5.7437657214765103 
+            text = "0"
+        intervals [5]:
+            xmin = 5.7437657214765103 
+            xmax = 5.9400000000000004 
+            text = "[sta]"

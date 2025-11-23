@@ -1,0 +1,198 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0
+xmax = 2.415000
+tiers? <exists>
+size = 5
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "segment"
+		xmin = 0
+		xmax = 2.415000
+		intervals: size = 20
+		intervals [1]:
+			xmin = 0.000000
+			xmax = 0.010000
+			text = "pau"
+		intervals [2]:
+			xmin = 0.010000
+			xmax = 0.085000
+			text = "eng_k"
+		intervals [3]:
+			xmin = 0.085000
+			xmax = 0.295000
+			text = "eng_ɔ"
+		intervals [4]:
+			xmin = 0.295000
+			xmax = 0.330000
+			text = "eng_t"
+		intervals [5]:
+			xmin = 0.330000
+			xmax = 0.470000
+			text = "eng_s"
+		intervals [6]:
+			xmin = 0.470000
+			xmax = 0.610000
+			text = "eng_ð"
+		intervals [7]:
+			xmin = 0.610000
+			xmax = 0.825000
+			text = "eng_ə"
+		intervals [8]:
+			xmin = 0.825000
+			xmax = 0.970000
+			text = "eng_ʌ"
+		intervals [9]:
+			xmin = 0.970000
+			xmax = 1.065000
+			text = "eng_l"
+		intervals [10]:
+			xmin = 1.065000
+			xmax = 1.165000
+			text = "eng_t"
+		intervals [11]:
+			xmin = 1.165000
+			xmax = 1.240000
+			text = "eng_ɹ"
+		intervals [12]:
+			xmin = 1.240000
+			xmax = 1.265000
+			text = "eng_ə"
+		intervals [13]:
+			xmin = 1.265000
+			xmax = 1.435000
+			text = "eng_w"
+		intervals [14]:
+			xmin = 1.435000
+			xmax = 1.595000
+			text = "eng_ɪ"
+		intervals [15]:
+			xmin = 1.595000
+			xmax = 1.670000
+			text = "eng_g"
+		intervals [16]:
+			xmin = 1.670000
+			xmax = 1.775000
+			text = "eng_p"
+		intervals [17]:
+			xmin = 1.775000
+			xmax = 1.935000
+			text = "eng_ɑ"
+		intervals [18]:
+			xmin = 1.935000
+			xmax = 2.020000
+			text = "eng_t"
+		intervals [19]:
+			xmin = 2.020000
+			xmax = 2.135000
+			text = "eng_ɪ"
+		intervals [20]:
+			xmin = 2.135000
+			xmax = 2.415000
+			text = "pau"
+	item [2]:
+		class = "IntervalTier"
+		name = "syllable"
+		xmin = 0
+		xmax = 2.415000
+		intervals: size = 9
+		intervals [1]:
+			xmin = 0.000000
+			xmax = 0.010000
+			text = "NONE"
+		intervals [2]:
+			xmin = 0.010000
+			xmax = 0.470000
+			text = "syl"
+		intervals [3]:
+			xmin = 0.470000
+			xmax = 0.825000
+			text = "syl"
+		intervals [4]:
+			xmin = 0.825000
+			xmax = 1.065000
+			text = "syl"
+		intervals [5]:
+			xmin = 1.065000
+			xmax = 1.265000
+			text = "syl"
+		intervals [6]:
+			xmin = 1.265000
+			xmax = 1.670000
+			text = "syl"
+		intervals [7]:
+			xmin = 1.670000
+			xmax = 1.935000
+			text = "syl"
+		intervals [8]:
+			xmin = 1.935000
+			xmax = 2.135000
+			text = "syl"
+		intervals [9]:
+			xmin = 2.135000
+			xmax = 2.415000
+			text = "NONE"
+	item [3]:
+		class = "IntervalTier"
+		name = "word"
+		xmin = 0
+		xmax = 2.415000
+		intervals: size = 7
+		intervals [1]:
+			xmin = 0.000000
+			xmax = 0.010000
+			text = "NONE"
+		intervals [2]:
+			xmin = 0.010000
+			xmax = 0.470000
+			text = "courts"
+		intervals [3]:
+			xmin = 0.470000
+			xmax = 0.825000
+			text = "the"
+		intervals [4]:
+			xmin = 0.825000
+			xmax = 1.265000
+			text = "ultra"
+		intervals [5]:
+			xmin = 1.265000
+			xmax = 1.670000
+			text = "whig"
+		intervals [6]:
+			xmin = 1.670000
+			xmax = 2.135000
+			text = "party"
+		intervals [7]:
+			xmin = 2.135000
+			xmax = 2.415000
+			text = "NONE"
+	item [4]:
+		class = "IntervalTier"
+		name = "phrase"
+		xmin = 0
+		xmax = 2.415000
+		intervals: size = 3
+		intervals [1]:
+			xmin = 0.000000
+			xmax = 0.010000
+			text = "NONE"
+		intervals [2]:
+			xmin = 0.010000
+			xmax = 2.135000
+			text = "BB"
+		intervals [3]:
+			xmin = 2.135000
+			xmax = 2.415000
+			text = "NONE"
+	item [5]:
+		class = "IntervalTier"
+		name = "text"
+		xmin = 0
+		xmax = 2.415000
+		intervals: size = 1
+		intervals [1]:
+			xmin = 0.000000
+			xmax = 2.415000
+			text = "|courts |the |ultra |whig |party."

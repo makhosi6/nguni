@@ -1,0 +1,76 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 21.648 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 21.648 
+        intervals: size = 7 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.0931752837326607 
+            text = "[int]" 
+        intervals [2]:
+            xmin = 1.0931752837326607 
+            xmax = 1.5009698109915901 
+            text = "**" 
+        intervals [3]:
+            xmin = 1.5009698109915901 
+            xmax = 4.5839518404712809 
+            text = "(u) [int] [fil]eh 0 e ($)Hazeldene(/$) 0 e ($)Philippi(/$) [/int] (/u)" 
+        intervals [4]:
+            xmin = 4.5839518404712809 
+            xmax = 10.088336275746112 
+            text = "[int]" 
+        intervals [5]:
+            xmin = 10.088336275746112 
+            xmax = 12.161570407734342 
+            text = "0" 
+        intervals [6]:
+            xmin = 12.161570407734342 
+            xmax = 18.749104665825975 
+            text = "[int]" 
+        intervals [7]:
+            xmin = 18.749104665825975 
+            xmax = 21.648 
+            text = "[sta]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 21.648 
+        intervals: size = 7 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.0931752837326607 
+            text = "[int]"
+        intervals [2]:
+            xmin = 1.0931752837326607 
+            xmax = 1.5009698109915901 
+            text = "**"
+        intervals [3]:
+            xmin = 1.5009698109915901 
+            xmax = 4.5839518404712809 
+            text = "(u) [int] @ 0 E ($)he-\Iz@ldi:n(/$) 0 e ($)filipi(/$) [/int] (/u)"
+        intervals [4]:
+            xmin = 4.5839518404712809 
+            xmax = 10.088336275746112 
+            text = "[int]"
+        intervals [5]:
+            xmin = 10.088336275746112 
+            xmax = 12.161570407734342 
+            text = "0"
+        intervals [6]:
+            xmin = 12.161570407734342 
+            xmax = 18.749104665825975 
+            text = "[int]"
+        intervals [7]:
+            xmin = 18.749104665825975 
+            xmax = 21.648 
+            text = "[sta]"

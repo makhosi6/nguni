@@ -1,0 +1,76 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 16.320625 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 16.320625 
+        intervals: size = 7 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.61108743211421945 
+            text = "[int]" 
+        intervals [2]:
+            xmin = 0.61108743211421945 
+            xmax = 1.5015918954885203 
+            text = "(u) [int] isambuku semali [/int] (/u)" 
+        intervals [3]:
+            xmin = 1.5015918954885203 
+            xmax = 1.5994071768998155 
+            text = "[sta]" 
+        intervals [4]:
+            xmin = 1.5994071768998155 
+            xmax = 2.5256069819909475 
+            text = "(u) [int] ($)six hundred and fifty(/$) [/int] (/u)" 
+        intervals [5]:
+            xmin = 2.5256069819909475 
+            xmax = 2.9115278053960507 
+            text = "**" 
+        intervals [6]:
+            xmin = 2.9115278053960507 
+            xmax = 4.0170891766178354 
+            text = "(u) [int] ($)ninety six;cents(/$) [/int] (/u)" 
+        intervals [7]:
+            xmin = 4.0170891766178354 
+            xmax = 16.320625 
+            text = "[int]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 16.320625 
+        intervals: size = 7 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.61108743211421945 
+            text = "[int]" 
+        intervals [2]:
+            xmin = 0.61108743211421945 
+            xmax = 1.5015918954885203 
+            text = "(u) [int] sambuk_>u sEmali [/int] (/u)" 
+        intervals [3]:
+            xmin = 1.5015918954885203 
+            xmax = 1.5994071768998155 
+            text = "[sta]" 
+        intervals [4]:
+            xmin = 1.5994071768998155 
+            xmax = 2.5256069819909475 
+            text = "(u) [int] ($)siks handr@t @n fifti(/$) [/int] (/u)" 
+        intervals [5]:
+            xmin = 2.5256069819909475 
+            xmax = 2.9115278053960507 
+            text = "**" 
+        intervals [6]:
+            xmin = 2.9115278053960507 
+            xmax = 4.0170891766178354 
+            text = "(u) [int] ($)na-\inti siksEns(/$) [/int] (/u)" 
+        intervals [7]:
+            xmin = 4.0170891766178354 
+            xmax = 16.320625 
+            text = "[int]" 

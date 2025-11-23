@@ -1,0 +1,60 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 8.5199999999999996 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic"
+        xmin = 0 
+        xmax = 8.5199999999999996 
+        intervals: size = 5
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.78557930673884302 
+            text = "(u) [sta] ~mhla [/sta] (/u)" 
+        intervals [2]:
+            xmin = 0.78557930673884302 
+            xmax = 1.3514887378381981 
+            text = "[sta]" 
+        intervals [3]:
+            xmin = 1.3514887378381981 
+            xmax = 6.6023893924537616 
+            text = "(u) ngoMgqibelo 0 ngomhla weshumi elinanye 0 kweyoMdumba 0 ($)two thousand and five(/$) (/u)" 
+        intervals [4]:
+            xmin = 6.6023893924537616 
+            xmax = 8.1555625954746311 
+            text = "[sta]" 
+        intervals [5]:
+            xmin = 8.1555625954746311 
+            xmax = 8.5199999999999996 
+            text = "[int]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 8.5199999999999996 
+        intervals: size = 5
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.78557930673884302 
+            text = "(u) [sta] mKa [/sta] (/u)"
+        intervals [2]:
+            xmin = 0.78557930673884302 
+            xmax = 1.3514887378381981 
+            text = "[sta]"
+        intervals [3]:
+            xmin = 1.3514887378381981 
+            xmax = 6.6023893924537616 
+            text = "(u) gom!\_vib_<El 0 gOmKa weSumi elinaJE 0 k_>wEjomd_0umba 0 ($)tu TaUz@n {n fa-\if(/$) (/u)"
+        intervals [4]:
+            xmin = 6.6023893924537616 
+            xmax = 8.1555625954746311 
+            text = "[sta]"
+        intervals [5]:
+            xmin = 8.1555625954746311 
+            xmax = 8.5199999999999996 
+            text = "[int]"

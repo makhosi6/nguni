@@ -1,0 +1,60 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 4.8719999999999999 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 4.8719999999999999 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.8735536989703112 
+            text = "(u) [int] ~binzan elichaza umhla [/int] (/u)" 
+        intervals [2]:
+            xmin = 1.8735536989703112 
+            xmax = 1.9554663176747182 
+            text = "[sta]" 
+        intervals [3]:
+            xmin = 1.9554663176747182 
+            xmax = 2.8121436242024354 
+            text = "(u) [int] ngaloo [/int] [sta] veki [/sta] (/u)" 
+        intervals [4]:
+            xmin = 2.8121436242024354 
+            xmax = 3.1866638804278531 
+            text = "[sta]" 
+        intervals [5]:
+            xmin = 3.1866638804278531 
+            xmax = 4.8719999999999999 
+            text = "0" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 4.8719999999999999 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.8735536989703112 
+            text = "(u) [int] b_<ind-\zan eli|\_haza um=Ka [/int] (/u)" 
+        intervals [2]:
+            xmin = 1.8735536989703112 
+            xmax = 1.9554663176747182 
+            text = "[sta]" 
+        intervals [3]:
+            xmin = 1.9554663176747182 
+            xmax = 2.8121436242024354 
+            text = "(u) [int] NgalO: [/int] [sta] vek_> [/sta] (/u)" 
+        intervals [4]:
+            xmin = 2.8121436242024354 
+            xmax = 3.1866638804278531 
+            text = "[sta]" 
+        intervals [5]:
+            xmin = 3.1866638804278531 
+            xmax = 4.8719999999999999 
+            text = "0" 

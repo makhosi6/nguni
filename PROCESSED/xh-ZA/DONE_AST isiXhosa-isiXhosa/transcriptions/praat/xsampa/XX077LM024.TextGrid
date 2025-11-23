@@ -1,0 +1,60 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 8.3279999999999994 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 8.3279999999999994 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.13110118975347487 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.13110118975347487 
+            xmax = 0.92738637306590832 
+            text = "(u) [sta] *ibinzana [/sta] (/u)" 
+        intervals [3]:
+            xmin = 0.92738637306590832 
+            xmax = 1.6572689714580489 
+            text = "[sta]" 
+        intervals [4]:
+            xmin = 1.6572689714580489 
+            xmax = 6.3281262712636224 
+            text = "(s) [sta] phatha isazisi sakho xa 0 ubhukisha indawo ehotele [/sta] (/s)" 
+        intervals [5]:
+            xmin = 6.3281262712636224 
+            xmax = 8.3279999999999994 
+            text = "[sta]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 8.3279999999999994 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.13110118975347487 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.13110118975347487 
+            xmax = 0.92738637306590832 
+            text = "(u) [sta] b_<ind-\zana [/sta] (/u)" 
+        intervals [3]:
+            xmin = 0.92738637306590832 
+            xmax = 1.6572689714580489 
+            text = "[sta]" 
+        intervals [4]:
+            xmin = 1.6572689714580489 
+            xmax = 6.3281262712636224 
+            text = "(s) [sta] p_hat_ha isazisi sak_hO |\|\a 0 ub_0uk_>iSa indawO Eh\Ot_>ElE [/sta] (/s)" 
+        intervals [5]:
+            xmin = 6.3281262712636224 
+            xmax = 8.3279999999999994 
+            text = "[sta]" 

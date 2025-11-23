@@ -1,0 +1,60 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 23.292000000000002 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic"
+        xmin = 0 
+        xmax = 23.292000000000002 
+        intervals: size = 5
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.48690483611451235 
+            text = "[sta]" 
+        intervals [2]:
+            xmin = 0.48690483611451235 
+            xmax = 0.84068096979865781 
+            text = "[ext]" 
+        intervals [3]:
+            xmin = 0.84068096979865781 
+            xmax = 1.6577552292329016 
+            text = "[int]" 
+        intervals [4]:
+            xmin = 1.6577552292329016 
+            xmax = 8.01580874466163 
+            text = "(u) [int] ($)two five eight 0 three four zero 0 six 0 nine 0 seven 0 one(/$) [/int] (/u)"
+        intervals [5]:
+            xmin = 8.01580874466163 
+            xmax = 23.292000000000002 
+            text = "[int]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 23.292000000000002 
+        intervals: size = 5
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.48690483611451235 
+            text = "[sta]"
+        intervals [2]:
+            xmin = 0.48690483611451235 
+            xmax = 0.84068096979865781 
+            text = "[ext]"
+        intervals [3]:
+            xmin = 0.84068096979865781 
+            xmax = 1.6577552292329016 
+            text = "[int]"
+        intervals [4]:
+            xmin = 1.6577552292329016 
+            xmax = 8.01580874466163 
+            text = "(u) [int] ($)tu fa-\if E-\I 0 tri fO zI-\@rO 0 siks 0 na-\in 0 sEvEn 0 wan(/$) [/int] (/u)"
+        intervals [5]:
+            xmin = 8.01580874466163 
+            xmax = 23.292000000000002 
+            text = "[int]"

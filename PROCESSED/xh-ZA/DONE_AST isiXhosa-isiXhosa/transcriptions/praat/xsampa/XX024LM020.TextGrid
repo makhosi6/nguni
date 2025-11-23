@@ -1,0 +1,76 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 6.4080000000000004 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 6.4080000000000004 
+        intervals: size = 7 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.2714932755846548 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.2714932755846548 
+            xmax = 1.1458420141875552 
+            text = "[spk]" 
+        intervals [3]:
+            xmin = 1.1458420141875552 
+            xmax = 3.9825856199496825 
+            text = "(s) ikrele endilwa ngalo libukhali (/s)" 
+        intervals [4]:
+            xmin = 3.9825856199496825 
+            xmax = 4.1559658406653943 
+            text = "0" 
+        intervals [5]:
+            xmin = 4.1559658406653943 
+            xmax = 4.3352875658216741 
+            text = "[spk]" 
+        intervals [6]:
+            xmin = 4.3352875658216741 
+            xmax = 4.9281371193798771 
+            text = "0" 
+        intervals [7]:
+            xmin = 4.9281371193798771 
+            xmax = 6.4080000000000004 
+            text = "[sta]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 6.4080000000000004 
+        intervals: size = 7 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.2714932755846548 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.2714932755846548 
+            xmax = 1.1458420141875552 
+            text = "[spk]" 
+        intervals [3]:
+            xmin = 1.1458420141875552 
+            xmax = 3.9825856199496825 
+            text = "(s) ik-\x_>ElE endilwa NgalO lib_<uk_hali (/s)" 
+        intervals [4]:
+            xmin = 3.9825856199496825 
+            xmax = 4.1559658406653943 
+            text = "0" 
+        intervals [5]:
+            xmin = 4.1559658406653943 
+            xmax = 4.3352875658216741 
+            text = "[spk]" 
+        intervals [6]:
+            xmin = 4.3352875658216741 
+            xmax = 4.9281371193798771 
+            text = "0" 
+        intervals [7]:
+            xmin = 4.9281371193798771 
+            xmax = 6.4080000000000004 
+            text = "[sta]" 

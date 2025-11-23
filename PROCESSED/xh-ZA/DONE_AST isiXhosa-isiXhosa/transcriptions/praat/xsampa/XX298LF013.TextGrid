@@ -1,0 +1,68 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 4.6680000000000001 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 4.6680000000000001 
+        intervals: size = 6 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.076112033111041394 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.076112033111041394 
+            xmax = 0.50550435644967062 
+            text = "[spk]" 
+        intervals [3]:
+            xmin = 0.50550435644967062 
+            xmax = 1.0362231839607108 
+            text = "[int]" 
+        intervals [4]:
+            xmin = 1.0362231839607108 
+            xmax = 2.6022072086481196 
+            text = "(u) ($)Ziphunzana Street(/$) (/u)" 
+        intervals [5]:
+            xmin = 2.6022072086481196 
+            xmax = 4.0980867950495359 
+            text = "[int]" 
+        intervals [6]:
+            xmin = 4.0980867950495359 
+            xmax = 4.6680000000000001 
+            text = "[sta]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 4.6680000000000001 
+        intervals: size = 6 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.076112033111041394 
+            text = "0"
+        intervals [2]:
+            xmin = 0.076112033111041394 
+            xmax = 0.50550435644967062 
+            text = "[spk]"
+        intervals [3]:
+            xmin = 0.50550435644967062 
+            xmax = 1.0362231839607108 
+            text = "[int]"
+        intervals [4]:
+            xmin = 1.0362231839607108 
+            xmax = 2.6022072086481196 
+            text = "(u) ($)zip_hund-\zana stri:t(/$) (/u)"
+        intervals [5]:
+            xmin = 2.6022072086481196 
+            xmax = 4.0980867950495359 
+            text = "[int]"
+        intervals [6]:
+            xmin = 4.0980867950495359 
+            xmax = 4.6680000000000001 
+            text = "[sta]"

@@ -1,0 +1,68 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 22.271999999999998 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 22.271999999999998 
+        intervals: size = 6 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.20521515420950834 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.20521515420950834 
+            xmax = 0.95190619272183841 
+            text = "[int]" 
+        intervals [3]:
+            xmin = 0.95190619272183841 
+            xmax = 10.17221365139457 
+            text = "(u) [int] N. 0 O. 0 T. 0 Y. 0 H. 0 A. 0 W. 0 E. [/int] (/u)" 
+        intervals [4]:
+            xmin = 10.17221365139457 
+            xmax = 11.214964728510342 
+            text = "0" 
+        intervals [5]:
+            xmin = 11.214964728510342 
+            xmax = 20.218614747933707 
+            text = "(u) [sta] kwakhona 0 N. 0 O. 0 T. 0 Y. 0 H. 0 A. 0 W. 0 E. [/sta] (/u)" 
+        intervals [6]:
+            xmin = 20.218614747933707 
+            xmax = 22.271999999999998 
+            text = "0" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 22.271999999999998 
+        intervals: size = 6 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.20521515420950834 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.20521515420950834 
+            xmax = 0.95190619272183841 
+            text = "[int]" 
+        intervals [3]:
+            xmin = 0.95190619272183841 
+            xmax = 10.17221365139457 
+            text = "(u) [int] En 0 O-\u 0 ti: 0 wa-\i 0 E-\it-\S 0 E-\i 0 dab@lju 0 i: [/int] (/u)" 
+        intervals [4]:
+            xmin = 10.17221365139457 
+            xmax = 11.214964728510342 
+            text = "0" 
+        intervals [5]:
+            xmin = 11.214964728510342 
+            xmax = 20.218614747933707 
+            text = "(u) [sta] k_>wak_hOna 0 En 0 O-\u 0 ti: 0 wa-\i 0 E-\it-\S 0 E-\i 0 dab@lju 0 i: [/sta] (/u)" 
+        intervals [6]:
+            xmin = 20.218614747933707 
+            xmax = 22.271999999999998 
+            text = "0" 

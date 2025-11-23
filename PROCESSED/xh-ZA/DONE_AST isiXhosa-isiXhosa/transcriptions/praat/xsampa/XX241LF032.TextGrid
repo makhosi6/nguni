@@ -1,0 +1,68 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 4.4880000000000004 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 4.4880000000000004 
+        intervals: size = 6 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.15236791003248587 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.15236791003248587 
+            xmax = 0.43067406499946009 
+            text = "[sta]" 
+        intervals [3]:
+            xmin = 0.43067406499946009 
+            xmax = 1.2907372102421884 
+            text = "(u) [sta] inambari [/sta] (/u)" 
+        intervals [4]:
+            xmin = 1.2907372102421884 
+            xmax = 2.0083092788759416 
+            text = "0" 
+        intervals [5]:
+            xmin = 2.0083092788759416 
+            xmax = 2.4698855552713401 
+            text = "(u) [sta] ($)one(/$) [/sta] (/u)" 
+        intervals [6]:
+            xmin = 2.4698855552713401 
+            xmax = 4.4880000000000004 
+            text = "0" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 4.4880000000000004 
+        intervals: size = 6 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.15236791003248587 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.15236791003248587 
+            xmax = 0.43067406499946009 
+            text = "[sta]" 
+        intervals [3]:
+            xmin = 0.43067406499946009 
+            xmax = 1.2907372102421884 
+            text = "(u) [sta] inambari [/sta] (/u)" 
+        intervals [4]:
+            xmin = 1.2907372102421884 
+            xmax = 2.0083092788759416 
+            text = "0" 
+        intervals [5]:
+            xmin = 2.0083092788759416 
+            xmax = 2.4698855552713401 
+            text = "(u) [sta] ($)wan(/$) [/sta] (/u)" 
+        intervals [6]:
+            xmin = 2.4698855552713401 
+            xmax = 4.4880000000000004 
+            text = "0" 

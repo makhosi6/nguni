@@ -1,0 +1,60 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 57.024000000000001 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 57.024000000000001 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.52910605902712116 
+            text = "[int]" 
+        intervals [2]:
+            xmin = 0.52910605902712116 
+            xmax = 2.0257818831643513 
+            text = "(u) [int] isivakalisi [/int] (/u)" 
+        intervals [3]:
+            xmin = 2.0257818831643513 
+            xmax = 2.5485067834208337 
+            text = "[int]" 
+        intervals [4]:
+            xmin = 2.5485067834208337 
+            xmax = 5.7726539570902924 
+            text = "(s) [int] umshumayeli ushumayeza bonke abantu [/int] (/s)" 
+        intervals [5]:
+            xmin = 5.7726539570902924 
+            xmax = 57.024000000000001 
+            text = "[int]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 57.024000000000001 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.52910605902712116 
+            text = "[int]" 
+        intervals [2]:
+            xmin = 0.52910605902712116 
+            xmax = 2.0257818831643513 
+            text = "(u) [int] isivak_>alisi [/int] (/u)" 
+        intervals [3]:
+            xmin = 2.0257818831643513 
+            xmax = 2.5485067834208337 
+            text = "[int]" 
+        intervals [4]:
+            xmin = 2.5485067834208337 
+            xmax = 5.7726539570902924 
+            text = "(s) [int] umSumajeli uSumajEza b_<ONk_>E ab_<ant_>u [/int] (/s)" 
+        intervals [5]:
+            xmin = 5.7726539570902924 
+            xmax = 57.024000000000001 
+            text = "[int]" 

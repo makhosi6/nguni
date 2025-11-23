@@ -1,0 +1,68 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 7.992 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 7.992 
+        intervals: size = 6 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.4913919459583071 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.4913919459583071 
+            xmax = 1.1962847832906627 
+            text = "[spk]" 
+        intervals [3]:
+            xmin = 1.1962847832906627 
+            xmax = 3.4856422631474646 
+            text = "(u) igama 0 ($)or(/$) ibinzana (/u)" 
+        intervals [4]:
+            xmin = 3.4856422631474646 
+            xmax = 3.5870282349755058 
+            text = "[sta]" 
+        intervals [5]:
+            xmin = 3.5870282349755058 
+            xmax = 6.0728128193970798 
+            text = "(u) igumbi 0 lesidlo sakusasa (/u)" 
+        intervals [6]:
+            xmin = 6.0728128193970798 
+            xmax = 7.992 
+            text = "0" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 7.992 
+        intervals: size = 6 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.4913919459583071 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.4913919459583071 
+            xmax = 1.1962847832906627 
+            text = "[spk]" 
+        intervals [3]:
+            xmin = 1.1962847832906627 
+            xmax = 3.4856422631474646 
+            text = "(u) igama 0 ($)O(/$) ib_<ind-\zana (/u)" 
+        intervals [4]:
+            xmin = 3.4856422631474646 
+            xmax = 3.5870282349755058 
+            text = "[sta]" 
+        intervals [5]:
+            xmin = 3.5870282349755058 
+            xmax = 6.0728128193970798 
+            text = "(u) igumbi 0 lesiK\O sak_>usasa (/u)" 
+        intervals [6]:
+            xmin = 6.0728128193970798 
+            xmax = 7.992 
+            text = "0" 

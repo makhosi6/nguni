@@ -1,0 +1,68 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 4.8120000000000003 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 4.8120000000000003 
+        intervals: size = 6 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.066159038944440487 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.066159038944440487 
+            xmax = 0.50780504448825092 
+            text = "[int]" 
+        intervals [3]:
+            xmin = 0.50780504448825092 
+            xmax = 1.2686416336671145 
+            text = "(u) emva (/u)" 
+        intervals [4]:
+            xmin = 1.2686416336671145 
+            xmax = 1.3594357302192446 
+            text = "[sta]" 
+        intervals [5]:
+            xmin = 1.3594357302192446 
+            xmax = 2.6014986085671787 
+            text = "0" 
+        intervals [6]:
+            xmin = 2.6014986085671787 
+            xmax = 4.8120000000000003 
+            text = "[int]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 4.8120000000000003 
+        intervals: size = 6 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.066159038944440487 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.066159038944440487 
+            xmax = 0.50780504448825092 
+            text = "[int]" 
+        intervals [3]:
+            xmin = 0.50780504448825092 
+            xmax = 1.2686416336671145 
+            text = "(u) Emva (/u)" 
+        intervals [4]:
+            xmin = 1.2686416336671145 
+            xmax = 1.3594357302192446 
+            text = "[sta]" 
+        intervals [5]:
+            xmin = 1.3594357302192446 
+            xmax = 2.6014986085671787 
+            text = "0" 
+        intervals [6]:
+            xmin = 2.6014986085671787 
+            xmax = 4.8120000000000003 
+            text = "[int]" 

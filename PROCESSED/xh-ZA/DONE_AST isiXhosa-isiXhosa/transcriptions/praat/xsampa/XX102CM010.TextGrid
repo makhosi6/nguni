@@ -1,0 +1,60 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 5.6520000000000001 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic"
+        xmin = 0 
+        xmax = 5.6520000000000001 
+        intervals: size = 5
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.2567934000546454 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.2567934000546454 
+            xmax = 0.65538869043402592 
+            text = "[int]" 
+        intervals [3]:
+            xmin = 0.65538869043402592 
+            xmax = 2.7956720974711344 
+            text = "(u) [int] ku0Qumbu 0 e ($)Eastern 0 Cape(/$) [/int] (/u)" 
+        intervals [4]:
+            xmin = 2.7956720974711344 
+            xmax = 3.5322068731721639 
+            text = "0" 
+        intervals [5]:
+            xmin = 3.5322068731721639 
+            xmax = 5.6520000000000001 
+            text = "[sta]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 5.6520000000000001 
+        intervals: size = 5
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.2567934000546454 
+            text = "0"
+        intervals [2]:
+            xmin = 0.2567934000546454 
+            xmax = 0.65538869043402592 
+            text = "[int]"
+        intervals [3]:
+            xmin = 0.65538869043402592 
+            xmax = 2.7956720974711344 
+            text = "(u) [int] k_>u0!\umbu 0 E ($)istEn 0 ke-\Ip(/$) [/int] (/u)"
+        intervals [4]:
+            xmin = 2.7956720974711344 
+            xmax = 3.5322068731721639 
+            text = "0"
+        intervals [5]:
+            xmin = 3.5322068731721639 
+            xmax = 5.6520000000000001 
+            text = "[sta]"

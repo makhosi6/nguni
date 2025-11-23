@@ -1,0 +1,84 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 4.8840000000000003 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 4.8840000000000003 
+        intervals: size = 8
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.18271127845111781 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.18271127845111781 
+            xmax = 0.51866499169258728 
+            text = "[sta]" 
+        intervals [3]:
+            xmin = 0.51866499169258728 
+            xmax = 0.67645448657718121 
+            text = "[ext]" 
+        intervals [4]:
+            xmin = 0.67645448657718121 
+            xmax = 1.1233816755272323 
+            text = "[sta]" 
+        intervals [5]:
+            xmin = 1.1233816755272323 
+            xmax = 2.7634078146499377 
+            text = "(u) [int] namhlanje ekuseni [/int] (/u)" 
+        intervals [6]:
+            xmin = 2.7634078146499377 
+            xmax = 2.9431309555851923 
+            text = "[spk]" 
+        intervals [7]:
+            xmin = 2.9431309555851923 
+            xmax = 4.6340979789005887 
+            text = "0" 
+        intervals [8]:
+            xmin = 4.6340979789005887 
+            xmax = 4.8840000000000003 
+            text = "[sta]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 4.8840000000000003 
+        intervals: size = 8
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.18271127845111781 
+            text = "0"
+        intervals [2]:
+            xmin = 0.18271127845111781 
+            xmax = 0.51866499169258728 
+            text = "[sta]"
+        intervals [3]:
+            xmin = 0.51866499169258728 
+            xmax = 0.67645448657718121 
+            text = "[ext]"
+        intervals [4]:
+            xmin = 0.67645448657718121 
+            xmax = 1.1233816755272323 
+            text = "[sta]"
+        intervals [5]:
+            xmin = 1.1233816755272323 
+            xmax = 2.7634078146499377 
+            text = "(u) [int] nam=KaJd-\ZE ek_>useni [/int] (/u)"
+        intervals [6]:
+            xmin = 2.7634078146499377 
+            xmax = 2.9431309555851923 
+            text = "[spk]"
+        intervals [7]:
+            xmin = 2.9431309555851923 
+            xmax = 4.6340979789005887 
+            text = "0"
+        intervals [8]:
+            xmin = 4.6340979789005887 
+            xmax = 4.8840000000000003 
+            text = "[sta]"

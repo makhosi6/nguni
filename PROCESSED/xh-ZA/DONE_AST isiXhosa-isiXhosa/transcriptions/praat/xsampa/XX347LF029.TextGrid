@@ -1,0 +1,68 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 4.4880000000000004 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 4.4880000000000004 
+        intervals: size = 6 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.074571106359180808 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.074571106359180808 
+            xmax = 0.29335567046822986 
+            text = "[spk]" 
+        intervals [3]:
+            xmin = 0.29335567046822986 
+            xmax = 2.4302556839901412 
+            text = "(u) unxibelelwano lweenkcukacha (/u)" 
+        intervals [4]:
+            xmin = 2.4302556839901412 
+            xmax = 2.7359614446614522 
+            text = "[spk]" 
+        intervals [5]:
+            xmin = 2.7359614446614522 
+            xmax = 3.0593486880053438 
+            text = "0" 
+        intervals [6]:
+            xmin = 3.0593486880053438 
+            xmax = 4.4880000000000004 
+            text = "[int]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 4.4880000000000004 
+        intervals: size = 6 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.074571106359180808 
+            text = "0"
+        intervals [2]:
+            xmin = 0.074571106359180808 
+            xmax = 0.29335567046822986 
+            text = "[spk]"
+        intervals [3]:
+            xmin = 0.29335567046822986 
+            xmax = 2.4302556839901412 
+            text = "(u) um|\|\~ib_<ElElwanO lwE:N|\uk_>a|\_ha (/u)"
+        intervals [4]:
+            xmin = 2.4302556839901412 
+            xmax = 2.7359614446614522 
+            text = "[spk]"
+        intervals [5]:
+            xmin = 2.7359614446614522 
+            xmax = 3.0593486880053438 
+            text = "0"
+        intervals [6]:
+            xmin = 3.0593486880053438 
+            xmax = 4.4880000000000004 
+            text = "[int]"

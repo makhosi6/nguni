@@ -1,0 +1,68 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 4.944 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 4.944 
+        intervals: size = 6
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.0374231396114284 
+            text = "(u) ~a ledolophu (/u)"
+        intervals [2]:
+            xmin = 1.0374231396114284 
+            xmax = 1.2527320257511003 
+            text = "0" 
+        intervals [3]:
+            xmin = 1.2527320257511003 
+            xmax = 1.5195278194459112 
+            text = "[spk]" 
+        intervals [4]:
+            xmin = 1.5195278194459112 
+            xmax = 1.6459047743539794 
+            text = "0" 
+        intervals [5]:
+            xmin = 1.6459047743539794 
+            xmax = 3.0670045638996548 
+            text = "(u) e ($)Utrecht(/$) (/u)" 
+        intervals [6]:
+            xmin = 3.0670045638996548 
+            xmax = 4.944 
+            text = "0" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 4.944 
+        intervals: size = 6
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.0374231396114284 
+            text = "(u) a lEd_0Olop_h (/u)"
+        intervals [2]:
+            xmin = 1.0374231396114284 
+            xmax = 1.2527320257511003 
+            text = "0"
+        intervals [3]:
+            xmin = 1.2527320257511003 
+            xmax = 1.5195278194459112 
+            text = "[spk]"
+        intervals [4]:
+            xmin = 1.5195278194459112 
+            xmax = 1.6459047743539794 
+            text = "0"
+        intervals [5]:
+            xmin = 1.6459047743539794 
+            xmax = 3.0670045638996548 
+            text = "(u) E ($)utrEt-\S_h(/$) (/u)"
+        intervals [6]:
+            xmin = 3.0670045638996548 
+            xmax = 4.944 
+            text = "0"

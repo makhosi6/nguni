@@ -1,0 +1,60 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 5.0519999999999996 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 5.0519999999999996 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.043646920126696277 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.043646920126696277 
+            xmax = 0.50239987785920481 
+            text = "[spk]" 
+        intervals [3]:
+            xmin = 0.50239987785920481 
+            xmax = 3.0268104930046631 
+            text = "(s) [sta] imvubu sisilo samanzi [/sta] (/s)" 
+        intervals [4]:
+            xmin = 3.0268104930046631 
+            xmax = 4.0356706812080541 
+            text = "0" 
+        intervals [5]:
+            xmin = 4.0356706812080541 
+            xmax = 5.0519999999999996 
+            text = "[sta]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 5.0519999999999996 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.043646920126696277 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.043646920126696277 
+            xmax = 0.50239987785920481 
+            text = "[spk]" 
+        intervals [3]:
+            xmin = 0.50239987785920481 
+            xmax = 3.0268104930046631 
+            text = "(s) [sta] imvub_<u sisilO samand-\zi [/sta] (/s)" 
+        intervals [4]:
+            xmin = 3.0268104930046631 
+            xmax = 4.0356706812080541 
+            text = "0" 
+        intervals [5]:
+            xmin = 4.0356706812080541 
+            xmax = 5.0519999999999996 
+            text = "[sta]" 

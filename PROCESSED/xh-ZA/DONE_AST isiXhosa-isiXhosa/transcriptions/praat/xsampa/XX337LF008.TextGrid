@@ -1,0 +1,84 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 4.1159999999999997 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 4.1159999999999997 
+        intervals: size = 8 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.098228063758389231 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.098228063758389231 
+            xmax = 0.5134606409395972 
+            text = "[sta]" 
+        intervals [3]:
+            xmin = 0.5134606409395972 
+            xmax = 0.71450716189207175 
+            text = "[int]" 
+        intervals [4]:
+            xmin = 0.71450716189207175 
+            xmax = 1.8163055580066758 
+            text = "(u) [int] isixhosa [/int] (/u)" 
+        intervals [5]:
+            xmin = 1.8163055580066758 
+            xmax = 2.3002190033557044 
+            text = "[spk]" 
+        intervals [6]:
+            xmin = 2.3002190033557044 
+            xmax = 2.4071728489932882 
+            text = "[ext]" 
+        intervals [7]:
+            xmin = 2.4071728489932882 
+            xmax = 2.6101481192888003 
+            text = "[sta]" 
+        intervals [8]:
+            xmin = 2.6101481192888003 
+            xmax = 4.1159999999999997 
+            text = "0" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 4.1159999999999997 
+        intervals: size = 8 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.098228063758389231 
+            text = "0"
+        intervals [2]:
+            xmin = 0.098228063758389231 
+            xmax = 0.5134606409395972 
+            text = "[sta]"
+        intervals [3]:
+            xmin = 0.5134606409395972 
+            xmax = 0.71450716189207175 
+            text = "[int]"
+        intervals [4]:
+            xmin = 0.71450716189207175 
+            xmax = 1.8163055580066758 
+            text = "(u) [int] isi|\|\_hOsa [/int] (/u)"
+        intervals [5]:
+            xmin = 1.8163055580066758 
+            xmax = 2.3002190033557044 
+            text = "[spk]"
+        intervals [6]:
+            xmin = 2.3002190033557044 
+            xmax = 2.4071728489932882 
+            text = "[ext]"
+        intervals [7]:
+            xmin = 2.4071728489932882 
+            xmax = 2.6101481192888003 
+            text = "[sta]"
+        intervals [8]:
+            xmin = 2.6101481192888003 
+            xmax = 4.1159999999999997 
+            text = "0"

@@ -1,0 +1,52 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 3.8279999999999998 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 3.8279999999999998 
+        intervals: size = 4 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.59845736180793485 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.59845736180793485 
+            xmax = 2.1164268105709363 
+            text = "(s) yintsimbi yesibhozo (/s)" 
+        intervals [3]:
+            xmin = 2.1164268105709363 
+            xmax = 2.2772612949051538 
+            text = "[spk]" 
+        intervals [4]:
+            xmin = 2.2772612949051538 
+            xmax = 3.8279999999999998 
+            text = "[sta]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 3.8279999999999998 
+        intervals: size = 4 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.59845736180793485 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.59845736180793485 
+            xmax = 2.1164268105709363 
+            text = "(s) jint-\s_>imbi jesib_0OzO (/s)" 
+        intervals [3]:
+            xmin = 2.1164268105709363 
+            xmax = 2.2772612949051538 
+            text = "[spk]" 
+        intervals [4]:
+            xmin = 2.2772612949051538 
+            xmax = 3.8279999999999998 
+            text = "[sta]" 

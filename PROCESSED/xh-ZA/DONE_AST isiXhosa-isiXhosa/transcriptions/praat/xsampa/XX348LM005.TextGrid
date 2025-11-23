@@ -1,0 +1,84 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 7.4880000000000004 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 7.4880000000000004 
+        intervals: size = 8
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.21393149090761901 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.21393149090761901 
+            xmax = 0.74200678007265819 
+            text = "[sta]" 
+        intervals [3]:
+            xmin = 0.74200678007265819 
+            xmax = 1.2012026836944314 
+            text = "[spk]" 
+        intervals [4]:
+            xmin = 1.2012026836944314 
+            xmax = 3.645511859059249 
+            text = "(s) [sta] ndineminyaka engamashumi amabini [/sta] [int] anesibini [/int] (/s)"
+        intervals [5]:
+            xmin = 3.645511859059249 
+            xmax = 3.9793379006061596 
+            text = "[spk]" 
+        intervals [6]:
+            xmin = 3.9793379006061596 
+            xmax = 4.9895688885740608 
+            text = "0" 
+        intervals [7]:
+            xmin = 4.9895688885740608 
+            xmax = 5.7013225391878093 
+            text = "[spk]" 
+        intervals [8]:
+            xmin = 5.7013225391878093 
+            xmax = 7.4880000000000004 
+            text = "[sta]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 7.4880000000000004 
+        intervals: size = 8
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.21393149090761901 
+            text = "0"
+        intervals [2]:
+            xmin = 0.21393149090761901 
+            xmax = 0.74200678007265819 
+            text = "[sta]"
+        intervals [3]:
+            xmin = 0.74200678007265819 
+            xmax = 1.2012026836944314 
+            text = "[spk]"
+        intervals [4]:
+            xmin = 1.2012026836944314 
+            xmax = 3.645511859059249 
+            text = "(s) [sta] ndinemiJak_>a ENgamaSum amab_<in [/sta] [int] anesb_<in [/int] (/s)"
+        intervals [5]:
+            xmin = 3.645511859059249 
+            xmax = 3.9793379006061596 
+            text = "[spk]"
+        intervals [6]:
+            xmin = 3.9793379006061596 
+            xmax = 4.9895688885740608 
+            text = "0"
+        intervals [7]:
+            xmin = 4.9895688885740608 
+            xmax = 5.7013225391878093 
+            text = "[spk]"
+        intervals [8]:
+            xmin = 5.7013225391878093 
+            xmax = 7.4880000000000004 
+            text = "[sta]"

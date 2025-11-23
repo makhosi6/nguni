@@ -1,0 +1,250 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0
+xmax = 2.760000
+tiers? <exists>
+size = 5
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "segment"
+		xmin = 0
+		xmax = 2.760000
+		intervals: size = 29
+		intervals [1]:
+			xmin = 0.000000
+			xmax = 0.020000
+			text = "pau"
+		intervals [2]:
+			xmin = 0.020000
+			xmax = 0.130000
+			text = "eng_ð"
+		intervals [3]:
+			xmin = 0.130000
+			xmax = 0.235000
+			text = "eng_ə"
+		intervals [4]:
+			xmin = 0.235000
+			xmax = 0.405000
+			text = "eng_s"
+		intervals [5]:
+			xmin = 0.405000
+			xmax = 0.460000
+			text = "eng_d"
+		intervals [6]:
+			xmin = 0.460000
+			xmax = 0.585000
+			text = "eng_ə"
+		intervals [7]:
+			xmin = 0.585000
+			xmax = 0.625000
+			text = "eng_d"
+		intervals [8]:
+			xmin = 0.625000
+			xmax = 0.690000
+			text = "eng_n"
+		intervals [9]:
+			xmin = 0.690000
+			xmax = 0.800000
+			text = "eng_ɒ"
+		intervals [10]:
+			xmin = 0.800000
+			xmax = 0.860000
+			text = "eng_t"
+		intervals [11]:
+			xmin = 0.860000
+			xmax = 1.070000
+			text = "eng_ɛ"
+		intervals [12]:
+			xmin = 1.070000
+			xmax = 1.115000
+			text = "eng_g"
+		intervals [13]:
+			xmin = 1.115000
+			xmax = 1.260000
+			text = "eng_z"
+		intervals [14]:
+			xmin = 1.260000
+			xmax = 1.350000
+			text = "eng_ɛ"
+		intervals [15]:
+			xmin = 1.350000
+			xmax = 1.425000
+			text = "eng_m"
+		intervals [16]:
+			xmin = 1.425000
+			xmax = 1.450000
+			text = "eng_p"
+		intervals [17]:
+			xmin = 1.450000
+			xmax = 1.550000
+			text = "eng_t"
+		intervals [18]:
+			xmin = 1.550000
+			xmax = 1.705000
+			text = "eng_m"
+		intervals [19]:
+			xmin = 1.705000
+			xmax = 1.880000
+			text = "eng_ɪ"
+		intervals [20]:
+			xmin = 1.880000
+			xmax = 2.040000
+			text = "eng_f"
+		intervals [21]:
+			xmin = 2.040000
+			xmax = 2.070000
+			text = "eng_ɹ"
+		intervals [22]:
+			xmin = 2.070000
+			xmax = 2.110000
+			text = "eng_ɒ"
+		intervals [23]:
+			xmin = 2.110000
+			xmax = 2.255000
+			text = "eng_m"
+		intervals [24]:
+			xmin = 2.255000
+			xmax = 2.310000
+			text = "eng_l"
+		intervals [25]:
+			xmin = 2.310000
+			xmax = 2.505000
+			text = "eng_eɪ"
+		intervals [26]:
+			xmin = 2.505000
+			xmax = 2.550000
+			text = "eng_b"
+		intervals [27]:
+			xmin = 2.550000
+			xmax = 2.575000
+			text = "eng_ə"
+		intervals [28]:
+			xmin = 2.575000
+			xmax = 2.610000
+			text = "eng_ɹ"
+		intervals [29]:
+			xmin = 2.610000
+			xmax = 2.760000
+			text = "pau"
+	item [2]:
+		class = "IntervalTier"
+		name = "syllable"
+		xmin = 0
+		xmax = 2.760000
+		intervals: size = 11
+		intervals [1]:
+			xmin = 0.000000
+			xmax = 0.020000
+			text = "NONE"
+		intervals [2]:
+			xmin = 0.020000
+			xmax = 0.405000
+			text = "syl"
+		intervals [3]:
+			xmin = 0.405000
+			xmax = 0.625000
+			text = "syl"
+		intervals [4]:
+			xmin = 0.625000
+			xmax = 0.860000
+			text = "syl"
+		intervals [5]:
+			xmin = 0.860000
+			xmax = 1.115000
+			text = "syl"
+		intervals [6]:
+			xmin = 1.115000
+			xmax = 1.550000
+			text = "syl"
+		intervals [7]:
+			xmin = 1.550000
+			xmax = 1.880000
+			text = "syl"
+		intervals [8]:
+			xmin = 1.880000
+			xmax = 2.255000
+			text = "syl"
+		intervals [9]:
+			xmin = 2.255000
+			xmax = 2.505000
+			text = "syl"
+		intervals [10]:
+			xmin = 2.505000
+			xmax = 2.610000
+			text = "syl"
+		intervals [11]:
+			xmin = 2.610000
+			xmax = 2.760000
+			text = "NONE"
+	item [3]:
+		class = "IntervalTier"
+		name = "word"
+		xmin = 0
+		xmax = 2.760000
+		intervals: size = 9
+		intervals [1]:
+			xmin = 0.000000
+			xmax = 0.020000
+			text = "NONE"
+		intervals [2]:
+			xmin = 0.020000
+			xmax = 0.405000
+			text = "this"
+		intervals [3]:
+			xmin = 0.405000
+			xmax = 0.625000
+			text = "did"
+		intervals [4]:
+			xmin = 0.625000
+			xmax = 0.860000
+			text = "not"
+		intervals [5]:
+			xmin = 0.860000
+			xmax = 1.550000
+			text = "exempt"
+		intervals [6]:
+			xmin = 1.550000
+			xmax = 1.880000
+			text = "me"
+		intervals [7]:
+			xmin = 1.880000
+			xmax = 2.255000
+			text = "from"
+		intervals [8]:
+			xmin = 2.255000
+			xmax = 2.610000
+			text = "labour"
+		intervals [9]:
+			xmin = 2.610000
+			xmax = 2.760000
+			text = "NONE"
+	item [4]:
+		class = "IntervalTier"
+		name = "phrase"
+		xmin = 0
+		xmax = 2.760000
+		intervals: size = 3
+		intervals [1]:
+			xmin = 0.000000
+			xmax = 0.020000
+			text = "NONE"
+		intervals [2]:
+			xmin = 0.020000
+			xmax = 2.610000
+			text = "BB"
+		intervals [3]:
+			xmin = 2.610000
+			xmax = 2.760000
+			text = "NONE"
+	item [5]:
+		class = "IntervalTier"
+		name = "text"
+		xmin = 0
+		xmax = 2.760000
+		intervals: size = 1
+		intervals [1]:
+			xmin = 0.000000
+			xmax = 2.760000
+			text = "|This |did |not |exempt |me |from |labour."

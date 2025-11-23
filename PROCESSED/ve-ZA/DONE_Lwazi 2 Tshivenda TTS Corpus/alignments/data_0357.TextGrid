@@ -1,0 +1,222 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0
+xmax = 3.275000
+tiers? <exists>
+size = 5
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "segment"
+		xmin = 0
+		xmax = 3.275000
+		intervals: size = 22
+		intervals [1]:
+			xmin = 0.000000
+			xmax = 0.315000
+			text = "pau"
+		intervals [2]:
+			xmin = 0.315000
+			xmax = 0.375000
+			text = "n"
+		intervals [3]:
+			xmin = 0.375000
+			xmax = 0.440000
+			text = "g"
+		intervals [4]:
+			xmin = 0.440000
+			xmax = 0.610000
+			text = "a"
+		intervals [5]:
+			xmin = 0.610000
+			xmax = 0.695000
+			text = "u"
+		intervals [6]:
+			xmin = 0.695000
+			xmax = 0.840000
+			text = "ʃ"
+		intervals [7]:
+			xmin = 0.840000
+			xmax = 0.900000
+			text = "u"
+		intervals [8]:
+			xmin = 0.900000
+			xmax = 0.995000
+			text = "m"
+		intervals [9]:
+			xmin = 0.995000
+			xmax = 1.085000
+			text = "i"
+		intervals [10]:
+			xmin = 1.085000
+			xmax = 1.245000
+			text = "s"
+		intervals [11]:
+			xmin = 1.245000
+			xmax = 1.515000
+			text = "a"
+		intervals [12]:
+			xmin = 1.515000
+			xmax = 1.650000
+			text = "m"
+		intervals [13]:
+			xmin = 1.650000
+			xmax = 1.735000
+			text = "u"
+		intervals [14]:
+			xmin = 1.735000
+			xmax = 1.945000
+			text = "tʃʰ"
+		intervals [15]:
+			xmin = 1.945000
+			xmax = 2.035000
+			text = "i"
+		intervals [16]:
+			xmin = 2.035000
+			xmax = 2.070000
+			text = "l"
+		intervals [17]:
+			xmin = 2.070000
+			xmax = 2.190000
+			text = "a"
+		intervals [18]:
+			xmin = 2.190000
+			xmax = 2.375000
+			text = "w"
+		intervals [19]:
+			xmin = 2.375000
+			xmax = 2.515000
+			text = "a"
+		intervals [20]:
+			xmin = 2.515000
+			xmax = 2.660000
+			text = "n"
+		intervals [21]:
+			xmin = 2.660000
+			xmax = 2.935000
+			text = "i"
+		intervals [22]:
+			xmin = 2.935000
+			xmax = 3.275000
+			text = "pau"
+	item [2]:
+		class = "IntervalTier"
+		name = "syllable"
+		xmin = 0
+		xmax = 3.275000
+		intervals: size = 12
+		intervals [1]:
+			xmin = 0.000000
+			xmax = 0.315000
+			text = "NONE"
+		intervals [2]:
+			xmin = 0.315000
+			xmax = 0.610000
+			text = "syl"
+		intervals [3]:
+			xmin = 0.610000
+			xmax = 0.695000
+			text = "syl"
+		intervals [4]:
+			xmin = 0.695000
+			xmax = 0.900000
+			text = "syl"
+		intervals [5]:
+			xmin = 0.900000
+			xmax = 1.085000
+			text = "syl"
+		intervals [6]:
+			xmin = 1.085000
+			xmax = 1.515000
+			text = "syl"
+		intervals [7]:
+			xmin = 1.515000
+			xmax = 1.735000
+			text = "syl"
+		intervals [8]:
+			xmin = 1.735000
+			xmax = 2.035000
+			text = "syl"
+		intervals [9]:
+			xmin = 2.035000
+			xmax = 2.190000
+			text = "syl"
+		intervals [10]:
+			xmin = 2.190000
+			xmax = 2.515000
+			text = "syl"
+		intervals [11]:
+			xmin = 2.515000
+			xmax = 2.935000
+			text = "syl"
+		intervals [12]:
+			xmin = 2.935000
+			xmax = 3.275000
+			text = "NONE"
+	item [3]:
+		class = "IntervalTier"
+		name = "word"
+		xmin = 0
+		xmax = 3.275000
+		intervals: size = 8
+		intervals [1]:
+			xmin = 0.000000
+			xmax = 0.315000
+			text = "NONE"
+		intervals [2]:
+			xmin = 0.315000
+			xmax = 0.610000
+			text = "nga"
+		intervals [3]:
+			xmin = 0.610000
+			xmax = 0.695000
+			text = "u"
+		intervals [4]:
+			xmin = 0.695000
+			xmax = 1.515000
+			text = "shumisa"
+		intervals [5]:
+			xmin = 1.515000
+			xmax = 2.190000
+			text = "mutshila"
+		intervals [6]:
+			xmin = 2.190000
+			xmax = 2.515000
+			text = "wa"
+		intervals [7]:
+			xmin = 2.515000
+			xmax = 2.935000
+			text = "ni"
+		intervals [8]:
+			xmin = 2.935000
+			xmax = 3.275000
+			text = "NONE"
+	item [4]:
+		class = "IntervalTier"
+		name = "phrase"
+		xmin = 0
+		xmax = 3.275000
+		intervals: size = 3
+		intervals [1]:
+			xmin = 0.000000
+			xmax = 0.315000
+			text = "NONE"
+		intervals [2]:
+			xmin = 0.315000
+			xmax = 2.935000
+			text = "BB"
+		intervals [3]:
+			xmin = 2.935000
+			xmax = 3.275000
+			text = "NONE"
+	item [5]:
+		class = "IntervalTier"
+		name = "text"
+		xmin = 0
+		xmax = 3.275000
+		intervals: size = 1
+		intervals [1]:
+			xmin = 0.000000
+			xmax = 3.275000
+			text = "Nga u shumisa mutshila wa ni"

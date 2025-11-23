@@ -1,0 +1,60 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 8.0399999999999992 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 8.0399999999999992 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.15386461832782897 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.15386461832782897 
+            xmax = 1.3714111143234924 
+            text = "(u) isambuku 0 *semali (/u)" 
+        intervals [3]:
+            xmin = 1.3714111143234924 
+            xmax = 2.0526837913331679 
+            text = "[int]" 
+        intervals [4]:
+            xmin = 2.0526837913331679 
+            xmax = 3.6387668058766218 
+            text = "(u) [int] ($)four hundred and seventy 0 four(/$) [/int] (/u)" 
+        intervals [5]:
+            xmin = 3.6387668058766218 
+            xmax = 8.0399999999999992 
+            text = "[int]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 8.0399999999999992 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.15386461832782897 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.15386461832782897 
+            xmax = 1.3714111143234924 
+            text = "(u) isambuk_>u 0 sEmal (/u)" 
+        intervals [3]:
+            xmin = 1.3714111143234924 
+            xmax = 2.0526837913331679 
+            text = "[int]" 
+        intervals [4]:
+            xmin = 2.0526837913331679 
+            xmax = 3.6387668058766218 
+            text = "(u) [int] ($)fO: handr@t En sEni 0 fO:(/$) [/int] (/u)" 
+        intervals [5]:
+            xmin = 3.6387668058766218 
+            xmax = 8.0399999999999992 
+            text = "[int]" 

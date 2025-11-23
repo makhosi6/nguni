@@ -1,0 +1,68 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 12.804 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 12.804 
+        intervals: size = 6 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.229524251409142 
+            text = "(u) ~ma 0 *elipelwayo (/u)" 
+        intervals [2]:
+            xmin = 1.229524251409142 
+            xmax = 1.8380508100668902 
+            text = "[int]" 
+        intervals [3]:
+            xmin = 1.8380508100668902 
+            xmax = 9.3955580708163424 
+            text = "(u) [sta] U. 0 M. 0 K. 0 H. U. 0 H. 0 L. 0 A. 0 N. 0 E. 0 [ext] umkhuhlane [/sta] (/u)" 
+        intervals [4]:
+            xmin = 9.3955580708163424 
+            xmax = 10.51446174318704 
+            text = "[sta]" 
+        intervals [5]:
+            xmin = 10.51446174318704 
+            xmax = 11.358546969712304 
+            text = "[int]" 
+        intervals [6]:
+            xmin = 11.358546969712304 
+            xmax = 12.804 
+            text = "[sta]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 12.804 
+        intervals: size = 6 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.229524251409142 
+            text = "(u) ma 0 elip_hElElEjO (/u)"
+        intervals [2]:
+            xmin = 1.229524251409142 
+            xmax = 1.8380508100668902 
+            text = "[int]"
+        intervals [3]:
+            xmin = 1.8380508100668902 
+            xmax = 9.3955580708163424 
+            text = "(u) [sta] ju 0 Em 0 ke-\I 0 e-\ItS ju 0 e-\ItS 0 el 0 e-\I 0 En 0 i: 0 [ext] um=k_huKanE [/sta] (/u)"
+        intervals [4]:
+            xmin = 9.3955580708163424 
+            xmax = 10.51446174318704 
+            text = "[sta]"
+        intervals [5]:
+            xmin = 10.51446174318704 
+            xmax = 11.358546969712304 
+            text = "[int]"
+        intervals [6]:
+            xmin = 11.358546969712304 
+            xmax = 12.804 
+            text = "[sta]"

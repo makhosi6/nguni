@@ -1,0 +1,82 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0
+xmax = 0.705000
+tiers? <exists>
+size = 3
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "segment"
+		xmin = 0
+		xmax = 0.705000
+		intervals: size = 7
+		intervals [1]:
+			xmin = 0.000000
+			xmax = 0.030000
+			text = "#"
+		intervals [2]:
+			xmin = 0.030000
+			xmax = 0.210000
+			text = "r"
+		intervals [3]:
+			xmin = 0.210000
+			xmax = 0.410000
+			text = "a"
+		intervals [4]:
+			xmin = 0.410000
+			xmax = 0.565000
+			text = "n"
+		intervals [5]:
+			xmin = 0.565000
+			xmax = 0.590000
+			text = "#_cl"
+		intervals [6]:
+			xmin = 0.590000
+			xmax = 0.620000
+			text = "d"
+		intervals [7]:
+			xmin = 0.620000
+			xmax = 0.705000
+			text = "#"
+	item [2]:
+		class = "IntervalTier"
+		name = "syllable"
+		xmin = 0
+		xmax = 0.705000
+		intervals: size = 4
+		intervals [1]:
+			xmin = 0.000000
+			xmax = 0.030000
+			text = "NONE"
+		intervals [2]:
+			xmin = 0.030000
+			xmax = 0.565000
+			text = "syl"
+		intervals [3]:
+			xmin = 0.565000
+			xmax = 0.620000
+			text = "syl"
+		intervals [4]:
+			xmin = 0.620000
+			xmax = 0.705000
+			text = "NONE"
+	item [3]:
+		class = "IntervalTier"
+		name = "word"
+		xmin = 0
+		xmax = 0.705000
+		intervals: size = 3
+		intervals [1]:
+			xmin = 0.000000
+			xmax = 0.030000
+			text = "NONE"
+		intervals [2]:
+			xmin = 0.030000
+			xmax = 0.620000
+			text = "Rand"
+		intervals [3]:
+			xmin = 0.620000
+			xmax = 0.705000
+			text = "NONE"

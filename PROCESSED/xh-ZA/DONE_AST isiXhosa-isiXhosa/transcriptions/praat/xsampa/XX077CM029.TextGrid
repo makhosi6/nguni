@@ -1,0 +1,60 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 13.68 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 13.68 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.7488241364422601 
+            text = "(u) *va+ 0 isivakalisi (/u)" 
+        intervals [2]:
+            xmin = 1.7488241364422601 
+            xmax = 2.3994579646510479 
+            text = "0" 
+        intervals [3]:
+            xmin = 2.3994579646510479 
+            xmax = 9.9920988128555983 
+            text = "(s) *intombi 0 *yomlahla 0 unodoli wayo 0 yamlahla 0 yamlahla unodoli wayo (/s)" 
+        intervals [4]:
+            xmin = 9.9920988128555983 
+            xmax = 10.8200183884006 
+            text = "0" 
+        intervals [5]:
+            xmin = 10.8200183884006 
+            xmax = 13.68 
+            text = "[int]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 13.68 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.7488241364422601 
+            text = "(u) va 0 isivak_>alis (/u)" 
+        intervals [2]:
+            xmin = 1.7488241364422601 
+            xmax = 2.3994579646510479 
+            text = "0" 
+        intervals [3]:
+            xmin = 2.3994579646510479 
+            xmax = 9.9920988128555983 
+            text = "(s) nt_>ombi 0 jOmlaKa 0 unOdoli wajO 0 jamlaKa 0 jamlaKa unOdoli waj (/s)" 
+        intervals [4]:
+            xmin = 9.9920988128555983 
+            xmax = 10.8200183884006 
+            text = "0" 
+        intervals [5]:
+            xmin = 10.8200183884006 
+            xmax = 13.68 
+            text = "[int]" 

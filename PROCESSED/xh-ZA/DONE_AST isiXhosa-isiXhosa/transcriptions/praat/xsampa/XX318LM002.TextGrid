@@ -1,0 +1,68 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 5.2679999999999998 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 5.2679999999999998 
+        intervals: size = 6
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.1454043517214898 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.1454043517214898 
+            xmax = 0.27972872625709633 
+            text = "[sta]" 
+        intervals [3]:
+            xmin = 0.27972872625709633 
+            xmax = 3.0014763051639868 
+            text = "(u) Themba 0 ifani 0 Xhantsa (/u)" 
+        intervals [4]:
+            xmin = 3.0014763051639868 
+            xmax = 3.6072064785112175 
+            text = "[spk]"
+        intervals [5]:
+            xmin = 3.6072064785112175 
+            xmax = 4.172554640301966 
+            text = "0" 
+        intervals [6]:
+            xmin = 4.172554640301966 
+            xmax = 5.2679999999999998 
+            text = "[sta]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 5.2679999999999998 
+        intervals: size = 6
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.1454043517214898 
+            text = "0"
+        intervals [2]:
+            xmin = 0.1454043517214898 
+            xmax = 0.27972872625709633 
+            text = "[sta]"
+        intervals [3]:
+            xmin = 0.27972872625709633 
+            xmax = 3.0014763051639868 
+            text = "(u) t_hEmba 0 ifani 0 |\|\_hant-\s_>a (/u)"
+        intervals [4]:
+            xmin = 3.0014763051639868 
+            xmax = 3.6072064785112175 
+            text = "[spk]"
+        intervals [5]:
+            xmin = 3.6072064785112175 
+            xmax = 4.172554640301966 
+            text = "0"
+        intervals [6]:
+            xmin = 4.172554640301966 
+            xmax = 5.2679999999999998 
+            text = "[sta]"

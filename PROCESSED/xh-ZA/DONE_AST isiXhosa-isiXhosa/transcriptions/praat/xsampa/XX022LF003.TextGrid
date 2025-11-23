@@ -1,0 +1,76 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 5.1840000000000002 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic"
+        xmin = 0 
+        xmax = 5.1840000000000002 
+        intervals: size = 7
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.26732073791477351 
+            text = "[spk]" 
+        intervals [2]:
+            xmin = 0.26732073791477351 
+            xmax = 0.63013120905483966 
+            text = "[int]" 
+        intervals [3]:
+            xmin = 0.63013120905483966 
+            xmax = 2.7246204642335159 
+            text = "(u) [int] J. 0 A. 0 N. 0 G. 0 E. [/int] (/u)" 
+        intervals [4]:
+            xmin = 2.7246204642335159 
+            xmax = 2.9478448265732382 
+            text = "[sta]" 
+        intervals [5]:
+            xmin = 2.9478448265732382 
+            xmax = 4.8486340937690562 
+            text = "(u) J. 0 A. 0 N. 0 [int] G. 0 E. [/int] (/u)" 
+        intervals [6]:
+            xmin = 4.8486340937690562 
+            xmax = 5.0423340817519149 
+            text = "[sta]" 
+        intervals [7]:
+            xmin = 5.0423340817519149 
+            xmax = 5.1840000000000002 
+            text = "0" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 5.1840000000000002 
+        intervals: size = 7
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.26732073791477351 
+            text = "[spk]"
+        intervals [2]:
+            xmin = 0.26732073791477351 
+            xmax = 0.63013120905483966 
+            text = "[int]"
+        intervals [3]:
+            xmin = 0.63013120905483966 
+            xmax = 2.7246204642335159 
+            text = "(u) [int] d-\Ze-\I 0 e-\I 0 En 0 d-\Zi 0 i [/int] (/u)"
+        intervals [4]:
+            xmin = 2.7246204642335159 
+            xmax = 2.9478448265732382 
+            text = "[sta]"
+        intervals [5]:
+            xmin = 2.9478448265732382 
+            xmax = 4.8486340937690562 
+            text = "(u) d-\Ze-\I 0 e-\I 0 En 0 [int] d-\Zi 0 i [/int] (/u)"
+        intervals [6]:
+            xmin = 4.8486340937690562 
+            xmax = 5.0423340817519149 
+            text = "[sta]"
+        intervals [7]:
+            xmin = 5.0423340817519149 
+            xmax = 5.1840000000000002 
+            text = "0"

@@ -1,0 +1,60 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 7.3799999999999999 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic"
+        xmin = 0 
+        xmax = 7.3799999999999999 
+        intervals: size = 5
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.4969328847914114 
+            text = "(u) [sta] ~nzana [/sta] (/u)" 
+        intervals [2]:
+            xmin = 0.4969328847914114 
+            xmax = 0.81434158566446102 
+            text = "[sta]" 
+        intervals [3]:
+            xmin = 0.81434158566446102 
+            xmax = 1.1484560076360923 
+            text = "[spk]" 
+        intervals [4]:
+            xmin = 1.1484560076360923 
+            xmax = 5.4720057377629807 
+            text = "(s) [sta] *kuphe+ 0 kuphela kolwazi 0 eninalo [/sta] [int] olo [/int] (/s)" 
+        intervals [5]:
+            xmin = 5.4720057377629807 
+            xmax = 7.3799999999999999 
+            text = "[sta]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 7.3799999999999999 
+        intervals: size = 5
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.4969328847914114 
+            text = "(u) [sta] nd-\zana [/sta] (/u)"
+        intervals [2]:
+            xmin = 0.4969328847914114 
+            xmax = 0.81434158566446102 
+            text = "[sta]"
+        intervals [3]:
+            xmin = 0.81434158566446102 
+            xmax = 1.1484560076360923 
+            text = "[spk]"
+        intervals [4]:
+            xmin = 1.1484560076360923 
+            xmax = 5.4720057377629807 
+            text = "(s) [sta] k_>up_hE 0 k_>up_hEla k_>Olwazi 0 eninalO [/sta] [int] OlO [/int] (/s)"
+        intervals [5]:
+            xmin = 5.4720057377629807 
+            xmax = 7.3799999999999999 
+            text = "[sta]"

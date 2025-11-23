@@ -1,0 +1,60 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 8.3879999999999999 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic"
+        xmin = 0 
+        xmax = 8.3879999999999999 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.40682041915016343 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.40682041915016343 
+            xmax = 0.75403212944879028 
+            text = "[int]" 
+        intervals [3]:
+            xmin = 0.75403212944879028 
+            xmax = 5.3527798891077634 
+            text = "(u) ($)four thousand rand 0 seven hundred and thirty *thr+ 0 and thirty seven rand 0 and three [int] cents [/int](/$) (/u)" 
+        intervals [4]:
+            xmin = 5.3527798891077634 
+            xmax = 5.5249782228114031 
+            text = "[int]" 
+        intervals [5]:
+            xmin = 5.5249782228114031 
+            xmax = 8.3879999999999999 
+            text = "0" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 8.3879999999999999 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.40682041915016343 
+            text = "0"
+        intervals [2]:
+            xmin = 0.40682041915016343 
+            xmax = 0.75403212944879028 
+            text = "[int]"
+        intervals [3]:
+            xmin = 0.75403212944879028 
+            xmax = 5.3527798891077634 
+            text = "(u) ($)fO Ta-\Uz@nd r{nd 0 sEv@n handr@t {n Teti tr 0 {n Teti sEv@n rant 0 {n tri [int] sEns [/int](/$) (/u)"
+        intervals [4]:
+            xmin = 5.3527798891077634 
+            xmax = 5.5249782228114031 
+            text = "[int]"
+        intervals [5]:
+            xmin = 5.5249782228114031 
+            xmax = 8.3879999999999999 
+            text = "0"

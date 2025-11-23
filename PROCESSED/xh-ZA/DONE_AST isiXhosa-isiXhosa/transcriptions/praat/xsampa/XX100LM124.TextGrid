@@ -1,0 +1,60 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 11.856 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 11.856 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.1203145548932898 
+            text = "(u) yemfonomfono (/u)" 
+        intervals [2]:
+            xmin = 1.1203145548932898 
+            xmax = 1.4688419796341221 
+            text = "[spk]" 
+        intervals [3]:
+            xmin = 1.4688419796341221 
+            xmax = 1.739035639286826 
+            text = "0" 
+        intervals [4]:
+            xmin = 1.739035639286826 
+            xmax = 7.133124604026845 
+            text = "(u) [sta] ($)oh 0 two one 0 oh five eight 0 three 0 two 0 nine five(/$) [/sta] (/u)" 
+        intervals [5]:
+            xmin = 7.133124604026845 
+            xmax = 11.856 
+            text = "[int]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 11.856 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.1203145548932898 
+            text = "(u) jEmfOnOmfOnO (/u)" 
+        intervals [2]:
+            xmin = 1.1203145548932898 
+            xmax = 1.4688419796341221 
+            text = "[spk]" 
+        intervals [3]:
+            xmin = 1.4688419796341221 
+            xmax = 1.739035639286826 
+            text = "0" 
+        intervals [4]:
+            xmin = 1.739035639286826 
+            xmax = 7.133124604026845 
+            text = "(u) [sta] ($)O-\u 0 tu: wan 0 O-\u fa-\if E-\it 0 Tri: 0 tu: 0 na-\in fa-\if(/$) [/sta] (/u)" 
+        intervals [5]:
+            xmin = 7.133124604026845 
+            xmax = 11.856 
+            text = "[int]" 

@@ -1,0 +1,84 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 7.548 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 7.548 
+        intervals: size = 8
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.57226578900551506 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.57226578900551506 
+            xmax = 0.86455948659434412 
+            text = "[spk]" 
+        intervals [3]:
+            xmin = 0.86455948659434412 
+            xmax = 2.523415985032051 
+            text = "(u) [sta] igama 0 ibinzana [/sta] (/u)" 
+        intervals [4]:
+            xmin = 2.523415985032051 
+            xmax = 2.801737625438141 
+            text = "[sta]" 
+        intervals [5]:
+            xmin = 2.801737625438141 
+            xmax = 3.4000044453710809 
+            text = "(u) [sta] emva [/sta] (/u)"
+        intervals [6]:
+            xmin = 3.4000044453710809 
+            xmax = 4.0987472384957435 
+            text = "[spk]" 
+        intervals [7]:
+            xmin = 4.0987472384957435 
+            xmax = 5.2473802466066628 
+            text = "0" 
+        intervals [8]:
+            xmin = 5.2473802466066628 
+            xmax = 7.548 
+            text = "[int]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 7.548 
+        intervals: size = 8
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.57226578900551506 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.57226578900551506 
+            xmax = 0.86455948659434412 
+            text = "[spk]" 
+        intervals [3]:
+            xmin = 0.86455948659434412 
+            xmax = 2.523415985032051 
+            text = "(u) [sta] igama 0 ib_<ind-\zana [/sta] (/u)" 
+        intervals [4]:
+            xmin = 2.523415985032051 
+            xmax = 2.801737625438141 
+            text = "[sta]" 
+        intervals [5]:
+            xmin = 2.801737625438141 
+            xmax = 3.4000044453710809 
+            text = "(u) [sta] Emva [/sta] (/u)" 
+        intervals [6]:
+            xmin = 3.4000044453710809 
+            xmax = 4.0987472384957435 
+            text = "[spk]" 
+        intervals [7]:
+            xmin = 4.0987472384957435 
+            xmax = 5.2473802466066628 
+            text = "0" 
+        intervals [8]:
+            xmin = 5.2473802466066628 
+            xmax = 7.548 
+            text = "[int]" 

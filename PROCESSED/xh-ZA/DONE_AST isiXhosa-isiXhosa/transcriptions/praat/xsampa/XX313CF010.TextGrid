@@ -1,0 +1,68 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 3.552 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 3.552 
+        intervals: size = 6 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.45762244053917062 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.45762244053917062 
+            xmax = 1.3600031228606646 
+            text = "(u) [sta] e ($)Cape_Town(/$) [/sta] (/u)" 
+        intervals [3]:
+            xmin = 1.3600031228606646 
+            xmax = 1.7156462133095482 
+            text = "[int]" 
+        intervals [4]:
+            xmin = 1.7156462133095482 
+            xmax = 2.6374131373091792 
+            text = "[sta]" 
+        intervals [5]:
+            xmin = 2.6374131373091792 
+            xmax = 2.8898016998328879 
+            text = "[int]" 
+        intervals [6]:
+            xmin = 2.8898016998328879 
+            xmax = 3.552 
+            text = "[sta]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 3.552 
+        intervals: size = 6 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.45762244053917062 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.45762244053917062 
+            xmax = 1.3600031228606646 
+            text = "(u) [sta] E ($)kE-\ipt@-\un(/$) [/sta] (/u)" 
+        intervals [3]:
+            xmin = 1.3600031228606646 
+            xmax = 1.7156462133095482 
+            text = "[int]" 
+        intervals [4]:
+            xmin = 1.7156462133095482 
+            xmax = 2.6374131373091792 
+            text = "[sta]" 
+        intervals [5]:
+            xmin = 2.6374131373091792 
+            xmax = 2.8898016998328879 
+            text = "[int]" 
+        intervals [6]:
+            xmin = 2.8898016998328879 
+            xmax = 3.552 
+            text = "[sta]" 

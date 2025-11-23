@@ -1,0 +1,52 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 4.2839999999999998 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 4.2839999999999998 
+        intervals: size = 4 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.29749392226379268 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.29749392226379268 
+            xmax = 0.58214131897711974 
+            text = "[int]" 
+        intervals [3]:
+            xmin = 0.58214131897711974 
+            xmax = 2.2495654042302973 
+            text = "(s) [int] khawuphinde eyokugqibela [/int] (/s)" 
+        intervals [4]:
+            xmin = 2.2495654042302973 
+            xmax = 4.2839999999999998 
+            text = "[int]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 4.2839999999999998 
+        intervals: size = 4 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.29749392226379268 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.29749392226379268 
+            xmax = 0.58214131897711974 
+            text = "[int]" 
+        intervals [3]:
+            xmin = 0.58214131897711974 
+            xmax = 2.2495654042302973 
+            text = "(s) [int] k_hawup_hindE Ejok_>u!\_vib_<Ela [/int] (/s)" 
+        intervals [4]:
+            xmin = 2.2495654042302973 
+            xmax = 4.2839999999999998 
+            text = "[int]" 

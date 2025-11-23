@@ -1,0 +1,68 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 7.3799999999999999 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 7.3799999999999999 
+        intervals: size = 6
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.21084594055798986 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.21084594055798986 
+            xmax = 0.36933700312604612 
+            text = "[sta]" 
+        intervals [3]:
+            xmin = 0.36933700312604612 
+            xmax = 1.2517635778544611 
+            text = "(u) [int] ibinzana [/int] (/u)" 
+        intervals [4]:
+            xmin = 1.2517635778544611 
+            xmax = 1.8983784077856294 
+            text = "[int]" 
+        intervals [5]:
+            xmin = 1.8983784077856294 
+            xmax = 5.4380627713294007 
+            text = "(s) [int] ufuna ndihambe kangakanani ukuya phambili [/int] (/s)"
+        intervals [6]:
+            xmin = 5.4380627713294007 
+            xmax = 7.3799999999999999 
+            text = "[int]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 7.3799999999999999 
+        intervals: size = 6
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.21084594055798986 
+            text = "0"
+        intervals [2]:
+            xmin = 0.21084594055798986 
+            xmax = 0.36933700312604612 
+            text = "[sta]"
+        intervals [3]:
+            xmin = 0.36933700312604612 
+            xmax = 1.2517635778544611 
+            text = "(u) [int] ib_<ind-\zana [/int] (/u)"
+        intervals [4]:
+            xmin = 1.2517635778544611 
+            xmax = 1.8983784077856294 
+            text = "[int]"
+        intervals [5]:
+            xmin = 1.8983784077856294 
+            xmax = 5.4380627713294007 
+            text = "(s) [int] ufuna ndih\ambE k_>aNgak_>anani uk_>uja p_hambil [/int] (/s)"
+        intervals [6]:
+            xmin = 5.4380627713294007 
+            xmax = 7.3799999999999999 
+            text = "[int]"

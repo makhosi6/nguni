@@ -1,0 +1,222 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0
+xmax = 2.425000
+tiers? <exists>
+size = 5
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "segment"
+		xmin = 0
+		xmax = 2.425000
+		intervals: size = 22
+		intervals [1]:
+			xmin = 0.000000
+			xmax = 0.135000
+			text = "pau"
+		intervals [2]:
+			xmin = 0.135000
+			xmax = 0.195000
+			text = "eng_b"
+		intervals [3]:
+			xmin = 0.195000
+			xmax = 0.330000
+			text = "eng_ɒ"
+		intervals [4]:
+			xmin = 0.330000
+			xmax = 0.375000
+			text = "eng_b"
+		intervals [5]:
+			xmin = 0.375000
+			xmax = 0.505000
+			text = "eng_k"
+		intervals [6]:
+			xmin = 0.505000
+			xmax = 0.550000
+			text = "eng_ʊ"
+		intervals [7]:
+			xmin = 0.550000
+			xmax = 0.630000
+			text = "eng_d"
+		intervals [8]:
+			xmin = 0.630000
+			xmax = 0.760000
+			text = "eng_n"
+		intervals [9]:
+			xmin = 0.760000
+			xmax = 0.815000
+			text = "eng_t"
+		intervals [10]:
+			xmin = 0.815000
+			xmax = 0.845000
+			text = "eng_t"
+		intervals [11]:
+			xmin = 0.845000
+			xmax = 1.015000
+			text = "eng_eɪ"
+		intervals [12]:
+			xmin = 1.015000
+			xmax = 1.070000
+			text = "eng_k"
+		intervals [13]:
+			xmin = 1.070000
+			xmax = 1.185000
+			text = "eng_ɪ"
+		intervals [14]:
+			xmin = 1.185000
+			xmax = 1.290000
+			text = "eng_t"
+		intervals [15]:
+			xmin = 1.290000
+			xmax = 1.615000
+			text = "pau"
+		intervals [16]:
+			xmin = 1.615000
+			xmax = 1.725000
+			text = "eng_ð"
+		intervals [17]:
+			xmin = 1.725000
+			xmax = 1.800000
+			text = "eng_a"
+		intervals [18]:
+			xmin = 1.800000
+			xmax = 1.825000
+			text = "eng_t"
+		intervals [19]:
+			xmin = 1.825000
+			xmax = 1.920000
+			text = "eng_s"
+		intervals [20]:
+			xmin = 1.920000
+			xmax = 2.090000
+			text = "eng_ɔ"
+		intervals [21]:
+			xmin = 2.090000
+			xmax = 2.130000
+			text = "eng_l"
+		intervals [22]:
+			xmin = 2.130000
+			xmax = 2.425000
+			text = "pau"
+	item [2]:
+		class = "IntervalTier"
+		name = "syllable"
+		xmin = 0
+		xmax = 2.425000
+		intervals: size = 9
+		intervals [1]:
+			xmin = 0.000000
+			xmax = 0.135000
+			text = "NONE"
+		intervals [2]:
+			xmin = 0.135000
+			xmax = 0.375000
+			text = "syl"
+		intervals [3]:
+			xmin = 0.375000
+			xmax = 0.815000
+			text = "syl"
+		intervals [4]:
+			xmin = 0.815000
+			xmax = 1.070000
+			text = "syl"
+		intervals [5]:
+			xmin = 1.070000
+			xmax = 1.290000
+			text = "syl"
+		intervals [6]:
+			xmin = 1.290000
+			xmax = 1.615000
+			text = "NONE"
+		intervals [7]:
+			xmin = 1.615000
+			xmax = 1.920000
+			text = "syl"
+		intervals [8]:
+			xmin = 1.920000
+			xmax = 2.130000
+			text = "syl"
+		intervals [9]:
+			xmin = 2.130000
+			xmax = 2.425000
+			text = "NONE"
+	item [3]:
+		class = "IntervalTier"
+		name = "word"
+		xmin = 0
+		xmax = 2.425000
+		intervals: size = 9
+		intervals [1]:
+			xmin = 0.000000
+			xmax = 0.135000
+			text = "NONE"
+		intervals [2]:
+			xmin = 0.135000
+			xmax = 0.375000
+			text = "bob"
+		intervals [3]:
+			xmin = 0.375000
+			xmax = 0.815000
+			text = "couldn't"
+		intervals [4]:
+			xmin = 0.815000
+			xmax = 1.070000
+			text = "take"
+		intervals [5]:
+			xmin = 1.070000
+			xmax = 1.290000
+			text = "it"
+		intervals [6]:
+			xmin = 1.290000
+			xmax = 1.615000
+			text = "NONE"
+		intervals [7]:
+			xmin = 1.615000
+			xmax = 1.920000
+			text = "that's"
+		intervals [8]:
+			xmin = 1.920000
+			xmax = 2.130000
+			text = "all"
+		intervals [9]:
+			xmin = 2.130000
+			xmax = 2.425000
+			text = "NONE"
+	item [4]:
+		class = "IntervalTier"
+		name = "phrase"
+		xmin = 0
+		xmax = 2.425000
+		intervals: size = 5
+		intervals [1]:
+			xmin = 0.000000
+			xmax = 0.135000
+			text = "NONE"
+		intervals [2]:
+			xmin = 0.135000
+			xmax = 1.290000
+			text = "BB"
+		intervals [3]:
+			xmin = 1.290000
+			xmax = 1.615000
+			text = "NONE"
+		intervals [4]:
+			xmin = 1.615000
+			xmax = 2.130000
+			text = "BB"
+		intervals [5]:
+			xmin = 2.130000
+			xmax = 2.425000
+			text = "NONE"
+	item [5]:
+		class = "IntervalTier"
+		name = "text"
+		xmin = 0
+		xmax = 2.425000
+		intervals: size = 1
+		intervals [1]:
+			xmin = 0.000000
+			xmax = 2.425000
+			text = "|bob |couldn't |take |it, |that's |all."

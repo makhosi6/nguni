@@ -1,0 +1,60 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 8.7360000000000007 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic"
+        xmin = 0 
+        xmax = 8.7360000000000007 
+        intervals: size = 5
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.81210172132889435 
+            text = "(u) [int] ~uku semali [/int] (/u)" 
+        intervals [2]:
+            xmin = 0.81210172132889435 
+            xmax = 1.1737184954310409 
+            text = "[spk]" 
+        intervals [3]:
+            xmin = 1.1737184954310409 
+            xmax = 6.7051158178083172 
+            text = "(u) ($)one million 0 comma 0 three *ng+ 0 three thousand and thirteen 0 [int] point thirty nine [/int](/$) (/u)"
+        intervals [4]:
+            xmin = 6.7051158178083172 
+            xmax = 7.5756747184245956 
+            text = "0" 
+        intervals [5]:
+            xmin = 7.5756747184245956 
+            xmax = 8.7360000000000007 
+            text = "[int]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 8.7360000000000007 
+        intervals: size = 5
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.81210172132889435 
+            text = "(u) [int] uk_>u sEmali [/int] (/u)"
+        intervals [2]:
+            xmin = 0.81210172132889435 
+            xmax = 1.1737184954310409 
+            text = "[spk]"
+        intervals [3]:
+            xmin = 1.1737184954310409 
+            xmax = 6.7051158178083172 
+            text = "(u) ($)wan miljQn 0 kQma 0 tri N 0 tri Ta-\Uz@n {n Tetin 0 [int] pO-\In Teti na-\in [/int](/$) (/u)"
+        intervals [4]:
+            xmin = 6.7051158178083172 
+            xmax = 7.5756747184245956 
+            text = "0"
+        intervals [5]:
+            xmin = 7.5756747184245956 
+            xmax = 8.7360000000000007 
+            text = "[int]"

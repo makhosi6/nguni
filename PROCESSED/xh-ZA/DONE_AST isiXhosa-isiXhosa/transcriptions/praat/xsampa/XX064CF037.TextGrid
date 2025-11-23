@@ -1,0 +1,68 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 19.571999999999999 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic"
+        xmin = 0 
+        xmax = 19.571999999999999 
+        intervals: size = 6
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.274823533557047 
+            text = "[int]" 
+        intervals [2]:
+            xmin = 1.274823533557047 
+            xmax = 1.7217075412844034 
+            text = "[spk]" 
+        intervals [3]:
+            xmin = 1.7217075412844034 
+            xmax = 2.6478697134449916 
+            text = "(u) [int] umhla [/int] (/u)" 
+        intervals [4]:
+            xmin = 2.6478697134449916 
+            xmax = 2.8921688898346947 
+            text = "[int]" 
+        intervals [5]:
+            xmin = 2.8921688898346947 
+            xmax = 9.3325124719343027 
+            text = "(u) [int] ngoLwesihlanu ngomhla weshumi elinantlanu 0 kweyoMqungu 0 ($)two 0 thousand and four(/$) [/int] (/u)"
+        intervals [6]:
+            xmin = 9.3325124719343027 
+            xmax = 19.571999999999999 
+            text = "[int]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 19.571999999999999 
+        intervals: size = 6
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.274823533557047 
+            text = "[int]"
+        intervals [2]:
+            xmin = 1.274823533557047 
+            xmax = 1.7217075412844034 
+            text = "[spk]"
+        intervals [3]:
+            xmin = 1.7217075412844034 
+            xmax = 2.6478697134449916 
+            text = "(u) [int] um=Ka [/int] (/u)"
+        intervals [4]:
+            xmin = 2.6478697134449916 
+            xmax = 2.8921688898346947 
+            text = "[int]"
+        intervals [5]:
+            xmin = 2.8921688898346947 
+            xmax = 9.3325124719343027 
+            text = "(u) [int] NgOlwesiKanu NgOmKa weSumi elinant-\K_>anu 0 k_>wEjom!\uNgu 0 ($)tu 0 TaUz@nt {n fO(/$) [/int] (/u)"
+        intervals [6]:
+            xmin = 9.3325124719343027 
+            xmax = 19.571999999999999 
+            text = "[int]"

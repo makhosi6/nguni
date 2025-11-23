@@ -1,0 +1,68 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 24.588000000000001 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 24.588000000000001 
+        intervals: size = 6
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.45163242720341418 
+            text = "[spk]" 
+        intervals [2]:
+            xmin = 0.45163242720341418 
+            xmax = 9.9531184788445994 
+            text = "(s) ngamakhulu asibhozo aneshumi elinesithandathu 0 elineshumi lamakhulu 0 neesenti *ezi+ 0 neesenti ezilishumi (/s)"
+        intervals [3]:
+            xmin = 9.9531184788445994 
+            xmax = 10.377613751248807 
+            text = "0" 
+        intervals [4]:
+            xmin = 10.377613751248807 
+            xmax = 10.792538171786923 
+            text = "[spk]" 
+        intervals [5]:
+            xmin = 10.792538171786923 
+            xmax = 19.625873921007095 
+            text = "(s) [int] ngamakhulu asibhozo 0 neshumi elinesithandathu neesenti ezilishumi 0 eerandi [/int] (/s)" 
+        intervals [6]:
+            xmin = 19.625873921007095 
+            xmax = 24.588000000000001 
+            text = "[int]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 24.588000000000001 
+        intervals: size = 6
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.45163242720341418 
+            text = "[spk]" 
+        intervals [2]:
+            xmin = 0.45163242720341418 
+            xmax = 9.9531184788445994 
+            text = "(s) Ngamak_hulu asib_0OzO aneSumi elinesit_handat_hu 0 elineSumi lamak_hulu 0 nE:sent_>i ezi 0 nE:sent_>i eziliSumi (/s)"
+        intervals [3]:
+            xmin = 9.9531184788445994 
+            xmax = 10.377613751248807 
+            text = "0" 
+        intervals [4]:
+            xmin = 10.377613751248807 
+            xmax = 10.792538171786923 
+            text = "[spk]" 
+        intervals [5]:
+            xmin = 10.792538171786923 
+            xmax = 19.625873921007095 
+            text = "(s) [int] Ngamak_hulu asib_0OzO 0 neSumi elinesit_handat_hu nEsent_>i eziliSumi 0 E:randi [/int] (/s)" 
+        intervals [6]:
+            xmin = 19.625873921007095 
+            xmax = 24.588000000000001 
+            text = "[int]" 

@@ -1,0 +1,52 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 5.1719999999999997 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 5.1719999999999997 
+        intervals: size = 4 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.46063699423510906 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.46063699423510906 
+            xmax = 3.1944064663694571 
+            text = "(s) [sta] ndifuna ukuqala umnxeba omtsha [/sta] (/s)" 
+        intervals [3]:
+            xmin = 3.1944064663694571 
+            xmax = 3.3683126453116916 
+            text = "[spk]" 
+        intervals [4]:
+            xmin = 3.3683126453116916 
+            xmax = 5.1719999999999997 
+            text = "0" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 5.1719999999999997 
+        intervals: size = 4 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.46063699423510906 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.46063699423510906 
+            xmax = 3.1944064663694571 
+            text = "(s) [sta] ndifuna uk_>u!\ala um|\|\~Eb_<a Omt-\S_ha [/sta] (/s)" 
+        intervals [3]:
+            xmin = 3.1944064663694571 
+            xmax = 3.3683126453116916 
+            text = "[spk]" 
+        intervals [4]:
+            xmin = 3.3683126453116916 
+            xmax = 5.1719999999999997 
+            text = "0" 

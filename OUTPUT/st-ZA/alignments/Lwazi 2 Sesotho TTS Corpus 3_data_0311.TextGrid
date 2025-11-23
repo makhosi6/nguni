@@ -1,0 +1,106 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0
+xmax = 1.505000
+tiers? <exists>
+size = 5
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "segment"
+		xmin = 0
+		xmax = 1.505000
+		intervals: size = 6
+		intervals [1]:
+			xmin = 0.000000
+			xmax = 0.320000
+			text = "pau"
+		intervals [2]:
+			xmin = 0.320000
+			xmax = 0.460000
+			text = "tʰ"
+		intervals [3]:
+			xmin = 0.460000
+			xmax = 0.695000
+			text = "u"
+		intervals [4]:
+			xmin = 0.695000
+			xmax = 0.835000
+			text = "tʼ"
+		intervals [5]:
+			xmin = 0.835000
+			xmax = 1.005000
+			text = "ɔ"
+		intervals [6]:
+			xmin = 1.005000
+			xmax = 1.505000
+			text = "pau"
+	item [2]:
+		class = "IntervalTier"
+		name = "syllable"
+		xmin = 0
+		xmax = 1.505000
+		intervals: size = 4
+		intervals [1]:
+			xmin = 0.000000
+			xmax = 0.320000
+			text = "NONE"
+		intervals [2]:
+			xmin = 0.320000
+			xmax = 0.695000
+			text = "syl"
+		intervals [3]:
+			xmin = 0.695000
+			xmax = 1.005000
+			text = "syl"
+		intervals [4]:
+			xmin = 1.005000
+			xmax = 1.505000
+			text = "NONE"
+	item [3]:
+		class = "IntervalTier"
+		name = "word"
+		xmin = 0
+		xmax = 1.505000
+		intervals: size = 3
+		intervals [1]:
+			xmin = 0.000000
+			xmax = 0.320000
+			text = "NONE"
+		intervals [2]:
+			xmin = 0.320000
+			xmax = 1.005000
+			text = "thuto"
+		intervals [3]:
+			xmin = 1.005000
+			xmax = 1.505000
+			text = "NONE"
+	item [4]:
+		class = "IntervalTier"
+		name = "phrase"
+		xmin = 0
+		xmax = 1.505000
+		intervals: size = 3
+		intervals [1]:
+			xmin = 0.000000
+			xmax = 0.320000
+			text = "NONE"
+		intervals [2]:
+			xmin = 0.320000
+			xmax = 1.005000
+			text = "BB"
+		intervals [3]:
+			xmin = 1.005000
+			xmax = 1.505000
+			text = "NONE"
+	item [5]:
+		class = "IntervalTier"
+		name = "text"
+		xmin = 0
+		xmax = 1.505000
+		intervals: size = 1
+		intervals [1]:
+			xmin = 0.000000
+			xmax = 1.505000
+			text = "thuto"

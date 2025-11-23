@@ -1,0 +1,60 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 10.452 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 10.452 
+        intervals: size = 5
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.276303754623703 
+            text = "(u) [sta] *uthotho lwamanani [/sta] (/u)"
+        intervals [2]:
+            xmin = 1.276303754623703 
+            xmax = 1.7677338717421038 
+            text = "0" 
+        intervals [3]:
+            xmin = 1.7677338717421038 
+            xmax = 7.4024808304921628 
+            text = "(u) [sta] ($)one 0 seven 0 eight 0 five 0 four 0 three 0 zero 0 two 0 nine 0 six(/$) [/sta] (/u)" 
+        intervals [4]:
+            xmin = 7.4024808304921628 
+            xmax = 8.3077082032138882 
+            text = "0" 
+        intervals [5]:
+            xmin = 8.3077082032138882 
+            xmax = 10.452 
+            text = "[int]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 10.452 
+        intervals: size = 5
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.276303754623703 
+            text = "(u) [sta] t_hOt_hO lwamanani [/sta] (/u)"
+        intervals [2]:
+            xmin = 1.276303754623703 
+            xmax = 1.7677338717421038 
+            text = "0" 
+        intervals [3]:
+            xmin = 1.7677338717421038 
+            xmax = 7.4024808304921628 
+            text = "(u) [sta] ($)wan 0 sEvEn 0 E-\it 0 fa-\if 0 fO: 0 Tri: 0 zi:rO 0 tu: 0 na-\in 0 siks(/$) [/sta] (/u)" 
+        intervals [4]:
+            xmin = 7.4024808304921628 
+            xmax = 8.3077082032138882 
+            text = "0" 
+        intervals [5]:
+            xmin = 8.3077082032138882 
+            xmax = 10.452 
+            text = "[int]" 

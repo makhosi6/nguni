@@ -1,0 +1,60 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 5.2080000000000002 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic"
+        xmin = 0 
+        xmax = 5.2080000000000002 
+        intervals: size = 5
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.33243366154282072 
+            text = "[spk]"
+        intervals [2]:
+            xmin = 0.33243366154282072 
+            xmax = 0.72367004321031381 
+            text = "[sta]"
+        intervals [3]:
+            xmin = 0.72367004321031381 
+            xmax = 2.7570702161804066 
+            text = "(s) [sta] licala emva kwentsimbi yesibhozo [/sta] (/s)"
+        intervals [4]:
+            xmin = 2.7570702161804066 
+            xmax = 3.2307766522632289 
+            text = "[spk]"
+        intervals [5]:
+            xmin = 3.2307766522632289 
+            xmax = 5.2080000000000002 
+            text = "[sta]"
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 5.2080000000000002 
+        intervals: size = 5
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.33243366154282072 
+            text = "[spk]"
+        intervals [2]:
+            xmin = 0.33243366154282072 
+            xmax = 0.72367004321031381 
+            text = "[sta]"
+        intervals [3]:
+            xmin = 0.72367004321031381 
+            xmax = 2.7570702161804066 
+            text = "(s) [sta] li|\ala Emva k_>went-\s_>imbi jesb_0OzO [/sta] (/s)"
+        intervals [4]:
+            xmin = 2.7570702161804066 
+            xmax = 3.2307766522632289 
+            text = "[spk]"
+        intervals [5]:
+            xmin = 3.2307766522632289 
+            xmax = 5.2080000000000002 
+            text = "[sta]"

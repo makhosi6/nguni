@@ -1,0 +1,76 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 4.1159999999999997 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 4.1159999999999997 
+        intervals: size = 7 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.21420664554690944 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.21420664554690944 
+            xmax = 1.2950510257435488 
+            text = "(u) [int] eKapa [/int] (/u)" 
+        intervals [3]:
+            xmin = 1.2950510257435488 
+            xmax = 1.5112199017828765 
+            text = "[sta]" 
+        intervals [4]:
+            xmin = 1.5112199017828765 
+            xmax = 2.2932426003957391 
+            text = "(u) ($)Cape_Town(/$) (/u)" 
+        intervals [5]:
+            xmin = 2.2932426003957391 
+            xmax = 3.0689073908897977 
+            text = "[int]" 
+        intervals [6]:
+            xmin = 3.0689073908897977 
+            xmax = 3.9590145275223243 
+            text = "(u) ($)Cape_Town(/$) (/u)" 
+        intervals [7]:
+            xmin = 3.9590145275223243 
+            xmax = 4.1159999999999997 
+            text = "0" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 4.1159999999999997 
+        intervals: size = 7 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.21420664554690944 
+            text = "0"
+        intervals [2]:
+            xmin = 0.21420664554690944 
+            xmax = 1.2950510257435488 
+            text = "(u) [int] Ek_>ap_>a [/int] (/u)"
+        intervals [3]:
+            xmin = 1.2950510257435488 
+            xmax = 1.5112199017828765 
+            text = "[sta]"
+        intervals [4]:
+            xmin = 1.5112199017828765 
+            xmax = 2.2932426003957391 
+            text = "(u) ($)kEptaU(/$) (/u)"
+        intervals [5]:
+            xmin = 2.2932426003957391 
+            xmax = 3.0689073908897977 
+            text = "[int]"
+        intervals [6]:
+            xmin = 3.0689073908897977 
+            xmax = 3.9590145275223243 
+            text = "(u) ($)kEptaU(/$) (/u)"
+        intervals [7]:
+            xmin = 3.9590145275223243 
+            xmax = 4.1159999999999997 
+            text = "0"

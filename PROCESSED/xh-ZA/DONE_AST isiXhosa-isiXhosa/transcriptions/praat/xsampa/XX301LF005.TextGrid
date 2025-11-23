@@ -1,0 +1,68 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 51.707999999999998 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 51.707999999999998 
+        intervals: size = 6
+        intervals [1]:
+            xmin = 0 
+            xmax = 2.471075833567252 
+            text = "[int]" 
+        intervals [2]:
+            xmin = 2.471075833567252 
+            xmax = 5.4995808199528415 
+            text = "(s) [sta] iminyaka ngamashumi amabini anesithoba [/sta] (/s)"
+        intervals [3]:
+            xmin = 5.4995808199528415 
+            xmax = 5.8080562734860042 
+            text = "[spk]" 
+        intervals [4]:
+            xmin = 5.8080562734860042 
+            xmax = 7.4073020813796777 
+            text = "[int]" 
+        intervals [5]:
+            xmin = 7.4073020813796777 
+            xmax = 11.453208967590729 
+            text = "(s) iminyaka ngamashumi amabini anesithoba (/s)" 
+        intervals [6]:
+            xmin = 11.453208967590729 
+            xmax = 51.707999999999998 
+            text = "[int]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 51.707999999999998 
+        intervals: size = 6
+        intervals [1]:
+            xmin = 0 
+            xmax = 2.471075833567252 
+            text = "[int]"
+        intervals [2]:
+            xmin = 2.471075833567252 
+            xmax = 5.4995808199528415 
+            text = "(s) [sta] imiJak_>a NgamaSum amab_<ini anesit_hOb_<a [/sta] (/s)"
+        intervals [3]:
+            xmin = 5.4995808199528415 
+            xmax = 5.8080562734860042 
+            text = "[spk]"
+        intervals [4]:
+            xmin = 5.8080562734860042 
+            xmax = 7.4073020813796777 
+            text = "[int]"
+        intervals [5]:
+            xmin = 7.4073020813796777 
+            xmax = 11.453208967590729 
+            text = "(s) imiJak_>a NgamaSumi amab_<ini anesit_hOb_<a (/s)"
+        intervals [6]:
+            xmin = 11.453208967590729 
+            xmax = 51.707999999999998 
+            text = "[int]"

@@ -1,0 +1,68 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 4.5960000000000001 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic"
+        xmin = 0 
+        xmax = 4.5960000000000001 
+        intervals: size = 6
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.10312268895657717 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.10312268895657717 
+            xmax = 0.30312760025162266 
+            text = "[int]" 
+        intervals [3]:
+            xmin = 0.30312760025162266 
+            xmax = 2.6194343521703742 
+            text = "(u) [int] Lungisa 0 Ndzamela [/int] (/u)"
+        intervals [4]:
+            xmin = 2.6194343521703742 
+            xmax = 2.7947539339600684 
+            text = "[int]" 
+        intervals [5]:
+            xmin = 2.7947539339600684 
+            xmax = 3.5980156144061368 
+            text = "0" 
+        intervals [6]:
+            xmin = 3.5980156144061368 
+            xmax = 4.5960000000000001 
+            text = "[int]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 4.5960000000000001 
+        intervals: size = 6
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.10312268895657717 
+            text = "0"
+        intervals [2]:
+            xmin = 0.10312268895657717 
+            xmax = 0.30312760025162266 
+            text = "[int]"
+        intervals [3]:
+            xmin = 0.30312760025162266 
+            xmax = 2.6194343521703742 
+            text = "(u) [int] luNgi:sa 0 nd-\zamEla [/int] (/u)"
+        intervals [4]:
+            xmin = 2.6194343521703742 
+            xmax = 2.7947539339600684 
+            text = "[int]"
+        intervals [5]:
+            xmin = 2.7947539339600684 
+            xmax = 3.5980156144061368 
+            text = "0"
+        intervals [6]:
+            xmin = 3.5980156144061368 
+            xmax = 4.5960000000000001 
+            text = "[int]"

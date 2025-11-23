@@ -1,0 +1,60 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 7.0679999999999996 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 7.0679999999999996 
+        intervals: size = 5
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.90795337552742594 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.90795337552742594 
+            xmax = 5.1683435779184883 
+            text = "(s) [int] indoda [/int] [sta] yobisi 0 yaluthwala 0 ucwambu [/sta] (/s)"
+        intervals [3]:
+            xmin = 5.1683435779184883 
+            xmax = 5.5332407229378964 
+            text = "[int]" 
+        intervals [4]:
+            xmin = 5.5332407229378964 
+            xmax = 5.9016644875985387 
+            text = "0" 
+        intervals [5]:
+            xmin = 5.9016644875985387 
+            xmax = 7.0679999999999996 
+            text = "[int]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 7.0679999999999996 
+        intervals: size = 5
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.90795337552742594 
+            text = "0"
+        intervals [2]:
+            xmin = 0.90795337552742594 
+            xmax = 5.1683435779184883 
+            text = "(s) [int] indOd_0a [/int] [sta] job_<is 0 jalut_hwala 0 u|\wamb [/sta] (/s)"
+        intervals [3]:
+            xmin = 5.1683435779184883 
+            xmax = 5.5332407229378964 
+            text = "[int]"
+        intervals [4]:
+            xmin = 5.5332407229378964 
+            xmax = 5.9016644875985387 
+            text = "0"
+        intervals [5]:
+            xmin = 5.9016644875985387 
+            xmax = 7.0679999999999996 
+            text = "[int]"

@@ -1,0 +1,60 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 5.8440000000000003 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 5.8440000000000003 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.40223775859666955 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.40223775859666955 
+            xmax = 1.0516971024224309 
+            text = "(u) [int] *ibin+ [/int] (/u)" 
+        intervals [3]:
+            xmin = 1.0516971024224309 
+            xmax = 1.6983192465343138 
+            text = "[spk]" 
+        intervals [4]:
+            xmin = 1.6983192465343138 
+            xmax = 3.792359469179897 
+            text = "(u) ibinzana elichaza umhla (/u)" 
+        intervals [5]:
+            xmin = 3.792359469179897 
+            xmax = 5.8440000000000003 
+            text = "[int]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 5.8440000000000003 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.40223775859666955 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.40223775859666955 
+            xmax = 1.0516971024224309 
+            text = "(u) [int] ib_<in [/int] (/u)" 
+        intervals [3]:
+            xmin = 1.0516971024224309 
+            xmax = 1.6983192465343138 
+            text = "[spk]" 
+        intervals [4]:
+            xmin = 1.6983192465343138 
+            xmax = 3.792359469179897 
+            text = "(u) ib_<ind-\zana eli|\_haza umKa (/u)" 
+        intervals [5]:
+            xmin = 3.792359469179897 
+            xmax = 5.8440000000000003 
+            text = "[int]" 

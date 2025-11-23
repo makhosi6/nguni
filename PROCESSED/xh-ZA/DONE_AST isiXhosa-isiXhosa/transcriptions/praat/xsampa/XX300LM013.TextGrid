@@ -1,0 +1,44 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 4.7999999999999998 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 4.7999999999999998 
+        intervals: size = 3 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.5544437099012568 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.5544437099012568 
+            xmax = 2.8163066372877914 
+            text = "(u) ($)*i+ 0 thirty 0 two 0 Eagle Street(/$) (/u)" 
+        intervals [3]:
+            xmin = 2.8163066372877914 
+            xmax = 4.7999999999999998 
+            text = "0" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 4.7999999999999998 
+        intervals: size = 3 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.5544437099012568 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.5544437099012568 
+            xmax = 2.8163066372877914 
+            text = "(u) ($)i: 0 Teti 0 tu: 0 i:gl strit(/$) (/u)" 
+        intervals [3]:
+            xmin = 2.8163066372877914 
+            xmax = 4.7999999999999998 
+            text = "0" 

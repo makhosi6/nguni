@@ -1,0 +1,60 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 19.596 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic"
+        xmin = 0 
+        xmax = 19.596 
+        intervals: size = 5
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.9443370595357259 
+            text = "[int]" 
+        intervals [2]:
+            xmin = 1.9443370595357259 
+            xmax = 5.4528178063019634 
+            text = "(u) [int] ngomhla wamashumi amabini anambini enyangeni [/int] (/u)"
+        intervals [3]:
+            xmin = 5.4528178063019634 
+            xmax = 6.8013121520622519 
+            text = "[int]" 
+        intervals [4]:
+            xmin = 6.8013121520622519 
+            xmax = 7.8607472498180213 
+            text = "0" 
+        intervals [5]:
+            xmin = 7.8607472498180213 
+            xmax = 19.596 
+            text = "[int]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 19.596 
+        intervals: size = 5
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.9443370595357259 
+            text = "[int]"
+        intervals [2]:
+            xmin = 1.9443370595357259 
+            xmax = 5.4528178063019634 
+            text = "(u) [int] NgOmKa wamaSumi amab_<ini anambini EJaNgen [/int] (/u)"
+        intervals [3]:
+            xmin = 5.4528178063019634 
+            xmax = 6.8013121520622519 
+            text = "[int]"
+        intervals [4]:
+            xmin = 6.8013121520622519 
+            xmax = 7.8607472498180213 
+            text = "0"
+        intervals [5]:
+            xmin = 7.8607472498180213 
+            xmax = 19.596 
+            text = "[int]"

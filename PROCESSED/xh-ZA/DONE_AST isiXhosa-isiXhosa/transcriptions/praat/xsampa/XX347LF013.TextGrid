@@ -1,0 +1,60 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 5.0640000000000001 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 5.0640000000000001 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.42045323636307835 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.42045323636307835 
+            xmax = 3.0366074374622376 
+            text = "(u) kwa ($)number six(/$) eMaphekula 0 ($)drive(/$) (/u)" 
+        intervals [3]:
+            xmin = 3.0366074374622376 
+            xmax = 3.2967193960675587 
+            text = "[spk]" 
+        intervals [4]:
+            xmin = 3.2967193960675587 
+            xmax = 4.5006508580521904 
+            text = "0" 
+        intervals [5]:
+            xmin = 4.5006508580521904 
+            xmax = 5.0640000000000001 
+            text = "[sta]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 5.0640000000000001 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.42045323636307835 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.42045323636307835 
+            xmax = 3.0366074374622376 
+            text = "(u) k_>wa ($)namba siks(/$) Emap_hek_>ula 0 ($)dra-\if(/$) (/u)" 
+        intervals [3]:
+            xmin = 3.0366074374622376 
+            xmax = 3.2967193960675587 
+            text = "[spk]" 
+        intervals [4]:
+            xmin = 3.2967193960675587 
+            xmax = 4.5006508580521904 
+            text = "0" 
+        intervals [5]:
+            xmin = 4.5006508580521904 
+            xmax = 5.0640000000000001 
+            text = "[sta]" 

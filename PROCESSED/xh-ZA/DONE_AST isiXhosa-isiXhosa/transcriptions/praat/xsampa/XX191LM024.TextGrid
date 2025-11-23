@@ -1,0 +1,68 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 33.960000000000001 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 33.960000000000001 
+        intervals: size = 6 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.41950486020879885 
+            text = "[int]" 
+        intervals [2]:
+            xmin = 0.41950486020879885 
+            xmax = 3.2994040002664113 
+            text = "(u) [sta] igama 0 elipelwayo [/sta] (/u)" 
+        intervals [3]:
+            xmin = 3.2994040002664113 
+            xmax = 3.6686228473282081 
+            text = "0" 
+        intervals [4]:
+            xmin = 3.6686228473282081 
+            xmax = 4.0089737934962164 
+            text = "[spk]" 
+        intervals [5]:
+            xmin = 4.0089737934962164 
+            xmax = 9.5932739292900262 
+            text = "(u) [int] I. 0 G. 0 C. 0 U. 0 W. 0 A. [/int] (/u)" 
+        intervals [6]:
+            xmin = 9.5932739292900262 
+            xmax = 33.960000000000001 
+            text = "[int]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 33.960000000000001 
+        intervals: size = 6 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.41950486020879885 
+            text = "[int]" 
+        intervals [2]:
+            xmin = 0.41950486020879885 
+            xmax = 3.2994040002664113 
+            text = "(u) [sta] igama 0 elip_>ElwajO [/sta] (/u)" 
+        intervals [3]:
+            xmin = 3.2994040002664113 
+            xmax = 3.6686228473282081 
+            text = "0" 
+        intervals [4]:
+            xmin = 3.6686228473282081 
+            xmax = 4.0089737934962164 
+            text = "[spk]" 
+        intervals [5]:
+            xmin = 4.0089737934962164 
+            xmax = 9.5932739292900262 
+            text = "(u) [int] a-\i 0 d-\Zi 0 si: 0 ju: 0 dab@lju 0 E-\i [/int] (/u)" 
+        intervals [6]:
+            xmin = 9.5932739292900262 
+            xmax = 33.960000000000001 
+            text = "[int]" 

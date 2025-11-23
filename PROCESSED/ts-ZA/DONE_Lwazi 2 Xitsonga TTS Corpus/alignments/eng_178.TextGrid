@@ -1,0 +1,254 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0
+xmax = 2.750000
+tiers? <exists>
+size = 5
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "segment"
+		xmin = 0
+		xmax = 2.750000
+		intervals: size = 29
+		intervals [1]:
+			xmin = 0.000000
+			xmax = 0.070000
+			text = "pau"
+		intervals [2]:
+			xmin = 0.070000
+			xmax = 0.105000
+			text = "eng_h"
+		intervals [3]:
+			xmin = 0.105000
+			xmax = 0.140000
+			text = "eng_ɪ"
+		intervals [4]:
+			xmin = 0.140000
+			xmax = 0.215000
+			text = "eng_w"
+		intervals [5]:
+			xmin = 0.215000
+			xmax = 0.280000
+			text = "eng_ɒ"
+		intervals [6]:
+			xmin = 0.280000
+			xmax = 0.405000
+			text = "eng_z"
+		intervals [7]:
+			xmin = 0.405000
+			xmax = 0.460000
+			text = "eng_p"
+		intervals [8]:
+			xmin = 0.460000
+			xmax = 0.495000
+			text = "eng_ɹ"
+		intervals [9]:
+			xmin = 0.495000
+			xmax = 0.595000
+			text = "eng_i"
+		intervals [10]:
+			xmin = 0.595000
+			xmax = 0.690000
+			text = "eng_ɒ"
+		intervals [11]:
+			xmin = 0.690000
+			xmax = 0.735000
+			text = "eng_k"
+		intervals [12]:
+			xmin = 0.735000
+			xmax = 0.765000
+			text = "eng_j"
+		intervals [13]:
+			xmin = 0.765000
+			xmax = 0.820000
+			text = "eng_ʊ"
+		intervals [14]:
+			xmin = 0.820000
+			xmax = 0.875000
+			text = "eng_p"
+		intervals [15]:
+			xmin = 0.875000
+			xmax = 1.060000
+			text = "eng_aɪ"
+		intervals [16]:
+			xmin = 1.060000
+			xmax = 1.100000
+			text = "eng_d"
+		intervals [17]:
+			xmin = 1.100000
+			xmax = 1.180000
+			text = "eng_w"
+		intervals [18]:
+			xmin = 1.180000
+			xmax = 1.245000
+			text = "eng_ə"
+		intervals [19]:
+			xmin = 1.245000
+			xmax = 1.270000
+			text = "eng_ð"
+		intervals [20]:
+			xmin = 1.270000
+			xmax = 1.610000
+			text = "eng_θ"
+		intervals [21]:
+			xmin = 1.610000
+			xmax = 1.820000
+			text = "eng_ɔ"
+		intervals [22]:
+			xmin = 1.820000
+			xmax = 1.845000
+			text = "eng_t"
+		intervals [23]:
+			xmin = 1.845000
+			xmax = 1.910000
+			text = "eng_s"
+		intervals [24]:
+			xmin = 1.910000
+			xmax = 1.990000
+			text = "eng_ɒ"
+		intervals [25]:
+			xmin = 1.990000
+			xmax = 2.100000
+			text = "eng_v"
+		intervals [26]:
+			xmin = 2.100000
+			xmax = 2.130000
+			text = "eng_h"
+		intervals [27]:
+			xmin = 2.130000
+			xmax = 2.375000
+			text = "eng_əʊ"
+		intervals [28]:
+			xmin = 2.375000
+			xmax = 2.515000
+			text = "eng_m"
+		intervals [29]:
+			xmin = 2.515000
+			xmax = 2.750000
+			text = "pau"
+	item [2]:
+		class = "IntervalTier"
+		name = "syllable"
+		xmin = 0
+		xmax = 2.750000
+		intervals: size = 12
+		intervals [1]:
+			xmin = 0.000000
+			xmax = 0.070000
+			text = "NONE"
+		intervals [2]:
+			xmin = 0.070000
+			xmax = 0.140000
+			text = "syl"
+		intervals [3]:
+			xmin = 0.140000
+			xmax = 0.405000
+			text = "syl"
+		intervals [4]:
+			xmin = 0.405000
+			xmax = 0.595000
+			text = "syl"
+		intervals [5]:
+			xmin = 0.595000
+			xmax = 0.690000
+			text = "syl"
+		intervals [6]:
+			xmin = 0.690000
+			xmax = 0.820000
+			text = "syl"
+		intervals [7]:
+			xmin = 0.820000
+			xmax = 1.100000
+			text = "syl"
+		intervals [8]:
+			xmin = 1.100000
+			xmax = 1.270000
+			text = "syl"
+		intervals [9]:
+			xmin = 1.270000
+			xmax = 1.910000
+			text = "syl"
+		intervals [10]:
+			xmin = 1.910000
+			xmax = 2.100000
+			text = "syl"
+		intervals [11]:
+			xmin = 2.100000
+			xmax = 2.515000
+			text = "syl"
+		intervals [12]:
+			xmin = 2.515000
+			xmax = 2.750000
+			text = "NONE"
+	item [3]:
+		class = "IntervalTier"
+		name = "word"
+		xmin = 0
+		xmax = 2.750000
+		intervals: size = 9
+		intervals [1]:
+			xmin = 0.000000
+			xmax = 0.070000
+			text = "NONE"
+		intervals [2]:
+			xmin = 0.070000
+			xmax = 0.140000
+			text = "he"
+		intervals [3]:
+			xmin = 0.140000
+			xmax = 0.405000
+			text = "was"
+		intervals [4]:
+			xmin = 0.405000
+			xmax = 1.100000
+			text = "preoccupied"
+		intervals [5]:
+			xmin = 1.100000
+			xmax = 1.270000
+			text = "with"
+		intervals [6]:
+			xmin = 1.270000
+			xmax = 1.910000
+			text = "thoughts"
+		intervals [7]:
+			xmin = 1.910000
+			xmax = 2.100000
+			text = "of"
+		intervals [8]:
+			xmin = 2.100000
+			xmax = 2.515000
+			text = "home"
+		intervals [9]:
+			xmin = 2.515000
+			xmax = 2.750000
+			text = "NONE"
+	item [4]:
+		class = "IntervalTier"
+		name = "phrase"
+		xmin = 0
+		xmax = 2.750000
+		intervals: size = 3
+		intervals [1]:
+			xmin = 0.000000
+			xmax = 0.070000
+			text = "NONE"
+		intervals [2]:
+			xmin = 0.070000
+			xmax = 2.515000
+			text = "BB"
+		intervals [3]:
+			xmin = 2.515000
+			xmax = 2.750000
+			text = "NONE"
+	item [5]:
+		class = "IntervalTier"
+		name = "text"
+		xmin = 0
+		xmax = 2.750000
+		intervals: size = 1
+		intervals [1]:
+			xmin = 0.000000
+			xmax = 2.750000
+			text = "|he |was |preoccupied |with |thoughts |of |home."

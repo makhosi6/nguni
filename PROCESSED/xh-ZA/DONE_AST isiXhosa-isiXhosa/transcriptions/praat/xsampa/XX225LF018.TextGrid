@@ -1,0 +1,92 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 6 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 6 
+        intervals: size = 9
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.16255309762272405 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.16255309762272405 
+            xmax = 1.1186867204844 
+            text = "(u) hayi (/u)"
+        intervals [3]:
+            xmin = 1.1186867204844 
+            xmax = 1.6747701342281878 
+            text = "[int]" 
+        intervals [4]:
+            xmin = 1.6747701342281878 
+            xmax = 2.3167499999999999 
+            text = "0" 
+        intervals [5]:
+            xmin = 2.3167499999999999 
+            xmax = 3.1146392617449661 
+            text = "[int]" 
+        intervals [6]:
+            xmin = 3.1146392617449661 
+            xmax = 3.7015922818791944 
+            text = "0" 
+        intervals [7]:
+            xmin = 3.7015922818791944 
+            xmax = 4.4536258389261745 
+            text = "[int]" 
+        intervals [8]:
+            xmin = 4.4536258389261745 
+            xmax = 5.7467567114093958 
+            text = "0" 
+        intervals [9]:
+            xmin = 5.7467567114093958 
+            xmax = 6 
+            text = "[int]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 6 
+        intervals: size = 9
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.16255309762272405 
+            text = "0"
+        intervals [2]:
+            xmin = 0.16255309762272405 
+            xmax = 1.1186867204844 
+            text = "(u) hai (/u)"
+        intervals [3]:
+            xmin = 1.1186867204844 
+            xmax = 1.6747701342281878 
+            text = "[int]"
+        intervals [4]:
+            xmin = 1.6747701342281878 
+            xmax = 2.3167499999999999 
+            text = "0"
+        intervals [5]:
+            xmin = 2.3167499999999999 
+            xmax = 3.1146392617449661 
+            text = "[int]"
+        intervals [6]:
+            xmin = 3.1146392617449661 
+            xmax = 3.7015922818791944 
+            text = "0"
+        intervals [7]:
+            xmin = 3.7015922818791944 
+            xmax = 4.4536258389261745 
+            text = "[int]"
+        intervals [8]:
+            xmin = 4.4536258389261745 
+            xmax = 5.7467567114093958 
+            text = "0"
+        intervals [9]:
+            xmin = 5.7467567114093958 
+            xmax = 6 
+            text = "[int]"

@@ -1,0 +1,68 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 5.8680000000000003 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 5.8680000000000003 
+        intervals: size = 6 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.44653247857193462 
+            text = "[int]" 
+        intervals [2]:
+            xmin = 0.44653247857193462 
+            xmax = 2.5294772975812534 
+            text = "(s) inqaku ($)four(/$) yinambari (/s)" 
+        intervals [3]:
+            xmin = 2.5294772975812534 
+            xmax = 2.7259756197316629 
+            text = "0" 
+        intervals [4]:
+            xmin = 2.7259756197316629 
+            xmax = 3.3825675742342511 
+            text = "(s) ngu ($)two(/$) (/s)" 
+        intervals [5]:
+            xmin = 3.3825675742342511 
+            xmax = 5.7363368279379481 
+            text = "[int]" 
+        intervals [6]:
+            xmin = 5.7363368279379481 
+            xmax = 5.8680000000000003 
+            text = "0" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 5.8680000000000003 
+        intervals: size = 6 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.44653247857193462 
+            text = "[int]"
+        intervals [2]:
+            xmin = 0.44653247857193462 
+            xmax = 2.5294772975812534 
+            text = "(s) i!\~ak_>u ($)fO(/$) yinambar (/s)"
+        intervals [3]:
+            xmin = 2.5294772975812534 
+            xmax = 2.7259756197316629 
+            text = "0"
+        intervals [4]:
+            xmin = 2.7259756197316629 
+            xmax = 3.3825675742342511 
+            text = "(s) Ngu ($)tu(/$) (/s)"
+        intervals [5]:
+            xmin = 3.3825675742342511 
+            xmax = 5.7363368279379481 
+            text = "[int]"
+        intervals [6]:
+            xmin = 5.7363368279379481 
+            xmax = 5.8680000000000003 
+            text = "0"

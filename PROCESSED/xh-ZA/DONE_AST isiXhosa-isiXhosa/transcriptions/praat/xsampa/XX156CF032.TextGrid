@@ -1,0 +1,60 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 11.832000000000001 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 11.832000000000001 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.045730441010376842 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.045730441010376842 
+            xmax = 3.0672493438144786 
+            text = "(u) [sta] ibinzana elichaza ixesha [/sta] (/u)" 
+        intervals [3]:
+            xmin = 3.0672493438144786 
+            xmax = 3.9915635172827901 
+            text = "0" 
+        intervals [4]:
+            xmin = 3.9915635172827901 
+            xmax = 8.7966437466399316 
+            text = "(u) [sta] nanini 0 phambi kwentsimbi *ye+ yethoba entloko [/sta] (/u)" 
+        intervals [5]:
+            xmin = 8.7966437466399316 
+            xmax = 11.832000000000001 
+            text = "0" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 11.832000000000001 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.045730441010376842 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.045730441010376842 
+            xmax = 3.0672493438144786 
+            text = "(u) [sta] ib_<ind-\zana eli|\_haza i|\|\ESa [/sta] (/u)" 
+        intervals [3]:
+            xmin = 3.0672493438144786 
+            xmax = 3.9915635172827901 
+            text = "0" 
+        intervals [4]:
+            xmin = 3.9915635172827901 
+            xmax = 8.7966437466399316 
+            text = "(u) [sta] nanini 0 p_hambi k_>went-\s_>imbi jE jEt_hOb_<a Ent-\K_>Ok_>O [/sta] (/u)" 
+        intervals [5]:
+            xmin = 8.7966437466399316 
+            xmax = 11.832000000000001 
+            text = "0" 

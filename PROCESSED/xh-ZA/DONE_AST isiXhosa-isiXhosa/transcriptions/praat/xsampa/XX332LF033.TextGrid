@@ -1,0 +1,68 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 17.808 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 17.808 
+        intervals: size = 6
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.3449636608344549 
+            text = "[int]" 
+        intervals [2]:
+            xmin = 0.3449636608344549 
+            xmax = 8.2897150952752003 
+            text = "(u) [int] ($)two 0 five 0 eight 0 six 0 seven 0 three 0 four 0 nine(/$) [/int] (/u)" 
+        intervals [3]:
+            xmin = 8.2897150952752003 
+            xmax = 12.08463072890841 
+            text = "[sta]" 
+        intervals [4]:
+            xmin = 12.08463072890841 
+            xmax = 14.334379288590606 
+            text = "[int]" 
+        intervals [5]:
+            xmin = 14.334379288590606 
+            xmax = 15.395957194630874 
+            text = "0" 
+        intervals [6]:
+            xmin = 15.395957194630874 
+            xmax = 17.808 
+            text = "[int]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 17.808 
+        intervals: size = 6
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.3449636608344549 
+            text = "[int]"
+        intervals [2]:
+            xmin = 0.3449636608344549 
+            xmax = 8.2897150952752003 
+            text = "(u) [int] ($)tu 0 fa-\if 0 E-\It_> 0 siks 0 sEv@n 0 Tri 0 fO 0 na-\in(/$) [/int] (/u)"
+        intervals [3]:
+            xmin = 8.2897150952752003 
+            xmax = 12.08463072890841 
+            text = "[sta]"
+        intervals [4]:
+            xmin = 12.08463072890841 
+            xmax = 14.334379288590606 
+            text = "[int]"
+        intervals [5]:
+            xmin = 14.334379288590606 
+            xmax = 15.395957194630874 
+            text = "0"
+        intervals [6]:
+            xmin = 15.395957194630874 
+            xmax = 17.808 
+            text = "[int]"

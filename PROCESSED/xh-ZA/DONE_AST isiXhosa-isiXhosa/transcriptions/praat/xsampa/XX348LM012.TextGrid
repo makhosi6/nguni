@@ -1,0 +1,52 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 9.4079999999999995 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 9.4079999999999995 
+        intervals: size = 4
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.31205610257136784 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.31205610257136784 
+            xmax = 0.96995862359295493 
+            text = "[int]" 
+        intervals [3]:
+            xmin = 0.96995862359295493 
+            xmax = 2.6775037189204505 
+            text = "(s) [int] ndihlala eMbuqe ($)extension(/$) [/int] (/s)" 
+        intervals [4]:
+            xmin = 2.6775037189204505 
+            xmax = 9.4079999999999995 
+            text = "[sta]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 9.4079999999999995 
+        intervals: size = 4
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.31205610257136784 
+            text = "0"
+        intervals [2]:
+            xmin = 0.31205610257136784 
+            xmax = 0.96995862359295493 
+            text = "[int]"
+        intervals [3]:
+            xmin = 0.96995862359295493 
+            xmax = 2.6775037189204505 
+            text = "(s) [int] ndiKala embu!\E ($)EkstEnSin(/$) [/int] (/s)"
+        intervals [4]:
+            xmin = 2.6775037189204505 
+            xmax = 9.4079999999999995 
+            text = "[sta]"

@@ -1,0 +1,60 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 22.475999999999999 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 22.475999999999999 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.7792542830832128 
+            text = "[int]" 
+        intervals [2]:
+            xmin = 1.7792542830832128 
+            xmax = 2.8566167572117966 
+            text = "(u) isivakalisi (/u)" 
+        intervals [3]:
+            xmin = 2.8566167572117966 
+            xmax = 3.2016123502997269 
+            text = "[int]" 
+        intervals [4]:
+            xmin = 3.2016123502997269 
+            xmax = 7.0881113870795112 
+            text = "(s) [int] umfazi 0 wayicoca indlu yakhe [/int] (/s)" 
+        intervals [5]:
+            xmin = 7.0881113870795112 
+            xmax = 22.475999999999999 
+            text = "[int]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 22.475999999999999 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.7792542830832128 
+            text = "[int]" 
+        intervals [2]:
+            xmin = 1.7792542830832128 
+            xmax = 2.8566167572117966 
+            text = "(u) isivak_>alis (/u)" 
+        intervals [3]:
+            xmin = 2.8566167572117966 
+            xmax = 3.2016123502997269 
+            text = "[int]" 
+        intervals [4]:
+            xmin = 3.2016123502997269 
+            xmax = 7.0881113870795112 
+            text = "(s) [int] umfazi 0 waji|\O|\a ind-\K\u jak_hE [/int] (/s)" 
+        intervals [5]:
+            xmin = 7.0881113870795112 
+            xmax = 22.475999999999999 
+            text = "[int]" 

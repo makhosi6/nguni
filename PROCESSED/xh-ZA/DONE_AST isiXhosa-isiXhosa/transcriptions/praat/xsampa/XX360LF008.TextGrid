@@ -1,0 +1,60 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 514.524 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 514.524 
+        intervals: size = 5
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.78273203136734115 
+            text = "[spk]" 
+        intervals [2]:
+            xmin = 0.78273203136734115 
+            xmax = 7.4920290029933625 
+            text = "(s) [int] ulwimi 0 lwam lwenkobe 0 sisixhosa [/int] (/s)"
+        intervals [3]:
+            xmin = 7.4920290029933625 
+            xmax = 9.3664489962827826 
+            text = "[int]" 
+        intervals [4]:
+            xmin = 9.3664489962827826 
+            xmax = 13.960878266358266 
+            text = "(s) [int] ulwimi lwam lwenkobe 0 sisixhosa [/int] (/s)" 
+        intervals [5]:
+            xmin = 13.960878266358266 
+            xmax = 514.524 
+            text = "[int]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 514.524 
+        intervals: size = 5
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.78273203136734115 
+            text = "[spk]" 
+        intervals [2]:
+            xmin = 0.78273203136734115 
+            xmax = 7.4920290029933625 
+            text = "(s) [int] ulwimi 0 lwam lwENk_>Ob_<E 0 sisi|\|\_hOsa [/int] (/s)"
+        intervals [3]:
+            xmin = 7.4920290029933625 
+            xmax = 9.3664489962827826 
+            text = "[int]" 
+        intervals [4]:
+            xmin = 9.3664489962827826 
+            xmax = 13.960878266358266 
+            text = "(s) [int] ulwimi lwam lwENk_>Ob_<E 0 sisi|\|\_hOsa [/int] (/s)" 
+        intervals [5]:
+            xmin = 13.960878266358266 
+            xmax = 514.524 
+            text = "[int]" 

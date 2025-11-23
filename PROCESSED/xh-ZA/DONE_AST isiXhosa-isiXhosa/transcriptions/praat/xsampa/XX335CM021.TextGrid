@@ -1,0 +1,68 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 3.7080000000000002 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic"
+        xmin = 0 
+        xmax = 3.7080000000000002 
+        intervals: size = 6
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.35678756637923248 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.35678756637923248 
+            xmax = 1.1627711545577897 
+            text = "(u) ($)nine(/$) (/u)" 
+        intervals [3]:
+            xmin = 1.1627711545577897 
+            xmax = 1.8281864746515357 
+            text = "[spk]" 
+        intervals [4]:
+            xmin = 1.8281864746515357 
+            xmax = 2.4477110830146787 
+            text = "0" 
+        intervals [5]:
+            xmin = 2.4477110830146787 
+            xmax = 3.3597889786604171 
+            text = "[spk]" 
+        intervals [6]:
+            xmin = 3.3597889786604171 
+            xmax = 3.7080000000000002 
+            text = "[sta]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 3.7080000000000002 
+        intervals: size = 6
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.35678756637923248 
+            text = "0"
+        intervals [2]:
+            xmin = 0.35678756637923248 
+            xmax = 1.1627711545577897 
+            text = "(u) ($)na-\in(/$) (/u)"
+        intervals [3]:
+            xmin = 1.1627711545577897 
+            xmax = 1.8281864746515357 
+            text = "[spk]"
+        intervals [4]:
+            xmin = 1.8281864746515357 
+            xmax = 2.4477110830146787 
+            text = "0"
+        intervals [5]:
+            xmin = 2.4477110830146787 
+            xmax = 3.3597889786604171 
+            text = "[spk]"
+        intervals [6]:
+            xmin = 3.3597889786604171 
+            xmax = 3.7080000000000002 
+            text = "[sta]"

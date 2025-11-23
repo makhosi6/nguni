@@ -1,0 +1,60 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 19.044 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 19.044 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.2145999975599944 
+            text = "0" 
+        intervals [2]:
+            xmin = 1.2145999975599944 
+            xmax = 1.5409730739746623 
+            text = "[spk]" 
+        intervals [3]:
+            xmin = 1.5409730739746623 
+            xmax = 10.953775151689355 
+            text = "(u) [int] i ($)twenty 0 twenty *f+ 0 four(/$) 0 kaMatshi kaMeyi ($)two thousand and one(/$) [/int] (/u)" 
+        intervals [4]:
+            xmin = 10.953775151689355 
+            xmax = 11.843119389995852 
+            text = "0" 
+        intervals [5]:
+            xmin = 11.843119389995852 
+            xmax = 19.044 
+            text = "[int]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 19.044 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.2145999975599944 
+            text = "0" 
+        intervals [2]:
+            xmin = 1.2145999975599944 
+            xmax = 1.5409730739746623 
+            text = "[spk]" 
+        intervals [3]:
+            xmin = 1.5409730739746623 
+            xmax = 10.953775151689355 
+            text = "(u) [int] i: ($)twEndi 0 twEnti f 0 fO:(/$) 0 k_>amat-\S k_>ameji ($)tu: Ta-\uz@n En wan(/$) [/int] (/u)" 
+        intervals [4]:
+            xmin = 10.953775151689355 
+            xmax = 11.843119389995852 
+            text = "0" 
+        intervals [5]:
+            xmin = 11.843119389995852 
+            xmax = 19.044 
+            text = "[int]" 

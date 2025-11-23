@@ -1,0 +1,76 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 8.6159999999999997 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 8.6159999999999997 
+        intervals: size = 7
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.090829770308084534 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.090829770308084534 
+            xmax = 0.42938881679624258 
+            text = "[spk]" 
+        intervals [3]:
+            xmin = 0.42938881679624258 
+            xmax = 1.2542807583539986 
+            text = "(u) [sta] umhla [/sta] (/u)" 
+        intervals [4]:
+            xmin = 1.2542807583539986 
+            xmax = 1.3045494194930534 
+            text = "0" 
+        intervals [5]:
+            xmin = 1.3045494194930534 
+            xmax = 5.1202056468371229 
+            text = "(u) ngoLwesithathu ngomhla wamashumi amabini ku ($)April 0 two thousand and 0 two(/$) (/u)"
+        intervals [6]:
+            xmin = 5.1202056468371229 
+            xmax = 6.2438506448000464 
+            text = "0" 
+        intervals [7]:
+            xmin = 6.2438506448000464 
+            xmax = 8.6159999999999997 
+            text = "[int]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 8.6159999999999997 
+        intervals: size = 7
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.090829770308084534 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.090829770308084534 
+            xmax = 0.42938881679624258 
+            text = "[spk]" 
+        intervals [3]:
+            xmin = 0.42938881679624258 
+            xmax = 1.2542807583539986 
+            text = "(u) [sta] umKa [/sta] (/u)" 
+        intervals [4]:
+            xmin = 1.2542807583539986 
+            xmax = 1.3045494194930534 
+            text = "0" 
+        intervals [5]:
+            xmin = 1.3045494194930534 
+            xmax = 5.1202056468371229 
+            text = "(u) NgOlwesit_hat_hu NOmKa wamaSum amab_<in k_>u ($)E-\ipr@l 0 tu: Ta-\uz@n En 0 tu:(/$) (/u)" 
+        intervals [6]:
+            xmin = 5.1202056468371229 
+            xmax = 6.2438506448000464 
+            text = "0" 
+        intervals [7]:
+            xmin = 6.2438506448000464 
+            xmax = 8.6159999999999997 
+            text = "[int]" 

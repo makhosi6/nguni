@@ -1,0 +1,60 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 11.448 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 11.448 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.90625124722978379 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.90625124722978379 
+            xmax = 1.4678831601210294 
+            text = "[sta]" 
+        intervals [3]:
+            xmin = 1.4678831601210294 
+            xmax = 4.5217566864671772 
+            text = "(s) ngu ($)twelve(/$) 0 [spk] 0 intsimbi yeshumi elinambini (/s)" 
+        intervals [4]:
+            xmin = 4.5217566864671772 
+            xmax = 6.3470604033637255 
+            text = "0" 
+        intervals [5]:
+            xmin = 6.3470604033637255 
+            xmax = 11.448 
+            text = "[int]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 11.448 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.90625124722978379 
+            text = "0"
+        intervals [2]:
+            xmin = 0.90625124722978379 
+            xmax = 1.4678831601210294 
+            text = "[sta]"
+        intervals [3]:
+            xmin = 1.4678831601210294 
+            xmax = 4.5217566864671772 
+            text = "(s) Ngu ($)twelf(/$) 0 [spk] 0 nt-\s_>imbi jeSum elambini (/s)"
+        intervals [4]:
+            xmin = 4.5217566864671772 
+            xmax = 6.3470604033637255 
+            text = "0"
+        intervals [5]:
+            xmin = 6.3470604033637255 
+            xmax = 11.448 
+            text = "[int]"

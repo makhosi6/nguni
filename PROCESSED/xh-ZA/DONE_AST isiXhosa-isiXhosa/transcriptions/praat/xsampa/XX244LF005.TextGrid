@@ -1,0 +1,68 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 5.6280000000000001 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 5.6280000000000001 
+        intervals: size = 6 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.4598157713248639 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.4598157713248639 
+            xmax = 0.83380045335411201 
+            text = "[sta]" 
+        intervals [3]:
+            xmin = 0.83380045335411201 
+            xmax = 3.1375620174257985 
+            text = "(s) ndinamashumi amathathu eminyaka (/s)" 
+        intervals [4]:
+            xmin = 3.1375620174257985 
+            xmax = 3.974509102500531 
+            text = "[spk]" 
+        intervals [5]:
+            xmin = 3.974509102500531 
+            xmax = 4.9322526740808952 
+            text = "0" 
+        intervals [6]:
+            xmin = 4.9322526740808952 
+            xmax = 5.6280000000000001 
+            text = "[sta]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 5.6280000000000001 
+        intervals: size = 6 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.4598157713248639 
+            text = "0"
+        intervals [2]:
+            xmin = 0.4598157713248639 
+            xmax = 0.83380045335411201 
+            text = "[sta]"
+        intervals [3]:
+            xmin = 0.83380045335411201 
+            xmax = 3.1375620174257985 
+            text = "(s) dinamaSumi amat_hat_hu EmiJak_>a (/s)"
+        intervals [4]:
+            xmin = 3.1375620174257985 
+            xmax = 3.974509102500531 
+            text = "[spk]"
+        intervals [5]:
+            xmin = 3.974509102500531 
+            xmax = 4.9322526740808952 
+            text = "0"
+        intervals [6]:
+            xmin = 4.9322526740808952 
+            xmax = 5.6280000000000001 
+            text = "[sta]"

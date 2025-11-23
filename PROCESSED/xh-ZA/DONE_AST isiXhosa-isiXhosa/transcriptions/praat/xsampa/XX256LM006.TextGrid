@@ -1,0 +1,60 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 6.3360000000000003 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic"
+        xmin = 0 
+        xmax = 6.3360000000000003 
+        intervals: size = 5
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.98726099231929088 
+            text = "[int]" 
+        intervals [2]:
+            xmin = 0.98726099231929088 
+            xmax = 1.3563838533075625 
+            text = "[spk]" 
+        intervals [3]:
+            xmin = 1.3563838533075625 
+            xmax = 4.3773630577115741 
+            text = "(u) ($)sixteen 0 oh four 0 nineteen sixty eight(/$) (/u)" 
+        intervals [4]:
+            xmin = 4.3773630577115741 
+            xmax = 6.13555352715571 
+            text = "0" 
+        intervals [5]:
+            xmin = 6.13555352715571 
+            xmax = 6.3360000000000003 
+            text = "[sta]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 6.3360000000000003 
+        intervals: size = 5
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.98726099231929088 
+            text = "[int]"
+        intervals [2]:
+            xmin = 0.98726099231929088 
+            xmax = 1.3563838533075625 
+            text = "[spk]"
+        intervals [3]:
+            xmin = 1.3563838533075625 
+            xmax = 4.3773630577115741 
+            text = "(u) ($)sikstin 0 @U fO 0 na-\intin siksti e-\It(/$) (/u)"
+        intervals [4]:
+            xmin = 4.3773630577115741 
+            xmax = 6.13555352715571 
+            text = "0"
+        intervals [5]:
+            xmin = 6.13555352715571 
+            xmax = 6.3360000000000003 
+            text = "[sta]"

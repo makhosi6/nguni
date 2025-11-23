@@ -1,0 +1,60 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 4.3559999999999999 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 4.3559999999999999 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.11777232111233669 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.11777232111233669 
+            xmax = 0.75220223843592837 
+            text = "[spk]" 
+        intervals [3]:
+            xmin = 0.75220223843592837 
+            xmax = 2.3616507655410399 
+            text = "(u) Iziwenkosi (/u)" 
+        intervals [4]:
+            xmin = 2.3616507655410399 
+            xmax = 3.7507183739969037 
+            text = "[sta]" 
+        intervals [5]:
+            xmin = 3.7507183739969037 
+            xmax = 4.3559999999999999 
+            text = "[spk]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 4.3559999999999999 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.11777232111233669 
+            text = "0"
+        intervals [2]:
+            xmin = 0.11777232111233669 
+            xmax = 0.75220223843592837 
+            text = "[spk]"
+        intervals [3]:
+            xmin = 0.75220223843592837 
+            xmax = 2.3616507655410399 
+            text = "(u) iziwENko:si (/u)"
+        intervals [4]:
+            xmin = 2.3616507655410399 
+            xmax = 3.7507183739969037 
+            text = "[sta]"
+        intervals [5]:
+            xmin = 3.7507183739969037 
+            xmax = 4.3559999999999999 
+            text = "[spk]"

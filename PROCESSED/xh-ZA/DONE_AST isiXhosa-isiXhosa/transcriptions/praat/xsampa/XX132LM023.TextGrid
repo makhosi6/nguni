@@ -1,0 +1,60 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 6.6600000000000001 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 6.6600000000000001 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.424103113213947 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.424103113213947 
+            xmax = 0.971588296350123 
+            text = "[spk]" 
+        intervals [3]:
+            xmin = 0.971588296350123 
+            xmax = 3.0304402383587217 
+            text = "(s) [sta] baqhuba 0 ibhayisekile [/sta] (/s)" 
+        intervals [4]:
+            xmin = 3.0304402383587217 
+            xmax = 3.8085305925143755 
+            text = "[spk]" 
+        intervals [5]:
+            xmin = 3.8085305925143755 
+            xmax = 6.6600000000000001 
+            text = "0" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 6.6600000000000001 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.424103113213947 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.424103113213947 
+            xmax = 0.971588296350123 
+            text = "[spk]" 
+        intervals [3]:
+            xmin = 0.971588296350123 
+            xmax = 3.0304402383587217 
+            text = "(s) [sta] b_<a!\_hub_<a 0 ib_0ajisek_>ilE [/sta] (/s)" 
+        intervals [4]:
+            xmin = 3.0304402383587217 
+            xmax = 3.8085305925143755 
+            text = "[spk]" 
+        intervals [5]:
+            xmin = 3.8085305925143755 
+            xmax = 6.6600000000000001 
+            text = "0" 

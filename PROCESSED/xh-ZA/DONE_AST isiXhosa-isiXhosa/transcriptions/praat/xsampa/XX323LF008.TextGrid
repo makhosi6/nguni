@@ -1,0 +1,68 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 5.4720000000000004 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 5.4720000000000004 
+        intervals: size = 6
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.66398297902042613 
+            text = "(u) [int] ~siXhos [/int] (/u)" 
+        intervals [2]:
+            xmin = 0.66398297902042613 
+            xmax = 0.87499208053691291 
+            text = "[int]" 
+        intervals [3]:
+            xmin = 0.87499208053691291 
+            xmax = 2.513687367813882 
+            text = "[sta]" 
+        intervals [4]:
+            xmin = 2.513687367813882 
+            xmax = 3.209987310132667 
+            text = "0" 
+        intervals [5]:
+            xmin = 3.209987310132667 
+            xmax = 3.5973221438107954 
+            text = "[spk]" 
+        intervals [6]:
+            xmin = 3.5973221438107954 
+            xmax = 5.4720000000000004 
+            text = "0" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 5.4720000000000004 
+        intervals: size = 6
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.66398297902042613 
+            text = "(u) [int] si|\|\_hOs [/int] (/u)"
+        intervals [2]:
+            xmin = 0.66398297902042613 
+            xmax = 0.87499208053691291 
+            text = "[int]"
+        intervals [3]:
+            xmin = 0.87499208053691291 
+            xmax = 2.513687367813882 
+            text = "[sta]"
+        intervals [4]:
+            xmin = 2.513687367813882 
+            xmax = 3.209987310132667 
+            text = "0"
+        intervals [5]:
+            xmin = 3.209987310132667 
+            xmax = 3.5973221438107954 
+            text = "[spk]"
+        intervals [6]:
+            xmin = 3.5973221438107954 
+            xmax = 5.4720000000000004 
+            text = "0"

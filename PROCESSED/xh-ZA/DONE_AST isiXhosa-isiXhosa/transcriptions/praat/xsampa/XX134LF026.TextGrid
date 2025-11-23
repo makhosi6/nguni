@@ -1,0 +1,68 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 6.3719999999999999 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic"
+        xmin = 0 
+        xmax = 6.3719999999999999 
+        intervals: size = 6
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.49405737477663064 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.49405737477663064 
+            xmax = 0.82278849590295788 
+            text = "[spk]" 
+        intervals [3]:
+            xmin = 0.82278849590295788 
+            xmax = 3.8178942661650508 
+            text = "(u) izinto zokwenza 0 ikofu (/u)" 
+        intervals [4]:
+            xmin = 3.8178942661650508 
+            xmax = 4.3073383798420268 
+            text = "[spk]" 
+        intervals [5]:
+            xmin = 4.3073383798420268 
+            xmax = 6.016740209698928 
+            text = "0" 
+        intervals [6]:
+            xmin = 6.016740209698928 
+            xmax = 6.3719999999999999 
+            text = "[int]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 6.3719999999999999 
+        intervals: size = 6
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.49405737477663064 
+            text = "0"
+        intervals [2]:
+            xmin = 0.49405737477663064 
+            xmax = 0.82278849590295788 
+            text = "[spk]"
+        intervals [3]:
+            xmin = 0.82278849590295788 
+            xmax = 3.8178942661650508 
+            text = "(u) izint_>O zOk_>wEnd-\za 0 ik_>ofu (/u)"
+        intervals [4]:
+            xmin = 3.8178942661650508 
+            xmax = 4.3073383798420268 
+            text = "[spk]"
+        intervals [5]:
+            xmin = 4.3073383798420268 
+            xmax = 6.016740209698928 
+            text = "0"
+        intervals [6]:
+            xmin = 6.016740209698928 
+            xmax = 6.3719999999999999 
+            text = "[int]"

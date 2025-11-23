@@ -1,0 +1,84 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 6.516 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 6.516 
+        intervals: size = 8 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.24609984921927969 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.24609984921927969 
+            xmax = 0.52307956343093132 
+            text = "[int]" 
+        intervals [3]:
+            xmin = 0.52307956343093132 
+            xmax = 0.59564032010361156 
+            text = "[ext]" 
+        intervals [4]:
+            xmin = 0.59564032010361156 
+            xmax = 2.2240641273439321 
+            text = "(u) igama ledolophu (/u)" 
+        intervals [5]:
+            xmin = 2.2240641273439321 
+            xmax = 2.7834883676216116 
+            text = "0" 
+        intervals [6]:
+            xmin = 2.7834883676216116 
+            xmax = 3.1626522427002155 
+            text = "[int]" 
+        intervals [7]:
+            xmin = 3.1626522427002155 
+            xmax = 4.5105848268571416 
+            text = "(u) i ($)Golden_Gate(/$) (/u)" 
+        intervals [8]:
+            xmin = 4.5105848268571416 
+            xmax = 6.516 
+            text = "0" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 6.516 
+        intervals: size = 8 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.24609984921927969 
+            text = "0"
+        intervals [2]:
+            xmin = 0.24609984921927969 
+            xmax = 0.52307956343093132 
+            text = "[int]"
+        intervals [3]:
+            xmin = 0.52307956343093132 
+            xmax = 0.59564032010361156 
+            text = "[ext]"
+        intervals [4]:
+            xmin = 0.59564032010361156 
+            xmax = 2.2240641273439321 
+            text = "(u) igama lEd_0Olop_h (/u)"
+        intervals [5]:
+            xmin = 2.2240641273439321 
+            xmax = 2.7834883676216116 
+            text = "0"
+        intervals [6]:
+            xmin = 2.7834883676216116 
+            xmax = 3.1626522427002155 
+            text = "[int]"
+        intervals [7]:
+            xmin = 3.1626522427002155 
+            xmax = 4.5105848268571416 
+            text = "(u) i ($)gOldEngE-\It(/$) (/u)"
+        intervals [8]:
+            xmin = 4.5105848268571416 
+            xmax = 6.516 
+            text = "0"

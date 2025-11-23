@@ -1,0 +1,60 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 15.119999999999999 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 15.119999999999999 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.55892186223622009 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.55892186223622009 
+            xmax = 0.96672406828543034 
+            text = "[sta]" 
+        intervals [3]:
+            xmin = 0.96672406828543034 
+            xmax = 12.112841675931319 
+            text = "(u) [sta] zintlanu 0 zintathu 0 zine 0 inye 0 zisixhenxe 0 zisibhozo 0 zilithoba 0 zimbini 0 zintandathu 0 azikho [/sta] (/u)" 
+        intervals [4]:
+            xmin = 12.112841675931319 
+            xmax = 12.918849391464789 
+            text = "0" 
+        intervals [5]:
+            xmin = 12.918849391464789 
+            xmax = 15.119999999999999 
+            text = "[int]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 15.119999999999999 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.55892186223622009 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.55892186223622009 
+            xmax = 0.96672406828543034 
+            text = "[sta]" 
+        intervals [3]:
+            xmin = 0.96672406828543034 
+            xmax = 12.112841675931319 
+            text = "(u) [sta] zint-\K_>anu 0 zint_>at_hu 0 zinE 0 iJE 0 zisi|\|\_hE|\|\~E 0 zisib_0OzO 0 zilit_hOb_<a 0 zimbini 0 zint_>andat_hu 0 azk_hO [/sta] (/u)" 
+        intervals [4]:
+            xmin = 12.112841675931319 
+            xmax = 12.918849391464789 
+            text = "0" 
+        intervals [5]:
+            xmin = 12.918849391464789 
+            xmax = 15.119999999999999 
+            text = "[int]" 

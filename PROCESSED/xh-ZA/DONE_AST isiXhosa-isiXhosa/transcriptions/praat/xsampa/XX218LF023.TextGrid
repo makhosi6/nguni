@@ -1,0 +1,60 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 13.56 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic"
+        xmin = 0 
+        xmax = 13.56 
+        intervals: size = 5
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.16507270483726114 
+            text = "[sta]" 
+        intervals [2]:
+            xmin = 0.16507270483726114 
+            xmax = 3.9045392454063412 
+            text = "(u) ibinzana *eliqh+ elichaza [spk] 0 umhla (/u)" 
+        intervals [3]:
+            xmin = 3.9045392454063412 
+            xmax = 4.5634934232748625 
+            text = "[spk]" 
+        intervals [4]:
+            xmin = 4.5634934232748625 
+            xmax = 5.7651157476233417 
+            text = "(u) [int] ngomsomnye [/int] (/u)" 
+        intervals [5]:
+            xmin = 5.7651157476233417 
+            xmax = 13.56 
+            text = "[int]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 13.56 
+        intervals: size = 5
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.16507270483726114 
+            text = "[sta]"
+        intervals [2]:
+            xmin = 0.16507270483726114 
+            xmax = 3.9045392454063412 
+            text = "(u) ib_<ind-\zana eli!\_h eli|\_haza [spk] 0 um=Ka (/u)"
+        intervals [3]:
+            xmin = 3.9045392454063412 
+            xmax = 4.5634934232748625 
+            text = "[spk]"
+        intervals [4]:
+            xmin = 4.5634934232748625 
+            xmax = 5.7651157476233417 
+            text = "(u) [int] NgOm=sOm=JE [/int] (/u)"
+        intervals [5]:
+            xmin = 5.7651157476233417 
+            xmax = 13.56 
+            text = "[int]"

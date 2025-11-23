@@ -1,0 +1,76 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 16.428000000000001 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 16.428000000000001 
+        intervals: size = 7 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.04775233544308629 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.04775233544308629 
+            xmax = 0.51318595070598316 
+            text = "(u) *Bodoza (/u)" 
+        intervals [3]:
+            xmin = 0.51318595070598316 
+            xmax = 1.5292351622155444 
+            text = "0" 
+        intervals [4]:
+            xmin = 1.5292351622155444 
+            xmax = 4.4528360510462797 
+            text = "[int]" 
+        intervals [5]:
+            xmin = 4.4528360510462797 
+            xmax = 6.193718095009789 
+            text = "(u) B. O. D. O. Z. [ext] A. (/u)" 
+        intervals [6]:
+            xmin = 6.193718095009789 
+            xmax = 7.9697355939022208 
+            text = "0" 
+        intervals [7]:
+            xmin = 7.9697355939022208 
+            xmax = 16.428000000000001 
+            text = "[int]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 16.428000000000001 
+        intervals: size = 7 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.04775233544308629 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.04775233544308629 
+            xmax = 0.51318595070598316 
+            text = "(u) dOza (/u)" 
+        intervals [3]:
+            xmin = 0.51318595070598316 
+            xmax = 1.5292351622155444 
+            text = "0" 
+        intervals [4]:
+            xmin = 1.5292351622155444 
+            xmax = 4.4528360510462797 
+            text = "[int]" 
+        intervals [5]:
+            xmin = 4.4528360510462797 
+            xmax = 6.193718095009789 
+            text = "(u) bi: O-\u di: O-\u zEt [ext] E-\i (/u)" 
+        intervals [6]:
+            xmin = 6.193718095009789 
+            xmax = 7.9697355939022208 
+            text = "0" 
+        intervals [7]:
+            xmin = 7.9697355939022208 
+            xmax = 16.428000000000001 
+            text = "[int]" 

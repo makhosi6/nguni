@@ -1,0 +1,44 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 16.943999999999999 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 16.943999999999999 
+        intervals: size = 3 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.11106232442083101 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.11106232442083101 
+            xmax = 13.440452775249669 
+            text = "(u) amakhulu *amathan+ 0 *thandathu 0 [spk] 0 eerandi 0 *ane+ 0 [spk] 0 *mashumi amathandathu anesihlanu 0 [spk] 0 kwakunye *ne+ 0 *mashumi *atha+ amathathu anesithathu (/u)" 
+        intervals [3]:
+            xmin = 13.440452775249669 
+            xmax = 16.943999999999999 
+            text = "[spk]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 16.943999999999999 
+        intervals: size = 3 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.11106232442083101 
+            text = "0"
+        intervals [2]:
+            xmin = 0.11106232442083101 
+            xmax = 13.440452775249669 
+            text = "(u) amak_hulu amat_han 0 t_handat_hu 0 [spk] 0 E:randi 0 anE 0 [spk] 0 maSumi amat_handat_hu anesiKanu 0 [spk] 0 k_>wak_>uJE nE: 0 maSumi at_ha amat_hat_hu anest_hat_h (/u)"
+        intervals [3]:
+            xmin = 13.440452775249669 
+            xmax = 16.943999999999999 
+            text = "[spk]"

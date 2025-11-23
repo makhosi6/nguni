@@ -1,0 +1,68 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 8.6880000000000006 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic"
+        xmin = 0 
+        xmax = 8.6880000000000006 
+        intervals: size = 6
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.18161725983869501 
+            text = "[sta]" 
+        intervals [2]:
+            xmin = 0.18161725983869501 
+            xmax = 0.44800975520901853 
+            text = "[spk]" 
+        intervals [3]:
+            xmin = 0.44800975520901853 
+            xmax = 1.606817110069926 
+            text = "(u) [int] Khwezi 0 Taliwe [/int] (/u)"
+        intervals [4]:
+            xmin = 1.606817110069926 
+            xmax = 4.6303719325230981 
+            text = "[int]" 
+        intervals [5]:
+            xmin = 4.6303719325230981 
+            xmax = 5.629343790161812 
+            text = "(u) Khwezi 0 Taliwe (/u)" 
+        intervals [6]:
+            xmin = 5.629343790161812 
+            xmax = 8.6880000000000006 
+            text = "[spk]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 8.6880000000000006 
+        intervals: size = 6
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.18161725983869501 
+            text = "[sta]"
+        intervals [2]:
+            xmin = 0.18161725983869501 
+            xmax = 0.44800975520901853 
+            text = "[spk]"
+        intervals [3]:
+            xmin = 0.44800975520901853 
+            xmax = 1.606817110069926 
+            text = "(u) [int] k_hwezi 0 t_>aliwE [/int] (/u)"
+        intervals [4]:
+            xmin = 1.606817110069926 
+            xmax = 4.6303719325230981 
+            text = "[int]"
+        intervals [5]:
+            xmin = 4.6303719325230981 
+            xmax = 5.629343790161812 
+            text = "(u) k_hwezi 0 t_>aliwE (/u)"
+        intervals [6]:
+            xmin = 5.629343790161812 
+            xmax = 8.6880000000000006 
+            text = "[spk]"

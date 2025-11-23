@@ -1,0 +1,68 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 9.6959999999999997 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 9.6959999999999997 
+        intervals: size = 6 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.25357928621484138 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.25357928621484138 
+            xmax = 3.0416714842296506 
+            text = "(u) igama *eliphe+ 0 [spk] elipelwayo (/u)" 
+        intervals [3]:
+            xmin = 3.0416714842296506 
+            xmax = 4.7219151041376586 
+            text = "[int]" 
+        intervals [4]:
+            xmin = 4.7219151041376586 
+            xmax = 5.7102602535872453 
+            text = "(u) *igama *elipelwayo (/u)" 
+        intervals [5]:
+            xmin = 5.7102602535872453 
+            xmax = 7.5201713145468609 
+            text = "0" 
+        intervals [6]:
+            xmin = 7.5201713145468609 
+            xmax = 9.6959999999999997 
+            text = "[int]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 9.6959999999999997 
+        intervals: size = 6 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.25357928621484138 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.25357928621484138 
+            xmax = 3.0416714842296506 
+            text = "(u) igama elip_hE 0 [spk] elip_>ElwajO (/u)" 
+        intervals [3]:
+            xmin = 3.0416714842296506 
+            xmax = 4.7219151041376586 
+            text = "[int]" 
+        intervals [4]:
+            xmin = 4.7219151041376586 
+            xmax = 5.7102602535872453 
+            text = "(u) gama elp_>Elwaj (/u)" 
+        intervals [5]:
+            xmin = 5.7102602535872453 
+            xmax = 7.5201713145468609 
+            text = "0" 
+        intervals [6]:
+            xmin = 7.5201713145468609 
+            xmax = 9.6959999999999997 
+            text = "[int]" 

@@ -1,0 +1,60 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 17.52 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 17.52 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.6550136327563596 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.6550136327563596 
+            xmax = 1.3898484512478802 
+            text = "[spk]" 
+        intervals [3]:
+            xmin = 1.3898484512478802 
+            xmax = 14.11833429001504 
+            text = "(u) amawaka amahlanu 0 [spk] 0 anamakhulu *ama+ 0 *alis+ 0 asithoba 0 [spk] 0 anamashumi amathandathu *anesixhenxe 0 [spk] 0 aneesenti ezingamashumi amathandathu ananye 0 eeranti (/u)" 
+        intervals [4]:
+            xmin = 14.11833429001504 
+            xmax = 14.672403355771312 
+            text = "[int]" 
+        intervals [5]:
+            xmin = 14.672403355771312 
+            xmax = 17.52 
+            text = "0" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 17.52 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.6550136327563596 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.6550136327563596 
+            xmax = 1.3898484512478802 
+            text = "[spk]" 
+        intervals [3]:
+            xmin = 1.3898484512478802 
+            xmax = 14.11833429001504 
+            text = "(u) amawak_>a amaKanu 0 [spk] 0 anamak_hulu ama 0 alis 0 asit_hOb_<a 0 [spk] 0 anamaSumi amat_handat_hu anesu|\|\_hE|\|\~E 0 [spk] 0 anE:sent_>i eziNgamaSumi amat_handat_hu anaJE 0 E:rant_> (/u)" 
+        intervals [4]:
+            xmin = 14.11833429001504 
+            xmax = 14.672403355771312 
+            text = "[int]" 
+        intervals [5]:
+            xmin = 14.672403355771312 
+            xmax = 17.52 
+            text = "0" 

@@ -1,0 +1,68 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 4.7039999999999997 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 4.7039999999999997 
+        intervals: size = 6
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.36516823687752353 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.36516823687752353 
+            xmax = 0.59594361408231211 
+            text = "[spk]" 
+        intervals [3]:
+            xmin = 0.59594361408231211 
+            xmax = 2.7234041226889563 
+            text = "(u) I. 0 B. I. 0 S. H. O. (/u)"
+        intervals [4]:
+            xmin = 2.7234041226889563 
+            xmax = 3.4085185237656725 
+            text = "0" 
+        intervals [5]:
+            xmin = 3.4085185237656725 
+            xmax = 4.4181607990366221 
+            text = "[sta]" 
+        intervals [6]:
+            xmin = 4.4181607990366221 
+            xmax = 4.7039999999999997 
+            text = "[int]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 4.7039999999999997 
+        intervals: size = 6
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.36516823687752353 
+            text = "0"
+        intervals [2]:
+            xmin = 0.36516823687752353 
+            xmax = 0.59594361408231211 
+            text = "[spk]"
+        intervals [3]:
+            xmin = 0.59594361408231211 
+            xmax = 2.7234041226889563 
+            text = "(u) a-\I 0 bi a-\I 0 Es e-\It-\S_h @-\U (/u)"
+        intervals [4]:
+            xmin = 2.7234041226889563 
+            xmax = 3.4085185237656725 
+            text = "0"
+        intervals [5]:
+            xmin = 3.4085185237656725 
+            xmax = 4.4181607990366221 
+            text = "[sta]"
+        intervals [6]:
+            xmin = 4.4181607990366221 
+            xmax = 4.7039999999999997 
+            text = "[int]"

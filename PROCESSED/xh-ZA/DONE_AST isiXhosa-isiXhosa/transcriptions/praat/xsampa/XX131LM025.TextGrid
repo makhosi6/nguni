@@ -1,0 +1,68 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 13.32 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 13.32 
+        intervals: size = 6
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.14812750276671105 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.14812750276671105 
+            xmax = 0.79460119408829977 
+            text = "[int]" 
+        intervals [3]:
+            xmin = 0.79460119408829977 
+            xmax = 2.2797015756079295 
+            text = "(u) [sta] isambuku 0 semali [/sta] (/u)"
+        intervals [4]:
+            xmin = 2.2797015756079295 
+            xmax = 3.3788156000967642 
+            text = "0" 
+        intervals [5]:
+            xmin = 3.3788156000967642 
+            xmax = 10.305143444074519 
+            text = "(u) [sta] ($)three thousand six hundred and sixty five fifty five 0 rand(/$) [/sta] (/u)" 
+        intervals [6]:
+            xmin = 10.305143444074519 
+            xmax = 13.32 
+            text = "0" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 13.32 
+        intervals: size = 6
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.14812750276671105 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.14812750276671105 
+            xmax = 0.79460119408829977 
+            text = "[int]" 
+        intervals [3]:
+            xmin = 0.79460119408829977 
+            xmax = 2.2797015756079295 
+            text = "(u) [sta] isambuk_>u 0 sEmali [/sta] (/u)"
+        intervals [4]:
+            xmin = 2.2797015756079295 
+            xmax = 3.3788156000967642 
+            text = "0" 
+        intervals [5]:
+            xmin = 3.3788156000967642 
+            xmax = 10.305143444074519 
+            text = "(u) [sta] ($)Tri: Ta-\uz@n siks handrEt En siksti fa-\if fifti fa-\if 0 r{nd(/$) [/sta] (/u)" 
+        intervals [6]:
+            xmin = 10.305143444074519 
+            xmax = 13.32 
+            text = "0" 

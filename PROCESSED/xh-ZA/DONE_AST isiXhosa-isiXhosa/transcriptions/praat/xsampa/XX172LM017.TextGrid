@@ -1,0 +1,60 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 7.1280000000000001 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic"
+        xmin = 0 
+        xmax = 7.1280000000000001 
+        intervals: size = 5
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.71726135662170243 
+            text = "[int]" 
+        intervals [2]:
+            xmin = 0.71726135662170243 
+            xmax = 2.545573693867913 
+            text = "(s) [sta] hayi andisiva isitshayina [/sta] (/s)" 
+        intervals [3]:
+            xmin = 2.545573693867913 
+            xmax = 4.1257015901504159 
+            text = "[sta]" 
+        intervals [4]:
+            xmin = 4.1257015901504159 
+            xmax = 4.8480375838654517 
+            text = "(s) [fil]he andisazi (/s)"
+        intervals [5]:
+            xmin = 4.8480375838654517 
+            xmax = 7.1280000000000001 
+            text = "[spk]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 7.1280000000000001 
+        intervals: size = 5
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.71726135662170243 
+            text = "[int]"
+        intervals [2]:
+            xmin = 0.71726135662170243 
+            xmax = 2.545573693867913 
+            text = "(s) [sta] ha-\i andisiva isit-\Sa-\ina [/sta] (/s)"
+        intervals [3]:
+            xmin = 2.545573693867913 
+            xmax = 4.1257015901504159 
+            text = "[sta]"
+        intervals [4]:
+            xmin = 4.1257015901504159 
+            xmax = 4.8480375838654517 
+            text = "(s) hE ansaz (/s)"
+        intervals [5]:
+            xmin = 4.8480375838654517 
+            xmax = 7.1280000000000001 
+            text = "[spk]"

@@ -1,0 +1,68 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 17.207999999999998 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 17.207999999999998 
+        intervals: size = 6
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.41248595917789083 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.41248595917789083 
+            xmax = 1.0945414026845635 
+            text = "[spk]" 
+        intervals [3]:
+            xmin = 1.0945414026845635 
+            xmax = 8.0802847498281842 
+            text = "(u) ($)two 0 [ext] 0 two 0 eight 0 two 0 [sta] two two eight two [/sta](/$) (/u)" 
+        intervals [4]:
+            xmin = 8.0802847498281842 
+            xmax = 8.7490992825266378 
+            text = "0" 
+        intervals [5]:
+            xmin = 8.7490992825266378 
+            xmax = 15.403282127516777 
+            text = "[int]" 
+        intervals [6]:
+            xmin = 15.403282127516777 
+            xmax = 17.207999999999998 
+            text = "[sta]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 17.207999999999998 
+        intervals: size = 6
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.41248595917789083 
+            text = "0"
+        intervals [2]:
+            xmin = 0.41248595917789083 
+            xmax = 1.0945414026845635 
+            text = "[spk]"
+        intervals [3]:
+            xmin = 1.0945414026845635 
+            xmax = 8.0802847498281842 
+            text = "(u) ($)tu 0 [ext] 0 tu 0 E-\It_> 0 tu 0 [sta] tu tu E-\It tu [/sta](/$) (/u)"
+        intervals [4]:
+            xmin = 8.0802847498281842 
+            xmax = 8.7490992825266378 
+            text = "0"
+        intervals [5]:
+            xmin = 8.7490992825266378 
+            xmax = 15.403282127516777 
+            text = "[int]"
+        intervals [6]:
+            xmin = 15.403282127516777 
+            xmax = 17.207999999999998 
+            text = "[sta]"

@@ -1,0 +1,60 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 6.7919999999999998 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 6.7919999999999998 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.053139301072990322 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.053139301072990322 
+            xmax = 2.2937134865493638 
+            text = "(u) ibinzana elichaza ixesha (/u)" 
+        intervals [3]:
+            xmin = 2.2937134865493638 
+            xmax = 2.8375162795465516 
+            text = "[sta]" 
+        intervals [4]:
+            xmin = 2.8375162795465516 
+            xmax = 4.6706976024087012 
+            text = "(u) intsimbi *yesixhenxe 0 entloko (/u)" 
+        intervals [5]:
+            xmin = 4.6706976024087012 
+            xmax = 6.7919999999999998 
+            text = "[sta]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 6.7919999999999998 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.053139301072990322 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.053139301072990322 
+            xmax = 2.2937134865493638 
+            text = "(u) ib_<ind-\zana eli|\_haza i|\|\ES (/u)" 
+        intervals [3]:
+            xmin = 2.2937134865493638 
+            xmax = 2.8375162795465516 
+            text = "[sta]" 
+        intervals [4]:
+            xmin = 2.8375162795465516 
+            xmax = 4.6706976024087012 
+            text = "(u) int-\s_>imbi jEs|\|\_hE|\|\~ 0 Ent-\K_>Ok_> (/u)" 
+        intervals [5]:
+            xmin = 4.6706976024087012 
+            xmax = 6.7919999999999998 
+            text = "[sta]" 

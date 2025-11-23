@@ -1,0 +1,60 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 7.7519999999999998 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 7.7519999999999998 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.36998869949022234 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.36998869949022234 
+            xmax = 0.70874408767544694 
+            text = "[sta]" 
+        intervals [3]:
+            xmin = 0.70874408767544694 
+            xmax = 2.146231495816799 
+            text = "(u) amagumbi ahamba kunye (/u)" 
+        intervals [4]:
+            xmin = 2.146231495816799 
+            xmax = 2.8555179591881714 
+            text = "[int]" 
+        intervals [5]:
+            xmin = 2.8555179591881714 
+            xmax = 7.7519999999999998 
+            text = "[sta]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 7.7519999999999998 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.36998869949022234 
+            text = "0"
+        intervals [2]:
+            xmin = 0.36998869949022234 
+            xmax = 0.70874408767544694 
+            text = "[sta]"
+        intervals [3]:
+            xmin = 0.70874408767544694 
+            xmax = 2.146231495816799 
+            text = "(u) amagumbi ah\amba k_>uJE (/u)"
+        intervals [4]:
+            xmin = 2.146231495816799 
+            xmax = 2.8555179591881714 
+            text = "[int]"
+        intervals [5]:
+            xmin = 2.8555179591881714 
+            xmax = 7.7519999999999998 
+            text = "[sta]"

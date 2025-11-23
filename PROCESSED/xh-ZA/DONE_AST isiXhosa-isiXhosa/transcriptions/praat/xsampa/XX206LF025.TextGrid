@@ -1,0 +1,60 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 11.772 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 11.772 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.25912372700296721 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.25912372700296721 
+            xmax = 0.9826953523489933 
+            text = "[sta]" 
+        intervals [3]:
+            xmin = 0.9826953523489933 
+            xmax = 1.2689302109207177 
+            text = "[spk]" 
+        intervals [4]:
+            xmin = 1.2689302109207177 
+            xmax = 8.1583085040720604 
+            text = "(u) ($)[sta] six hundred and eighteen sixty seven 0 cents [/sta] 0 [ext] [int] six hundred and eighteen rand sixty;seven cents [/int](/$) (/u)" 
+        intervals [5]:
+            xmin = 8.1583085040720604 
+            xmax = 11.772 
+            text = "[int]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 11.772 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.25912372700296721 
+            text = "0"
+        intervals [2]:
+            xmin = 0.25912372700296721 
+            xmax = 0.9826953523489933 
+            text = "[sta]"
+        intervals [3]:
+            xmin = 0.9826953523489933 
+            xmax = 1.2689302109207177 
+            text = "[spk]"
+        intervals [4]:
+            xmin = 1.2689302109207177 
+            xmax = 8.1583085040720604 
+            text = "(u) ($)[sta] siks h\andr@t @n E-\Itin siksti sEv@n 0 sEnt [/sta] 0 [ext] [int] siks h\andr@t @n E-\Itin rant siksEv@n sEnt [/int](/$) (/u)"
+        intervals [5]:
+            xmin = 8.1583085040720604 
+            xmax = 11.772 
+            text = "[int]"

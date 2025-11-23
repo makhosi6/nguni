@@ -1,0 +1,92 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 10.74 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 10.74 
+        intervals: size = 9 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.092788583167204661 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.092788583167204661 
+            xmax = 1.8052066404234002 
+            text = "[spk]" 
+        intervals [3]:
+            xmin = 1.8052066404234002 
+            xmax = 3.4712098637192152 
+            text = "(s) [int] [fil]eyi ukungabi [/int] namnxeba kanjani na (/s)" 
+        intervals [4]:
+            xmin = 3.4712098637192152 
+            xmax = 4.4726270757647821 
+            text = "[spk]" 
+        intervals [5]:
+            xmin = 4.4726270757647821 
+            xmax = 5.3453016626357277 
+            text = "0" 
+        intervals [6]:
+            xmin = 5.3453016626357277 
+            xmax = 6.4945194463087255 
+            text = "[int]" 
+        intervals [7]:
+            xmin = 6.4945194463087255 
+            xmax = 7.046000787027598 
+            text = "[spk]" 
+        intervals [8]:
+            xmin = 7.046000787027598 
+            xmax = 8.6786359794282983 
+            text = "(s) ndisebenzisa i ($)public phone(/$) ka ($)Telkom(/$) (/s)" 
+        intervals [9]:
+            xmin = 8.6786359794282983 
+            xmax = 10.74 
+            text = "0" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 10.74 
+        intervals: size = 9 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.092788583167204661 
+            text = "0"
+        intervals [2]:
+            xmin = 0.092788583167204661 
+            xmax = 1.8052066404234002 
+            text = "[spk]"
+        intervals [3]:
+            xmin = 1.8052066404234002 
+            xmax = 3.4712098637192152 
+            text = "(s) [int] @ji uNgab_<i [/int] nam=|\|\~Eb_<a k_>aJd-\Zani na (/s)"
+        intervals [4]:
+            xmin = 3.4712098637192152 
+            xmax = 4.4726270757647821 
+            text = "[spk]"
+        intervals [5]:
+            xmin = 4.4726270757647821 
+            xmax = 5.3453016626357277 
+            text = "0"
+        intervals [6]:
+            xmin = 5.3453016626357277 
+            xmax = 6.4945194463087255 
+            text = "[int]"
+        intervals [7]:
+            xmin = 6.4945194463087255 
+            xmax = 7.046000787027598 
+            text = "[spk]"
+        intervals [8]:
+            xmin = 7.046000787027598 
+            xmax = 8.6786359794282983 
+            text = "(s) sEb_<end-\z i ($)pablik f@-\Un(/$) ga ($)tElkQm(/$) (/s)"
+        intervals [9]:
+            xmin = 8.6786359794282983 
+            xmax = 10.74 
+            text = "0"

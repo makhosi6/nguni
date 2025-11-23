@@ -1,0 +1,52 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 9.3960000000000008 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 9.3960000000000008 
+        intervals: size = 4 
+        intervals [1]:
+            xmin = 0 
+            xmax = 5.2814050840425431 
+            text = "[int]" 
+        intervals [2]:
+            xmin = 5.2814050840425431 
+            xmax = 8.4361140570133273 
+            text = "(s) [int] yi ($)*publi+(/$) *e+ *a+ andina ($)phone(/$) 0 ndisebenzisa ($)public phone(/$) [/int] (/s)" 
+        intervals [3]:
+            xmin = 8.4361140570133273 
+            xmax = 9.2579371308724845 
+            text = "[int]" 
+        intervals [4]:
+            xmin = 9.2579371308724845 
+            xmax = 9.3960000000000008 
+            text = "0" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 9.3960000000000008 
+        intervals: size = 4 
+        intervals [1]:
+            xmin = 0 
+            xmax = 5.2814050840425431 
+            text = "[int]"
+        intervals [2]:
+            xmin = 5.2814050840425431 
+            xmax = 8.4361140570133273 
+            text = "(s) [int] ji ($)pabli(/$) E a andina ($)fO:n(/$) 0 sEb_<ens ($)pablik fOn(/$) [/int] (/s)"
+        intervals [3]:
+            xmin = 8.4361140570133273 
+            xmax = 9.2579371308724845 
+            text = "[int]"
+        intervals [4]:
+            xmin = 9.2579371308724845 
+            xmax = 9.3960000000000008 
+            text = "0"

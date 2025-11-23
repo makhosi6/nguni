@@ -1,0 +1,68 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 4.032 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 4.032 
+        intervals: size = 6 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.37972171812080535 
+            text = "(s) [sta] ~nqa [/sta] (/s)" 
+        intervals [2]:
+            xmin = 0.37972171812080535 
+            xmax = 0.60854081324505938 
+            text = "[sta]" 
+        intervals [3]:
+            xmin = 0.60854081324505938 
+            xmax = 1.4278204876594478 
+            text = "0" 
+        intervals [4]:
+            xmin = 1.4278204876594478 
+            xmax = 2.0408377285967121 
+            text = "(s) ndilibhinqa (/s)" 
+        intervals [5]:
+            xmin = 2.0408377285967121 
+            xmax = 2.8350465396330664 
+            text = "0" 
+        intervals [6]:
+            xmin = 2.8350465396330664 
+            xmax = 4.032 
+            text = "[int]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 4.032 
+        intervals: size = 6 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.37972171812080535 
+            text = "(s) [sta] !\~a [/sta] (/s)" 
+        intervals [2]:
+            xmin = 0.37972171812080535 
+            xmax = 0.60854081324505938 
+            text = "[sta]" 
+        intervals [3]:
+            xmin = 0.60854081324505938 
+            xmax = 1.4278204876594478 
+            text = "0" 
+        intervals [4]:
+            xmin = 1.4278204876594478 
+            xmax = 2.0408377285967121 
+            text = "(s) ndilib_0i!\~ (/s)" 
+        intervals [5]:
+            xmin = 2.0408377285967121 
+            xmax = 2.8350465396330664 
+            text = "0" 
+        intervals [6]:
+            xmin = 2.8350465396330664 
+            xmax = 4.032 
+            text = "[int]" 

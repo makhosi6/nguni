@@ -1,0 +1,68 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 9.8759999999999994 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic"
+        xmin = 0 
+        xmax = 9.8759999999999994 
+        intervals: size = 6
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.11733396897651197 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.11733396897651197 
+            xmax = 0.62075795322896477 
+            text = "[sta]" 
+        intervals [3]:
+            xmin = 0.62075795322896477 
+            xmax = 1.5360742882334244 
+            text = "[spk]" 
+        intervals [4]:
+            xmin = 1.5360742882334244 
+            xmax = 6.7467255541122304 
+            text = "(u) ($)three [int] seven [/int] four [spk] 0 zero 0 two three zero(/$) (/u)" 
+        intervals [5]:
+            xmin = 6.7467255541122304 
+            xmax = 7.5466515547627093 
+            text = "[sta]" 
+        intervals [6]:
+            xmin = 7.5466515547627093 
+            xmax = 9.8759999999999994 
+            text = "0" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 9.8759999999999994 
+        intervals: size = 6
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.11733396897651197 
+            text = "0"
+        intervals [2]:
+            xmin = 0.11733396897651197 
+            xmax = 0.62075795322896477 
+            text = "[sta]"
+        intervals [3]:
+            xmin = 0.62075795322896477 
+            xmax = 1.5360742882334244 
+            text = "[spk]"
+        intervals [4]:
+            xmin = 1.5360742882334244 
+            xmax = 6.7467255541122304 
+            text = "(u) ($)tri [int] sEvEn [/int] fO [spk] 0 zI@r@U 0 tu Tri zI@r@U(/$) (/u)"
+        intervals [5]:
+            xmin = 6.7467255541122304 
+            xmax = 7.5466515547627093 
+            text = "[sta]"
+        intervals [6]:
+            xmin = 7.5466515547627093 
+            xmax = 9.8759999999999994 
+            text = "0"

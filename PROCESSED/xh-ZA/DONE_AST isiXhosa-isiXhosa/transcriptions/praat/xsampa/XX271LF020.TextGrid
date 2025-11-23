@@ -1,0 +1,60 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 6.8879999999999999 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 6.8879999999999999 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.38358203183985212 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.38358203183985212 
+            xmax = 2.4610555977013591 
+            text = "(u) [sta] iyure nemizuzu elishumi [/sta] (/u)" 
+        intervals [3]:
+            xmin = 2.4610555977013591 
+            xmax = 2.8367980449103918 
+            text = "[spk]" 
+        intervals [4]:
+            xmin = 2.8367980449103918 
+            xmax = 3.8142973927426356 
+            text = "0" 
+        intervals [5]:
+            xmin = 3.8142973927426356 
+            xmax = 6.8879999999999999 
+            text = "[int]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 6.8879999999999999 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.38358203183985212 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.38358203183985212 
+            xmax = 2.4610555977013591 
+            text = "(u) [sta] i:jurE nemizuzu eliSumi [/sta] (/u)" 
+        intervals [3]:
+            xmin = 2.4610555977013591 
+            xmax = 2.8367980449103918 
+            text = "[spk]" 
+        intervals [4]:
+            xmin = 2.8367980449103918 
+            xmax = 3.8142973927426356 
+            text = "0" 
+        intervals [5]:
+            xmin = 3.8142973927426356 
+            xmax = 6.8879999999999999 
+            text = "[int]" 

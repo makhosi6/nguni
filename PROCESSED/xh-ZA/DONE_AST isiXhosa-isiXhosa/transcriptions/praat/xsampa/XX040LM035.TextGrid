@@ -1,0 +1,76 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 4.1760000000000002 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic"
+        xmin = 0 
+        xmax = 4.1760000000000002 
+        intervals: size = 7
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.4202137240814014 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.4202137240814014 
+            xmax = 1.5214008237282306 
+            text = "(u) ngoLwesibini (/u)" 
+        intervals [3]:
+            xmin = 1.5214008237282306 
+            xmax = 2.0079718677582248 
+            text = "0" 
+        intervals [4]:
+            xmin = 2.0079718677582248 
+            xmax = 2.9811139558182136 
+            text = "[int]" 
+        intervals [5]:
+            xmin = 2.9811139558182136 
+            xmax = 3.307628735364657 
+            text = "0" 
+        intervals [6]:
+            xmin = 3.307628735364657 
+            xmax = 3.8134065311326775 
+            text = "[sta]" 
+        intervals [7]:
+            xmin = 3.8134065311326775 
+            xmax = 4.1760000000000002 
+            text = "[int]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 4.1760000000000002 
+        intervals: size = 7
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.4202137240814014 
+            text = "0"
+        intervals [2]:
+            xmin = 0.4202137240814014 
+            xmax = 1.5214008237282306 
+            text = "(u) NgOlwesib_<ini (/u)"
+        intervals [3]:
+            xmin = 1.5214008237282306 
+            xmax = 2.0079718677582248 
+            text = "0"
+        intervals [4]:
+            xmin = 2.0079718677582248 
+            xmax = 2.9811139558182136 
+            text = "[int]"
+        intervals [5]:
+            xmin = 2.9811139558182136 
+            xmax = 3.307628735364657 
+            text = "0"
+        intervals [6]:
+            xmin = 3.307628735364657 
+            xmax = 3.8134065311326775 
+            text = "[sta]"
+        intervals [7]:
+            xmin = 3.8134065311326775 
+            xmax = 4.1760000000000002 
+            text = "[int]"

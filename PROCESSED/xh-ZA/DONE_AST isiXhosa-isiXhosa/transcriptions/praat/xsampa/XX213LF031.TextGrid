@@ -1,0 +1,60 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 10.512 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 10.512 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.13680950477089293 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.13680950477089293 
+            xmax = 8.8119308427533642 
+            text = "(u) uthotho *lwamanani ($)nine 0 [spk] 0 comma [int] eight comma four comma five comma seven comma one comma zero comma two comma three comma six [/int](/$) (/u)" 
+        intervals [3]:
+            xmin = 8.8119308427533642 
+            xmax = 9.3934685234899344 
+            text = "[int]" 
+        intervals [4]:
+            xmin = 9.3934685234899344 
+            xmax = 10.147209058986633 
+            text = "0" 
+        intervals [5]:
+            xmin = 10.147209058986633 
+            xmax = 10.512 
+            text = "[sta]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 10.512 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.13680950477089293 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.13680950477089293 
+            xmax = 8.8119308427533642 
+            text = "(u) ut_hOt_hO lwamana-\in ($)na-\in 0 [spk] 0 kQma [int] E-\It kQma fO kQma fa-\if kQma sEvEn kQm@ wan kQma zI-\@rO kQma tu kQma tri kQma siks [/int](/$) (/u)" 
+        intervals [3]:
+            xmin = 8.8119308427533642 
+            xmax = 9.3934685234899344 
+            text = "[int]" 
+        intervals [4]:
+            xmin = 9.3934685234899344 
+            xmax = 10.147209058986633 
+            text = "0" 
+        intervals [5]:
+            xmin = 10.147209058986633 
+            xmax = 10.512 
+            text = "[sta]" 

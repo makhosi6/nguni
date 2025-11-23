@@ -1,0 +1,52 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 12.276 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 12.276 
+        intervals: size = 4 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.39437103282209296 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.39437103282209296 
+            xmax = 2.1940676446267711 
+            text = "[spk]" 
+        intervals [3]:
+            xmin = 2.1940676446267711 
+            xmax = 9.2527776945729059 
+            text = "(u) kwa ($)number seventy four(/$) 0 e ($)Kellswood 0 Street 0 Delft_South(/$) (/u)" 
+        intervals [4]:
+            xmin = 9.2527776945729059 
+            xmax = 12.276 
+            text = "0" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 12.276 
+        intervals: size = 4 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.39437103282209296 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.39437103282209296 
+            xmax = 2.1940676446267711 
+            text = "[spk]" 
+        intervals [3]:
+            xmin = 2.1940676446267711 
+            xmax = 9.2527776945729059 
+            text = "(u) k_>wa ($)namba seventi fO:(/$) 0 e ($)kelswut 0 strit 0 dElftsa-\uT(/$) (/u)" 
+        intervals [4]:
+            xmin = 9.2527776945729059 
+            xmax = 12.276 
+            text = "0" 

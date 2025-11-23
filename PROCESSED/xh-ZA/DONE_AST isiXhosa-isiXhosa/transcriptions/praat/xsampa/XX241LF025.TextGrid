@@ -1,0 +1,84 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 7.8600000000000003 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 7.8600000000000003 
+        intervals: size = 8
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.12815779354172779 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.12815779354172779 
+            xmax = 0.54991524909177392 
+            text = "[sta]" 
+        intervals [3]:
+            xmin = 0.54991524909177392 
+            xmax = 2.2128446452605268 
+            text = "(u) igama [int] elipelwayo [/int] (/u)" 
+        intervals [4]:
+            xmin = 2.2128446452605268 
+            xmax = 3.8325127253419939 
+            text = "0" 
+        intervals [5]:
+            xmin = 3.8325127253419939 
+            xmax = 4.996443851890831 
+            text = "(u) [int] umvimbo [/int] (/u)" 
+        intervals [6]:
+            xmin = 4.996443851890831 
+            xmax = 6.0689128102895191 
+            text = "[int]" 
+        intervals [7]:
+            xmin = 6.0689128102895191 
+            xmax = 6.5147706918709964 
+            text = "0" 
+        intervals [8]:
+            xmin = 6.5147706918709964 
+            xmax = 7.8600000000000003 
+            text = "[int]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 7.8600000000000003 
+        intervals: size = 8
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.12815779354172779 
+            text = "0"
+        intervals [2]:
+            xmin = 0.12815779354172779 
+            xmax = 0.54991524909177392 
+            text = "[sta]"
+        intervals [3]:
+            xmin = 0.54991524909177392 
+            xmax = 2.2128446452605268 
+            text = "(u) igama [int] elip_>ElwajO [/int] (/u)"
+        intervals [4]:
+            xmin = 2.2128446452605268 
+            xmax = 3.8325127253419939 
+            text = "0"
+        intervals [5]:
+            xmin = 3.8325127253419939 
+            xmax = 4.996443851890831 
+            text = "(u) [int] um=vimbO [/int] (/u)"
+        intervals [6]:
+            xmin = 4.996443851890831 
+            xmax = 6.0689128102895191 
+            text = "[int]"
+        intervals [7]:
+            xmin = 6.0689128102895191 
+            xmax = 6.5147706918709964 
+            text = "0"
+        intervals [8]:
+            xmin = 6.5147706918709964 
+            xmax = 7.8600000000000003 
+            text = "[int]"

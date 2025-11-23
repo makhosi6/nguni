@@ -1,0 +1,68 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 5.5199999999999996 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 5.5199999999999996 
+        intervals: size = 6 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.38458532423196284 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.38458532423196284 
+            xmax = 0.4989093452879852 
+            text = "[int]" 
+        intervals [3]:
+            xmin = 0.4989093452879852 
+            xmax = 3.4936532413879946 
+            text = "(s) [sta] ibinzana nceda *khawu+ *khawuqhu+ khawuqhubeke [/sta] (/s)" 
+        intervals [4]:
+            xmin = 3.4936532413879946 
+            xmax = 3.686670579544419 
+            text = "[sta]" 
+        intervals [5]:
+            xmin = 3.686670579544419 
+            xmax = 4.9983960574383461 
+            text = "0" 
+        intervals [6]:
+            xmin = 4.9983960574383461 
+            xmax = 5.5199999999999996 
+            text = "[int]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 5.5199999999999996 
+        intervals: size = 6 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.38458532423196284 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.38458532423196284 
+            xmax = 0.4989093452879852 
+            text = "[int]" 
+        intervals [3]:
+            xmin = 0.4989093452879852 
+            xmax = 3.4936532413879946 
+            text = "(s) [sta] ib_<ind-\zana |\~Ed_0a k_hawu k_hawu!\_hu k_hawu!\_hub_<Ek_>E [/sta] (/s)" 
+        intervals [4]:
+            xmin = 3.4936532413879946 
+            xmax = 3.686670579544419 
+            text = "[sta]" 
+        intervals [5]:
+            xmin = 3.686670579544419 
+            xmax = 4.9983960574383461 
+            text = "0" 
+        intervals [6]:
+            xmin = 4.9983960574383461 
+            xmax = 5.5199999999999996 
+            text = "[int]" 

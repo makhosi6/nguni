@@ -1,0 +1,68 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 8.0760000000000005 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic"
+        xmin = 0 
+        xmax = 8.0760000000000005 
+        intervals: size = 6
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.49073924042947209 
+            text = "[int]" 
+        intervals [2]:
+            xmin = 0.49073924042947209 
+            xmax = 2.2241301875145467 
+            text = "(s) [int] ndayifunda eMthatha [/int] (/s)" 
+        intervals [3]:
+            xmin = 2.2241301875145467 
+            xmax = 6.4035915201654596 
+            text = "[int]" 
+        intervals [4]:
+            xmin = 6.4035915201654596 
+            xmax = 7.4868565215719522 
+            text = "[sta]" 
+        intervals [5]:
+            xmin = 7.4868565215719522 
+            xmax = 7.6535126756344898 
+            text = "[ext]" 
+        intervals [6]:
+            xmin = 7.6535126756344898 
+            xmax = 8.0760000000000005 
+            text = "[sta]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 8.0760000000000005 
+        intervals: size = 6
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.49073924042947209 
+            text = "[int]"
+        intervals [2]:
+            xmin = 0.49073924042947209 
+            xmax = 2.2241301875145467 
+            text = "(s) [int] ndajifunda Emt_hat_ha [/int] (/s)"
+        intervals [3]:
+            xmin = 2.2241301875145467 
+            xmax = 6.4035915201654596 
+            text = "[int]"
+        intervals [4]:
+            xmin = 6.4035915201654596 
+            xmax = 7.4868565215719522 
+            text = "[sta]"
+        intervals [5]:
+            xmin = 7.4868565215719522 
+            xmax = 7.6535126756344898 
+            text = "[ext]"
+        intervals [6]:
+            xmin = 7.6535126756344898 
+            xmax = 8.0760000000000005 
+            text = "[sta]"

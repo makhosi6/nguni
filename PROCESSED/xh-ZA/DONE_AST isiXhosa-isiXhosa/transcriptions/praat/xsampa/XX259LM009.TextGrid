@@ -1,0 +1,76 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 6.7199999999999998 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 6.7199999999999998 
+        intervals: size = 7
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.057655570469798641 
+            text = "0"
+        intervals [2]:
+            xmin = 0.057655570469798641 
+            xmax = 1.2824594607672655 
+            text = "[int]" 
+        intervals [3]:
+            xmin = 1.2824594607672655 
+            xmax = 2.1455873749136463 
+            text = "(u) [int] ($)senior(/$) [/int] (/u)" 
+        intervals [4]:
+            xmin = 2.1455873749136463 
+            xmax = 2.9188780425861629 
+            text = "[int]" 
+        intervals [5]:
+            xmin = 2.9188780425861629 
+            xmax = 4.6034207043983022 
+            text = "(u) [sta] ($)senior teachers diploma(/$) [/sta] (/u)" 
+        intervals [6]:
+            xmin = 4.6034207043983022 
+            xmax = 6.4455904228943828 
+            text = "[int]" 
+        intervals [7]:
+            xmin = 6.4455904228943828 
+            xmax = 6.7199999999999998 
+            text = "0" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 6.7199999999999998 
+        intervals: size = 7
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.057655570469798641 
+            text = "0"
+        intervals [2]:
+            xmin = 0.057655570469798641 
+            xmax = 1.2824594607672655 
+            text = "[int]"
+        intervals [3]:
+            xmin = 1.2824594607672655 
+            xmax = 2.1455873749136463 
+            text = "(u) [int] ($)sinija(/$) [/int] (/u)"
+        intervals [4]:
+            xmin = 2.1455873749136463 
+            xmax = 2.9188780425861629 
+            text = "[int]"
+        intervals [5]:
+            xmin = 2.9188780425861629 
+            xmax = 4.6034207043983022 
+            text = "(u) [sta] ($)sinija tit-\Saz dipl@-\Uma(/$) [/sta] (/u)"
+        intervals [6]:
+            xmin = 4.6034207043983022 
+            xmax = 6.4455904228943828 
+            text = "[int]"
+        intervals [7]:
+            xmin = 6.4455904228943828 
+            xmax = 6.7199999999999998 
+            text = "0"

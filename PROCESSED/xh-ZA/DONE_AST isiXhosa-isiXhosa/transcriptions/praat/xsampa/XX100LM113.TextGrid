@@ -1,0 +1,68 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 3.7200000000000002 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 3.7200000000000002 
+        intervals: size = 6 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.20792504537205081 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.20792504537205081 
+            xmax = 1.7359943738656987 
+            text = "(u) ($)thirty four Sixth Avenue(/$) (/u)" 
+        intervals [3]:
+            xmin = 1.7359943738656987 
+            xmax = 2.1308998269563548 
+            text = "0" 
+        intervals [4]:
+            xmin = 2.1308998269563548 
+            xmax = 2.8437941084204459 
+            text = "[int]" 
+        intervals [5]:
+            xmin = 2.8437941084204459 
+            xmax = 3.2886401400540386 
+            text = "0" 
+        intervals [6]:
+            xmin = 3.2886401400540386 
+            xmax = 3.7200000000000002 
+            text = "[int]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 3.7200000000000002 
+        intervals: size = 6 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.20792504537205081 
+            text = "0"
+        intervals [2]:
+            xmin = 0.20792504537205081 
+            xmax = 1.7359943738656987 
+            text = "(u) ($)Teti fO siksT avEnju(/$) (/u)"
+        intervals [3]:
+            xmin = 1.7359943738656987 
+            xmax = 2.1308998269563548 
+            text = "0"
+        intervals [4]:
+            xmin = 2.1308998269563548 
+            xmax = 2.8437941084204459 
+            text = "[int]"
+        intervals [5]:
+            xmin = 2.8437941084204459 
+            xmax = 3.2886401400540386 
+            text = "0"
+        intervals [6]:
+            xmin = 3.2886401400540386 
+            xmax = 3.7200000000000002 
+            text = "[int]"

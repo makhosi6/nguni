@@ -1,0 +1,218 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0
+xmax = 2.305000
+tiers? <exists>
+size = 5
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "segment"
+		xmin = 0
+		xmax = 2.305000
+		intervals: size = 23
+		intervals [1]:
+			xmin = 0.000000
+			xmax = 0.055000
+			text = "pau"
+		intervals [2]:
+			xmin = 0.055000
+			xmax = 0.195000
+			text = "eng_w"
+		intervals [3]:
+			xmin = 0.195000
+			xmax = 0.295000
+			text = "eng_ɛ"
+		intervals [4]:
+			xmin = 0.295000
+			xmax = 0.435000
+			text = "eng_l"
+		intervals [5]:
+			xmin = 0.435000
+			xmax = 0.575000
+			text = "eng_z"
+		intervals [6]:
+			xmin = 0.575000
+			xmax = 0.690000
+			text = "eng_ɪ"
+		intervals [7]:
+			xmin = 0.690000
+			xmax = 0.780000
+			text = "eng_z"
+		intervals [8]:
+			xmin = 0.780000
+			xmax = 0.880000
+			text = "eng_s"
+		intervals [9]:
+			xmin = 0.880000
+			xmax = 0.920000
+			text = "eng_t"
+		intervals [10]:
+			xmin = 0.920000
+			xmax = 0.955000
+			text = "eng_ə"
+		intervals [11]:
+			xmin = 0.955000
+			xmax = 1.115000
+			text = "eng_l"
+		intervals [12]:
+			xmin = 1.115000
+			xmax = 1.170000
+			text = "eng_ɪ"
+		intervals [13]:
+			xmin = 1.170000
+			xmax = 1.225000
+			text = "eng_n"
+		intervals [14]:
+			xmin = 1.225000
+			xmax = 1.250000
+			text = "eng_h"
+		intervals [15]:
+			xmin = 1.250000
+			xmax = 1.390000
+			text = "eng_ɪ"
+		intervals [16]:
+			xmin = 1.390000
+			xmax = 1.520000
+			text = "eng_z"
+		intervals [17]:
+			xmin = 1.520000
+			xmax = 1.650000
+			text = "eng_l"
+		intervals [18]:
+			xmin = 1.650000
+			xmax = 1.735000
+			text = "eng_i"
+		intervals [19]:
+			xmin = 1.735000
+			xmax = 1.775000
+			text = "eng_g"
+		intervals [20]:
+			xmin = 1.775000
+			xmax = 1.920000
+			text = "eng_ʃ"
+		intervals [21]:
+			xmin = 1.920000
+			xmax = 2.175000
+			text = "eng_ɜ"
+		intervals [22]:
+			xmin = 2.175000
+			xmax = 2.230000
+			text = "eng_t"
+		intervals [23]:
+			xmin = 2.230000
+			xmax = 2.305000
+			text = "pau"
+	item [2]:
+		class = "IntervalTier"
+		name = "syllable"
+		xmin = 0
+		xmax = 2.305000
+		intervals: size = 9
+		intervals [1]:
+			xmin = 0.000000
+			xmax = 0.055000
+			text = "NONE"
+		intervals [2]:
+			xmin = 0.055000
+			xmax = 0.575000
+			text = "syl"
+		intervals [3]:
+			xmin = 0.575000
+			xmax = 0.780000
+			text = "syl"
+		intervals [4]:
+			xmin = 0.780000
+			xmax = 1.115000
+			text = "syl"
+		intervals [5]:
+			xmin = 1.115000
+			xmax = 1.225000
+			text = "syl"
+		intervals [6]:
+			xmin = 1.225000
+			xmax = 1.520000
+			text = "syl"
+		intervals [7]:
+			xmin = 1.520000
+			xmax = 1.775000
+			text = "syl"
+		intervals [8]:
+			xmin = 1.775000
+			xmax = 2.230000
+			text = "syl"
+		intervals [9]:
+			xmin = 2.230000
+			xmax = 2.305000
+			text = "NONE"
+	item [3]:
+		class = "IntervalTier"
+		name = "word"
+		xmin = 0
+		xmax = 2.305000
+		intervals: size = 9
+		intervals [1]:
+			xmin = 0.000000
+			xmax = 0.055000
+			text = "NONE"
+		intervals [2]:
+			xmin = 0.055000
+			xmax = 0.575000
+			text = "welles"
+		intervals [3]:
+			xmin = 0.575000
+			xmax = 0.780000
+			text = "is"
+		intervals [4]:
+			xmin = 0.780000
+			xmax = 1.115000
+			text = "still"
+		intervals [5]:
+			xmin = 1.115000
+			xmax = 1.225000
+			text = "in"
+		intervals [6]:
+			xmin = 1.225000
+			xmax = 1.520000
+			text = "his"
+		intervals [7]:
+			xmin = 1.520000
+			xmax = 1.775000
+			text = "league"
+		intervals [8]:
+			xmin = 1.775000
+			xmax = 2.230000
+			text = "shirt"
+		intervals [9]:
+			xmin = 2.230000
+			xmax = 2.305000
+			text = "NONE"
+	item [4]:
+		class = "IntervalTier"
+		name = "phrase"
+		xmin = 0
+		xmax = 2.305000
+		intervals: size = 3
+		intervals [1]:
+			xmin = 0.000000
+			xmax = 0.055000
+			text = "NONE"
+		intervals [2]:
+			xmin = 0.055000
+			xmax = 2.230000
+			text = "BB"
+		intervals [3]:
+			xmin = 2.230000
+			xmax = 2.305000
+			text = "NONE"
+	item [5]:
+		class = "IntervalTier"
+		name = "text"
+		xmin = 0
+		xmax = 2.305000
+		intervals: size = 1
+		intervals [1]:
+			xmin = 0.000000
+			xmax = 2.305000
+			text = "|welles |is |still |in |his |league |shirt."

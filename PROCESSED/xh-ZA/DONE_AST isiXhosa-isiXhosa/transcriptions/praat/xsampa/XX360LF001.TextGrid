@@ -1,0 +1,60 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 14.4 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 14.4 
+        intervals: size = 5
+        intervals [1]:
+            xmin = 0 
+            xmax = 2.0705256692752987 
+            text = "[int]" 
+        intervals [2]:
+            xmin = 2.0705256692752987 
+            xmax = 5.8704954792043402 
+            text = "(u) [int] X. X. 0 ($)three hundred *an+ 0 three hundred and sixty(/$) [/int] (/u)"
+        intervals [3]:
+            xmin = 5.8704954792043402 
+            xmax = 9.0056067656582499 
+            text = "[int]"
+        intervals [4]:
+            xmin = 9.0056067656582499 
+            xmax = 10.807801392411385 
+            text = "(u) X. X. ($)three hundred and sixty(/$) (/u)" 
+        intervals [5]:
+            xmin = 10.807801392411385 
+            xmax = 14.4 
+            text = "[int]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 14.4 
+        intervals: size = 5
+        intervals [1]:
+            xmin = 0 
+            xmax = 2.0705256692752987 
+            text = "[int]" 
+        intervals [2]:
+            xmin = 2.0705256692752987 
+            xmax = 5.8704954792043402 
+            text = "(u) [int] Eks Eks 0 ($)Tri handr@t En 0 Tri handr@t En siksti(/$) [/int] (/u)"
+        intervals [3]:
+            xmin = 5.8704954792043402 
+            xmax = 9.0056067656582499 
+            text = "[int]"
+        intervals [4]:
+            xmin = 9.0056067656582499 
+            xmax = 10.807801392411385 
+            text = "(u) Eks Eks ($)Tri handr@t En siksti(/$) (/u)" 
+        intervals [5]:
+            xmin = 10.807801392411385 
+            xmax = 14.4 
+            text = "[int]" 

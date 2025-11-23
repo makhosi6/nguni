@@ -1,0 +1,68 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 8.7840000000000007 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 8.7840000000000007 
+        intervals: size = 6 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.27789170098867627 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.27789170098867627 
+            xmax = 1.3071858015212658 
+            text = "[sta]" 
+        intervals [3]:
+            xmin = 1.3071858015212658 
+            xmax = 5.6609239448026551 
+            text = "(u) [sta] amashumi amabini anesithoba neminyaka [/sta] [spk] 0 [sta] ($)twenty nine years(/$) [/sta] (/u)" 
+        intervals [4]:
+            xmin = 5.6609239448026551 
+            xmax = 6.0416728207692039 
+            text = "[spk]" 
+        intervals [5]:
+            xmin = 6.0416728207692039 
+            xmax = 7.5903656989040584 
+            text = "0" 
+        intervals [6]:
+            xmin = 7.5903656989040584 
+            xmax = 8.7840000000000007 
+            text = "[sta]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 8.7840000000000007 
+        intervals: size = 6 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.27789170098867627 
+            text = "0"
+        intervals [2]:
+            xmin = 0.27789170098867627 
+            xmax = 1.3071858015212658 
+            text = "[sta]"
+        intervals [3]:
+            xmin = 1.3071858015212658 
+            xmax = 5.6609239448026551 
+            text = "(u) [sta] amaSum amab_<ini anest_hOb_<a nEmiJak_>a [/sta] [spk] 0 [sta] ($)twEnti na-\in jEz(/$) [/sta] (/u)"
+        intervals [4]:
+            xmin = 5.6609239448026551 
+            xmax = 6.0416728207692039 
+            text = "[spk]"
+        intervals [5]:
+            xmin = 6.0416728207692039 
+            xmax = 7.5903656989040584 
+            text = "0"
+        intervals [6]:
+            xmin = 7.5903656989040584 
+            xmax = 8.7840000000000007 
+            text = "[sta]"

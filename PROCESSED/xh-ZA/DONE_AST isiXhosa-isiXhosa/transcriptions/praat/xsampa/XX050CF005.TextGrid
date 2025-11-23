@@ -1,0 +1,68 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 4.008 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic"
+        xmin = 0 
+        xmax = 4.008 
+        intervals: size = 6
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.18699710091743119 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.18699710091743119 
+            xmax = 0.4679259770283849 
+            text = "[sta]" 
+        intervals [3]:
+            xmin = 0.4679259770283849 
+            xmax = 2.0308776673107567 
+            text = "(s) ndinamashumi amabini ananye (/s)"
+        intervals [4]:
+            xmin = 2.0308776673107567 
+            xmax = 2.2610819449541282 
+            text = "[spk]" 
+        intervals [5]:
+            xmin = 2.2610819449541282 
+            xmax = 3.5263910536912757 
+            text = "0" 
+        intervals [6]:
+            xmin = 3.5263910536912757 
+            xmax = 4.008 
+            text = "[sta]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 4.008 
+        intervals: size = 6
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.18699710091743119 
+            text = "0"
+        intervals [2]:
+            xmin = 0.18699710091743119 
+            xmax = 0.4679259770283849 
+            text = "[sta]"
+        intervals [3]:
+            xmin = 0.4679259770283849 
+            xmax = 2.0308776673107567 
+            text = "(s) namaSum amab_<in anaJE (/s)"
+        intervals [4]:
+            xmin = 2.0308776673107567 
+            xmax = 2.2610819449541282 
+            text = "[spk]"
+        intervals [5]:
+            xmin = 2.2610819449541282 
+            xmax = 3.5263910536912757 
+            text = "0"
+        intervals [6]:
+            xmin = 3.5263910536912757 
+            xmax = 4.008 
+            text = "[sta]"

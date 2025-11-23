@@ -1,0 +1,44 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 4.8120000000000003 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic"
+        xmin = 0 
+        xmax = 4.8120000000000003 
+        intervals: size = 3
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.89734092634007645 
+            text = "[spk]" 
+        intervals [2]:
+            xmin = 0.89734092634007645 
+            xmax = 2.9493934374475095 
+            text = "(s) ngumhla wamashumi amathathu ananye (/s)" 
+        intervals [3]:
+            xmin = 2.9493934374475095 
+            xmax = 4.8120000000000003 
+            text = "0" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 4.8120000000000003 
+        intervals: size = 3
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.89734092634007645 
+            text = "[spk]"
+        intervals [2]:
+            xmin = 0.89734092634007645 
+            xmax = 2.9493934374475095 
+            text = "(s) gumKa wamaSumi amat_hat_hu anaJE (/s)"
+        intervals [3]:
+            xmin = 2.9493934374475095 
+            xmax = 4.8120000000000003 
+            text = "0"

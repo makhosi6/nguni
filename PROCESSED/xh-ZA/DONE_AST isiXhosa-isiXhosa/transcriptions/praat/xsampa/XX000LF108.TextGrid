@@ -1,0 +1,68 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 4.0919999999999996 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic"
+        xmin = 0 
+        xmax = 4.0919999999999996 
+        intervals: size = 6
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.45975170267934312 
+            text = "[sta]" 
+        intervals [2]:
+            xmin = 0.45975170267934312 
+            xmax = 1.0599496201519392 
+            text = "(u) Xhosa (/u)" 
+        intervals [3]:
+            xmin = 1.0599496201519392 
+            xmax = 1.3696705727965224 
+            text = "[sta]" 
+        intervals [4]:
+            xmin = 1.3696705727965224 
+            xmax = 1.5403331385394559 
+            text = "[ext]" 
+        intervals [5]:
+            xmin = 1.5403331385394559 
+            xmax = 3.9801757450865805 
+            text = "[sta]" 
+        intervals [6]:
+            xmin = 3.9801757450865805 
+            xmax = 4.0919999999999996 
+            text = "[int]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 4.0919999999999996 
+        intervals: size = 6
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.45975170267934312 
+            text = "[sta]"
+        intervals [2]:
+            xmin = 0.45975170267934312 
+            xmax = 1.0599496201519392 
+            text = "(u) |\|\_hOsa (/u)"
+        intervals [3]:
+            xmin = 1.0599496201519392 
+            xmax = 1.3696705727965224 
+            text = "[sta]"
+        intervals [4]:
+            xmin = 1.3696705727965224 
+            xmax = 1.5403331385394559 
+            text = "[ext]"
+        intervals [5]:
+            xmin = 1.5403331385394559 
+            xmax = 3.9801757450865805 
+            text = "[sta]"
+        intervals [6]:
+            xmin = 3.9801757450865805 
+            xmax = 4.0919999999999996 
+            text = "[int]"

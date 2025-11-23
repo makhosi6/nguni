@@ -1,0 +1,68 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 4.2960000000000003 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 4.2960000000000003 
+        intervals: size = 6
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.10297766623827402 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.10297766623827402 
+            xmax = 0.51621557718120803 
+            text = "[sta]" 
+        intervals [3]:
+            xmin = 0.51621557718120803 
+            xmax = 1.5392877488409611 
+            text = "(u) [int] i ($)directory(/$) [/int] (/u)" 
+        intervals [4]:
+            xmin = 1.5392877488409611 
+            xmax = 2.2760474697986579 
+            text = "[int]" 
+        intervals [5]:
+            xmin = 2.2760474697986579 
+            xmax = 3.3697444216193246 
+            text = "0" 
+        intervals [6]:
+            xmin = 3.3697444216193246 
+            xmax = 4.2960000000000003 
+            text = "[int]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 4.2960000000000003 
+        intervals: size = 6
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.10297766623827402 
+            text = "0"
+        intervals [2]:
+            xmin = 0.10297766623827402 
+            xmax = 0.51621557718120803 
+            text = "[sta]"
+        intervals [3]:
+            xmin = 0.51621557718120803 
+            xmax = 1.5392877488409611 
+            text = "(u) [int] i ($)da-\irEktri(/$) [/int] (/u)"
+        intervals [4]:
+            xmin = 1.5392877488409611 
+            xmax = 2.2760474697986579 
+            text = "[int]"
+        intervals [5]:
+            xmin = 2.2760474697986579 
+            xmax = 3.3697444216193246 
+            text = "0"
+        intervals [6]:
+            xmin = 3.3697444216193246 
+            xmax = 4.2960000000000003 
+            text = "[int]"

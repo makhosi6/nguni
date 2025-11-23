@@ -1,0 +1,68 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 9.2159999999999993 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 9.2159999999999993 
+        intervals: size = 6 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.3261713697848285 
+            text = "0" 
+        intervals [2]:
+            xmin = 1.3261713697848285 
+            xmax = 2.7369797345383762 
+            text = "(u) ($)oh twenty five(/$) (/u)" 
+        intervals [3]:
+            xmin = 2.7369797345383762 
+            xmax = 2.823674784662674 
+            text = "[ext]" 
+        intervals [4]:
+            xmin = 2.823674784662674 
+            xmax = 3.6829751843936998 
+            text = "0" 
+        intervals [5]:
+            xmin = 3.6829751843936998 
+            xmax = 7.2251224483227707 
+            text = "(u) ($)seven twenty three 0 eighty one seventy seven(/$) (/u)" 
+        intervals [6]:
+            xmin = 7.2251224483227707 
+            xmax = 9.2159999999999993 
+            text = "[sta]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 9.2159999999999993 
+        intervals: size = 6 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.3261713697848285 
+            text = "0" 
+        intervals [2]:
+            xmin = 1.3261713697848285 
+            xmax = 2.7369797345383762 
+            text = "(u) ($)O-\u twEnti fa-\if(/$) (/u)" 
+        intervals [3]:
+            xmin = 2.7369797345383762 
+            xmax = 2.823674784662674 
+            text = "[ext]" 
+        intervals [4]:
+            xmin = 2.823674784662674 
+            xmax = 3.6829751843936998 
+            text = "0" 
+        intervals [5]:
+            xmin = 3.6829751843936998 
+            xmax = 7.2251224483227707 
+            text = "(u) ($)sEvEn twEnti Tri: 0 E-\iti wan sEvEnti sEvEn(/$) (/u)" 
+        intervals [6]:
+            xmin = 7.2251224483227707 
+            xmax = 9.2159999999999993 
+            text = "[sta]" 

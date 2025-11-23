@@ -1,0 +1,84 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 9.2400000000000002 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic"
+        xmin = 0 
+        xmax = 9.2400000000000002 
+        intervals: size = 8
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.29112976510067112 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.29112976510067112 
+            xmax = 1.135301773923866 
+            text = "[sta]" 
+        intervals [3]:
+            xmin = 1.135301773923866 
+            xmax = 1.8317459644352827 
+            text = "(u) [sta] uLanga [/sta] (/u)" 
+        intervals [4]:
+            xmin = 1.8317459644352827 
+            xmax = 2.006391584614295 
+            text = "[sta]" 
+        intervals [5]:
+            xmin = 2.006391584614295 
+            xmax = 3.3946497131118512 
+            text = "0" 
+        intervals [6]:
+            xmin = 3.3946497131118512 
+            xmax = 4.6794687303565174 
+            text = "[int]" 
+        intervals [7]:
+            xmin = 4.6794687303565174 
+            xmax = 6.1540071042452347 
+            text = "(u) [int] igama [/int] [sta] ledolophu [/sta] (/u)"
+        intervals [8]:
+            xmin = 6.1540071042452347 
+            xmax = 9.2400000000000002 
+            text = "[int]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 9.2400000000000002 
+        intervals: size = 8
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.29112976510067112 
+            text = "0"
+        intervals [2]:
+            xmin = 0.29112976510067112 
+            xmax = 1.135301773923866 
+            text = "[sta]"
+        intervals [3]:
+            xmin = 1.135301773923866 
+            xmax = 1.8317459644352827 
+            text = "(u) [sta] ulaNga [/sta] (/u)"
+        intervals [4]:
+            xmin = 1.8317459644352827 
+            xmax = 2.006391584614295 
+            text = "[sta]"
+        intervals [5]:
+            xmin = 2.006391584614295 
+            xmax = 3.3946497131118512 
+            text = "0"
+        intervals [6]:
+            xmin = 3.3946497131118512 
+            xmax = 4.6794687303565174 
+            text = "[int]"
+        intervals [7]:
+            xmin = 4.6794687303565174 
+            xmax = 6.1540071042452347 
+            text = "(u) [int] igama [/int] [sta] lEd_0Olop_h [/sta] (/u)"
+        intervals [8]:
+            xmin = 6.1540071042452347 
+            xmax = 9.2400000000000002 
+            text = "[int]"

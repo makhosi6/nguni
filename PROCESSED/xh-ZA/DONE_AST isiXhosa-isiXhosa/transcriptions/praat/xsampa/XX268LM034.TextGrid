@@ -1,0 +1,68 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 58.643999999999998 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic"
+        xmin = 0 
+        xmax = 58.643999999999998 
+        intervals: size = 6
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.6203845772121358 
+            text = "(u) [sta] ~alis [/sta] (/u)" 
+        intervals [2]:
+            xmin = 0.6203845772121358 
+            xmax = 0.79813386267525943 
+            text = "[spk]" 
+        intervals [3]:
+            xmin = 0.79813386267525943 
+            xmax = 44.287065854818259 
+            text = "(s) [int] intetho kamongameli idale unxunguphalo kuba 0 ayiyichaphazelanga le miba ilandelayo izicwangciso [/int] 0 [spk] [int] ezi0jongene nenkqubo yemfundo yezikolo needyunivesithi 0 iimfazwe iziqhushumbisi ukusetyenziswa kwezixhobo 0 zokulwa ngengqiqo 0 ukwakhiwa *kwe+ 0 *kooholo 0 koohola beendlela neebhrorho ukunqongophala kwemisebenzi 0 uxanduva lwabantu 0 nesifo ugawulayo 0 *esimho-amhokana nabantu 0 iintsana ezipenapeneka ezibhedlela 0 inkcitho eburhulumenteni 0 ukunqena *na+ [/int] (/s)"
+        intervals [4]:
+            xmin = 44.287065854818259 
+            xmax = 44.521549277784324 
+            text = "**" 
+        intervals [5]:
+            xmin = 44.521549277784324 
+            xmax = 55.746898296375043 
+            text = "(s) [sta] kwanoku0nyoluka 0 kwamagosa karhulumente 0 amajelo onxibelelwano uphuhliso lweenkonzo kwanoku0tshutshiswa kwabantwana [/sta] (/s)"
+        intervals [6]:
+            xmin = 55.746898296375043 
+            xmax = 58.643999999999998 
+            text = "[int]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 58.643999999999998 
+        intervals: size = 6
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.6203845772121358 
+            text = "(u) [sta] alis [/sta] (/u)"
+        intervals [2]:
+            xmin = 0.6203845772121358 
+            xmax = 0.79813386267525943 
+            text = "[spk]"
+        intervals [3]:
+            xmin = 0.79813386267525943 
+            xmax = 44.287065854818259 
+            text = "(s) [int] int_>Et_hO k_>amONgameli id_0alE u|\|\~uNgup_halO k_>ub_<a 0 ajiji|\_hap_hazElaNga lE mib_<a ilandElaj izi|\wa|\_v~isO [/int] 0 [spk] [int] ezi0d-\zhONgEnE neN!\ub_<O jemfundO jezk_>OlO ne:J\univesit_h 0 i:mfazwE izi!\_huSumbis usEc_>end-\ziswa k_>wezi|\|\_hOb_<O 0 zok_>ulwa Nge!\_v~i!\O 0 uk_>wak_hiwa k_>wE 0 k_>O:h\OlO 0 k_>O:h\Ola b_<E:nd-\K\Ela nE:b_0rOxO uk_>u!\~ONgOp_hala k_>wemisEb_<end-\z 0 u|\|\anduva lwab_<ant_>u 0 nesifO ugawulaj 0 esimOamOk_>ana nab_<ant_> 0 i:nt-\s_>ana ezp_>Enap_>Ena ezb_0EK\El 0 iN|\it_hO eb_<uxulumEnt_>en 0 uNgO!\~Ena na [/int] (/s)"
+        intervals [4]:
+            xmin = 44.287065854818259 
+            xmax = 44.521549277784324 
+            text = "**"
+        intervals [5]:
+            xmin = 44.521549277784324 
+            xmax = 55.746898296375043 
+            text = "(s) [sta] k_>wanok_>u0Joluk_>a 0 k_>wamagOsa k_>axulmEnt_>E 0 amad-\zhElO o|\|\~ib_<ElElwanO up_huKisO lwE:Nk_>Ond-\zO k_>wanok_>u0t-\S_hut-\S_hiswa k_>wab_<ant_>wan [/sta] (/s)"
+        intervals [6]:
+            xmin = 55.746898296375043 
+            xmax = 58.643999999999998 
+            text = "[int]"

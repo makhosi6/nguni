@@ -1,0 +1,76 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 9.7799999999999994 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 9.7799999999999994 
+        intervals: size = 7 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.22022769194330247 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.22022769194330247 
+            xmax = 1.3785441940776646 
+            text = "(u) [sta] inqaku ($)ten(/$) [/sta] (/u)" 
+        intervals [3]:
+            xmin = 1.3785441940776646 
+            xmax = 1.6855775691786456 
+            text = "0" 
+        intervals [4]:
+            xmin = 1.6855775691786456 
+            xmax = 2.5387377781346676 
+            text = "(u) [sta] ibinzana [/sta] (/u)" 
+        intervals [5]:
+            xmin = 2.5387377781346676 
+            xmax = 3.3198025397833089 
+            text = "0" 
+        intervals [6]:
+            xmin = 3.3198025397833089 
+            xmax = 7.7507225895228844 
+            text = "(s) [sta] ungandijongela ukuba ezo ntsuku ziza *kusame+ *fumaneka na [/sta] (/s)" 
+        intervals [7]:
+            xmin = 7.7507225895228844 
+            xmax = 9.7799999999999994 
+            text = "0" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 9.7799999999999994 
+        intervals: size = 7 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.22022769194330247 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.22022769194330247 
+            xmax = 1.3785441940776646 
+            text = "(u) [sta] !\~ak_>u ($)tEn(/$) [/sta] (/u)" 
+        intervals [3]:
+            xmin = 1.3785441940776646 
+            xmax = 1.6855775691786456 
+            text = "0" 
+        intervals [4]:
+            xmin = 1.6855775691786456 
+            xmax = 2.5387377781346676 
+            text = "(u) [sta] ib_<ind-\zana [/sta] (/u)" 
+        intervals [5]:
+            xmin = 2.5387377781346676 
+            xmax = 3.3198025397833089 
+            text = "0" 
+        intervals [6]:
+            xmin = 3.3198025397833089 
+            xmax = 7.7507225895228844 
+            text = "(s) [sta] uNgandid-\ZONgEla uk_>ub_<a EzO nt-\s_>uk_>u ziza k_>usamE fumanEk_>a na [/sta] (/s)" 
+        intervals [7]:
+            xmin = 7.7507225895228844 
+            xmax = 9.7799999999999994 
+            text = "0" 

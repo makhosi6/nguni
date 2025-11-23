@@ -1,0 +1,60 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 7.1159999999999997 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 7.1159999999999997 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.0467106923895242 
+            text = "(u) ~sivakalisi (/u)" 
+        intervals [2]:
+            xmin = 1.0467106923895242 
+            xmax = 1.7953516280676758 
+            text = "[sta]" 
+        intervals [3]:
+            xmin = 1.7953516280676758 
+            xmax = 4.1002293227213214 
+            text = "(s) [sta] bonke abantu bayatya [/sta] (/s)" 
+        intervals [4]:
+            xmin = 4.1002293227213214 
+            xmax = 4.6521529337283676 
+            text = "0" 
+        intervals [5]:
+            xmin = 4.6521529337283676 
+            xmax = 7.1159999999999997 
+            text = "[sta]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 7.1159999999999997 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.0467106923895242 
+            text = "(u) sivak_>ali:si (/u)" 
+        intervals [2]:
+            xmin = 1.0467106923895242 
+            xmax = 1.7953516280676758 
+            text = "[sta]" 
+        intervals [3]:
+            xmin = 1.7953516280676758 
+            xmax = 4.1002293227213214 
+            text = "(s) [sta] b_<ONk_>E ab_<ant_>u b_<ajac_>a [/sta] (/s)" 
+        intervals [4]:
+            xmin = 4.1002293227213214 
+            xmax = 4.6521529337283676 
+            text = "0" 
+        intervals [5]:
+            xmin = 4.6521529337283676 
+            xmax = 7.1159999999999997 
+            text = "[sta]" 

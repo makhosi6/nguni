@@ -1,0 +1,60 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 11.892 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 11.892 
+        intervals: size = 5
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.17706281231242022 
+            text = "[sta]" 
+        intervals [2]:
+            xmin = 0.17706281231242022 
+            xmax = 1.239056699990406 
+            text = "(u) [sta] umhla [/sta] (/u)" 
+        intervals [3]:
+            xmin = 1.239056699990406 
+            xmax = 1.6145463377352724 
+            text = "[sta]" 
+        intervals [4]:
+            xmin = 1.6145463377352724 
+            xmax = 8.86145675616884 
+            text = "(u) ngoLwesithathu 0 ngomhla wamashumi amabini kwekaTshazimpunzi 0 [spk] ngonyaka ka ($)two thousand and two(/$) (/u)"
+        intervals [5]:
+            xmin = 8.86145675616884 
+            xmax = 11.892 
+            text = "[int]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 11.892 
+        intervals: size = 5
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.17706281231242022 
+            text = "[sta]" 
+        intervals [2]:
+            xmin = 0.17706281231242022 
+            xmax = 1.239056699990406 
+            text = "(u) [sta] umKa [/sta] (/u)" 
+        intervals [3]:
+            xmin = 1.239056699990406 
+            xmax = 1.6145463377352724 
+            text = "[sta]" 
+        intervals [4]:
+            xmin = 1.6145463377352724 
+            xmax = 8.86145675616884 
+            text = "(u) NgOlwesit_hat_hu 0 NgOmKa wamaSumi amab_<ini k_>wEk_>at-\S_hazimp_>und-\zi 0 [spk] NgOJak_>a k_>a ($)t_hu Ta-\uz@n En t_hu:(/$) (/u)"
+        intervals [5]:
+            xmin = 8.86145675616884 
+            xmax = 11.892 
+            text = "[int]" 

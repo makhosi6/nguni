@@ -1,0 +1,68 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 8.5679999999999996 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic"
+        xmin = 0 
+        xmax = 8.5679999999999996 
+        intervals: size = 6
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.11280002013422817 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.11280002013422817 
+            xmax = 0.58631394772260381 
+            text = "[sta]" 
+        intervals [3]:
+            xmin = 0.58631394772260381 
+            xmax = 5.1970459703875562 
+            text = "(s) ixesha ngoku 0 [ext] 0 ngumkhono emveni 0 kwentsimbi yesithoba ebusuku (/s)" 
+        intervals [4]:
+            xmin = 5.1970459703875562 
+            xmax = 5.341419990082878 
+            text = "[ext]" 
+        intervals [5]:
+            xmin = 5.341419990082878 
+            xmax = 6.3397295459375211 
+            text = "0" 
+        intervals [6]:
+            xmin = 6.3397295459375211 
+            xmax = 8.5679999999999996 
+            text = "[int]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 8.5679999999999996 
+        intervals: size = 6
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.11280002013422817 
+            text = "0"
+        intervals [2]:
+            xmin = 0.11280002013422817 
+            xmax = 0.58631394772260381 
+            text = "[sta]"
+        intervals [3]:
+            xmin = 0.58631394772260381 
+            xmax = 5.1970459703875562 
+            text = "(s) i|\|\ESa Ngok_>u 0 [ext] 0 gumk_hOn Emven 0 k_>went-\s_>imbi jest_hOb_<a eb_<suk_> (/s)"
+        intervals [4]:
+            xmin = 5.1970459703875562 
+            xmax = 5.341419990082878 
+            text = "[ext]"
+        intervals [5]:
+            xmin = 5.341419990082878 
+            xmax = 6.3397295459375211 
+            text = "0"
+        intervals [6]:
+            xmin = 6.3397295459375211 
+            xmax = 8.5679999999999996 
+            text = "[int]"

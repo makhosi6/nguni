@@ -1,0 +1,52 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 6.2173749999999996 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 6.2173749999999996 
+        intervals: size = 4 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.1226001563066181 
+            text = "0" 
+        intervals [2]:
+            xmin = 1.1226001563066181 
+            xmax = 5.7123045070726262 
+            text = "(u) ($)seven seven 0 eight 0 Long 0 Street(/$) 0 Khayamandi (/u)" 
+        intervals [3]:
+            xmin = 5.7123045070726262 
+            xmax = 6.1146965339932402 
+            text = "[sta]" 
+        intervals [4]:
+            xmin = 6.1146965339932402 
+            xmax = 6.2173749999999996 
+            text = "0" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 6.2173749999999996 
+        intervals: size = 4 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.1226001563066181 
+            text = "0" 
+        intervals [2]:
+            xmin = 1.1226001563066181 
+            xmax = 5.7123045070726262 
+            text = "(u) ($)sEvEn sEvEn 0 e-\It 0 lQNg 0 strit(/$) 0 k_hajamandi (/u)" 
+        intervals [3]:
+            xmin = 5.7123045070726262 
+            xmax = 6.1146965339932402 
+            text = "[sta]" 
+        intervals [4]:
+            xmin = 6.1146965339932402 
+            xmax = 6.2173749999999996 
+            text = "0" 

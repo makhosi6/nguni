@@ -1,0 +1,52 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 11.988 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 11.988 
+        intervals: size = 4 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.45407463506543994 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.45407463506543994 
+            xmax = 9.9273896445051033 
+            text = "(s) ndihlala 0 e ($)number forty 0 eight 0 Gerald 0 Spilkin Street(/$) 0 Ikhwezi 0 ($)township(/$) 0 Umtata 0 ($)fifty one zero zero(/$) (/s)" 
+        intervals [3]:
+            xmin = 9.9273896445051033 
+            xmax = 11.7557771582388 
+            text = "0" 
+        intervals [4]:
+            xmin = 11.7557771582388 
+            xmax = 11.988 
+            text = "[sta]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 11.988 
+        intervals: size = 4 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.45407463506543994 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.45407463506543994 
+            xmax = 9.9273896445051033 
+            text = "(s) ndiKala 0 E ($)namba fOti 0 E-\it 0 d-\ZEralt 0 spilkin strit(/$) 0 ik_hwezi 0 ($)ta-\unSip(/$) 0 Vmtata 0 ($)fifti wan zi:rO zi:rO(/$) (/s)" 
+        intervals [3]:
+            xmin = 9.9273896445051033 
+            xmax = 11.7557771582388 
+            text = "0" 
+        intervals [4]:
+            xmin = 11.7557771582388 
+            xmax = 11.988 
+            text = "[sta]" 

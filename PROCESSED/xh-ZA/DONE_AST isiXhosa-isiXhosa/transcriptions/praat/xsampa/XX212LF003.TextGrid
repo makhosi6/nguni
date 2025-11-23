@@ -1,0 +1,68 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 6.3959999999999999 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic"
+        xmin = 0 
+        xmax = 6.3959999999999999 
+        intervals: size = 6
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.25382513661202188 
+            text = "**" 
+        intervals [2]:
+            xmin = 0.25382513661202188 
+            xmax = 1.0639672131147542 
+            text = "0" 
+        intervals [3]:
+            xmin = 1.0639672131147542 
+            xmax = 1.2024398590237284 
+            text = "[ext]" 
+        intervals [4]:
+            xmin = 1.2024398590237284 
+            xmax = 4.5165196069974698 
+            text = "(u) G. 0 [int] O. 0 U. 0 W. 0 S. [/int] (/u)" 
+        intervals [5]:
+            xmin = 4.5165196069974698 
+            xmax = 4.9664808743169404 
+            text = "0" 
+        intervals [6]:
+            xmin = 4.9664808743169404 
+            xmax = 6.3959999999999999 
+            text = "[sta]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 6.3959999999999999 
+        intervals: size = 6
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.25382513661202188 
+            text = "**"
+        intervals [2]:
+            xmin = 0.25382513661202188 
+            xmax = 1.0639672131147542 
+            text = "0"
+        intervals [3]:
+            xmin = 1.0639672131147542 
+            xmax = 1.2024398590237284 
+            text = "[ext]"
+        intervals [4]:
+            xmin = 1.2024398590237284 
+            xmax = 4.5165196069974698 
+            text = "(u) d-\zhi 0 [int] @-\U 0 ju 0 dab@lju 0 Es [/int] (/u)"
+        intervals [5]:
+            xmin = 4.5165196069974698 
+            xmax = 4.9664808743169404 
+            text = "0"
+        intervals [6]:
+            xmin = 4.9664808743169404 
+            xmax = 6.3959999999999999 
+            text = "[sta]"

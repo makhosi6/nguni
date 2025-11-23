@@ -1,0 +1,202 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0
+xmax = 3.420000
+tiers? <exists>
+size = 3
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "segment"
+		xmin = 0
+		xmax = 3.420000
+		intervals: size = 27
+		intervals [1]:
+			xmin = 0.000000
+			xmax = 0.225000
+			text = "#"
+		intervals [2]:
+			xmin = 0.225000
+			xmax = 0.415000
+			text = "i"
+		intervals [3]:
+			xmin = 0.415000
+			xmax = 0.525000
+			text = "n"
+		intervals [4]:
+			xmin = 0.525000
+			xmax = 0.560000
+			text = "#_cl"
+		intervals [5]:
+			xmin = 0.560000
+			xmax = 0.585000
+			text = "d"
+		intervals [6]:
+			xmin = 0.585000
+			xmax = 0.830000
+			text = "a"
+		intervals [7]:
+			xmin = 0.830000
+			xmax = 0.905000
+			text = "#_cl"
+		intervals [8]:
+			xmin = 0.905000
+			xmax = 0.930000
+			text = "b_E"
+		intervals [9]:
+			xmin = 0.930000
+			xmax = 1.255000
+			text = "a"
+		intervals [10]:
+			xmin = 1.255000
+			xmax = 1.360000
+			text = "i"
+		intervals [11]:
+			xmin = 1.360000
+			xmax = 1.485000
+			text = "#_cl"
+		intervals [12]:
+			xmin = 1.485000
+			xmax = 1.525000
+			text = "_q"
+		intervals [13]:
+			xmin = 1.525000
+			xmax = 1.625000
+			text = "E"
+		intervals [14]:
+			xmin = 1.625000
+			xmax = 1.760000
+			text = "#_cl"
+		intervals [15]:
+			xmin = 1.760000
+			xmax = 1.785000
+			text = "d"
+		intervals [16]:
+			xmin = 1.785000
+			xmax = 2.000000
+			text = "E"
+		intervals [17]:
+			xmin = 2.000000
+			xmax = 2.095000
+			text = "l"
+		intervals [18]:
+			xmin = 2.095000
+			xmax = 2.155000
+			text = "w"
+		intervals [19]:
+			xmin = 2.155000
+			xmax = 2.335000
+			text = "E"
+		intervals [20]:
+			xmin = 2.335000
+			xmax = 2.500000
+			text = "j"
+		intervals [21]:
+			xmin = 2.500000
+			xmax = 2.585000
+			text = "i"
+		intervals [22]:
+			xmin = 2.585000
+			xmax = 2.680000
+			text = "#_cl"
+		intervals [23]:
+			xmin = 2.680000
+			xmax = 2.765000
+			text = "p_h"
+		intervals [24]:
+			xmin = 2.765000
+			xmax = 2.990000
+			text = "E"
+		intervals [25]:
+			xmin = 2.990000
+			xmax = 3.075000
+			text = "l"
+		intervals [26]:
+			xmin = 3.075000
+			xmax = 3.340000
+			text = "a"
+		intervals [27]:
+			xmin = 3.340000
+			xmax = 3.420000
+			text = "#"
+	item [2]:
+		class = "IntervalTier"
+		name = "syllable"
+		xmin = 0
+		xmax = 3.420000
+		intervals: size = 12
+		intervals [1]:
+			xmin = 0.000000
+			xmax = 0.225000
+			text = "NONE"
+		intervals [2]:
+			xmin = 0.225000
+			xmax = 0.525000
+			text = "syl"
+		intervals [3]:
+			xmin = 0.525000
+			xmax = 0.830000
+			text = "syl"
+		intervals [4]:
+			xmin = 0.830000
+			xmax = 1.255000
+			text = "syl"
+		intervals [5]:
+			xmin = 1.255000
+			xmax = 1.360000
+			text = "syl"
+		intervals [6]:
+			xmin = 1.360000
+			xmax = 1.625000
+			text = "syl"
+		intervals [7]:
+			xmin = 1.625000
+			xmax = 2.095000
+			text = "syl"
+		intervals [8]:
+			xmin = 2.095000
+			xmax = 2.335000
+			text = "syl"
+		intervals [9]:
+			xmin = 2.335000
+			xmax = 2.585000
+			text = "syl"
+		intervals [10]:
+			xmin = 2.585000
+			xmax = 2.990000
+			text = "syl"
+		intervals [11]:
+			xmin = 2.990000
+			xmax = 3.340000
+			text = "syl"
+		intervals [12]:
+			xmin = 3.340000
+			xmax = 3.420000
+			text = "NONE"
+	item [3]:
+		class = "IntervalTier"
+		name = "word"
+		xmin = 0
+		xmax = 3.420000
+		intervals: size = 5
+		intervals [1]:
+			xmin = 0.000000
+			xmax = 0.225000
+			text = "NONE"
+		intervals [2]:
+			xmin = 0.225000
+			xmax = 1.255000
+			text = "Indaba"
+		intervals [3]:
+			xmin = 1.255000
+			xmax = 2.335000
+			text = "iqedelwe"
+		intervals [4]:
+			xmin = 2.335000
+			xmax = 3.340000
+			text = "yiphela"
+		intervals [5]:
+			xmin = 3.340000
+			xmax = 3.420000
+			text = "NONE"

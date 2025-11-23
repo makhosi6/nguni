@@ -1,0 +1,60 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 5.9640000000000004 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 5.9640000000000004 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.2709688319047957 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.2709688319047957 
+            xmax = 0.64585003896011917 
+            text = "[sta]" 
+        intervals [3]:
+            xmin = 0.64585003896011917 
+            xmax = 0.99643629434726488 
+            text = "[spk]" 
+        intervals [4]:
+            xmin = 0.99643629434726488 
+            xmax = 3.9466333498618695 
+            text = "(s) [int] umfundisi unemfesane 0 kakhulu [/int] (/s)" 
+        intervals [5]:
+            xmin = 3.9466333498618695 
+            xmax = 5.9640000000000004 
+            text = "0" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 5.9640000000000004 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.2709688319047957 
+            text = "0"
+        intervals [2]:
+            xmin = 0.2709688319047957 
+            xmax = 0.64585003896011917 
+            text = "[sta]"
+        intervals [3]:
+            xmin = 0.64585003896011917 
+            xmax = 0.99643629434726488 
+            text = "[spk]"
+        intervals [4]:
+            xmin = 0.99643629434726488 
+            xmax = 3.9466333498618695 
+            text = "(s) [int] um=fundisi unEmfEsanE 0 k_>ak_hulu [/int] (/s)"
+        intervals [5]:
+            xmin = 3.9466333498618695 
+            xmax = 5.9640000000000004 
+            text = "0"

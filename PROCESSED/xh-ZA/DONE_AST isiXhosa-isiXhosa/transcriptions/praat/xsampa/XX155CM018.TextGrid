@@ -1,0 +1,68 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 7.4039999999999999 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 7.4039999999999999 
+        intervals: size = 6 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.045848402088103687 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.045848402088103687 
+            xmax = 0.47149226229355207 
+            text = "(u) *hayi (/u)" 
+        intervals [3]:
+            xmin = 0.47149226229355207 
+            xmax = 2.1304101440114329 
+            text = "0" 
+        intervals [4]:
+            xmin = 2.1304101440114329 
+            xmax = 3.1042711364074988 
+            text = "(s) anditshatanga (/s)" 
+        intervals [5]:
+            xmin = 3.1042711364074988 
+            xmax = 4.2250544854851828 
+            text = "0" 
+        intervals [6]:
+            xmin = 4.2250544854851828 
+            xmax = 7.4039999999999999 
+            text = "[sta]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 7.4039999999999999 
+        intervals: size = 6 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.045848402088103687 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.045848402088103687 
+            xmax = 0.47149226229355207 
+            text = "(u) aji (/u)" 
+        intervals [3]:
+            xmin = 0.47149226229355207 
+            xmax = 2.1304101440114329 
+            text = "0" 
+        intervals [4]:
+            xmin = 2.1304101440114329 
+            xmax = 3.1042711364074988 
+            text = "(s) andit-\S_hat_>aNga (/s)" 
+        intervals [5]:
+            xmin = 3.1042711364074988 
+            xmax = 4.2250544854851828 
+            text = "0" 
+        intervals [6]:
+            xmin = 4.2250544854851828 
+            xmax = 7.4039999999999999 
+            text = "[sta]" 

@@ -1,0 +1,60 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 5.5919999999999996 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 5.5919999999999996 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.32548161906308803 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.32548161906308803 
+            xmax = 0.65211035891786984 
+            text = "[int]" 
+        intervals [3]:
+            xmin = 0.65211035891786984 
+            xmax = 3.5804412714154159 
+            text = "(s) [int] umthi *wa+ wawela phezu kwendlu [/int] (/s)" 
+        intervals [4]:
+            xmin = 3.5804412714154159 
+            xmax = 4.2920109493113676 
+            text = "0" 
+        intervals [5]:
+            xmin = 4.2920109493113676 
+            xmax = 5.5919999999999996 
+            text = "[int]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 5.5919999999999996 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.32548161906308803 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.32548161906308803 
+            xmax = 0.65211035891786984 
+            text = "[int]" 
+        intervals [3]:
+            xmin = 0.65211035891786984 
+            xmax = 3.5804412714154159 
+            text = "(s) [int] umt_hi wa wawEla p_hezu k_>wend-\K\u [/int] (/s)" 
+        intervals [4]:
+            xmin = 3.5804412714154159 
+            xmax = 4.2920109493113676 
+            text = "0" 
+        intervals [5]:
+            xmin = 4.2920109493113676 
+            xmax = 5.5919999999999996 
+            text = "[int]" 

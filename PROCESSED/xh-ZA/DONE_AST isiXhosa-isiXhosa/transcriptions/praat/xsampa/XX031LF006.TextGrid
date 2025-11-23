@@ -1,0 +1,52 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 12.06 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 12.06 
+        intervals: size = 4
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.40002089679110292 
+            text = "[int]" 
+        intervals [2]:
+            xmin = 0.40002089679110292 
+            xmax = 10.08878269018266 
+            text = "(s) [sta] ndazalwa nge ($)six(/$) 0 ngo ($)sixty nine(/$) 0 nge ($)second(/$) *zikano+ 0 ($)sorry(/$) sisi 0 ndizalwe ngo ($)sixty nine oh two oh six(/$) [/sta] (/s)" 
+        intervals [3]:
+            xmin = 10.08878269018266 
+            xmax = 11.91849194750573 
+            text = "0" 
+        intervals [4]:
+            xmin = 11.91849194750573 
+            xmax = 12.06 
+            text = "[sta]"
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 12.06 
+        intervals: size = 4
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.40002089679110292 
+            text = "[int]" 
+        intervals [2]:
+            xmin = 0.40002089679110292 
+            xmax = 10.08878269018266 
+            text = "(s) [sta] ndazalwa Nge ($)siks(/$) 0 Ngo ($)siksti na-\in(/$) 0 NgE ($)sEkOnd(/$) zik_>anO 0 ($)sori(/$) sisi 0 ndizalwE Ngo ($)siksti na-\in O-\u tu: O-\u siks(/$) [/sta] (/s)" 
+        intervals [3]:
+            xmin = 10.08878269018266 
+            xmax = 11.91849194750573 
+            text = "0" 
+        intervals [4]:
+            xmin = 11.91849194750573 
+            xmax = 12.06 
+            text = "[sta]"

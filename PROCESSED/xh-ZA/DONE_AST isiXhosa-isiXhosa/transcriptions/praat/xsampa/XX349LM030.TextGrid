@@ -1,0 +1,44 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 7.3559999999999999 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 7.3559999999999999 
+        intervals: size = 3 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.24152817559596371 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.24152817559596371 
+            xmax = 5.3400817456355325 
+            text = "(s) [int] tshintsha inani labadala ubenze babe *banci+ 0 babe babini [/int] (/s)" 
+        intervals [3]:
+            xmin = 5.3400817456355325 
+            xmax = 7.3559999999999999 
+            text = "[int]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 7.3559999999999999 
+        intervals: size = 3 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.24152817559596371 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.24152817559596371 
+            xmax = 5.3400817456355325 
+            text = "(s) [int] t-\S_hint-\Sa inani lab_<adala ub_<End-\zE b_<ab_<E b_<a|\~i: 0 b_<ab_<E b_<ab_<ini [/int] (/s)" 
+        intervals [3]:
+            xmin = 5.3400817456355325 
+            xmax = 7.3559999999999999 
+            text = "[int]" 

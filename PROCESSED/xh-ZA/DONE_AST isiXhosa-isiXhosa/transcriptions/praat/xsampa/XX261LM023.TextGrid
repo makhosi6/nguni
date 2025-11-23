@@ -1,0 +1,68 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 23.34 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 23.34 
+        intervals: size = 6 
+        intervals [1]:
+            xmin = 0 
+            xmax = 3.151037158069304 
+            text = "[int]" 
+        intervals [2]:
+            xmin = 3.151037158069304 
+            xmax = 9.4106471750181697 
+            text = "(s) *khawu+ 0 khawudwelise amagumbi ukususela kwelona [spk] libiza imali encinci (/s)" 
+        intervals [3]:
+            xmin = 9.4106471750181697 
+            xmax = 10.514664048480764 
+            text = "[int]" 
+        intervals [4]:
+            xmin = 10.514664048480764 
+            xmax = 17.052679316265454 
+            text = "(s) [int] khawudwelise amagumbi ukususela kwelona libiza imali encinci 0 [/int] ukuya kwelona 0 likhulu (/s)" 
+        intervals [5]:
+            xmin = 17.052679316265454 
+            xmax = 17.749066741436323 
+            text = "0" 
+        intervals [6]:
+            xmin = 17.749066741436323 
+            xmax = 23.34 
+            text = "[int]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 23.34 
+        intervals: size = 6 
+        intervals [1]:
+            xmin = 0 
+            xmax = 3.151037158069304 
+            text = "[int]"
+        intervals [2]:
+            xmin = 3.151037158069304 
+            xmax = 9.4106471750181697 
+            text = "(s) k_hawu 0 k_hawud_0elisE amagumbi uk_>ususEla k_>wElOna [spk] lib_<iza imali e|\~i|\~i (/s)"
+        intervals [3]:
+            xmin = 9.4106471750181697 
+            xmax = 10.514664048480764 
+            text = "[int]"
+        intervals [4]:
+            xmin = 10.514664048480764 
+            xmax = 17.052679316265454 
+            text = "(s) [int] k_hawud_0welisE amagumbi uk_>ususEla k_>wElOna lib_<iza imali e|\~i|\~i 0 [/int] uk_>uja k_>wElOna 0 lik_hulu (/s)"
+        intervals [5]:
+            xmin = 17.052679316265454 
+            xmax = 17.749066741436323 
+            text = "0"
+        intervals [6]:
+            xmin = 17.749066741436323 
+            xmax = 23.34 
+            text = "[int]"

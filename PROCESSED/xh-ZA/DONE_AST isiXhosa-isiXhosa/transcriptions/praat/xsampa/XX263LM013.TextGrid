@@ -1,0 +1,68 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 6.048 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 6.048 
+        intervals: size = 6 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.59004094354324577 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.59004094354324577 
+            xmax = 0.90529659276050145 
+            text = "[int]" 
+        intervals [3]:
+            xmin = 0.90529659276050145 
+            xmax = 2.1971580511529467 
+            text = "(u) [int] ($)Hartley(/$) Qhina [/int] (/u)" 
+        intervals [4]:
+            xmin = 2.1971580511529467 
+            xmax = 2.7597415881561238 
+            text = "[spk]" 
+        intervals [5]:
+            xmin = 2.7597415881561238 
+            xmax = 3.6869640858539348 
+            text = "0" 
+        intervals [6]:
+            xmin = 3.6869640858539348 
+            xmax = 6.048 
+            text = "[int]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 6.048 
+        intervals: size = 6 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.59004094354324577 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.59004094354324577 
+            xmax = 0.90529659276050145 
+            text = "[int]" 
+        intervals [3]:
+            xmin = 0.90529659276050145 
+            xmax = 2.1971580511529467 
+            text = "(u) [int] ($)hat-\K_>i(/$) !\_hina [/int] (/u)" 
+        intervals [4]:
+            xmin = 2.1971580511529467 
+            xmax = 2.7597415881561238 
+            text = "[spk]" 
+        intervals [5]:
+            xmin = 2.7597415881561238 
+            xmax = 3.6869640858539348 
+            text = "0" 
+        intervals [6]:
+            xmin = 3.6869640858539348 
+            xmax = 6.048 
+            text = "[int]" 

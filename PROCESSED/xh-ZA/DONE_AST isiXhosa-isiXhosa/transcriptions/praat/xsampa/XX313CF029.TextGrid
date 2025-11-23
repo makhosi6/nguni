@@ -1,0 +1,60 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 4.0919999999999996 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 4.0919999999999996 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.49181752995656741 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.49181752995656741 
+            xmax = 2.3310017065485051 
+            text = "(s) [sta] nazi izindlu zeentaka [/sta] (/s)" 
+        intervals [3]:
+            xmin = 2.3310017065485051 
+            xmax = 3.2722421390418188 
+            text = "[sta]" 
+        intervals [4]:
+            xmin = 3.2722421390418188 
+            xmax = 3.5313964055403475 
+            text = "[ext]" 
+        intervals [5]:
+            xmin = 3.5313964055403475 
+            xmax = 4.0919999999999996 
+            text = "[sta]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 4.0919999999999996 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.49181752995656741 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.49181752995656741 
+            xmax = 2.3310017065485051 
+            text = "(s) [sta] nazi izind-\K\u zE:nt_>ak_>a [/sta] (/s)" 
+        intervals [3]:
+            xmin = 2.3310017065485051 
+            xmax = 3.2722421390418188 
+            text = "[sta]" 
+        intervals [4]:
+            xmin = 3.2722421390418188 
+            xmax = 3.5313964055403475 
+            text = "[ext]" 
+        intervals [5]:
+            xmin = 3.5313964055403475 
+            xmax = 4.0919999999999996 
+            text = "[sta]" 

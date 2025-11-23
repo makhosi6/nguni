@@ -1,0 +1,60 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 6.0359999999999996 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 6.0359999999999996 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.045185376981548175 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.045185376981548175 
+            xmax = 3.7919771517452565 
+            text = "(u) eMasivuke 0 apha eMthatha 0 Masivuke ($)store(/$) (/u)" 
+        intervals [3]:
+            xmin = 3.7919771517452565 
+            xmax = 4.0032049962427116 
+            text = "[spk]" 
+        intervals [4]:
+            xmin = 4.0032049962427116 
+            xmax = 5.2109894517586568 
+            text = "0" 
+        intervals [5]:
+            xmin = 5.2109894517586568 
+            xmax = 6.0359999999999996 
+            text = "[sta]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 6.0359999999999996 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.045185376981548175 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.045185376981548175 
+            xmax = 3.7919771517452565 
+            text = "(u) Emasivuk_>E 0 ap_ha Emt_hat_ha 0 masivuk_>E ($)stO(/$) (/u)" 
+        intervals [3]:
+            xmin = 3.7919771517452565 
+            xmax = 4.0032049962427116 
+            text = "[spk]" 
+        intervals [4]:
+            xmin = 4.0032049962427116 
+            xmax = 5.2109894517586568 
+            text = "0" 
+        intervals [5]:
+            xmin = 5.2109894517586568 
+            xmax = 6.0359999999999996 
+            text = "[sta]" 

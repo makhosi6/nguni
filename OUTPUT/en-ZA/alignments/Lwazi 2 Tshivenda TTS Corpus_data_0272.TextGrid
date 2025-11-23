@@ -1,0 +1,238 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0
+xmax = 3.350000
+tiers? <exists>
+size = 5
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "segment"
+		xmin = 0
+		xmax = 3.350000
+		intervals: size = 25
+		intervals [1]:
+			xmin = 0.000000
+			xmax = 0.465000
+			text = "pau"
+		intervals [2]:
+			xmin = 0.465000
+			xmax = 0.510000
+			text = "n"
+		intervals [3]:
+			xmin = 0.510000
+			xmax = 0.565000
+			text = "g"
+		intervals [4]:
+			xmin = 0.565000
+			xmax = 0.860000
+			text = "ɔ"
+		intervals [5]:
+			xmin = 0.860000
+			xmax = 0.885000
+			text = "ɦ"
+		intervals [6]:
+			xmin = 0.885000
+			xmax = 0.910000
+			text = "ɔ"
+		intervals [7]:
+			xmin = 0.910000
+			xmax = 0.935000
+			text = "β"
+		intervals [8]:
+			xmin = 0.935000
+			xmax = 1.015000
+			text = "ɔ"
+		intervals [9]:
+			xmin = 1.015000
+			xmax = 1.095000
+			text = "m"
+		intervals [10]:
+			xmin = 1.095000
+			xmax = 1.190000
+			text = "a"
+		intervals [11]:
+			xmin = 1.190000
+			xmax = 1.330000
+			text = "b"
+		intervals [12]:
+			xmin = 1.330000
+			xmax = 1.450000
+			text = "ɔ"
+		intervals [13]:
+			xmin = 1.450000
+			xmax = 1.475000
+			text = "ɦ"
+		intervals [14]:
+			xmin = 1.475000
+			xmax = 1.655000
+			text = "ɔ"
+		intervals [15]:
+			xmin = 1.655000
+			xmax = 1.865000
+			text = "a"
+		intervals [16]:
+			xmin = 1.865000
+			xmax = 1.900000
+			text = "β"
+		intervals [17]:
+			xmin = 1.900000
+			xmax = 2.060000
+			text = "a"
+		intervals [18]:
+			xmin = 2.060000
+			xmax = 2.130000
+			text = "n"
+		intervals [19]:
+			xmin = 2.130000
+			xmax = 2.345000
+			text = "tʃʰ"
+		intervals [20]:
+			xmin = 2.345000
+			xmax = 2.430000
+			text = "i"
+		intervals [21]:
+			xmin = 2.430000
+			xmax = 2.485000
+			text = "l"
+		intervals [22]:
+			xmin = 2.485000
+			xmax = 2.820000
+			text = "ɛ"
+		intervals [23]:
+			xmin = 2.820000
+			xmax = 2.860000
+			text = "l"
+		intervals [24]:
+			xmin = 2.860000
+			xmax = 3.005000
+			text = "i"
+		intervals [25]:
+			xmin = 3.005000
+			xmax = 3.350000
+			text = "pau"
+	item [2]:
+		class = "IntervalTier"
+		name = "syllable"
+		xmin = 0
+		xmax = 3.350000
+		intervals: size = 13
+		intervals [1]:
+			xmin = 0.000000
+			xmax = 0.465000
+			text = "NONE"
+		intervals [2]:
+			xmin = 0.465000
+			xmax = 0.860000
+			text = "syl"
+		intervals [3]:
+			xmin = 0.860000
+			xmax = 0.910000
+			text = "syl"
+		intervals [4]:
+			xmin = 0.910000
+			xmax = 1.015000
+			text = "syl"
+		intervals [5]:
+			xmin = 1.015000
+			xmax = 1.190000
+			text = "syl"
+		intervals [6]:
+			xmin = 1.190000
+			xmax = 1.450000
+			text = "syl"
+		intervals [7]:
+			xmin = 1.450000
+			xmax = 1.655000
+			text = "syl"
+		intervals [8]:
+			xmin = 1.655000
+			xmax = 1.865000
+			text = "syl"
+		intervals [9]:
+			xmin = 1.865000
+			xmax = 2.060000
+			text = "syl"
+		intervals [10]:
+			xmin = 2.060000
+			xmax = 2.430000
+			text = "syl"
+		intervals [11]:
+			xmin = 2.430000
+			xmax = 2.820000
+			text = "syl"
+		intervals [12]:
+			xmin = 2.820000
+			xmax = 3.005000
+			text = "syl"
+		intervals [13]:
+			xmin = 3.005000
+			xmax = 3.350000
+			text = "NONE"
+	item [3]:
+		class = "IntervalTier"
+		name = "word"
+		xmin = 0
+		xmax = 3.350000
+		intervals: size = 8
+		intervals [1]:
+			xmin = 0.000000
+			xmax = 0.465000
+			text = "NONE"
+		intervals [2]:
+			xmin = 0.465000
+			xmax = 0.910000
+			text = "ngoho"
+		intervals [3]:
+			xmin = 0.910000
+			xmax = 1.015000
+			text = "vho"
+		intervals [4]:
+			xmin = 1.015000
+			xmax = 1.655000
+			text = "maboho"
+		intervals [5]:
+			xmin = 1.655000
+			xmax = 1.865000
+			text = "a"
+		intervals [6]:
+			xmin = 1.865000
+			xmax = 2.060000
+			text = "vha"
+		intervals [7]:
+			xmin = 2.060000
+			xmax = 3.005000
+			text = "ntshileli"
+		intervals [8]:
+			xmin = 3.005000
+			xmax = 3.350000
+			text = "NONE"
+	item [4]:
+		class = "IntervalTier"
+		name = "phrase"
+		xmin = 0
+		xmax = 3.350000
+		intervals: size = 3
+		intervals [1]:
+			xmin = 0.000000
+			xmax = 0.465000
+			text = "NONE"
+		intervals [2]:
+			xmin = 0.465000
+			xmax = 3.005000
+			text = "BB"
+		intervals [3]:
+			xmin = 3.005000
+			xmax = 3.350000
+			text = "NONE"
+	item [5]:
+		class = "IntervalTier"
+		name = "text"
+		xmin = 0
+		xmax = 3.350000
+		intervals: size = 1
+		intervals [1]:
+			xmin = 0.000000
+			xmax = 3.350000
+			text = "Ngoho Vho Maboho a vha ntshileli"

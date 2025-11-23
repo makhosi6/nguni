@@ -1,0 +1,44 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 6.1920000000000002 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 6.1920000000000002 
+        intervals: size = 3 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.42453749112281552 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.42453749112281552 
+            xmax = 4.1445262496704691 
+            text = "(s) ndihlala 0 *e+ 0 e ($)forty 0 eight 0 Gerald Spilkin Street(/$) (/s)" 
+        intervals [3]:
+            xmin = 4.1445262496704691 
+            xmax = 6.1920000000000002 
+            text = "0" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 6.1920000000000002 
+        intervals: size = 3 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.42453749112281552 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.42453749112281552 
+            xmax = 4.1445262496704691 
+            text = "(s) ndiKala 0 E 0 E ($)fOti 0 E-\it 0 d-\ZEralt spilkin strit(/$) (/s)" 
+        intervals [3]:
+            xmin = 4.1445262496704691 
+            xmax = 6.1920000000000002 
+            text = "0" 

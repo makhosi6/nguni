@@ -1,0 +1,68 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 4.944 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic"
+        xmin = 0 
+        xmax = 4.944 
+        intervals: size = 6
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.24163604020747279 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.24163604020747279 
+            xmax = 1.1796652465618958 
+            text = "[spk]" 
+        intervals [3]:
+            xmin = 1.1796652465618958 
+            xmax = 3.0670045638996548 
+            text = "(s) bagwencela 0 umthi (/s)" 
+        intervals [4]:
+            xmin = 3.0670045638996548 
+            xmax = 3.5800969609642666 
+            text = "[sta]" 
+        intervals [5]:
+            xmin = 3.5800969609642666 
+            xmax = 4.4813113691142332 
+            text = "0" 
+        intervals [6]:
+            xmin = 4.4813113691142332 
+            xmax = 4.944 
+            text = "[int]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 4.944 
+        intervals: size = 6
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.24163604020747279 
+            text = "0"
+        intervals [2]:
+            xmin = 0.24163604020747279 
+            xmax = 1.1796652465618958 
+            text = "[spk]"
+        intervals [3]:
+            xmin = 1.1796652465618958 
+            xmax = 3.0670045638996548 
+            text = "(s) b_<agwE|\~Ela 0 um=t_hi (/s)"
+        intervals [4]:
+            xmin = 3.0670045638996548 
+            xmax = 3.5800969609642666 
+            text = "[sta]"
+        intervals [5]:
+            xmin = 3.5800969609642666 
+            xmax = 4.4813113691142332 
+            text = "0"
+        intervals [6]:
+            xmin = 4.4813113691142332 
+            xmax = 4.944 
+            text = "[int]"

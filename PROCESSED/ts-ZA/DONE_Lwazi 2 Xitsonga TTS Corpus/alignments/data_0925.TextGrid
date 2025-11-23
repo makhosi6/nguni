@@ -1,0 +1,226 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0
+xmax = 2.185000
+tiers? <exists>
+size = 5
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "segment"
+		xmin = 0
+		xmax = 2.185000
+		intervals: size = 25
+		intervals [1]:
+			xmin = 0.000000
+			xmax = 0.085000
+			text = "pau"
+		intervals [2]:
+			xmin = 0.085000
+			xmax = 0.130000
+			text = "ɳ"
+		intervals [3]:
+			xmin = 0.130000
+			xmax = 0.235000
+			text = "dʐ"
+		intervals [4]:
+			xmin = 0.235000
+			xmax = 0.335000
+			text = "i"
+		intervals [5]:
+			xmin = 0.335000
+			xmax = 0.460000
+			text = "l"
+		intervals [6]:
+			xmin = 0.460000
+			xmax = 0.515000
+			text = "a"
+		intervals [7]:
+			xmin = 0.515000
+			xmax = 0.610000
+			text = "ɬ"
+		intervals [8]:
+			xmin = 0.610000
+			xmax = 0.670000
+			text = "ɛ"
+		intervals [9]:
+			xmin = 0.670000
+			xmax = 0.735000
+			text = "k"
+		intervals [10]:
+			xmin = 0.735000
+			xmax = 0.790000
+			text = "ɛ"
+		intervals [11]:
+			xmin = 0.790000
+			xmax = 0.825000
+			text = "r"
+		intervals [12]:
+			xmin = 0.825000
+			xmax = 0.850000
+			text = "i"
+		intervals [13]:
+			xmin = 0.850000
+			xmax = 0.985000
+			text = "w"
+		intervals [14]:
+			xmin = 0.985000
+			xmax = 1.050000
+			text = "i"
+		intervals [15]:
+			xmin = 1.050000
+			xmax = 1.095000
+			text = "l"
+		intervals [16]:
+			xmin = 1.095000
+			xmax = 1.180000
+			text = "ɛ"
+		intervals [17]:
+			xmin = 1.180000
+			xmax = 1.205000
+			text = "ɦ"
+		intervals [18]:
+			xmin = 1.205000
+			xmax = 1.230000
+			text = "i"
+		intervals [19]:
+			xmin = 1.230000
+			xmax = 1.290000
+			text = "n"
+		intervals [20]:
+			xmin = 1.290000
+			xmax = 1.410000
+			text = "tʃʰ"
+		intervals [21]:
+			xmin = 1.410000
+			xmax = 1.655000
+			text = "ɛ"
+		intervals [22]:
+			xmin = 1.655000
+			xmax = 1.745000
+			text = "m"
+		intervals [23]:
+			xmin = 1.745000
+			xmax = 1.795000
+			text = "b"
+		intervals [24]:
+			xmin = 1.795000
+			xmax = 2.020000
+			text = "ɔ"
+		intervals [25]:
+			xmin = 2.020000
+			xmax = 2.185000
+			text = "pau"
+	item [2]:
+		class = "IntervalTier"
+		name = "syllable"
+		xmin = 0
+		xmax = 2.185000
+		intervals: size = 12
+		intervals [1]:
+			xmin = 0.000000
+			xmax = 0.085000
+			text = "NONE"
+		intervals [2]:
+			xmin = 0.085000
+			xmax = 0.335000
+			text = "syl"
+		intervals [3]:
+			xmin = 0.335000
+			xmax = 0.515000
+			text = "syl"
+		intervals [4]:
+			xmin = 0.515000
+			xmax = 0.670000
+			text = "syl"
+		intervals [5]:
+			xmin = 0.670000
+			xmax = 0.790000
+			text = "syl"
+		intervals [6]:
+			xmin = 0.790000
+			xmax = 0.850000
+			text = "syl"
+		intervals [7]:
+			xmin = 0.850000
+			xmax = 1.050000
+			text = "syl"
+		intervals [8]:
+			xmin = 1.050000
+			xmax = 1.180000
+			text = "syl"
+		intervals [9]:
+			xmin = 1.180000
+			xmax = 1.230000
+			text = "syl"
+		intervals [10]:
+			xmin = 1.230000
+			xmax = 1.745000
+			text = "syl"
+		intervals [11]:
+			xmin = 1.745000
+			xmax = 2.020000
+			text = "syl"
+		intervals [12]:
+			xmin = 2.020000
+			xmax = 2.185000
+			text = "NONE"
+	item [3]:
+		class = "IntervalTier"
+		name = "word"
+		xmin = 0
+		xmax = 2.185000
+		intervals: size = 6
+		intervals [1]:
+			xmin = 0.000000
+			xmax = 0.085000
+			text = "NONE"
+		intervals [2]:
+			xmin = 0.085000
+			xmax = 0.335000
+			text = "ndzi"
+		intervals [3]:
+			xmin = 0.335000
+			xmax = 1.180000
+			text = "lahlekeriwile"
+		intervals [4]:
+			xmin = 1.180000
+			xmax = 1.230000
+			text = "hi"
+		intervals [5]:
+			xmin = 1.230000
+			xmax = 2.020000
+			text = "ntshembo"
+		intervals [6]:
+			xmin = 2.020000
+			xmax = 2.185000
+			text = "NONE"
+	item [4]:
+		class = "IntervalTier"
+		name = "phrase"
+		xmin = 0
+		xmax = 2.185000
+		intervals: size = 3
+		intervals [1]:
+			xmin = 0.000000
+			xmax = 0.085000
+			text = "NONE"
+		intervals [2]:
+			xmin = 0.085000
+			xmax = 2.020000
+			text = "BB"
+		intervals [3]:
+			xmin = 2.020000
+			xmax = 2.185000
+			text = "NONE"
+	item [5]:
+		class = "IntervalTier"
+		name = "text"
+		xmin = 0
+		xmax = 2.185000
+		intervals: size = 1
+		intervals [1]:
+			xmin = 0.000000
+			xmax = 2.185000
+			text = "Ndzi lahlekeriwile hi ntshembo."

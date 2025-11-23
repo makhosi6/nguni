@@ -1,0 +1,76 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 5.0999999999999996 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 5.0999999999999996 
+        intervals: size = 7 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.21649074699453855 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.21649074699453855 
+            xmax = 0.5293518312232629 
+            text = "[spk]" 
+        intervals [3]:
+            xmin = 0.5293518312232629 
+            xmax = 2.0426069099710089 
+            text = "(s) hayi andisiva (/s)" 
+        intervals [4]:
+            xmin = 2.0426069099710089 
+            xmax = 2.2966833080724904 
+            text = "0" 
+        intervals [5]:
+            xmin = 2.2966833080724904 
+            xmax = 2.3705059360336365 
+            text = "[ext]" 
+        intervals [6]:
+            xmin = 2.3705059360336365 
+            xmax = 3.4326631293739038 
+            text = "0" 
+        intervals [7]:
+            xmin = 3.4326631293739038 
+            xmax = 5.0999999999999996 
+            text = "[ext]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 5.0999999999999996 
+        intervals: size = 7 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.21649074699453855 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.21649074699453855 
+            xmax = 0.5293518312232629 
+            text = "[spk]" 
+        intervals [3]:
+            xmin = 0.5293518312232629 
+            xmax = 2.0426069099710089 
+            text = "(s) h\aji andisiva (/s)" 
+        intervals [4]:
+            xmin = 2.0426069099710089 
+            xmax = 2.2966833080724904 
+            text = "0" 
+        intervals [5]:
+            xmin = 2.2966833080724904 
+            xmax = 2.3705059360336365 
+            text = "[ext]" 
+        intervals [6]:
+            xmin = 2.3705059360336365 
+            xmax = 3.4326631293739038 
+            text = "0" 
+        intervals [7]:
+            xmin = 3.4326631293739038 
+            xmax = 5.0999999999999996 
+            text = "[ext]" 

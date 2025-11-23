@@ -1,0 +1,68 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 4.3319999999999998 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 4.3319999999999998 
+        intervals: size = 6 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.39701386048615 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.39701386048615 
+            xmax = 0.54741397603368758 
+            text = "[spk]" 
+        intervals [3]:
+            xmin = 0.54741397603368758 
+            xmax = 1.3410620862466429 
+            text = "(u) Zitho (/u)" 
+        intervals [4]:
+            xmin = 1.3410620862466429 
+            xmax = 1.6001768034783577 
+            text = "[spk]" 
+        intervals [5]:
+            xmin = 1.6001768034783577 
+            xmax = 2.0602360944494835 
+            text = "0" 
+        intervals [6]:
+            xmin = 2.0602360944494835 
+            xmax = 4.3319999999999998 
+            text = "[int]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 4.3319999999999998 
+        intervals: size = 6 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.39701386048615 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.39701386048615 
+            xmax = 0.54741397603368758 
+            text = "[spk]" 
+        intervals [3]:
+            xmin = 0.54741397603368758 
+            xmax = 1.3410620862466429 
+            text = "(u) zit_hO (/u)" 
+        intervals [4]:
+            xmin = 1.3410620862466429 
+            xmax = 1.6001768034783577 
+            text = "[spk]" 
+        intervals [5]:
+            xmin = 1.6001768034783577 
+            xmax = 2.0602360944494835 
+            text = "0" 
+        intervals [6]:
+            xmin = 2.0602360944494835 
+            xmax = 4.3319999999999998 
+            text = "[int]" 

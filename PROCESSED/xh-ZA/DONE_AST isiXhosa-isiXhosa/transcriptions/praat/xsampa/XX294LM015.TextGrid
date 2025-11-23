@@ -1,0 +1,60 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 10.763999999999999 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Orthographic" 
+        xmin = 0 
+        xmax = 10.763999999999999 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.32402887096610972 
+            text = "0" 
+        intervals [2]:
+            xmin = 0.32402887096610972 
+            xmax = 4.5019658393835735 
+            text = "[int]" 
+        intervals [3]:
+            xmin = 4.5019658393835735 
+            xmax = 5.574580454660909 
+            text = "(s) [int] ($)it's quarter to three(/$) [/int] (/s)" 
+        intervals [4]:
+            xmin = 5.574580454660909 
+            xmax = 9.8623887815096278 
+            text = "[int]" 
+        intervals [5]:
+            xmin = 9.8623887815096278 
+            xmax = 10.763999999999999 
+            text = "[sta]" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phonetic" 
+        xmin = 0 
+        xmax = 10.763999999999999 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.32402887096610972 
+            text = "0"
+        intervals [2]:
+            xmin = 0.32402887096610972 
+            xmax = 4.5019658393835735 
+            text = "[int]"
+        intervals [3]:
+            xmin = 4.5019658393835735 
+            xmax = 5.574580454660909 
+            text = "(s) [int] ($)is kOta tu tri(/$) [/int] (/s)"
+        intervals [4]:
+            xmin = 5.574580454660909 
+            xmax = 9.8623887815096278 
+            text = "[int]"
+        intervals [5]:
+            xmin = 9.8623887815096278 
+            xmax = 10.763999999999999 
+            text = "[sta]"
